@@ -1,0 +1,35 @@
+- name: Gmail
+  url: mailto:sreemanmohanreddy@gmail.com
+  class:  fa-google
+  title: "Send an email"
+
+- name: GitHub
+  url: http://github.com/iamsreeman
+  class: icon-github
+  title: "See my code on GitHub"
+
+- name: PSE
+  url: https://physics.stackexchange.com/users/264772/kasi-reddy-sreeman-reddy?tab=profile
+  samewindow: true
+  class:  fa-stack-exchange
+  title: "See on Physics Stack Exchange"
+
+- name: LinkedIn
+  url: http://uk.linkedin.com/in/iamsreeman
+  class: icon-linkedin
+  title: "See me on LinkedIn"
+
+- name: Facebook
+  url: http://www.facebook.com/iamsreeman
+  class: icon-facebook
+  title: "Let's be friends on Facebook!"
+
+- name: Twitter
+  url: http://twitter.com/iamsreeman
+  class: icon-twitter
+  title: "Follow my tweets on Twitter"
+
+#- name: Instagram
+#  url: http://instagram.com/iamsreeman
+#  class: icon-instagram
+#  title: "Check out my pictures on Instagram"

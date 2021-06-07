@@ -1,0 +1,111 @@
+# Left
+
+- title: Home
+  icon: icon-home
+  url: /
+  side: left
+
+- title: projects
+  url: /projects/
+  side: left
+
+- title: Notes
+  url: /notes/
+  side: left
+#    dropdown:
+#    - title: Programozás Alapjai
+#      url: /blog/notes/progalap/
+#      dropdown:
+#      - title: Kötelező Program 1
+#        url: /blog/notes/progalap-kp1.html
+#      - title: Kötelező Program 2
+#        url: /blog/notes/progalap-kp2.html
+#      - title: Vezérlési Szerkezetek
+#        url: /blog/notes/progalap-control.html
+#      - title: Érdekes feladatok
+#        url: /blog/notes/?.html
+#    - title: Számítógép Architektúra
+#      url: /blog/notes/szar/
+#      dropdown:
+#      - title: 2. gyakorlat
+#        url: /blog/notes/szar2.html
+#      - title: 3. gyakorlat
+#        url: /blog/notes/szar3.html
+#      - title: 4. gyakorlat
+#        url: /blog/notes/szar4.html
+#      - title: 5. gyakorlat
+#        url: /blog/notes/szar5.html
+#      - title: 6. gyakorlat
+#        url: /blog/notes/szar6.html
+#      - title: 7. gyakorlat
+#        url: /blog/notes/szar7.html
+#      - title: 8. gyakorlat
+#        url: /blog/notes/szar8.html
+#      - title: 9. gyakorlat
+#        url: /blog/notes/szar9.html
+#      - title: 10. gyakorlat
+#        url: /blog/notes/szar10.html
+#    - title: Roadmap
+#      url: /roadmap/
+
+# Right
+
+- title: about
+  url: /about/
+  side: left
+#  - title: Detailed Skill listing
+#    icon: trophy
+#    url: /work/skills.html
+
+- title: Blog
+  icon: icon-open-book
+  url: /blog/
+  side: left
+  dropdown:
+  - title: Categories
+    icon: icon-archive
+    url: /blog/category/
+    dropdown:
+    - special: blog-categories
+  - title: Tags
+    icon: icon-price-tag
+    url: /blog/tags/
+    dropdown:
+    - special: blog-tags
+  - title: Archive
+    icon: icon-back-in-time
+    url: /blog/archive/
+    dropdown:
+    - special: blog-years
+
+- title: More
+  url: /#
+  side: left
+  dropdown:
+  - title: Tutorials
+    url: /#
+    dropdown:
+      - title: MA 109
+        url: /MA109
+  - title: CV (PDF)
+    icon: icon-graduation-cap
+    url: '/CV.pdf'
+  - title: Quotes
+    url: /quotes
+  - title: more
+    url: /#
+    dropdown:
+      - title: Old site
+        url: /oldsite
+      - title: Site Info
+        url: /siteinfo
+
+- title: Search
+  icon: icon-magnifying-glass
+  url: /search/
+  side: right
+
+- title: Contact
+  icon: icon-mail
+  url: /contact/
+  side: right

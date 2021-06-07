@@ -1,0 +1,27 @@
+#
+# This config-file is only for development.
+# It helps to give a faster turnaround on local development as well as turning off code compation to be easier to debug.
+#
+# gradle serve dev OR gradle fastDev[Style]
+
+url: 'http://localhost:4000'
+
+# Make sure the site is ready to be served in a subfolder with a simple config change
+baseurl: '/dev'
+urlimg: '/dev/images/'
+
+# Need to be unsafe for {{ var | debug }} plugin
+safe: false
+
+skip_boilerplate: true
+show_drafts: true
+unpublished: true
+future: true
+
+sass:
+  style: :expanded
+  line_numbers: true
+  #trace_selectors: true
+  #debug_info: true
+  # FUTURE https://github.com/jekyll/jekyll-sass-converter/issues/12
+  #sourcemap: true

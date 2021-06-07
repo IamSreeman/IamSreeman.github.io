@@ -1,0 +1,26 @@
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }} env-{{ jekyll.environment }}">
+	{% if site.skip_boilerplate or page.skip_boilerplate %}{% assign skip_boilerplate = true %}{% else %}{% assign skip_boilerplate = false %}{% endif %}
+	{% if page.url == '/index.html' %}{% assign skip_boilerplate = false %}{% endif %}
+	{% unless skip_boilerplate %}
+	{% include navigation.html %}
+	{% endunless %}
+
+	{% include masthead.html %}
+
+	{{ content }}
+
+	{% unless skip_boilerplate %}
+	{% include footer.html %}
+	{% endunless %}
+
+	{% include footer_scripts.html %}
+</body>
+</html>

@@ -1,0 +1,11 @@
+_site/
+.sass-cache/
+.svn/
+.idea/
+.gradle/
+sources/
+Gemfile.lock
+*.iml
+/*.ipr
+/*.iws
+/.jekyll-metadata
