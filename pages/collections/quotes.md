@@ -30,7 +30,7 @@ These are some of my favorite quotes. I have removed the quotes which are given 
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
->“**Desires** are the root cause of **sadness**.”<sup id="a2">[2](#f2)</sup> (I do not support main stream **unscientific** Buddhism.You can read my views on religion <a href="/blog/views-on-religion/" target="_blank">here</a>.)
+>“**Desires** are the root cause of **sadness**.”<sup id="a2">[2](#f2)</sup> (I do not support main stream **unscientific** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
 
 ― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a>
 
