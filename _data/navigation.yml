@@ -79,11 +79,11 @@
     - special: blog-years
 
 - title: More
-  url: /#
+  url: #!
   side: left
   dropdown:
   - title: Tutorials
-    url: /#
+    url: #!
     dropdown:
       - title: MA 109
         url: /MA109
@@ -93,7 +93,7 @@
   - title: Quotes
     url: /quotes
   - title: Even more
-    url: /#
+    url: #!
     dropdown:
       - title: Old site
         url: /oldsite
