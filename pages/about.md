@@ -8,8 +8,8 @@ breadcrumbs: true
 ---
 <img src="{{site.baseurl}}/images/me.jpg" alt="drawing" width="300"/>
 
-Hi, my name is **Kasi Reddy Sreeman Reddy** and I'm an undergraduate studying   <a href="http://www.phy.iitb.ac.in/" target="_blank">B. Tech in Engineering physics at IIT Bombay</a>. I am also pursuing a minor in <a href="http://www.math.iitb.ac.in/" target="_blank">Mathematics</a> and honours in Physics.I am from <a href="https://en.wikipedia.org/wiki/Tadipatri" target="_blank">Tadipatri,  Andhra Pradesh.</a><br>
-I am more interested in fundamental theoretical physics(like Quantum Gravity theories, Cosmology etc.) compared to Applied Physics or Experimental physics.
+Hi, my name is **Kasi Reddy Sreeman Reddy** and I'm an undergraduate studying   <a href="http://www.phy.iitb.ac.in/" target="_blank">B. Tech in Engineering physics at IIT Bombay</a>. I am also pursuing a minor in <a href="http://www.math.iitb.ac.in/" target="_blank">Mathematics</a> and honours in Physics. I am from <a href="https://en.wikipedia.org/wiki/Tadipatri" target="_blank">Tadipatri,  Andhra Pradesh.</a><br>
+I am more interested in fundamental theoretical physics (like Quantum Gravity theories, Cosmology etc.) compared to Applied Physics or Experimental physics.
 ##### Hobbies:
 1)Reading physics books and history of physics.<br>
 2)Watching Anime.<br>
