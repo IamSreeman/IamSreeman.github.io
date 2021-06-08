@@ -92,13 +92,15 @@
     url: '/CV.pdf'
   - title: Quotes
     url: /quotes
-  - title: more
+  - title: Even more
     url: /#
     dropdown:
       - title: Old site
         url: /oldsite
       - title: Site Info
         url: /siteinfo
+      - title: Error 404
+        url: /404
 
 - title: Search
   icon: icon-magnifying-glass
