@@ -26,7 +26,7 @@ These are some of my favorite quotes. I have removed the quotes which are given 
 >“I believe with <a href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Schopenhauer</a>: ***We can do what we wish, but we can only wish what we must***. Practically, I am, nevertheless, compelled to act as if freedom of the will existed. If I wish to live in a civilized community, I must act as if man is a responsible being. I know that philosophically a murderer is not responsible for his crime; nevertheless, I must protect myself from unpleasant contacts. I may consider him guiltless, but I prefer not to take tea with him.”
 
 
->“I cannot imagine a God who rewards and punishes the objects of his creation, whose purposes are modeled after our own — a God, in short, who is but a reflection of human frailty. Neither can I believe that the individual survives the death of his body, although feeble souls harbor such thoughts through **fear or ridiculous egotisms**.”
+>“I cannot imagine a God who rewards and punishes the objects of his creation, whose purposes are modelled after our own — a God, in short, who is but a reflection of human frailty. Neither can I believe that the individual survives the death of his body, although feeble souls harbour such thoughts through **fear or ridiculous egotisms**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
@@ -46,6 +46,14 @@ These are some of my favorite quotes. I have removed the quotes which are given 
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">Isaac Newton</a>
 
+>“Being myself a remarkably stupid fellow, I have had to unteach myself the difficulties, and now beg to present to my fellow fools the parts that are not hard. Master these thoroughly, and the rest will follow. ***What one fool can do, another can.***”
+
+― <a href="https://en.wikipedia.org/wiki/Silvanus_P._Thompson" target="_blank">Silvanus P. Thompson</a>
+
+>“The black holes of nature are **the most perfect macroscopic objects there are in the universe**: the only elements in their construction are our concepts of space and time. And since the general theory of Relativity provides only a single unique family of solutions for their descriptions, **they are the simplest objects as well**.”
+
+― <a href="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank">Subrahmanyan Chandrasekhar</a>
+
 >“Black holes ain't as black as they are painted. They are not the eternal prisons they were once thought. Things can get out of a black hole, both to the outside, and possibly to another universe. So if you feel you are in a black hole, don't give up. There's a way out.”
 
 >“We are just an advanced breed of monkeys on a minor planet of a very average star. But we can **understand the Universe**. That makes us something very special.”
@@ -54,17 +62,13 @@ These are some of my favorite quotes. I have removed the quotes which are given 
 
 ― <a href="https://en.wikipedia.org/wiki/Stephen_Hawking" target="_blank">Stephen Hawking</a>
 
->“Being myself a remarkably stupid fellow, I have had to unteach myself the difficulties, and now beg to present to my fellow fools the parts that are not hard. Master these thoroughly, and the rest will follow. ***What one fool can do, another can.***”
-
-― <a href="https://en.wikipedia.org/wiki/Silvanus_P._Thompson" target="_blank">Silvanus P. Thompson</a>
-
 >“I cannot understand why we idle discussing **religion**. If we are honest—and scientists have to be—we must admit that religion is a jumble of **false assertions**, with no basis in reality. The very idea of God is a product of the human imagination. It is quite understandable why **primitive people**, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling.
 >
 >But nowadays, when we understand so many natural processes, we have no need for such solutions. I can't for the life of me see how the **postulate** of an **Almighty God** helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit.
 >
 >Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”
 
-― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>(at the 1927 Solvay Conference)
+― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a> (at the 1927 Solvay Conference)
 
 
 >“Religion is an insult to **human dignity**. Without it you would have good people doing good things and evil people doing evil things.But for good people to do evil things, that takes **religion**.”
@@ -72,6 +76,8 @@ These are some of my favorite quotes. I have removed the quotes which are given 
 >“I think the world needs to wake up from its long nightmare of religious belief; and anything that we scientists can do to ***weaken the hold of religion*** should be done, and may in fact be our greatest contribution to civilization.
 
 >“I have a friend — or had a friend, now dead — <a href="https://en.wikipedia.org/wiki/Abdus_Salam" target="_blank">Abdus Salam</a>, a very devout Muslim, who was trying to bring science into the universities in the Gulf states and he told me that he had a terrible time because, although they were very receptive to technology, they felt that science would be a corrosive to religious belief, and they were worried about it... and damn it, I think they were right. ***It is corrosive of religious belief, and it's a good thing too***.”
+
+>“The more the universe seems comprehensible, the more **it also seems pointless**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
 
@@ -93,6 +99,8 @@ These are some of my favorite quotes. I have removed the quotes which are given 
 >“I was born not knowing and have had only a **little time** to change that here and there.”
 
 >“From a long view of the history of mankind — seen from, say, ten thousand years from now — there can be little doubt that the most significant event of the 19th century will be judged as Maxwell's discovery of the laws of electrodynamics. The American Civil War will **pale** into provincial insignificance in comparison with this important scientific event of the same decade.”
+
+>“It doesn't seem to me that this fantastically marvellous universe, this tremendous range of time and space and different kinds of animals, and all the different planets, and all these atoms with all their motions, and so on, all this complicated thing can merely be a stage so that God can watch human beings struggle for good and evil — which is the view that religion has. The stage is too big for the drama.”
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Feynman" target="_blank">Richard Feynman</a>
 
@@ -133,7 +141,7 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 >
 >It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores ***our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot***, the only home we've ever known.”
 
-― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>, Pale Blue Dot: A Vision of the Human Future in Space
+― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>
 
 >“If there is a God, atheism must strike Him as less of an insult than religion.”
 
@@ -151,7 +159,7 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 >“Sometimes life's too **uncertain** to have regrets”
 
-― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a>(Cell Games Saga)
+― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a> (Cell Games Saga)
 
 >“Shinichi, upon researching the concept of demons, I believe that, among all life, humans are the closest thing to it. Although humans kill and eat a wide variety of life forms, my kind eat merely one or two kinds at most. We are quite frugal in comparison.”
 
@@ -165,6 +173,11 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 >“What do you do when there is an evil you cannot defeat by just means? Do you stain your hands with evil to destroy evil? Or do you remain steadfastly just and righteous even if it means surrendering to evil?”
 
 ― <a href="https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia" target="_blank">Lelouch vi Britannia</a>
+
+>“Kircheis, do you think what was possible for Rudolf is impossible for me?”
+
+― <a href="https://gineipaedia.com/wiki/Reinhard_von_Lohengramm" target="_blank">Reinhard von Lohengramm</a>
+
 
 <b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T_{\mu \nu }=0$ but $\nabla_{\nu} R_{\mu \nu }\neq 0$.
  [↩](#a1)
