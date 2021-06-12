@@ -8,11 +8,11 @@ script:
   foot: bookmarklet.js
 ---
 There are many Special relativity (SR) and General relativity (GR) textbooks, here I will review some of them.<!--more--><br>
-[Special relativity introductory books](#special-relativity-introductory-books)<br>
-[Special relativity intermediate-advanced books](#special-relativity-intermediate-advanced-books)<br>
-[General relativity introductory books](#general-relativity-introductory-books)<br>
-[General relativity intermediate books](#general-relativity-intermediate-books)<br>
-[General relativity advanced books](#general-relativity-advanced-books)<br>
+[SR introductory books](#special-relativity-introductory-books)<br>
+[SR intermediate-advanced books](#special-relativity-intermediate-advanced-books)<br>
+[GR introductory books](#general-relativity-introductory-books)<br>
+[GR intermediate books](#general-relativity-intermediate-books)<br>
+[GR advanced books](#general-relativity-advanced-books)<br>
 [Historically influential books](#historically-influential-books)<br>
 [Honourable mentions](#honourable-mentions)
 ## Special relativity introductory books

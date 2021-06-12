@@ -29,7 +29,7 @@
 		</li>
 	{% endfor %}
 {% when 'blog-tags' %}
-	{% for tag in site.tags %}
+	{% for tag in site.tags reversed %}
 		{% assign tag_key = tag[0] %}
 		{% assign tag_data = site.data.tags[tag_key] %}
 		{% capture tag_url %}/blog/tags/#{{ tag_key | slugify }}{% endcapture %}
