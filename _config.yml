@@ -348,7 +348,7 @@ disqus_shortname: sreeman
 
 # More › https://www.google.com/analytics/
 # Used › _includes/footer_scripts.html
-google_analytics_tracking_id: UA-167407489-2
+# google_analytics_tracking_id: UA-167407489-2
 
 # More › https://www.tawk.to/knowledgebase/
 #        tawk.to is a free live chat app that lets you monitor and chat 
