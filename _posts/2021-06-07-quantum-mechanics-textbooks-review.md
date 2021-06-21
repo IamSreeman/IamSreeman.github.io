@@ -1,5 +1,5 @@
 ---
-title: "Quantum Mechanics textbooks review"
+title: "Quantum mechanics textbooks review"
 date:   2021-06-07 12:06:00 +0530
 subheadline: ""
 category: physics
@@ -7,7 +7,7 @@ tags:   [Quantum Mechanics,Textbook]
 script:
   foot: bookmarklet.js
 ---
-There are many Quantum Mechanics (QM) textbooks, here I will review some of them.<!--more-->
+There are many Quantum mechanics (QM) textbooks, here I will review some of them.<!--more-->
 ## Best introductory books
 1) Zettili, Nouredine (2009). *Quantum Mechanics: Concepts and Applications* (2nd ed.). Chichester, UK: Wiley. ISBN 978-0470026793.
 
@@ -49,7 +49,7 @@ This is a very rigorous book. If you like to read about axiomatic approach to QM
 
 4) Schiff, Leonard (1968). *Quantum Mechanics*(3rd ed.). World Scientific.
 
-This book is now somewhat outdated. Ofcorse QM hasn't changed much but the way it is taught did change. It is still not a bad book.
+This book is now somewhat outdated. Of course QM hasn't changed much but the way it is taught did change. It is still not a bad book.
 
 5) Messiah, Albert (1958). *QUANTUM MECHANICS TWO VOLUMES BOUND AS ONE*. World Scientific.
 

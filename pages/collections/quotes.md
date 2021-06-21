@@ -178,10 +178,11 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://gineipaedia.com/wiki/Reinhard_von_Lohengramm" target="_blank">Reinhard von Lohengramm</a>
 
+>“I am crying. I'm not sad that I'm dying. I am finally sad that my child died. You can’t just erase people’s feelings. It’s as if my emotions just wandered around in an unknown place somewhere hundreds of miles away. It’s as if they were sent long ago, in a letter that was always intended for me. **So this is what true sadness feels like. It feels a lot like...happiness**.”
+
+― <a href="https://obluda.fandom.com/wiki/Wolfgang_Grimmer" target="_blank">Wolfgang Grimmer</a>
 
 <b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T_{\mu \nu }=0$ but $\nabla_{\nu} R_{\mu \nu }\neq 0$.
  [↩](#a1)
  
 <b id="f2">2)</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>. [↩](#a2)
-
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=http%3A%2F%2Fiamsreeman.github.io%2Fquotes" alt="Hits" style="display: none;">

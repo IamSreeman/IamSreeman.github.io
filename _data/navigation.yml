@@ -89,14 +89,14 @@
         url: /MA109
   - title: CV (PDF)
     icon: icon-graduation-cap
-    url: '/CV.pdf'
+    url: http://iamsreeman.github.io/CV.pdf
   - title: Quotes
     url: /quotes
   - title: Even more
     url: #!
     dropdown:
       - title: Old site
-        url: /oldsite
+        url: http://iamsreeman.github.io/oldsite
       - title: Site Info
         url: /siteinfo
       - title: Error 404
