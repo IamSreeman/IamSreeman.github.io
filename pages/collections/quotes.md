@@ -2,6 +2,8 @@
 permalink: /quotes/
 title: "Quotes"
 meta_title: "Quotes | K. Sreeman Reddy"
+header:
+  image_fullwidth: header.jpg
 layout: page-fullwidth
 breadcrumbs: true
 ---
@@ -25,6 +27,7 @@ These are some of my favorite quotes. I have removed the quotes which are given 
 
 >“I believe with <a href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Schopenhauer</a>: ***We can do what we wish, but we can only wish what we must***. Practically, I am, nevertheless, compelled to act as if freedom of the will existed. If I wish to live in a civilized community, I must act as if man is a responsible being. I know that philosophically a murderer is not responsible for his crime; nevertheless, I must protect myself from unpleasant contacts. I may consider him guiltless, but I prefer not to take tea with him.”
 
+>“It was, of course, a lie what you read about my religious convictions, a lie which is being systematically repeated. **I do not believe in a personal God** and I have never denied this but have expressed it clearly. If something is in me which can be called religious then it is the unbounded admiration for the structure of the world so far as our science can reveal it.”
 
 >“I cannot imagine a God who rewards and punishes the objects of his creation, whose purposes are modelled after our own — a God, in short, who is but a reflection of human frailty. Neither can I believe that the individual survives the death of his body, although feeble souls harbour such thoughts through **fear or ridiculous egotisms**.”
 
@@ -143,6 +146,14 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>
 
+>“Science flies you to the moon. Religion flies you into buildings.”
+
+― <a href="https://en.wikipedia.org/wiki/Victor_J._Stenger" target="_blank">Victor J. Stenger</a>
+
+>“However statistically improbable the entity you seek to explain by invoking a designer, the designer himself has got to be at least as improbable. God is the [Ultimate Boeing 747](https://en.wikipedia.org/wiki/Ultimate_Boeing_747_gambit).”
+
+― <a href="https://en.wikipedia.org/wiki/Richard_Dawkins" target="_blank">Richard Dawkins</a>
+
 >“If there is a God, atheism must strike Him as less of an insult than religion.”
 
 ― <a href="https://en.wikipedia.org/wiki/Edmond_de_Goncourt" target="_blank">Edmond de Goncourt</a>
@@ -151,11 +162,11 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank">Friedrich Nietzsche</a>
 
->“జీవితంలో భయం ఉండాలి, కాని జీవితమే భయం కాకూడదు.”
+>“జీవితంలో భయం ఉండాలి, కాని భయమే జీవితం కాకూడదు.”
  ― <a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D" target="_blank">రజినీకాంత్ </a>(భాషా  సినిమాలో)
 >
 >^ *Translates to* “There should be fear in life, but whole life should not become fear.”
-― <a href="https://en.wikipedia.org/wiki/Rajinikanth" target="_blank">Rajinikanth</a>(From Baasha movie)
+― <a href="https://en.wikipedia.org/wiki/Rajinikanth" target="_blank">Rajinikanth</a>(From Basha movie)
 
 >“Sometimes life's too **uncertain** to have regrets”
 
