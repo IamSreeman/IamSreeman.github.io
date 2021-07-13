@@ -344,7 +344,7 @@ og_type:                            "website"
 #                      /____/                               
 #
 # Used › _includes/comments.html
-disqus_shortname: sreeman
+disqus_shortname: 
 
 # More › https://www.google.com/analytics/
 # Used › _includes/footer_scripts.html

@@ -9,11 +9,9 @@ breadcrumbs: true
 teaser: "You can find some of my notes here."
 ---
 ##### Quantum mechanics I notes (Spring 2020-2021)
-These are my notes for QM1 course.
-
-<a href='{{ site.baseurl }}/notes/QM1.pdf' target="_blank">View PDF</a>
-
-Also check my [Quantum mechanics textbooks review]({{ site.baseurl }}/blog/2021/06/quantum-mechanics-textbooks-review.html).
+These are my notes for QM1 course.<br>
+<a href='{{ site.baseurl }}/notes/QM1.pdf' target="_blank">View PDF</a><br>
+Also check my [Quantum mechanics textbooks review]({{ site.baseurl }}/blog/2021/06/quantum-mechanics-textbooks-review.html).<br>
 
 ##### Other resources
 
