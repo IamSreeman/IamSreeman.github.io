@@ -345,7 +345,17 @@ og_type:                            "website"
 #
 # Used › _includes/comments.html
 disqus_shortname: 
-
+# Giscus
+giscus:
+  repo:                "IamSreeman/iamsreeman.github.io"
+  repo-id:             "MDEwOlJlcG9zaXRvcnkzNzQ2MTYxOTU="
+  category:            "Comments"
+  category-id:         "DIC_kwDOFlQwg84B-TtD"
+  mapping:             "pathname"
+  reaction-enabled:    "1"
+  emit-metadata:       "0"
+  theme:               "dark_dimmed"
+  crossorigin:         "anonymous"
 # More › https://www.google.com/analytics/
 # Used › _includes/footer_scripts.html
 # google_analytics_tracking_id: UA-167407489-2
