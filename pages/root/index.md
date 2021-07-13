@@ -29,12 +29,3 @@ widget3:
 		Hi, this is a personal website of <a href="{{site.baseurl}}/about" >K. Sreeman Reddy</a>. Checkout the <a href="{{site.baseurl}}/projects">projects</a> page. Other links are there in the navigation bar. For MA 109 resources check <a href="{{site.baseurl}}/MA109">MA109 page</a>. You can find some  <a href="{{site.baseurl}}/quotes">quotes here</a>.
 	</p>
 </div>
-{% comment %}
-video: '<a href="#" data-reveal-id="videoModal"><img src="...-302x182.jpg" width="100%" alt="" /></a>'
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
-{% endcomment %}

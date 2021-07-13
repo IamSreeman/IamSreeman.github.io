@@ -7,7 +7,7 @@ header:
   image_fullwidth: header.jpg
 breadcrumbs: true
 ---
-The main purpose of this page is to maintain some academic and non academic things related to me. You can contact me using the links given in the right side. This is an upgrade over my <a href="{{site.baseurl}}/oldsite" target="_blank">old site</a>.
+The main purpose of this site is to maintain some academic and non academic things related to me. You can contact me using the links given in the footer. This is an upgrade over my <a href="{{site.baseurl}}/oldsite" target="_blank">old site</a>.
 
 This site is made using <a href="https://github.com/Phlow/feeling-responsive" target="_blank">Feeling Responsive</a> and <a href="https://github.com/TWiStErRob/twisterrob.github.io" target="_blank">TWiStErRob</a> which are based on <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
 
