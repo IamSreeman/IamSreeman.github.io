@@ -347,7 +347,7 @@ og_type:                            "website"
 disqus_shortname: 
 # Giscus
 giscus:
-  repo:                "IamSreeman/iamsreeman.github.io"
+  repo:                "iamsreeman/iamsreeman.github.io"
   repo-id:             "MDEwOlJlcG9zaXRvcnkzNzQ2MTYxOTU="
   category:            "Comments"
   category-id:         "DIC_kwDOFlQwg84B-TtD"
