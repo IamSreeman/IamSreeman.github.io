@@ -16,15 +16,15 @@
   <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% else %}
 <script src="https://giscus.app/client.js"
-        data-repo={{ giscus.repo }}
-        data-repo-id={{ giscus.repo-id }}
-        data-category={{ giscus.category }}
-        data-category-id={{ giscus.category-id }}
-        data-mapping={{ giscus.mapping }}
-        data-reactions-enabled={{ giscus.reaction-enabled }}
-        data-emit-metadata={{ giscus.emit-metadata }}
-        data-theme={{ giscus.theme }}
-        crossorigin={{ giscus.crossorigin }}
+        data-repo={{ site.giscus.repo }}
+        data-repo-id={{ site.giscus.repo-id }}
+        data-category={{ site.giscus.category }}
+        data-category-id={{ site.giscus.category-id }}
+        data-mapping={{ site.giscus.mapping }}
+        data-reactions-enabled={{ site.giscus.reaction-enabled }}
+        data-emit-metadata={{ site.giscus.emit-metadata }}
+        data-theme={{ site.giscus.theme }}
+        crossorigin={{ site.giscus.crossorigin }}
         async>
 </script>
 {% endif %}
