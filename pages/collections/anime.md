@@ -6,7 +6,6 @@ layout: page-fullwidth
 breadcrumbs: true
 ---
 <div class="project_list">
-  <h2 class="heading center">Anime related stuff:</h2>
   <div class="container about_section">
     <div class="row">
       <div class="about_paragraph">
