@@ -7,7 +7,12 @@ tags:   [Quantum Mechanics,Textbook]
 script:
   foot: bookmarklet.js
 ---
-There are many Quantum mechanics (QM) textbooks, here I will review some of them.<!--more-->
+There are many Quantum mechanics (QM) textbooks, here I will review some of them.<!--more--><br>
+[Best introductory books](#best-introductory-books)<br>
+[Best compact book](#best-compact-book)<br>
+[Best advanced books](#best-advanced-books)<br>
+[Historically influential books](#historically-influential-books)<br>
+[Honourable mentions](#honourable-mentions)
 ## Best introductory books
 1) Zettili, Nouredine (2009). *Quantum Mechanics: Concepts and Applications* (2nd ed.). Chichester, UK: Wiley. ISBN 978-0470026793.
 
