@@ -8,10 +8,18 @@ layout: page-fullwidth
 breadcrumbs: true
 teaser: "You can find some of my notes here."
 ---
-##### Quantum mechanics I notes (Spring 2020-2021)
-These are my notes for QM1 course.<br>
+[Spring 2020-2021 (4th semester)](#spring-2020-2021)<br>
+[Other resources](#other-resources)
+
+##### Spring 2020-2021
+
+- Quantum mechanics I notes<br>
 <a href='{{ site.baseurl }}/notes/QM1.pdf' target="_blank">View PDF</a><br>
-Also check my [Quantum mechanics textbooks review]({{ site.baseurl }}/blog/2021/06/quantum-mechanics-textbooks-review.html).<br>
+Also check my [Quantum mechanics textbooks review]({{ site.baseurl }}/blog/2021/06/quantum-mechanics-textbooks-review.html).
+
+- Introduction to Numerical Analysis<br>
+<a href='{{ site.baseurl }}/notes/NA.pdf' target="_blank">View PDF</a><br>
+
 
 ##### Other resources
 
