@@ -105,6 +105,8 @@ These are some of my favorite quotes. I have removed the quotes which are given 
 
 >“It doesn't seem to me that this fantastically marvellous universe, this tremendous range of time and space and different kinds of animals, and all the different planets, and all these atoms with all their motions, and so on, all this complicated thing can merely be a stage so that God can watch human beings struggle for good and evil — which is the view that religion has. The stage is too big for the drama.”
 
+>“God was always invented to explain mystery. God is always invented to explain those things that you do not understand. Now when you finally discover how something works, you get some laws which you're taking away from God; you don't need him anymore. But you need him for the other mysteries. So therefore you leave him to create the universe because we haven't figured that out yet; you need him for understanding those things which you don't believe the laws will explain, such as consciousness, or why you only live to a certain length of time — life and death — stuff like that. God is always associated with those things that you do not understand. Therefore I don't think that the laws can be considered to be like God because they have been figured out.”
+
 ― <a href="https://en.wikipedia.org/wiki/Richard_Feynman" target="_blank">Richard Feynman</a>
 
 >“Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”
@@ -146,21 +148,64 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>
 
+>“The question of the origin of the matter in the universe is no longer thought to be beyond the range of science — everything can be created from nothing…it is fair to say that the universe is the ultimate free lunch.”
+
+― <a href="https://en.wikipedia.org/wiki/Alan_Guth" target="_blank">Alan Guth</a>
+
+>“If there were a God, I think it very unlikely that he would have such an uneasy vanity as to be offended by those who doubt his existence.”
+
+>“I think all the great religions of the world - Buddhism, Hinduism, Christianity, Islam, and Communism - both untrue and harmful. It is evident as a matter of logic that, since they disagree, not more than one of them can be true. With very few exception, the religions which a man accepts is that of the community in which he lives, which makes it obvious that the influence of environment is what has led him to accept the religion in question.”
+
+>“If everything must have a cause, then God must have a cause. If there can be anything without a cause, it may just as well be the world as God, so that there cannot be any validity in that argument. It is exactly of the same nature as the Hindu's view, that the world rested upon an elephant and the elephant rested upon a tortoise; and when they said, "How about the tortoise?" the Indian said, "Suppose we change the subject." The argument is really no better than that.”
+
+― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
+
+>“<a href="https://en.wikipedia.org/wiki/Epicurus" target="_blank">Epicurus</a>’s old questions are yet unanswered. Is God willing to prevent evil, but not able? then is he impotent. Is he able, but not willing? then is he malevolent. Is he both able and willing? whence then is evil?”
+
+>“Ignorance is the mother of Devotion.”
+
+>“Survey most nations and most ages. Examine the religious principles, which have, in fact, prevailed in the world. You will scarcely be persuaded, that they are any thing but sick men's dreams: Or perhaps will regard them more as the playsome whimsies of monkies in human shape, than the serious, positive, dogmatical asseverations of a being, who dignifies himself with the name of rational.”
+
+― <a href="https://en.wikipedia.org/wiki/David_Hume" target="_blank">David Hume</a>
+
 >“Science flies you to the moon. Religion flies you into buildings.”
 
 ― <a href="https://en.wikipedia.org/wiki/Victor_J._Stenger" target="_blank">Victor J. Stenger</a>
-
->“However statistically improbable the entity you seek to explain by invoking a designer, the designer himself has got to be at least as improbable. God is the [Ultimate Boeing 747](https://en.wikipedia.org/wiki/Ultimate_Boeing_747_gambit).”
-
-― <a href="https://en.wikipedia.org/wiki/Richard_Dawkins" target="_blank">Richard Dawkins</a>
 
 >“If there is a God, atheism must strike Him as less of an insult than religion.”
 
 ― <a href="https://en.wikipedia.org/wiki/Edmond_de_Goncourt" target="_blank">Edmond de Goncourt</a>
 
->“He who fights with monsters should look to it that he himself does not become a monster. **And if you gaze long into an abyss, the abyss also gazes into you** .”
+>“He who fights with monsters should look to it that he himself does not become a monster. **And if you gaze long into an abyss, the abyss also gazes into you**.”
+
+>“I cannot believe in a God who wants to be praised all the time.”
 
 ― <a href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank">Friedrich Nietzsche</a>
+
+>“Is the pious being loved by the gods because it is pious, or is it pious because it is being loved by the gods?”
+
+― <a href="https://en.wikipedia.org/wiki/Socrates" target="_blank">Socrates</a>
+
+>“The fact that a believer is happier than a skeptic is no more to the point than the fact that a drunken man is happier than a sober one. The happiness of credulity is a cheap and dangerous quality of happiness, and by no means a necessity of life.”
+
+― <a href="https://en.wikipedia.org/wiki/George_Bernard_Shaw" target="_blank">George Bernard Shaw</a>
+
+>“If I were not an atheist, I would believe in a God who would choose to save people on the basis of the totality of their lives and not the pattern of their words. I think he would prefer an honest and righteous atheist to a TV preacher whose every word is God, God, God, and whose every deed is foul, foul, foul.”
+
+― <a href="https://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a>
+
+>“The philosopher has never killed any priests, whereas the priest has killed a great many philosophers.”
+
+― <a href="https://en.wikipedia.org/wiki/Denis_Diderot" target="_blank">Denis Diderot</a>
+
+>“However statistically improbable the entity you seek to explain by invoking a designer, the designer himself has got to be at least as improbable. God is the [Ultimate Boeing 747](https://en.wikipedia.org/wiki/Ultimate_Boeing_747_gambit).”
+
+― <a href="https://en.wikipedia.org/wiki/Richard_Dawkins" target="_blank">Richard Dawkins</a>
+
+>“In some ways people had got used to the idea that India was spiritual and religion-oriented. That gave a leg up to the religious interpretation of India, despite the fact that Sanskrit had a larger atheistic literature than exists in any other classical language. Madhava Acharya, the remarkable 14th century philosopher, wrote this rather great book called <a href="https://en.wikipedia.org/wiki/Vidyaranya#Sarvadar%C5%9Banasa%E1%B9%85graha" target="_blank">Sarvadarśanasaṅgraha</a>, which discussed all the religious schools of thought within the Hindu structure. The first chapter is "<a href="https://en.wikipedia.org/wiki/Charvaka" target="_blank">Cārvāka</a>" or "Atheism"—a very strong presentation of the argument in favor of atheism and materialism.”
+
+― <a href="https://en.wikipedia.org/wiki/Amartya_Sen" target="_blank">Amartya Sen
+</a>
 
 >“జీవితంలో భయం ఉండాలి, కాని భయమే జీవితం కాకూడదు.”
  ― <a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D" target="_blank">రజినీకాంత్ </a>(భాషా  సినిమాలో)
@@ -192,6 +237,10 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 >“I am crying. I'm not sad that I'm dying. I am finally sad that my child died. You can’t just erase people’s feelings. It’s as if my emotions just wandered around in an unknown place somewhere hundreds of miles away. It’s as if they were sent long ago, in a letter that was always intended for me. **So this is what true sadness feels like. It feels a lot like...happiness**.”
 
 ― <a href="https://obluda.fandom.com/wiki/Wolfgang_Grimmer" target="_blank">Wolfgang Grimmer</a>
+
+>“And there you go. You heard her, Iri. <a href="https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)" target="_blank">Our Heroic Spirit</a> thinks a battlefield to be something better than Hell. What a joke. It’s Hell itself. There is no hope on a battlefield. There is nothing but unspeakable despair. Just a crime we call victory, paid for by the pain of the defeated. But humanity has never recognized this truth. And the reason is that, in every era, a dazzling hero has blinded the people with their legends, and kept them from seeing the evil of bloodshed. True human nature has not advanced a step beyond the Stone Age.”
+
+― <a href="https://typemoon.fandom.com/wiki/Kiritsugu_Emiya" target="_blank">Kiritsugu Emiya</a>
 
 <b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T_{\mu \nu }=0$ but $\nabla_{\nu} R_{\mu \nu }\neq 0$.
  [↩](#a1)
