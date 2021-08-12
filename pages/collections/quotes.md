@@ -33,9 +33,22 @@ These are some of my favorite quotes. I have removed the quotes which are given 
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
->“**Desires** are the root cause of **sadness**.”<sup id="a2">[2](#f2)</sup> (I do not support main stream **unscientific** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
+>“**Desires** are the root cause of **sadness**.”<sup id="a2">[2](#f2)</sup>
 
-― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a>
+>“Now, Kalamas,<br>
+Do not go upon what has been acquired by repeated hearing (anussava),<br>
+nor upon tradition (paramparā),<br>
+nor upon rumor (itikirā),<br>
+nor upon what is in a scripture (piṭaka-sampadāna),<br>
+nor upon surmise (takka-hetu),<br>
+nor upon an axiom (naya-hetu),<br>
+nor upon specious reasoning (ākāra-parivitakka),<br>
+nor upon a bias towards a notion that has been pondered over (diṭṭhi-nijjhān-akkh-antiyā),<br>
+nor upon another's seeming ability (bhabba-rūpatāya),<br>
+nor upon the consideration, The monk is our teacher (samaṇo no garū)<br>
+Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.
+
+― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a> (I do not support main stream ***unscientific*** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
 
 >“Spacetime tells matter how to move; matter tells spacetime how to curve.”
 
@@ -53,9 +66,9 @@ These are some of my favorite quotes. I have removed the quotes which are given 
 
 ― <a href="https://en.wikipedia.org/wiki/Silvanus_P._Thompson" target="_blank">Silvanus P. Thompson</a>
 
->“The black holes of nature are **the most perfect macroscopic objects there are in the universe**: the only elements in their construction are our concepts of space and time. And since the general theory of Relativity provides only a single unique family of solutions for their descriptions, **they are the simplest objects as well**.”
+>“The black holes of nature are **the most perfect macroscopic objects there are in the universe**: the only elements in their construction are our concepts of space and time. And since the general theory of Relativity provides only a single unique family of solutions for their descriptions, they are the simplest objects as well.”
 
-― <a href="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank">Subrahmanyan Chandrasekhar</a>
+― <a href="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank">Subrahmanyan Chandrasekhar</a> (This statement was made considering General Relativity, a classical theory. It was written in 1983 (9 years after Hawking radiation was proposed) in the preface of his book. Maybe he was unaware of the humongous number of states needed for the black hole to interpret Bekenstein-Hawking entropy statistically.)
 
 >“Black holes ain't as black as they are painted. They are not the eternal prisons they were once thought. Things can get out of a black hole, both to the outside, and possibly to another universe. So if you feel you are in a black hole, don't give up. There's a way out.”
 
