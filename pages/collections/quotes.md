@@ -20,8 +20,8 @@ breadcrumbs: true
         src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
-These are some of my favorite quotes. I have removed the quotes which are given as misattributed in <a href="https://en.wikiquote.org/wiki/Main_Page" target="_blank">Wikiquote</a>.
->“I worked horribly strenuously, strange that one can endure that.”<sup id="a1">[1](#f1)</sup>
+These are some quotes which I liked. I have removed the quotes which are given as misattributed in <a href="https://en.wikiquote.org/wiki/Main_Page" target="_blank">Wikiquote</a>.
+>“I worked horribly strenuously, strange that one can endure that.”<sup id="a1"><a href="#f1">1</a></sup>
 
 >“People like us, who believe in physics, know that the distinction between past, present, and future is only a **stubbornly persistent illusion.**”
 
@@ -33,20 +33,7 @@ These are some of my favorite quotes. I have removed the quotes which are given 
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
->“**Desires** are the root cause of **sadness**.”<sup id="a2">[2](#f2)</sup>
-
->“Now, Kalamas,<br>
-Do not go upon what has been acquired by repeated hearing (anussava),<br>
-nor upon tradition (paramparā),<br>
-nor upon rumor (itikirā),<br>
-nor upon what is in a scripture (piṭaka-sampadāna),<br>
-nor upon surmise (takka-hetu),<br>
-nor upon an axiom (naya-hetu),<br>
-nor upon specious reasoning (ākāra-parivitakka),<br>
-nor upon a bias towards a notion that has been pondered over (diṭṭhi-nijjhān-akkh-antiyā),<br>
-nor upon another's seeming ability (bhabba-rūpatāya),<br>
-nor upon the consideration, The monk is our teacher (samaṇo no garū)<br>
-Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.
+>“**Desires** are the root cause of **sadness**.”<sup id="a2"><a href="#f2">2</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a> (I do not support main stream ***unscientific*** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
 
@@ -66,9 +53,9 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://en.wikipedia.org/wiki/Silvanus_P._Thompson" target="_blank">Silvanus P. Thompson</a>
 
->“The black holes of nature are **the most perfect macroscopic objects there are in the universe**: the only elements in their construction are our concepts of space and time. And since the general theory of Relativity provides only a single unique family of solutions for their descriptions, they are the simplest objects as well.”
+>“The black holes of nature are **the most perfect macroscopic objects there are in the universe**: the only elements in their construction are our concepts of space and time. And since the general theory of Relativity provides only a single unique family of solutions for their descriptions, they are the simplest objects as well.”<sup id="a3"><a href="#f3">3</a></sup>
 
-― <a href="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank">Subrahmanyan Chandrasekhar</a> (This statement was made considering General Relativity, a classical theory. It was written in 1983 (9 years after Hawking radiation was proposed) in the preface of his book. Maybe he was unaware of the humongous number of states needed for the black hole to interpret Bekenstein-Hawking entropy statistically.)
+― <a href="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank">Subrahmanyan Chandrasekhar</a>
 
 >“Black holes ain't as black as they are painted. They are not the eternal prisons they were once thought. Things can get out of a black hole, both to the outside, and possibly to another universe. So if you feel you are in a black hole, don't give up. There's a way out.”
 
@@ -82,9 +69,9 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >
 >But nowadays, when we understand so many natural processes, we have no need for such solutions. I can't for the life of me see how the **postulate** of an **Almighty God** helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit.
 >
->Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”
+>Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”<sup id="a4"><a href="#f4">4</a></sup>
 
-― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a> (at the 1927 Solvay Conference)
+― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>
 
 
 >“Religion is an insult to **human dignity**. Without it you would have good people doing good things and evil people doing evil things.But for good people to do evil things, that takes **religion**.”
@@ -155,7 +142,8 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >The Earth is a very small stage in a vast cosmic arena. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a **fraction of a dot**.
 >
 >Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.
-The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.
+>
+>The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.
 >
 >It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores ***our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot***, the only home we've ever known.”
 
@@ -164,6 +152,8 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 >“The question of the origin of the matter in the universe is no longer thought to be beyond the range of science — everything can be created from nothing…it is fair to say that the universe is the ultimate free lunch.”
 
 ― <a href="https://en.wikipedia.org/wiki/Alan_Guth" target="_blank">Alan Guth</a>
+
+>“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
 
 >“If there were a God, I think it very unlikely that he would have such an uneasy vanity as to be offended by those who doubt his existence.”
 
@@ -203,6 +193,10 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://en.wikipedia.org/wiki/George_Bernard_Shaw" target="_blank">George Bernard Shaw</a>
 
+>“Religion is too important a matter to its devotees to be a subject of ridicule. If they indulge in absurdities, they are to be pitied rather than ridiculed.”
+
+― <a href="https://en.wikipedia.org/wiki/Immanuel_Kant" target="_blank">Immanuel Kant</a>
+
 >“If I were not an atheist, I would believe in a God who would choose to save people on the basis of the totality of their lives and not the pattern of their words. I think he would prefer an honest and righteous atheist to a TV preacher whose every word is God, God, God, and whose every deed is foul, foul, foul.”
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a>
@@ -226,9 +220,9 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 >^ *Translates to* “There should be fear in life, but whole life should not become fear.”
 ― <a href="https://en.wikipedia.org/wiki/Rajinikanth" target="_blank">Rajinikanth</a>(From Basha movie)
 
->“Sometimes life's too **uncertain** to have regrets”
+>“Sometimes life's too **uncertain** to have regrets.”
 
-― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a> (Cell Games Saga)
+― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a>
 
 >“Shinichi, upon researching the concept of demons, I believe that, among all life, humans are the closest thing to it. Although humans kill and eat a wide variety of life forms, my kind eat merely one or two kinds at most. We are quite frugal in comparison.”
 
@@ -255,7 +249,27 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 
 ― <a href="https://typemoon.fandom.com/wiki/Kiritsugu_Emiya" target="_blank">Kiritsugu Emiya</a>
 
-<b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T_{\mu \nu }=0$ but $\nabla_{\nu} R_{\mu \nu }\neq 0$.
- [↩](#a1)
+>“Now, Kalamas,<br>
+Do not go upon what has been acquired by repeated hearing (anussava),<br>
+nor upon tradition (paramparā),<br>
+nor upon rumor (itikirā),<br>
+nor upon what is in a scripture (piṭaka-sampadāna),<br>
+nor upon surmise (takka-hetu),<br>
+nor upon an axiom (naya-hetu),<br>
+nor upon specious reasoning (ākāra-parivitakka),<br>
+nor upon a bias towards a notion that has been pondered over (diṭṭhi-nijjhān-akkh-antiyā),<br>
+nor upon another's seeming ability (bhabba-rūpatāya),<br>
+nor upon the consideration, The monk is our teacher (samaṇo no garū).<br>
+Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.”<sup id="a5"><a href="#f5">5</a></sup>
+
+― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a>
+
+<b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T_{\mu \nu }=0$ but $\nabla_{\nu} R_{\mu \nu }\neq 0$.<a href="#a1">↩</a>
  
-<b id="f2">2)</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>. [↩](#a2)
+<b id="f2">2)</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>.<a href="#a2">↩</a>
+
+<b id="f3">3)</b> This statement was made considering General Relativity, a classical theory. It was written in 1983 (9 years after Hawking radiation was predicted) in the preface of his book. Maybe he was unaware of the humongous number of states needed for a black hole to interpret Bekenstein-Hawking entropy statistically.<a href="#a3">↩</a>
+
+<b id="f4">4)</b> At the 1927 Solvay Conference.<a href="#a4">↩</a>
+
+<b id="f5">5)</b> Taken from <a href="https://en.wikipedia.org/wiki/Kesamutti_Sutta" target="_blank">Kesamutti Sutta</a>. Often times some people people misinterpret this quote to portray Buddhism as a religion based on logic, even though Buddha stated that one should not determine the validity of a statement "by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought". When dealing with scientific theories logic should be given at most importance. But Buddha is not talking about scientific truths, he is talking about morality. Based on science and logic it is strongly evident that there is no such thing as free will. This doesn't mean we should forget about morality. We are in a stubbornly persistent illusion that we have free will and so we should always consider ourselves as responsible beings to be consistent with our illusion.<a href="#a5">↩</a>

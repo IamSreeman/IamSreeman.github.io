@@ -2,7 +2,7 @@
 permalink: /about/
 layout: page-fullwidth
 title: "About | K. Sreeman Reddy"
-subheadline: "I am in a stubborn illusion that I have free will."
+subheadline: "I am in a stubbornly persistent illusion that I have free will."
 teaser: ""
 breadcrumbs: true
 ---
