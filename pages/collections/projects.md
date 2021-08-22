@@ -22,7 +22,7 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 - Studied quantum scalar field theory in curved spacetime and how it compares with QFT in ﬂat spacetime.
 - Reviewed the four laws of black hole mechanics and their similarity with thermodynamics and Penrose process in a Kerr black hole.
 - Studied **Unruh effect** which explains that the vacuum state of a Minkowski observer will be a thermal state as observed by a Rindler observer and how entanglement between the left and right Rindler wedges prevents a firewall at the Rindler horizon.
-- Studied **Hawking radiation**, the conditions in which a black hole can be in stable equilibrium with CMB and currently studying how black hole complementarity prevents the violation of unitarity.
+- Studied **Hawking radiation**, the conditions in which a black hole can be in stable equilibrium with CMB and currently studying recent advances like AdS/CFT correspondence which are strongly implying that information is conserved and quantum gravity is unitary.
 
 <a class="waves-effect waves-light btn" href='https://github.com/IamSreeman/LaTeX/tree/master/BlackHoleInformationParadox' target="_blank">View PDFs</a> 
 

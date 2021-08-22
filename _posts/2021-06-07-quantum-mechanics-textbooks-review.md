@@ -3,7 +3,7 @@ title: "Quantum mechanics textbooks review"
 date:   2021-06-07 12:06:00 +0530
 subheadline: ""
 category: physics
-tags:   [Quantum Mechanics,Textbook]
+tags:   [Quantum mechanics,Textbook]
 script:
   foot: bookmarklet.js
 ---

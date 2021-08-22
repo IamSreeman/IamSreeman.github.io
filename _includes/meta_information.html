@@ -9,7 +9,7 @@
 		{% endif %}
 		{% if page.date %}
 			<a href="{{ site.baseurl }}/blog/archive/#{{ page.date | date: "%Y-%m" }}">
-				<time class="icon-alias-archive" datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ page.date | date: "%Y-%m-%d" }}</time>
+				<time class="icon-alias-archive" datetime="{{ page.date | date: "%Y-%m-%d" }}" itemprop="datePublished">{{ page.date | date: "%Y-%B-%d" }}</time>
 			</a>
 		{% endif %}
 		{% if page.categories != empty %}

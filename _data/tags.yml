@@ -2,23 +2,15 @@
 # tag-name:
 #   color: css-color (hashed colors need quotes)
 #   title: Alternative Display
-android:
-  title: "Android"
+General relativity:
   color: '#A4C639'
-ruby:
-  title: "Ruby"
-  color: '#CC342D'
-github:
-  title: "GitHub"
-  color: '#f5f5f5'
-jekyll:
-  title: "Jekyll"
-  color: '#fc0'
-git:
+Quantum mechanics:
+  color: '#A4C639'
+Special relativity:
+  color: '#A4C639'
+Textbook:
+  color: '#A4C639'
+Atheism:
   color: '#f44d27'
-liquid:
-  title: "Liquid"
-  color: '#84BC48'
-google:
-  title: "Google"
-  color: '#1A6EEF'
+Buddhism:
+  color: '#f44d27'
