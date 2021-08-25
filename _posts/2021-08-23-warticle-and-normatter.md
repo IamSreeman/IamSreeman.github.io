@@ -1,5 +1,5 @@
 ---
-title: "Warticle physics and Normatter"
+title: "Warticle and Normatter"
 date:   2021-08-23 13:03:00 +0530
 subheadline: ""
 category: physics
@@ -8,9 +8,9 @@ script:
   foot: bookmarklet.js
 ---
 Whenever a name has different meanings within the same field  it unnecessarily introduces confusion. But after sometime people generally continue with the improper names since the large amount of literature already present has used it.<!--more--> The word "AC current" in electrical engineering is a very good example of a bad name continued. It literally means alternating current current and is contradictory and redundant.<br>
-[Warticle physics](#warticle-physics)<br>
+[Warticle](#warticle)<br>
 [Normatter](#normatter)<br>
-## Warticle physics
+## Warticle
 In 1901, Max Planck explained the observed spectrum of light emitted by a black body by making the assumption that energy of the oscillators, i.e. atoms of the black body that emit radiation, is quantized.
 
 In 1905, Albert Einstein proposed that electromagnetic radiation itself is quantized, not the energy of radiating atoms. Einstein called them as **light quanta**. In 1926, Gilbert N. Lewis popularized the term **photon** for light quanta.
