@@ -21,6 +21,13 @@ breadcrumbs: true
 </script>
 
 These are some quotes which I liked. I removed the quotes which are given as misattributed in <a href="https://en.wikiquote.org/wiki/Main_Page" target="_blank">Wikiquote</a>.
+
+1. [Physicists](#physicists)
+2. [Philosophers](#philosophers)
+3. [Others](#others)
+
+### Physicists
+
 >“I worked horribly strenuously, strange that one can endure that.”<sup id="a1"><a href="#f1">1</a></sup>
 
 >“People like us, who believe in physics, know that the distinction between past, present, and future is only a **stubbornly persistent illusion.**”
@@ -32,10 +39,6 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“I cannot imagine a God who rewards and punishes the objects of his creation, whose purposes are modelled after our own — a God, in short, who is but a reflection of human frailty. Neither can I believe that the individual survives the death of his body, although feeble souls harbour such thoughts through **fear or ridiculous egotisms**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
-
->“**Desires** are the root cause of **sadness**.”<sup id="a2"><a href="#f2">2</a></sup>
-
-― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a> (I do not support main stream ***unscientific*** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
 
 >“Spacetime tells matter how to move; matter tells spacetime how to curve.”
 
@@ -53,7 +56,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Silvanus_P._Thompson" target="_blank">Silvanus P. Thompson</a>
 
->“The black holes of nature are **the most perfect macroscopic objects there are in the universe**: the only elements in their construction are our concepts of space and time. And since the general theory of Relativity provides only a single unique family of solutions for their descriptions, they are the simplest objects as well.”<sup id="a3"><a href="#f3">3</a></sup>
+>“The black holes of nature are **the most perfect macroscopic objects there are in the universe**: the only elements in their construction are our concepts of space and time. And since the general theory of Relativity provides only a single unique family of solutions for their descriptions, they are the simplest objects as well.”<sup id="a2"><a href="#f2">2</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank">Subrahmanyan Chandrasekhar</a>
 
@@ -69,7 +72,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >
 >But nowadays, when we understand so many natural processes, we have no need for such solutions. I can't for the life of me see how the **postulate** of an **Almighty God** helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit.
 >
->Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”<sup id="a4"><a href="#f4">4</a></sup>
+>Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”<sup id="a3"><a href="#f3">3</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>
 
@@ -136,6 +139,14 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Murray_Gell-Mann" target="_blank">Murray Gell-Mann</a>
 
+>“The question of the origin of the matter in the universe is no longer thought to be beyond the range of science — everything can be created from nothing…it is fair to say that the universe is the ultimate free lunch.”
+
+― <a href="https://en.wikipedia.org/wiki/Alan_Guth" target="_blank">Alan Guth</a>
+
+>“Science flies you to the moon. Religion flies you into buildings.”
+
+― <a href="https://en.wikipedia.org/wiki/Victor_J._Stenger" target="_blank">Victor J. Stenger</a>
+
 ![alt text]({{site.baseurl}}/images/posts/pbdot.jpeg "Pale blue dot")
 >“Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of **confident religions**, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there-on a mote of dust suspended in a sunbeam.
 >
@@ -148,10 +159,24 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores ***our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot***, the only home we've ever known.”
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>
+### Philosophers
 
->“The question of the origin of the matter in the universe is no longer thought to be beyond the range of science — everything can be created from nothing…it is fair to say that the universe is the ultimate free lunch.”
+>“**Desires** are the root cause of **sadness**.”<sup id="a4"><a href="#f4">4</a></sup>
 
-― <a href="https://en.wikipedia.org/wiki/Alan_Guth" target="_blank">Alan Guth</a>
+>“Now, Kalamas,<br>
+Do not go upon what has been acquired by repeated hearing (anussava),<br>
+nor upon tradition (paramparā),<br>
+nor upon rumor (itikirā),<br>
+nor upon what is in a scripture (piṭaka-sampadāna),<br>
+nor upon surmise (takka-hetu),<br>
+nor upon an axiom (naya-hetu),<br>
+nor upon specious reasoning (ākāra-parivitakka),<br>
+nor upon a bias towards a notion that has been pondered over (diṭṭhi-nijjhān-akkh-antiyā),<br>
+nor upon another's seeming ability (bhabba-rūpatāya),<br>
+nor upon the consideration, The monk is our teacher (samaṇo no garū).<br>
+Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.”<sup id="a5"><a href="#f5">5</a></sup>
+
+― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a> (I do not support main stream ***unscientific*** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
 
 >“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
 
@@ -198,20 +223,19 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“The philosopher has never killed any priests, whereas the priest has killed a great many philosophers.”
 
 ― <a href="https://en.wikipedia.org/wiki/Denis_Diderot" target="_blank">Denis Diderot</a>
+### Others
+
+>“Napoleon, and other great men of his type, they were makers of empire. But there is an order of men that get beyond that: They are not makers of empire, but they are makers of universe. And when they have made those universes, their hands are unstained by the blood of any human being on earth. ... Ptolemy made a universe, which lasted 1400 years. Newton also made a universe, which has lasted 300 years. Einstein has made a universe, and I can't tell you how long that will last.”
+
+>“The fact that a believer is happier than a skeptic is no more to the point than the fact that a drunken man is happier than a sober one. The happiness of credulity is a cheap and dangerous quality of happiness, and by no means a necessity of life.”
+
+― <a href="https://en.wikipedia.org/wiki/George_Bernard_Shaw" target="_blank">George Bernard Shaw</a>
 
 >“However statistically improbable the entity you seek to explain by invoking a designer, the designer himself has got to be at least as improbable. God is the [Ultimate Boeing 747](https://en.wikipedia.org/wiki/Ultimate_Boeing_747_gambit).”
 
 >“The God of the Old Testament is arguably the most unpleasant character in all fiction: jealous and proud of it; a petty, unjust, unforgiving control-freak; a vindictive, bloodthirsty ethnic cleanser; a misogynistic, homophobic, racist, infanticidal, genocidal, filicidal, pestilential, megalomaniacal, sadomasochistic, capriciously malevolent bully.”
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Dawkins" target="_blank">Richard Dawkins</a>
-
->“Science flies you to the moon. Religion flies you into buildings.”
-
-― <a href="https://en.wikipedia.org/wiki/Victor_J._Stenger" target="_blank">Victor J. Stenger</a>
-
->“The fact that a believer is happier than a skeptic is no more to the point than the fact that a drunken man is happier than a sober one. The happiness of credulity is a cheap and dangerous quality of happiness, and by no means a necessity of life.”
-
-― <a href="https://en.wikipedia.org/wiki/George_Bernard_Shaw" target="_blank">George Bernard Shaw</a>
 
 >“If there is a God, atheism must strike Him as less of an insult than religion.”
 
@@ -265,27 +289,14 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://typemoon.fandom.com/wiki/Kiritsugu_Emiya" target="_blank">Kiritsugu Emiya</a>
 
->“Now, Kalamas,<br>
-Do not go upon what has been acquired by repeated hearing (anussava),<br>
-nor upon tradition (paramparā),<br>
-nor upon rumor (itikirā),<br>
-nor upon what is in a scripture (piṭaka-sampadāna),<br>
-nor upon surmise (takka-hetu),<br>
-nor upon an axiom (naya-hetu),<br>
-nor upon specious reasoning (ākāra-parivitakka),<br>
-nor upon a bias towards a notion that has been pondered over (diṭṭhi-nijjhān-akkh-antiyā),<br>
-nor upon another's seeming ability (bhabba-rūpatāya),<br>
-nor upon the consideration, The monk is our teacher (samaṇo no garū).<br>
-Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.”<sup id="a5"><a href="#f5">5</a></sup>
 
-― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a>
 
 <b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T_{\mu \nu }=0$ but $\nabla_{\nu} R_{\mu \nu }\neq 0$.<a href="#a1">↩</a>
- 
-<b id="f2">2)</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>.<a href="#a2">↩</a>
 
-<b id="f3">3)</b> This statement was made considering General Relativity, a classical theory. It was written in 1983 (9 years after Hawking radiation was predicted) in the preface of his book. Maybe he was unaware of the humongous number of states needed for a black hole to interpret Bekenstein-Hawking entropy statistically.<a href="#a3">↩</a>
+<b id="f2">2)</b> This statement was made considering General Relativity, a classical theory. It was written in 1983 (9 years after Hawking radiation was predicted) in the preface of his book. Maybe he was unaware of the humongous number of states needed for a black hole to interpret Bekenstein-Hawking entropy statistically.<a href="#a2">↩</a> 
 
-<b id="f4">4)</b> At the 1927 Solvay Conference.<a href="#a4">↩</a>
+<b id="f3">3)</b> At the 1927 Solvay Conference.<a href="#a3">↩</a>
+
+<b id="f4">4)</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>.<a href="#a4">↩</a>
 
 <b id="f5">5)</b> Taken from <a href="https://en.wikipedia.org/wiki/Kesamutti_Sutta" target="_blank">Kesamutti Sutta</a>. Often times some people people misinterpret this quote to portray Buddhism as a religion based on logic, even though Buddha stated that one should not determine the validity of a statement "by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought". When dealing with scientific theories logic should be given at most importance. But Buddha is not talking about scientific truths, he is talking about morality. Based on science and logic it is strongly evident that there is no such thing as free will. This doesn't mean we should forget about morality. We are in a stubbornly persistent illusion that we have free will and so we should always consider ourselves as responsible beings to be consistent with our illusion.<a href="#a5">↩</a>
