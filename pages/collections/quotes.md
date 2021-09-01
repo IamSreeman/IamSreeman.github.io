@@ -163,6 +163,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“**Desires** are the root cause of **sadness**.”<sup id="a4"><a href="#f4">4</a></sup>
 
+>“How then can it be compassionate to gorge on other beings’ blood and flesh? Monks who will not wear silks from the East, whether coarse or fine; who will not wear shoes or boots of leather, nor furs, nor birds’ down from our own country; and who will not consume milk, curds, or ghee, have truly freed themselves from the world.”
+
 >“Now, Kalamas,<br>
 Do not go upon what has been acquired by repeated hearing (anussava),<br>
 nor upon tradition (paramparā),<br>
@@ -251,8 +253,25 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 >“In some ways people had got used to the idea that India was spiritual and religion-oriented. That gave a leg up to the religious interpretation of India, despite the fact that Sanskrit had a larger atheistic literature than exists in any other classical language. Madhava Acharya, the remarkable 14th century philosopher, wrote this rather great book called <a href="https://en.wikipedia.org/wiki/Vidyaranya#Sarvadar%C5%9Banasa%E1%B9%85graha" target="_blank">Sarvadarśanasaṅgraha</a>, which discussed all the religious schools of thought within the Hindu structure. The first chapter is "<a href="https://en.wikipedia.org/wiki/Charvaka" target="_blank">Cārvāka</a>" or "Atheism"—a very strong presentation of the argument in favor of atheism and materialism.”
 
-― <a href="https://en.wikipedia.org/wiki/Amartya_Sen" target="_blank">Amartya Sen
-</a>
+― <a href="https://en.wikipedia.org/wiki/Amartya_Sen" target="_blank">Amartya Sen</a>
+
+>“Doubts about the existence of free will and individuals are nothing new, of course. More than 2,000 years ago thinkers in India, China and Greece argued that ‘the individual self is an illusion’. Yet such doubts don’t really change history much unless they have a practical impact on economics, politics and day-to-day life. Humans are masters of cognitive dissonance, and we allow ourselves to believe one thing in the laboratory and an altogether different thing in the courthouse or in parliament. Just as Christianity didn’t disappear the day Darwin published On the Origin of Species, so liberalism won’t vanish just because scientists have reached the conclusion that there are no free individuals.”
+
+>“Buddha agreed with modern biology and New Age movements that happiness is independent of external conditions. Yet his more important and far more profound insight was that true happiness is also independent of our inner feelings. Indeed, the more significance we give our feelings, the more we crave them, and the more we suffer. Buddha’s recommendation was to stop not only the pursuit of external achievements, but also the pursuit of inner feelings.”
+
+>“Understanding human history in the millennia following the Agricultural Revolution boils down to a single question: how did humans organise themselves in mass-cooperation networks, when they lacked the biological instincts necessary to sustain such networks? The short answer is that humans created imagined orders and devised scripts. These two inventions filled the gaps left by our biological inheritance.”
+
+>“How do you cause people to believe in an imagined order such as Christianity, democracy or capitalism? First, you never admit that the order is imagined.”
+
+>“So, monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the entire universe – and He's ***evil***. But nobody in history has had the stomach for such a belief.”
+
+>“Today more than ninety per cent of all large animals are domesticated. Consider the chicken, for example. Ten thousand years ago it was a rare bird confined to small niches of South Asia. Today billions of chickens live on almost every continent and island, bar Antarctica. The domesticated chicken is probably the most widespread bird in the annals of planet Earth. If you measure success in terms of numbers, chickens, cows and pigs are the most successful animals ever. Alas, domesticated species paid for their unparalleled collective success with unprecedented individual suffering.”
+
+>“Yet from the viewpoint of the herd, rather than that of the shepherd, it’s hard to avoid the impression that for the vast majority of domesticated animals, the Agricultural Revolution was a terrible catastrophe. Their evolutionary ‘success’ is meaningless. A rare wild rhinoceros on the brink of extinction is probably more satisfied than a calf who spends its short life inside a tiny box, fattened to produce juicy steaks. The contented rhinoceros is no less content for being among the last of its kind. The numerical success of the calf’s species is little consolation for the suffering the individual endures.”
+
+>“Capitalism did not defeat communism because capitalism was more ethical, because individual liberties are sacred or because God was angry with the heathen communists. Rather, capitalism won the Cold War because distributed data processing works better than centralised data processing, at least in periods of accelerating technological change. The central committee of the Communist Party just could not deal with the rapidly changing world of the late twentieth century. When all data is accumulated in one secret bunker, and all important decisions are taken by a group of elderly apparatchiks, they can produce nuclear bombs by the cartload, but not an Apple or a Wikipedia.”
+
+― <a href="https://en.wikipedia.org/wiki/Yuval_Noah_Harari" target="_blank">Yuval Noah Harari</a>
 
 >“జీవితంలో భయం ఉండాలి, కాని భయమే జీవితం కాకూడదు.”
  ― <a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D" target="_blank">రజినీకాంత్ </a>(భాషా  సినిమాలో)
