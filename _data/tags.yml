@@ -4,17 +4,23 @@
 #   title: Alternative Display
 General relativity:
   color: '#A4C639'
+Particle physics:
+  color: '#A4C639'
+Quantum gravity:
+  color: '#A4C639'
 Quantum mechanics:
   color: '#A4C639'
 Special relativity:
   color: '#A4C639'
 Textbook:
   color: '#A4C639'
-Particle physics:
-  color: '#A4C639'
 History of physics:
   color: '#fc0'
+My life:
+  color: '#1A6EEF'
 Atheism:
   color: '#f44d27'
-Buddhism:
+Ethics:
+  color: '#f44d27'
+Philosophy:
   color: '#f44d27'

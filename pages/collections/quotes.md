@@ -87,6 +87,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
 
+>“All truths are easy to understand once they are discovered; the point is to discover them.”
+
+― <a href="https://en.wikipedia.org/wiki/Galileo_Galilei" target="_blank">Galileo Galilei</a>
+
 >“But he (Galileo) was not an idiot,... **Only an idiot could believe that scientific truth needs martyrdom** — that may be necessary in religion, but scientific results prove themselves in time.”
 
 >“If I were to awaken after having slept for a thousand years, my first question would be: Has the Riemann hypothesis been proven?”
@@ -143,6 +147,12 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Alan_Guth" target="_blank">Alan Guth</a>
 
+>“There are countless suns and countless earths all rotating round their suns in exactly the same way as the seven planets of our system.”
+
+>“You may be more afraid to bring that sentence against me than I am to accept it.”
+
+― <a href="https://en.wikipedia.org/wiki/Giordano_Bruno" target="_blank">Giordano Bruno</a>
+
 >“Science flies you to the moon. Religion flies you into buildings.”
 
 ― <a href="https://en.wikipedia.org/wiki/Victor_J._Stenger" target="_blank">Victor J. Stenger</a>
@@ -164,6 +174,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“**Desires** are the root cause of **sadness**.”<sup id="a4"><a href="#f4">4</a></sup>
 
 >“How then can it be compassionate to gorge on other beings’ blood and flesh? Monks who will not wear silks from the East, whether coarse or fine; who will not wear shoes or boots of leather, nor furs, nor birds’ down from our own country; and who will not consume milk, curds, or ghee, have truly freed themselves from the world.”
+
+>“Death carries off a man who is gathering flowers and whose mind is distracted, as a flood carries off a sleeping village.”
 
 >“Now, Kalamas,<br>
 Do not go upon what has been acquired by repeated hearing (anussava),<br>
@@ -200,6 +212,14 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://en.wikipedia.org/wiki/David_Hume" target="_blank">David Hume</a>
 
+>“The chief objection I have to Pantheism is that it says nothing. To call the world "God" is not to explain it; it is only to enrich our language with a superfluous synonym for the word "world".”
+
+>“The bad thing about all religions is that, instead of being able to confess their allegorical nature, they have to conceal it.”
+
+>“Monotheistic religions alone furnish the spectacle of religious wars, religious persecutions, heretical tribunals, that breaking of idols and destruction of images of the gods, that razing of Indian temples and Egyptian colossi, which had looked on the sun 3,000 years: just because a jealous god had said, 'Thou shalt make no graven image.'”
+
+― <a href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Arthur Schopenhauer</a>
+
 >“In order to seek truth, it is necessary once in the course of our life, to doubt, as far as possible, of all things.”
 
 >“I shall then suppose . . . some <a href="https://en.wikipedia.org/wiki/Evil_demon" target="_blank">evil genius</a> not less powerful than deceitful, has employed his whole energies in deceiving me; I shall consider that . . . all . . . external things are but illusions and dreams of which this genius has availed himself to lay traps for my credulity.”
@@ -216,6 +236,8 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 >“Is the pious being loved by the gods because it is pious, or is it pious because it is being loved by the gods?”
 
+>“As for me, all I know is that I know nothing.”
+
 ― <a href="https://en.wikipedia.org/wiki/Socrates" target="_blank">Socrates</a>
 
 >“Religion is too important a matter to its devotees to be a subject of ridicule. If they indulge in absurdities, they are to be pitied rather than ridiculed.”
@@ -225,6 +247,16 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“The philosopher has never killed any priests, whereas the priest has killed a great many philosophers.”
 
 ― <a href="https://en.wikipedia.org/wiki/Denis_Diderot" target="_blank">Denis Diderot</a>
+
+>“Those who can make you believe absurdities can make you commit atrocities.”
+
+>“It is difficult to free fools from the chains they revere.”
+
+― <a href="https://en.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a>
+
+>“The Hiddenness Argument: You’re still a small child, and an amnesiac, but this time you’re in the middle of a vast rain forest, dripping with dangers of various kinds.  You’ve been stuck there for days, trying to figure out who you are and where you came from.  You don’t remember having a mother who accompanied you into this jungle, but in your moments of deepest pain and misery you call for her anyway, ‘Mooooommmmmmm!’  Over and over again.  For days and days … the last time when a jaguar comes at you out of nowhere … but with no response.  What should you think in this situation?  In your dying moments, what should cross your mind?  Would the thought that you have a mother who cares about you and hears your cry and could come to you but chooses not to even make it onto the list?”
+
+― <a href="https://en.wikipedia.org/wiki/J._L._Schellenberg" target="_blank">J. L. Schellenberg</a>
 ### Others
 
 >“Napoleon, and other great men of his type, they were makers of empire. But there is an order of men that get beyond that: They are not makers of empire, but they are makers of universe. And when they have made those universes, their hands are unstained by the blood of any human being on earth. ... Ptolemy made a universe, which lasted 1400 years. Newton also made a universe, which has lasted 300 years. Einstein has made a universe, and I can't tell you how long that will last.”
@@ -260,6 +292,8 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“Buddha agreed with modern biology and New Age movements that happiness is independent of external conditions. Yet his more important and far more profound insight was that true happiness is also independent of our inner feelings. Indeed, the more significance we give our feelings, the more we crave them, and the more we suffer. Buddha’s recommendation was to stop not only the pursuit of external achievements, but also the pursuit of inner feelings.”
 
 >“Understanding human history in the millennia following the Agricultural Revolution boils down to a single question: how did humans organise themselves in mass-cooperation networks, when they lacked the biological instincts necessary to sustain such networks? The short answer is that humans created imagined orders and devised scripts. These two inventions filled the gaps left by our biological inheritance.”
+
+>“History began when humans invented gods, and will end when humans become gods.”
 
 >“How do you cause people to believe in an imagined order such as Christianity, democracy or capitalism? First, you never admit that the order is imagined.”
 

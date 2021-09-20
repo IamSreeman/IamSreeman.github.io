@@ -3,13 +3,12 @@ title: "My views on Religion"
 date:   2020-05-10 18:05:55 +0530
 subheadline: "As an atheist"
 category: non-physics
-tags:   [Atheism,Buddhism]
+tags:   [Atheism,Philosophy]
 script:
   foot: bookmarklet.js
 ---
 ![alt text]({{site.baseurl}}/images/posts/01.jpg "Steven Weinberg")
-I am [strong atheist](https://en.wikipedia.org/wiki/Negative_and_positive_atheism#:~:text=Positive%20atheism%2C%20also%20called%20strong,no%20deities%20exist.) by belief, culturally influenced by Hinduism and philosophically inspired by Buddhism. You can consider me as a [Atheistic or Secular Buddhist](https://en.wikipedia.org/wiki/Secular_Buddhism). I  strongly believe that religion is a big evil social system and it has to be eradicated (not through violence but through peace and science).<!--more--> I often read about religions. My views on religion are complex. Among all religions [Buddhism](https://en.wikipedia.org/wiki/Buddhism) is the religion which I think is the least stupid, because it is the least religious religion. It is more of a philosophical way of life than a religion. But I don't like mainstream Buddhism.
-
+I am [strong atheist](https://en.wikipedia.org/wiki/Negative_and_positive_atheism#:~:text=Positive%20atheism%2C%20also%20called%20strong,no%20deities%20exist.) by belief, culturally influenced by Hinduism and philosophically inspired by Buddhism. You can consider me as a [Atheistic or Secular Buddhist](https://en.wikipedia.org/wiki/Secular_Buddhism). I  strongly believe that religion is a big evil social system and it has to be eradicated (not through violence but through peace and science).<!--more--> Despite not being religious I often read about religions. My views on religion are generally negative. Among all religions [Buddhism](https://en.wikipedia.org/wiki/Buddhism) is the religion which I think is the least stupid, because it is the least *religious* religion. It is more of a philosophical way of life than a religion. But I don't like mainstream Buddhism.
 # My views on Buddhism
 For sometime I considered myself as a mainstream Buddhist after leaving Hinduism. But even Buddhism is far from perfect. It carried many superstitions from Hinduism(*Old bad habits don't go easily*). Be it the concept of Karma, previous lives of Buddha, the existence of Hindu gods.
 
@@ -26,8 +25,7 @@ Although he did not believe in the **authoity of Vedas** he did believe in the e
 These days a new form of Buddhism called as [Secular Buddhism](https://en.wikipedia.org/wiki/Secular_Buddhism) is gaining popularity. I consider myself as a **Secular Buddhist**. It is just a form of Buddhism which removes all traditional beliefs that could be considered superstitious, or that cannot be tested through research.
 
 ## Am I a Hindu?
-
-If you ask me this question I will say no. But technically I am still a Hindu according to Hindu scholars. Hinduism mainly refers to mainstream Hinduism (there are 6 schools of Hinduism which are called [Āstika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika#%C4%80stika)). There are 5 other schools of Hinduism called as [Nāstika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika#N%C4%81stika) which are not mainstream. Buddhism is the major nāstika school. Technically all of Buddhism (including Secular Buddhism) is considered to be a part of Hinduism by Hindu scholars. Hinduism despite having many unscientific and immoral beliefs, surely has some positive sides,in the words of Carl Sagan-
+If you ask me this question I will say no. But many Hindus have a bad habit of calling those who don't believe in Hinduism as Hindus. According to them, I am still a Hindu. Hinduism mainly refers to mainstream Hinduism (there are 6 schools of Hinduism which are called [Āstika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika#%C4%80stika)). There are 5 other schools of thought in India called as [Nāstika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika#N%C4%81stika) which are not mainstream. Some people consider Nāstika schools as a part of Hinduism but that is wrong. Buddhism is the major nāstika school. All of Buddhism (including Secular Buddhism) is considered to be a part of Hinduism by some Hindus. Hinduism despite having many unscientific and immoral beliefs, surely has some positive sides,in the words of Carl Sagan-
 >“The Hindu religion is the only one of the world's great faiths dedicated to the idea that the Cosmos itself undergoes an immense, indeed an infinite, number of deaths and rebirths. It is the only religion in which time scales correspond to those of modern scientific cosmology. Its cycles run from our ordinary day and night to a day and night of Brahma, 8.64 billion years long, longer than the age of the Earth or the Sun and about half the time since the Big Bang.”
 
 You can watch it here:<br>
