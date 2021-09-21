@@ -6,7 +6,7 @@ title: "Articles by tags"
 breadcrumbs: true
 ---
 {% include tag_cloud.html %}
-
+Green, red and blue tags are related to physics, philosphy and my life respectively.
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first | downcase }}&#x1F;{{ tag | first }}{% unless forloop.last %}&#x1E;{% endunless %}{% endfor %}{% endcapture %}
 {% assign site_tags = site_tags | split:'&#x1E;' | sort %}
 {% capture site_tags %}{% for tag in site_tags %}{{ tag | split: '&#x1F;' | last }}{% unless forloop.last %}&#x1E;{% endunless %}{% endfor %}{% endcapture %}
