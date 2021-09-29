@@ -210,6 +210,8 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 >“Survey most nations and most ages. Examine the religious principles, which have, in fact, prevailed in the world. You will scarcely be persuaded, that they are any thing but sick men's dreams: Or perhaps will regard them more as the playsome whimsies of monkies in human shape, than the serious, positive, dogmatical asseverations of a being, who dignifies himself with the name of rational.”
 
+>“No testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact which it endeavours to establish.”
+
 ― <a href="https://en.wikipedia.org/wiki/David_Hume" target="_blank">David Hume</a>
 
 >“The chief objection I have to Pantheism is that it says nothing. To call the world "God" is not to explain it; it is only to enrich our language with a superfluous synonym for the word "world".”
