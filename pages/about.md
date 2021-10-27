@@ -8,10 +8,10 @@ breadcrumbs: true
 ---
 <img src="{{site.baseurl}}/images/me.jpg" alt="drawing" width="300"/>
 
-Hi, my name is **Kasi Reddy Sreeman Reddy** and I'm an undergraduate studying   <a href="http://www.phy.iitb.ac.in/" target="_blank">B. Tech in Engineering physics at IIT Bombay</a>. I am also pursuing a minor in <a href="http://www.math.iitb.ac.in/" target="_blank">Mathematics</a> and honours in Physics. I am from <a href="https://en.wikipedia.org/wiki/Tadipatri" target="_blank">Tadipatri</a>.<br>
+Hi, my name is **Kasi Reddy Sreeman Reddy** and I'm an undergraduate studying   <a href="http://www.phy.iitb.ac.in/" target="_blank">B. Tech in Engineering physics at IIT Bombay</a>. I am also pursuing a minor in <a href="http://www.math.iitb.ac.in/" target="_blank">Mathematics</a> and Honors in Physics. I am from <a href="https://en.wikipedia.org/wiki/Tadipatri" target="_blank">Tadipatri</a>.<br>
 I am more interested in fundamental theoretical physics (like <a href="https://en.wikipedia.org/wiki/Quantum_gravity#Candidate_theories" target="_blank">quantum gravity theories</a>, <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a> etc.) compared to applied Physics or experimental physics.
 ##### Hobbies:
-1) Reading physics books and history of physics.<br>
+1) Reading physics books and the history of physics.<br>
 2) Watching Anime.<br>
 3) Thinking about some metaphysical questions like <a href="https://en.wikipedia.org/wiki/Why_there_is_anything_at_all" target="_blank">Why there is anything at all?</a>, <a href="https://en.wikipedia.org/wiki/Meaning_of_life" target="_blank">What is the meaning of life?</a> etc.<br>
 

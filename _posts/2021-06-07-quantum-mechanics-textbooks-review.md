@@ -36,12 +36,12 @@ This book is at a similar level to Shankar. But is somewhat smaller, so the expl
 
 1) Weinberg, Steven (2015). *Lectures on quantum mechanics* (2nd ed.). Cambridge University Press
 
-Nobel Laureate Steven Weinberg managed to write a book which is ***shorter*** than all above books (≈ 400 pages) but still is more comprehensive and ***complete*** than all above books. Needless to say, this book is not good for first time introductory reading. Weinberg writes many things as obvious but they won't be that obvious for us. I read some where that the chapter 11 THE QUANTUM THEORY OF RADIATION in this book is very good to read before going to Quantum Field Theory. This book is very similar in style to Weinberg's 3 volume set "The Quantum Theory of Fields".
+Nobel Laureate Steven Weinberg managed to write a book which is ***shorter*** than all the above books (≈ 400 pages) but still is more comprehensive and ***complete*** than all the above books. Needless to say, this book is not good for first time introductory reading. Weinberg writes many things as obvious but they won't be that obvious for us. I read somewhere that the chapter 11 THE QUANTUM THEORY OF RADIATION in this book is very good to read before going to Quantum Field Theory. This book is very similar in style to Weinberg's 3 volume set "The Quantum Theory of Fields".
 
 ## Best advanced books
 1) Ballentine, Leslie (1998). *Quantum Mechanics A Modern Development*. World Scientific.
 
-This is a rigorous book. For example it has a discussion on Rigged Hilbert Space in the 1st chapter which all above books have not discussed. 
+This is a rigorous book. For example, it has a discussion on Rigged Hilbert Space in the 1st chapter which all the above books have not discussed. 
 
 2) Konishi, Kenichi; Paffuti, Giampiero (2009). *Quantum Mechanics A New Introduction*. Oxford University Press.
 
@@ -54,7 +54,7 @@ This is a very rigorous book. If you like to read about axiomatic approach to QM
 
 4) Schiff, Leonard (1968). *Quantum Mechanics*(3rd ed.). World Scientific.
 
-This book is now somewhat outdated. Of course QM hasn't changed much but the way it is taught did change. It is still not a bad book.
+This book is now somewhat outdated. Of course, QM hasn't changed much but the way it is taught did change. It is still not a bad book.
 
 5) Messiah, Albert (1958). *QUANTUM MECHANICS TWO VOLUMES BOUND AS ONE*. World Scientific.
 

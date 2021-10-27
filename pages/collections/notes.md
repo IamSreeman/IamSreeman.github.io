@@ -15,11 +15,11 @@ teaser: "You can find some of my notes here."
 
 - Quantum mechanics I notes<br>
 <a href='{{ site.baseurl }}/notes/QM1.pdf' target="_blank">View PDF</a> (Handwritten)<br>
-Also check my [Quantum mechanics textbooks review]({{ site.baseurl }}/blog/2021/06/quantum-mechanics-textbooks-review.html).
+Also, check my [Quantum mechanics textbooks review]({{ site.baseurl }}/blog/2021/06/quantum-mechanics-textbooks-review.html).
 
 - General Relativity course<br>
 I used <a href='{{ site.baseurl }}/projects/#special-and-general-relativity-april-2020'>my old project report</a> and textbooks.<br>
-Also check my [Relativity textbooks review]({{ site.baseurl }}/blog/2021/06/relativity-textbooks-review.html).
+Also, check my [Relativity textbooks review]({{ site.baseurl }}/blog/2021/06/relativity-textbooks-review.html).
 
 - Introduction to Numerical Analysis<br>
 <a href='{{ site.baseurl }}/notes/NA.pdf' target="_blank">View PDF</a> (Handwritten)<br>

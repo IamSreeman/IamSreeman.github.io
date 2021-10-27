@@ -26,6 +26,6 @@ widget3:
 ---
 <div style="text-align: center">
 	<p align="center">
-		Hi, this is a personal website of <a href="{{site.baseurl}}/about" >K. Sreeman Reddy</a>. Checkout the <a href="{{site.baseurl}}/projects">projects</a> page. Other links are there in the navigation bar. For MA 109 resources check <a href="{{site.baseurl}}/MA109">MA109 page</a>. You can find some  <a href="{{site.baseurl}}/quotes">quotes here</a>.
+		Hi, this is a personal website of <a href="{{site.baseurl}}/about" >K. Sreeman Reddy</a>. Check out the <a href="{{site.baseurl}}/projects">projects</a> page. Other links are there in the navigation bar. For MA 109 resources check the <a href="{{site.baseurl}}/MA109">MA109 page</a>. You can find some <a href="{{site.baseurl}}/quotes">quotes here</a>.
 	</p>
 </div>

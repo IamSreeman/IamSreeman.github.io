@@ -22,7 +22,7 @@ Chapter 12- Electrodynamics and Relativity from this book is a very good introdu
 
 2) Resnick, ‎Robert (1968). *Introduction to Special Relativity*. Wiley.
 
-This book discusses very slowly compared to the above one. If you have time you should read it. In the beginning there is historical stuff which many books won't discuss. Sadly it doesn't use tensors to explain relativistic formulation of electrodynamics.
+This book discusses very slowly compared to the above one. If you have time you should read it. In the beginning, there is historical stuff that many books won't discuss. Sadly it doesn't use tensors to explain relativistic formulation of electrodynamics.
 ## Special relativity intermediate-advanced books
 1) Tsamparlis, Michael (2019). *Special Relativity An Introduction with 200 Problems and Solutions* (2nd ed.). Springer.
 
@@ -38,19 +38,19 @@ This book is a very good introduction to GR. It has the right mixture of pedagog
 
 2) Hobson; Efstathiou; Lasenby  (2006). *General Relativity: An Introduction for Physicists*. Cambridge University Press.
 
-This book is at a similar level to Carroll, but it doesn't discuss QFT in Curved Spacetime. Instead the remaining parts are more complete than Carroll.
+This book is at a similar level to Carroll's, but it doesn't discuss QFT in Curved Spacetime. Instead, the remaining parts are more complete than Carroll's.
 
 3) Ryder, Lewis (2009). *Introduction to General Relativity*. Cambridge University Press.
 
-This book is at a similar level to Carroll. It is similar in style to Ryder's QFT book.
+This book is at a similar level to Carroll's. It is similar in style to Ryder's QFT book.
 
 4) D'Inverno, Ray (1992). *Introducing Einstein’s Relativity*. Oxford University Press.
 
-This book is slightly easier and at a lower level and to the above books. Still a good book.
+This book is slightly easier and at a lower level than to the above books. Still a good book.
 ## General relativity intermediate books
 1) Padmanabhan, Thanu (2010). *GRAVITATION FOUNDATIONS AND FRONTIERS*. Cambridge University Press.
 
-This book is somewhat more complete and rigorous than Carroll. It discusses QFT in Curved Spacetime. In the end there is a chapter on emergent gravity(the author works in this area) which is not found in almost any other textbook. One good thing is this book contains projects at the end of each chapter which will be useful to students.
+This book is somewhat more complete and rigorous than Carroll's. It discusses QFT in Curved Spacetime. In the end, there is a chapter on emergent gravity(the author works in this area) which is not found in almost any other textbook. One good thing is this book contains projects at the end of each chapter which will be useful to students.
 
 2) Straumann, Norbert (2012). *General Relativity* (2nd ed.). Springer.
 
@@ -58,12 +58,12 @@ This is more rigorous than Padmanabhan. It doesn't discuss QFT in Curved Spaceti
 
 3) Weinberg, Steven (1972). *Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity*. John Wiley & Sons, Inc.
 
-It is a good book with some problems (not practice problems, which are not there). It doesn't discuss black holes. Weinberg does not do justice for the geometric approach. Also the cosmology is outdated.
+It is a good book with some problems (not practice problems, which are not there). It doesn't discuss black holes. Weinberg does not do justice for the geometric approach. Also, the cosmology is outdated.
 
 ## General relativity advanced books
 1) Wald, Robert (1984). *General Relativity*.
 
-This book is very rigours. It discusses QFT in Curved Spacetime. The cosmology part is now outdated. It discusses things like proof of Singularity Theorems which are not covered in most of the above books.
+This book is very rigorous. It discusses QFT in Curved Spacetime. The cosmology part is now outdated. It discusses things like proof of Singularity Theorems which are not covered in most of the above books.
 
 2) Poisson, Eric (2004).*A RELATIVIST'S TOOLKIT The Mathematics of Black-Hole Mechanics*. Cambridge University Press.
 

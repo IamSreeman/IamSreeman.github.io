@@ -11,11 +11,12 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 
 ##### List of projects and reports
 
-1. [Black hole information paradox (June-Present 2021)](#black-hole-information-paradox-june-present-2021)
-1. [One-dimensional photonic bound states in the continuum (March-April 2021)](#one-dimensional-photonic-bound-states-in-the-continuum-march-april-2021)
-1. [Category theory applications in physics (October-November 2020)](#category-theory-applications-in-physics-october-november-2020)
-1. [Covid-19:analysis of a modified SEIR model (October-November 2020)](#covid-19analysis-of-a-modified-seir-model-october-november-2020)
-1. [Special and General Relativity (April 2020)](#special-and-general-relativity-april-2020)
+- [List of projects and reports](#list-of-projects-and-reports)
+- [Black hole information paradox (June-Present 2021)](#black-hole-information-paradox-june-present-2021)
+- [One-dimensional photonic bound states in the continuum (March-April 2021)](#one-dimensional-photonic-bound-states-in-the-continuum-march-april-2021)
+- [Category theory applications in physics (October-November 2020)](#category-theory-applications-in-physics-october-november-2020)
+- [Covid-19:analysis of a modified SEIR model (October-November 2020)](#covid-19analysis-of-a-modified-seir-model-october-november-2020)
+- [Special and General Relativity (April 2020)](#special-and-general-relativity-april-2020)
 
 ##### Black hole information paradox (June-Present 2021)
 *Supervisor: Prof. Vikram Rentala*
@@ -26,7 +27,7 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 <a href="https://github.com/IamSreeman/LaTeX/blob/master/BlackHoleInformationParadox/BlackHoleInformationParadox.pdf" class="button" target="_blank">View PDF</a><br>
 ##### One-dimensional photonic bound states in the continuum (March-April 2021)
 *Supervisor: Prof. Anshuman Kumar*
-- Studied bound states in the continuum (BICs) which emerge due to precise destructive interference of waves for an electron in an one-dimensional quantum well under an external magnetic field.
+- Studied bound states in the continuum (BICs) which emerge due to precise destructive interference of waves for an electron in a one-dimensional quantum well under an external magnetic field.
 - Using the correspondence between the spin states of the above electron model and the polarisation states of an one dimensional photonic system made up of an anisotropic layer conjugated with a 1D photonic crystals consisting of alternating layers, found BICs for the photonic system.
 - Calculated numerical values and generated graphs of several quantities such as transmittance, reflectance, Q factor, wave function using python for both the electron model and the photonic model.<br>
 <a href="https://github.com/IamSreeman/1d-photonic-bound-states-in-the-continuum" class="button"  target="_blank">GitHub</a><br>
