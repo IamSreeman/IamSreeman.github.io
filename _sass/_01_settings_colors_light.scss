@@ -1,0 +1,93 @@
+/* TOC – Color Variables
+
+- Basics
+- Corporate Identity Colorpalette
+- Foundation Color Variables
+- Grey Scale
+- Topbar-Navigation
+- Footer
+- Code
+
+*/
+
+
+/* Corporate Identity Colorpalette
+   https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
+------------------------------------------------------------------- */
+
+$ci-1: #334D5C;		// dark turquoise
+$ci-2: #45B29D;		// turquoise
+$ci-3: #EFC94C;		// yellow
+$ci-4: #E27A3F;		// orange
+$ci-5: #DF4949;		// red
+$ci-6: #A1D044;     // green
+$ci-9: #FFA500;
+
+
+/* Foundation Color Variables
+------------------------------------------------------------------- */
+
+$primary-color      : $ci-9;
+$secondary-color    : $ci-6;
+
+$alert-opacity: 0.2;
+$alert-color        : $ci-5;
+$success-color      : $ci-6;
+$warning-color      : $ci-4;
+$info-color         : $ci-1;
+$terminal-color: rgba(#ffffff, $alert-opacity);
+$todo-color: #000000;
+
+
+
+/* Grey Scale
+------------------------------------------------------------------- */
+
+$grey-0: #FFFFFF;
+$grey-1: #E4E4E4;
+$grey-2: #D7D7D7;
+$grey-3: #CBCBCB;
+$grey-4: #BEBEBE;
+$grey-5: #A4A4A4;
+$grey-6: #979797;
+$grey-7: #8B8B8B;
+$grey-8: #7E7E7E;
+$grey-9: #646464;
+$grey-10: #575757;
+$grey-11: #4B4B4B;
+$grey-12: #3E3E3E;
+$grey-13: #313131;
+$grey-14: #242424;
+$grey-15: #171717;
+$grey-16: #0B0B0B;
+
+
+
+/* Basics
+------------------------------------------------------------------- */
+
+$text-color         : #111;
+$body-font-color    : $text-color;
+$body-bg            : #fdfdfd;
+
+
+/* Footer
+------------------------------------------------------------------- */
+
+$footer-bg          : $grey-8;
+$footer-color       : #fff;
+$footer-header-color: $secondary-color;
+
+
+$subfooter-bg       : $grey-13;
+$subfooter-color    : $grey-8;
+$subfooter-link-color: $grey-8;
+
+
+/* Code
+------------------------------------------------------------------- */
+
+$code-color: $text-color;
+$code-background-color: scale-color($secondary-color, $lightness: 70%);
+$code-border-color: rgba($code-background-color, 0.1);
+// also see _11_syntax-highlighting.scss

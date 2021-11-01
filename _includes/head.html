@@ -15,7 +15,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	{% comment %}TODO android chrome bar color <meta name="theme-color" content="#ff0000" />{% endcomment %}
 	<title>{% if page.meta_title %}{{ page.meta_title }}{% elsif page.title %}{{ page.title | strip_html | strip_newlines | escape }}{% if page.title_suffix %} &mdash; {{ page.title_suffix }}{% endif %}{% else %}{{ site.title }} – {{ site.slogan }}{% endif %}</title>
-	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/styles_feeling_responsive.css" />
+	<link id="style-dark" rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/styles_feeling_responsive.css" />
+	<link id="style-light" disabled rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/styles_feeling_responsive_light.css" />
+	<script src="{{ site.baseurl }}/assets/js/darklight.js"></script>
 	<script src="{{ site.baseurl }}/assets/js/modernizr.min.js"></script>
 
 	{% comment %}https://github.com/typekit/webfontloader
