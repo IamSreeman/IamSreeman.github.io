@@ -8,9 +8,9 @@ script:
   foot: bookmarklet.js
 ---
 ![alt text]({{site.baseurl}}/images/posts/01.jpg "Steven Weinberg")
-I am  a [strong atheist](https://en.wikipedia.org/wiki/Negative_and_positive_atheism#:~:text=Positive%20atheism%2C%20also%20called%20strong,no%20deities%20exist.) by belief, culturally influenced by Hinduism and philosophically inspired by Buddhism. You can consider me as an [Atheistic or Secular Buddhist](https://en.wikipedia.org/wiki/Secular_Buddhism). I  strongly believe that religion is a big evil social system and it has to be eradicated (not through violence but through peace and science).<!--more--> Despite not being religious I often read about religions. My views on religion are generally negative. Among all religions, [Buddhism](https://en.wikipedia.org/wiki/Buddhism) is the religion which I think is the least stupid, because it is the least *religious* religion. It is more of a philosophical way of life than a religion. But I don't like mainstream Buddhism.
+I am  a [strong atheist](https://en.wikipedia.org/wiki/Negative_and_positive_atheism#:~:text=Positive%20atheism%2C%20also%20called%20strong,no%20deities%20exist.) by belief, culturally influenced by Hinduism and philosophically inspired by Buddhism. You can consider me as a [Secular humanist](https://en.wikipedia.org/wiki/Secular_humanism). I  strongly believe that religion is a big evil social system and it has to be eradicated (not through violence (like [the Soviets did](https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Soviet_Union) or like [the CCP is doing](https://en.wikipedia.org/wiki/Xinjiang_internment_camps)), but through peace and explaining science to religious people).<!--more--> Despite not being religious I often read about religions. My views on religion are generally negative. Among all religions, [Buddhism](https://en.wikipedia.org/wiki/Buddhism) is the religion which I think is the least stupid, because it is the least *religious* religion. It is more about philosophy than dogmatic superstitions. But I don't like mainstream Buddhism.
 # My views on Buddhism
-For some time I considered myself as a mainstream Buddhist after leaving Hinduism. But even Buddhism is far from perfect. It carried many superstitions from Hinduism(*Old bad habits don't go easily*). Be it the concept of Karma, previous lives of Buddha, the existence of Hindu gods.
+For around an year (at age 12) I considered myself as a mainstream Buddhist after leaving Hinduism. But even Buddhism is far from perfect. It carried many superstitions from Hinduism(*Old bad habits don't go easily*). Be it the concept of Karma, previous lives of Buddha, the existence of Hindu gods.
 
 For example, Gautama Buddha was very **ambiguous** about the existence of a **Creator Deity (Brahman)** and **Eternal Self (Atman)** and rejected them both. Various sources from the Pali Canon and others suggest that the Buddha taught that belief in a Creator deity was not essential to attaining liberation from suffering, and perhaps chose to ignore theological questions because they were "fascinating to discuss," and frequently brought about more conflict and anger than peace. The Buddha did not deny the existence of the popular gods of the Vedic pantheon, but rather argued that these devas, who may be in a more exalted state than humans, are still nevertheless trapped in the **same sansaric** cycle of suffering as other beings and are **not necessarily worthy of veneration and worship**. He considered [Nirvana](https://en.wikipedia.org/wiki/Nirvana_(Buddhism)) to be the highest attainable state even for Devas and is beyond the power of Devas.
 
@@ -34,6 +34,9 @@ You can watch it here:<br>
 But when compared to Buddhism, Hinduism is still **far more unscientific**. But still, there are religions that are even more unscientific than Hinduism. So it is not that bad.
 
 # Quotes related to Religion
+
+Edit: I am updating these in [the quotes page]({{ site.baseurl }}/quotes).
+
 The following are some quotes about religion that are similar to my views.
 My views will overlap to the maximum extent with **Dirac**.
 

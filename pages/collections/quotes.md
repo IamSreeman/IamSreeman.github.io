@@ -22,9 +22,9 @@ breadcrumbs: true
 
 These are some quotes which I liked. I removed the quotes which are given as misattributed in <a href="https://en.wikiquote.org/wiki/Main_Page" target="_blank">Wikiquote</a>.
 
-1. [Physicists](#physicists)
-2. [Philosophers](#philosophers)
-3. [Others](#others)
+- [Physicists](#physicists)
+- [Philosophers](#philosophers)
+- [Others](#others)
 
 ### Physicists
 
@@ -37,6 +37,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“It was, of course, a lie what you read about my religious convictions, a lie which is being systematically repeated. **I do not believe in a personal God** and I have never denied this but have expressed it clearly. If something is in me which can be called religious then it is the unbounded admiration for the structure of the world so far as our science can reveal it.”
 
 >“I cannot imagine a God who rewards and punishes the objects of his creation, whose purposes are modelled after our own — a God, in short, who is but a reflection of human frailty. Neither can I believe that the individual survives the death of his body, although feeble souls harbour such thoughts through **fear or ridiculous egotisms**.”
+
+>“Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.”
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
@@ -91,9 +93,15 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Galileo_Galilei" target="_blank">Galileo Galilei</a>
 
+>“Physics is too hard for physicists.”<sup id="a4"><a href="#f4">4</a></sup>
+
 >“But he (Galileo) was not an idiot,... **Only an idiot could believe that scientific truth needs martyrdom** — that may be necessary in religion, but scientific results prove themselves in time.”
 
 >“If I were to awaken after having slept for a thousand years, my first question would be: Has the Riemann hypothesis been proven?”
+
+>“We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the [ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus). For us there is no ignorabimus, and in my opinion none whatever in natural science. In opposition to the foolish ignorabimus our slogan shall be:
+>
+>We must know — we will know!”<sup id="a5"><a href="#f5">5</a></sup>
 
 ― <a href="https://en.wikiquote.org/wiki/David_Hilbert" target="_blank">David Hilbert</a>
 
@@ -171,7 +179,9 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 ― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>
 ### Philosophers
 
->“**Desires** are the root cause of **sadness**.”<sup id="a4"><a href="#f4">4</a></sup>
+>“**Desires** are the root cause of **sadness**.”<sup id="a6"><a href="#f6">6</a></sup>
+
+>“I say that there are three instances in which meat should not be consumed: when it is seen, heard, or suspected [that the animal was killed for one’s sake]. These are the three instances in which I say that meat should not be consumed.”
 
 >“How then can it be compassionate to gorge on other beings’ blood and flesh? Monks who will not wear silks from the East, whether coarse or fine; who will not wear shoes or boots of leather, nor furs, nor birds’ down from our own country; and who will not consume milk, curds, or ghee, have truly freed themselves from the world.”
 
@@ -188,7 +198,7 @@ nor upon specious reasoning (ākāra-parivitakka),<br>
 nor upon a bias towards a notion that has been pondered over (diṭṭhi-nijjhān-akkh-antiyā),<br>
 nor upon another's seeming ability (bhabba-rūpatāya),<br>
 nor upon the consideration, The monk is our teacher (samaṇo no garū).<br>
-Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.”<sup id="a5"><a href="#f5">5</a></sup>
+Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.”<sup id="a7"><a href="#f7">7</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a> (I do not support main stream ***unscientific*** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
 
@@ -199,6 +209,8 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“I think all the great religions of the world - Buddhism, Hinduism, Christianity, Islam, and Communism - both untrue and harmful. It is evident as a matter of logic that, since they disagree, not more than one of them can be true. With very few exception, the religions which a man accepts is that of the community in which he lives, which makes it obvious that the influence of environment is what has led him to accept the religion in question.”
 
 >“If everything must have a cause, then God must have a cause. If there can be anything without a cause, it may just as well be the world as God, so that there cannot be any validity in that argument. It is exactly of the same nature as the Hindu's view, that the world rested upon an elephant and the elephant rested upon a tortoise; and when they said, "How about the tortoise?" the Indian said, "Suppose we change the subject." The argument is really no better than that.”
+
+>“Quite illogically, the victory of Locke’s philosophy in England and France was largely due to the prestige of Newton. Descartes’ authority as a philosopher was enhanced, in his own day, by his work in mathematics and natural philosophy. But his doctrine of vortices was definitely inferior to Newton’s law of gravitation as an explanation of the solar system. The victory of the Newtonian cosmogony diminished men’s respect for Descartes and increased their respect for England. Both these causes inclined men favourably towards Locke.”
 
 >“In view of the fact that in any future world war nuclear weapons will certainly be employed, and that such weapons threaten the continued existence of mankind, we urge the governments of the world to realize, and to acknowledge publicly, that their purpose cannot be furthered by a world war, and we urge them, consequently, to find peaceful means for the settlement of all matters of dispute between them.” (<a href="https://en.wikipedia.org/wiki/Russell%E2%80%93Einstein_Manifesto" target="_blank">Russell–Einstein Manifesto</a>)
 
@@ -227,6 +239,11 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“I shall then suppose . . . some <a href="https://en.wikipedia.org/wiki/Evil_demon" target="_blank">evil genius</a> not less powerful than deceitful, has employed his whole energies in deceiving me; I shall consider that . . . all . . . external things are but illusions and dreams of which this genius has availed himself to lay traps for my credulity.”
 
 ― <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes" target="_blank">René Descartes</a>
+
+>“We are like sailors who on the open sea must reconstruct their ship but are never able to start afresh from the bottom. Where a beam is taken away a new one must at once be put there, and for this the rest of the ship is used as support. In this way, by using the old beams and driftwood the ship can be shaped entirely anew, but only by gradual reconstruction.” (<a href="https://en.wikipedia.org/wiki/Neurath%27s_boat" target="_blank">Neurath's boat</a>)
+
+
+― <a href="https://en.wikipedia.org/wiki/Otto_Neurath" target="_blank">Otto Neurath</a>
 
 >“He who fights with monsters should look to it that he himself does not become a monster. **And if you gaze long into an abyss, the abyss also gazes into you**.”
 
@@ -360,12 +377,16 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 
 
-<b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T_{\mu \nu }=0$ but $\nabla_{\nu} R_{\mu \nu }\neq 0$.<a href="#a1">↩</a>
+<b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.<a href="#a1">↩</a>
 
 <b id="f2">2)</b> This statement was made considering General Relativity, a classical theory. It was written in 1983 (9 years after Hawking radiation was predicted) in the preface of his book. Maybe he was unaware of the humongous number of states needed for a black hole to interpret Bekenstein-Hawking entropy statistically.<a href="#a2">↩</a> 
 
 <b id="f3">3)</b> At the 1927 Solvay Conference.<a href="#a3">↩</a>
 
-<b id="f4">4)</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>.<a href="#a4">↩</a>
+<b id="f4">4)</b> He meant mathematicians should become part time physicists and help them otherwise they can't do it.<a href="#a4">↩</a>
 
-<b id="f5">5)</b> Taken from <a href="https://en.wikipedia.org/wiki/Kesamutti_Sutta" target="_blank">Kesamutti Sutta</a>. Often times some people people misinterpret this quote to portray Buddhism as a religion based on logic, even though Buddha stated that one should not determine the validity of a statement "by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought". When dealing with scientific theories logic should be given at most importance. But Buddha is not talking about scientific truths, he is talking about morality. Based on science and logic it is strongly evident that there is no such thing as free will. This doesn't mean we should forget about morality. We are in a stubbornly persistent illusion that we have free will and so we should always consider ourselves as responsible beings to be consistent with our illusion.<a href="#a5">↩</a>
+<b id="f5">5)</b> He was not aware of Gödel's incompleteness theorems when saying this.<a href="#a5">↩</a>
+
+<b id="f6">6)</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>.<a href="#a6">↩</a>
+
+<b id="f7">7)</b> Taken from <a href="https://en.wikipedia.org/wiki/Kesamutti_Sutta" target="_blank">Kesamutti Sutta</a>. Often times some people people misinterpret this quote to portray Buddhism as a religion based on logic, even though Buddha stated that one should not determine the validity of a statement "by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought". When dealing with scientific theories logic should be given at most importance. But Buddha is not talking about scientific truths, he is talking about morality. Based on science and logic it is strongly evident that there is no such thing as free will. This doesn't mean we should forget about morality. We are in a stubbornly persistent illusion that we have free will and so we should always consider ourselves as responsible beings to be consistent with our illusion.<a href="#a7">↩</a>

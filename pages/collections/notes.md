@@ -37,3 +37,6 @@ Also, check my [Relativity textbooks review]({{ site.baseurl }}/blog/2021/06/rel
 9) <a href='https://webspace.science.uu.nl/~gadda001/goodtheorist/index.html' target="_blank">How to become a
 GOOD Theoretical Physicist by ’t Hooft</a><br>
 10) <a href='https://ugr.ue.ucsc.edu/email' target="_blank">How to Email a Research Professor</a><br>
+11) <a href='https://math.ucr.edu/home/baez/advice.html' target="_blank">Advice for the Young Scientist by John Baez</a><br>
+12) <a href='https://terrytao.wordpress.com/career-advice/' target="_blank">Career advice by Terence Tao</a><br>
+13) <a href='https://docs.google.com/document/d/1KBovBeg_kl6nAk8fTBYQdHMo8o3o0IgunPE3R7_OEHM/edit' target="_blank">So You Want To Be A Physicist by ZapperZ</a><br>

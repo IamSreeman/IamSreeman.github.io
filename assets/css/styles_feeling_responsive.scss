@@ -52,5 +52,6 @@ $environment: '{{ jekyll.environment }}';
 @import "timeline.scss";
 
 @import "11_syntax-highlighting.scss";
-
+@import "timeline.scss";
 {% include site-data_colors.scss %}
+
