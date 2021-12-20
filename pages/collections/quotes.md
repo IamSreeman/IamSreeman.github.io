@@ -105,6 +105,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikiquote.org/wiki/David_Hilbert" target="_blank">David Hilbert</a>
 
+>“I had no need of that hypothesis.” [When Napoleon said “Laplace, they tell me you have written this large book on the system of the universe, and have never even mentioned its Creator”]
+
+― <a href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace" target="_blank">Pierre-Simon Laplace</a>
+
 >“<a href="https://en.wikipedia.org/wiki/Nirvana" target="_blank">Nirvana</a> is a state of pure blissful knowledge... It has nothing to do with the individual. The ego or its separation is an illusion. Indeed in a certain sense two "I"'s are identical namely when one disregards all special contents — their Karma. The goal of man is to preserve his Karma and to develop it further... when man dies his Karma lives and creates for itself another carrier.”
 
 >“In itself, the insight is not new. The earliest records, to my knowledge, date back some 2500 years or more... the recognition **<a href="https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)" target="_blank">ATMAN</a> = <a href="https://en.wikipedia.org/wiki/Brahman" target="_blank">BRAHMAN</a>** (the personal self equals the omnipresent, all-comprehending eternal self) was in Indian thought considered, far from being blasphemous, to represent the quintessence of deepest insight into the happenings of the world. The striving of all the scholars of Vedanta was after having learnt to pronounce with their lips, really assimilate in their minds this grandest of all thoughts.
@@ -288,19 +292,37 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://en.wikipedia.org/wiki/George_Bernard_Shaw" target="_blank">George Bernard Shaw</a>
 
+>“If there is a God, atheism must strike Him as less of an insult than religion.”
+
+― <a href="https://en.wikipedia.org/wiki/Edmond_de_Goncourt" target="_blank">Edmond de Goncourt</a>
+
+>“Clarke's three laws:<br>
+> 1.When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.<br>
+>2.The only way of discovering the limits of the possible is to venture a little way past them into the impossible.<br>
+>3.Any sufficiently advanced technology is indistinguishable from magic.<br>
+>As three laws were good enough for Newton, I have modestly decided to stop there”
+
+>“The greatest tragedy in mankind's entire history may be the hijacking of morality by religion.”
+
+>“Science can destroy religion by ignoring it as well as by disproving its tenets. No one ever demonstrated, so far as I am aware, the non-existence of Zeus or Thor — but they have few followers now.”
+
+>“The rash assertion that 'God made man in His own image' is ticking like a time bomb at the foundation of many faiths, and as the hierarchy of the universe is disclosed to us, we may have to recognize this chilling truth: if there are any gods whose chief concern is man, they cannot be very important gods.”
+
+>“Religion is the most malevolent and persistent of all mind viruses. We should get rid of it as quick as we can.”
+
+>“It is not easy to see how the more extreme forms of nationalism can long survive when men have seen the Earth in its true perspective as a single small globe against the stars.”
+
+― <a href="https://en.wikipedia.org/wiki/Arthur_C._Clarke" target="_blank">Arthur C. Clarke</a>
+
+>“If I were not an atheist, I would believe in a God who would choose to save people on the basis of the totality of their lives and not the pattern of their words. I think he would prefer an honest and righteous atheist to a TV preacher whose every word is God, God, God, and whose every deed is foul, foul, foul.”
+
+― <a href="https://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a>
+
 >“However statistically improbable the entity you seek to explain by invoking a designer, the designer himself has got to be at least as improbable. God is the [Ultimate Boeing 747](https://en.wikipedia.org/wiki/Ultimate_Boeing_747_gambit).”
 
 >“The God of the Old Testament is arguably the most unpleasant character in all fiction: jealous and proud of it; a petty, unjust, unforgiving control-freak; a vindictive, bloodthirsty ethnic cleanser; a misogynistic, homophobic, racist, infanticidal, genocidal, filicidal, pestilential, megalomaniacal, sadomasochistic, capriciously malevolent bully.”
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Dawkins" target="_blank">Richard Dawkins</a>
-
->“If there is a God, atheism must strike Him as less of an insult than religion.”
-
-― <a href="https://en.wikipedia.org/wiki/Edmond_de_Goncourt" target="_blank">Edmond de Goncourt</a>
-
->“If I were not an atheist, I would believe in a God who would choose to save people on the basis of the totality of their lives and not the pattern of their words. I think he would prefer an honest and righteous atheist to a TV preacher whose every word is God, God, God, and whose every deed is foul, foul, foul.”
-
-― <a href="https://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a>
 
 >Asking, 'If there is no God, what is the purpose of life?' is like asking, 'If there is no master, whose slave will I be?' If your purpose of life is to submit as a slave, then your meaning comes from flattering the ego of a person whom you should detest.”
 
@@ -375,7 +397,17 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://typemoon.fandom.com/wiki/Kiritsugu_Emiya" target="_blank">Kiritsugu Emiya</a>
 
+>“A wound that'd make an ordinary man unconscious... I won't lose to it. A wound that would kill an ordinary person... I won't lose to it! To face one who is extraordinary, <a href="https://onepiece.fandom.com/wiki/Dracule_Mihawk" target="_blank">Hawk Eyes</a>... **I can't allow myself to be ordinary!**”
 
+>“If I die here, then I'm a man that could only make it this far.”
+
+>“If I can’t even protect my captain’s dream, then whatever ambition I have is nothing but talk! <a href="https://onepiece.fandom.com/wiki/Monkey_D._Luffy" target="_blank">Luffy</a> must be the man who becomes the Pirate King!”
+
+― <a href="https://onepiece.fandom.com/wiki/Roronoa_Zoro" target="_blank">Roronoa Zoro</a>
+
+>“One day you’ll see how important it was to save the Strawhats and let them set sail.”
+
+― <a href="https://onepiece.fandom.com/wiki/Pedro" target="_blank">Pedro</a>
 
 <b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.<a href="#a1">↩</a>
 
