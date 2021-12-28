@@ -151,7 +151,19 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Eugene_Wigner" target="_blank">Eugene Wigner</a>
 
+>“It is a great pity that human beings cannot find all of their satisfaction in scientific contemplativeness.”
+
+>“It is wrong to think that the task of physics is to find out how nature is. Physics concerns what we can say about nature...”
+
+>“Every sentence I utter must be understood not as an affirmation, but as a question.”
+
+>“I am absolutely prepared to talk about the spiritual life of an electronic computer: to state that it is reflecting or is in a bad mood... The question whether the machine really feels or ponders, or whether it merely looks as though it did, is of course absolutely meaningingless.”
+
+― <a href="https://en.wikipedia.org/wiki/Niels_Bohr" target="_blank">Niels Bohr</a>
+
 >“Niels Bohr brain-washed a whole generation of physicists into believing that the problem had been solved fifty years ago [comment on the Copenhagen interpretation].”
+
+>“I thought of killing myself but soon decided that I could always try MIT and then kill myself later if it was that bad but that I couldn't commit suicide and then try MIT afterwards. The two operations, suicide and going to MIT, don't commute...”
 
 ― <a href="https://en.wikipedia.org/wiki/Murray_Gell-Mann" target="_blank">Murray Gell-Mann</a>
 
@@ -181,6 +193,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores ***our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot***, the only home we've ever known.”
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>
+
+>“Prediction is very difficult, especially about the future.”
+
+― Unknown person
 ### Philosophers
 
 >“**Desires** are the root cause of **sadness**.”<sup id="a6"><a href="#f6">6</a></sup>
@@ -318,25 +334,55 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a>
 
->“However statistically improbable the entity you seek to explain by invoking a designer, the designer himself has got to be at least as improbable. God is the [Ultimate Boeing 747](https://en.wikipedia.org/wiki/Ultimate_Boeing_747_gambit).”
+>“There is a ~~theory~~ belief which states that if ever anyone discovers exactly ~~what the Universe is for and why it is here~~ how to quantize gravity, it will instantly disappear and be replaced by ~~something even more bizarre and inexplicable~~ a universe in which quantizing gravity is even harder. There is another ~~theory~~ belief which states that this has already happened.” (The original is strickenthrough and edited)
+
+>“In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.”
+
+>“Imagine a puddle waking up one morning and thinking, "This is an interesting world I find myself in — an interesting hole I find myself in — fits me rather neatly, doesn't it? In fact it fits me staggeringly well, may have been made to have me in it!" This is such a powerful idea that as the sun rises in the sky and the air heats up and as, gradually, the puddle gets smaller and smaller, it's still frantically hanging on to the notion that everything's going to be alright, because this world was meant to have him in it, was built to have him in it; so the moment he disappears catches him rather by surprise. I think this may be something we need to be on the watch out for. We all know that at some point in the future the Universe will come to an end and at some other point, considerably in advance from that but still not immediately pressing, the sun will explode. We feel there's plenty of time to worry about that, but on the other hand that's a very dangerous thing to say.”
+
+>“"Sir Isaac Newton, renowned inventor of the milled-edge coin and the catflap!"<br>
+"The what?" said Richard.<br>
+"The catflap! A device of the utmost cunning, perspicuity and invention. It is a door within a door, you see, a ..."<br>
+"Yes," said Richard, "there was also the small matter of gravity."<br>
+"Gravity," said Dirk with a slightly dismissive shrug, "yes, there was that as well, I suppose. Though that, of course, was merely a discovery. It was there to be discovered." …<br>
+"You see?" he said dropping his cigarette butt, "**They even keep it on at weekends. Someone was bound to notice sooner or later**. But the catflap … ah, there is a very different matter. Invention, pure creative invention. It is a door within a door, you see."”
+
+― <a href="https://en.wikipedia.org/wiki/Douglas_Adams" target="_blank">Douglas Adams</a>
+
+>“However statistically improbable the entity you seek to explain by invoking a designer, the designer himself has got to be at least as improbable. God is the <a href="https://en.wikipedia.org/wiki/Ultimate_Boeing_747_gambit" target="_blank">Ultimate Boeing 747</a>.”
 
 >“The God of the Old Testament is arguably the most unpleasant character in all fiction: jealous and proud of it; a petty, unjust, unforgiving control-freak; a vindictive, bloodthirsty ethnic cleanser; a misogynistic, homophobic, racist, infanticidal, genocidal, filicidal, pestilential, megalomaniacal, sadomasochistic, capriciously malevolent bully.”
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Dawkins" target="_blank">Richard Dawkins</a>
 
+>“How easy it is to make people believe a lie, and hard it is to undo that work again!” (Often paraphrased as “It's easier to fool people than to convince them that they have been fooled.”)
+
+>“The easy confidence with which I know another man's religion is folly teaches me to suspect that my own is also.”
+
+>“Lincoln's <a href="https://en.wikipedia.org/wiki/Emancipation_Proclamation" target="_blank">Proclamation</a> ... not only set the black slaves free, but set the white man free also.”
+
+>“There is one notable thing about our Christianity: bad, bloody, merciless, money-grabbing, and predatory as it is – in our country particularly and in all other Christian countries in a somewhat modified degree – it is still a hundred times better than the Christianity of the Bible, with its prodigious crime – the invention of Hell. Measured by our Christianity of to-day, bad as it is, hypocritical as it is, empty and hollow as it is, neither the Deity nor his Son is a Christian, nor qualified for that moderately high place. Ours is a terrible religion. The fleets of the world could swim in spacious comfort in the innocent blood it has spilled.”
+
+>“Belgium's royal palace is still what it has been for the last 14 years: a lair of a wild beast that for its money every year <a href="https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State" target="_blank">mutilates, murders and starves</a> a half million helpless natives in the Congo Free State.”
+
+― <a href="https://en.wikipedia.org/wiki/Mark_Twain" target="_blank">Mark Twain</a>
+
+>“I disapprove of what you say, but I will defend to the death your right to say it.” (His ideology condensed into a sentence by Evelyn Beatrice Hall)
+
+>“Confucius has no interest in falsehood; he did not pretend to be prophet; he claimed no inspiration; he taught no new religion; he used no delusions; flattered not the emperor under whom he lived...”
+
+>“Ours [i.e., the Christian religion] is assuredly the most ridiculous, the most absurd and the most bloody religion which has ever infected this world. Your Majesty will do the human race an eternal service by extirpating this infamous superstition, I do not say among the rabble, who are not worthy of being enlightened and who are apt for every yoke; I say among honest people, among men who think, among those who wish to think. ... My one regret in dying is that I cannot aid you in this noble enterprise, the finest and most respectable which the human mind can point out.”
+
+>“The Veda was the most precious gift for which the West had ever been indebted to the East.” (This statement is obviously wrong. The most precious gift is the Hindu numeral system. It is often wrongly called as Arabic numeral system. Vedas are useless in comparison to the Hindu numeral system.)
+― <a href="https://en.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a>
+
 >Asking, 'If there is no God, what is the purpose of life?' is like asking, 'If there is no master, whose slave will I be?' If your purpose of life is to submit as a slave, then your meaning comes from flattering the ego of a person whom you should detest.”
 
 ― <a href="https://en.wikipedia.org/wiki/Dan_Barker" target="_blank">Dan Barker</a>
 
->“In some ways people had got used to the idea that India was spiritual and religion-oriented. That gave a leg up to the religious interpretation of India, despite the fact that Sanskrit had a larger atheistic literature than exists in any other classical language. Madhava Acharya, the remarkable 14th century philosopher, wrote this rather great book called <a href="https://en.wikipedia.org/wiki/Vidyaranya#Sarvadar%C5%9Banasa%E1%B9%85graha" target="_blank">Sarvadarśanasaṅgraha</a>, which discussed all the religious schools of thought within the Hindu structure. The first chapter is "<a href="https://en.wikipedia.org/wiki/Charvaka" target="_blank">Cārvāka</a>" or "Atheism"—a very strong presentation of the argument in favor of atheism and materialism.”
+>“In some ways people had got used to the idea that India was spiritual and religion-oriented. That gave a leg up to the religious interpretation of India, despite the fact that Sanskrit had a larger atheistic literature than exists in any other classical language. Madhava Acharya, the remarkable 14th century philosopher, wrote this rather great book called <a href="https://en.wikipedia.org/wiki/Vidyaranya#Sarvadar%C5%9Banasa%E1%B9%85graha" target="_blank">Sarvadarśanasaṅgraha</a>, which discussed all the religious schools of thought within the Hindu structure. The first chapter is "<a href="https://en.wikipedia.org/wiki/Charvaka" target="_blank">Cārvāka</a>" or "Atheism"—a very strong presentation of the argument in favour of atheism and materialism.”
 
 ― <a href="https://en.wikipedia.org/wiki/Amartya_Sen" target="_blank">Amartya Sen</a>
-
->“All men are my children. What I desire for my own children, and I desire their welfare and happiness both in this world and the next, that I desire for all men. You do not understand to what extent I desire this, and if some of you do understand, you do not understand the full extent of my desire.”
-
->“Wherever medical herbs suitable for humans or animals are not available, I have had them imported and grown. Wherever medical roots or fruits are not available I have had them imported and grown. Along roads I have had wells dug and trees planted for the benefit of humans and animals.”
-
-― <a href="https://en.wikipedia.org/wiki/Ashoka" target="_blank">Ashoka</a>
 
 >“Ashoka , one of the great monarchs of history, whose dominions extended from Afghanistan to Madras... is the only military monarch on record who abandoned warfare after victory. He had invaded Kalinga (255 B.C.), a country along the east coast of Madras, perhaps with some intention of completing the conquest of the tip of the Indian peninsula. The expedition was successful, but he was disgusted by what be saw of the cruelties and horrors of war. He declared, in certain inscriptions that still exist, that he would no longer seek conquest by war, but by religion, and the rest of his life was devoted to the spreading of Buddhism throughout the world. He seems to have ruled his vast empire in peace and with great ability. **He was no mere religious fanatic. For eight and twenty years Asoka worked sanely for the real needs of men.** In the history of the world there have been thousands of kings and emperors who called themselves "their highnesses," "their majesties," and "their exalted majesties" and so on. They shone for a brief moment, and as quickly disappeared. But Ashoka shines and shines brightly like a bright star, even unto this day.”
 
@@ -398,6 +444,8 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 ― <a href="https://typemoon.fandom.com/wiki/Kiritsugu_Emiya" target="_blank">Kiritsugu Emiya</a>
 
 >“A wound that'd make an ordinary man unconscious... I won't lose to it. A wound that would kill an ordinary person... I won't lose to it! To face one who is extraordinary, <a href="https://onepiece.fandom.com/wiki/Dracule_Mihawk" target="_blank">Hawk Eyes</a>... **I can't allow myself to be ordinary!**”
+
+>“To be the best you have to accept that you're not the best but have the will to strive and to be better than anyone you face.”
 
 >“If I die here, then I'm a man that could only make it this far.”
 
