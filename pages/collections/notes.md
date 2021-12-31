@@ -11,6 +11,16 @@ teaser: "You can find some of my notes here."
 [Spring 2020-2021 (4th semester)](#spring-2020-2021)<br>
 [Other useful links](#other-useful-links)
 
+##### Autumn 2021-2022
+- Quantum mechanics 2 notes<br>
+<a href='{{ site.baseurl }}/notes/QM2.pdf' target="_blank">View PDF</a><br>
+Contains perturbation theory and scattering. Mainly from <a href='https://www.google.co.in/books/edition/Principles_of_Quantum_Mechanics/sDvrBwAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target="_blank">Principles of Quantum Mechanics by Shankar</a>.<br>
+- Quantum mechanics 3 notes<br>
+<a href='{{ site.baseurl }}/notes/QM3.pdf' target="_blank">View PDF</a><br>
+Contains relativistic quantum mechanics and scalar quantum field theory.
+- Philosophy notes<br>
+<a href='{{ site.baseurl }}/notes/Philosophy.pdf' target="_blank">View PDF</a><br>
+Contains Modern philosophy and Indian philosophy.<br>
 ##### Spring 2020-2021
 
 - Quantum mechanics I notes<br>

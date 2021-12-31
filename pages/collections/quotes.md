@@ -50,7 +50,17 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
 
+>“Absolute, true and mathematical time, of itself, and from its own nature flows equably without regard to anything external, and by another name is called duration: relative, apparent and common time, is some sensible and external (whether accurate or unequable) measure of duration by the means of motion, which is commonly used instead of true time ...”
+
 >“If I have seen further it is by standing on the shoulders of Giants.”
+
+>“To explain all nature is too difficult a task for any one man or even for any one age. 'Tis much better to do a little with certainty, & leave the rest for others that come after you, than to explain all things by conjecture without making sure of any thing.”
+
+>“I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the sea-shore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.”
+
+>“I have not been able to discover the cause of those properties of gravity from phenomena, and I frame no hypotheses; for whatever is not deduced from the phenomena is to be called a hypothesis, and hypotheses, whether metaphysical or physical, whether of occult qualities or mechanical, have no place in experimental philosophy.”
+
+>“I have studied these things — you have not.”<sup id="a2"><a href="#f2">2</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">Isaac Newton</a>
 
@@ -58,7 +68,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Silvanus_P._Thompson" target="_blank">Silvanus P. Thompson</a>
 
->“The black holes of nature are **the most perfect macroscopic objects there are in the universe**: the only elements in their construction are our concepts of space and time. And since the general theory of Relativity provides only a single unique family of solutions for their descriptions, they are the simplest objects as well.”<sup id="a2"><a href="#f2">2</a></sup>
+>“The black holes of nature are **the most perfect macroscopic objects there are in the universe**: the only elements in their construction are our concepts of space and time. And since the general theory of Relativity provides only a single unique family of solutions for their descriptions, they are the simplest objects as well.”<sup id="a3"><a href="#f3">3</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank">Subrahmanyan Chandrasekhar</a>
 
@@ -68,16 +78,17 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“I have lived with the prospect of an early death for the last 49 years. I'm not afraid of death, but I'm in no hurry to die. I have so much I want to do first ... I regard the brain as a computer which will stop working when its components fail. There is no heaven or afterlife for broken down computers; that is a fairy story for people afraid of the dark.”
 
+>“I used to think that information was destroyed in black holes. But the <a href="https://en.wikipedia.org/wiki/AdS/CFT_correspondence" target="_blank">AdS/CFT correspondence</a> led me to change my mind. This was my biggest blunder, or at least my biggest blunder in science.”
+
 ― <a href="https://en.wikipedia.org/wiki/Stephen_Hawking" target="_blank">Stephen Hawking</a>
 
 >“I cannot understand why we idle discussing **religion**. If we are honest—and scientists have to be—we must admit that religion is a jumble of **false assertions**, with no basis in reality. The very idea of God is a product of the human imagination. It is quite understandable why **primitive people**, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling.
 >
 >But nowadays, when we understand so many natural processes, we have no need for such solutions. I can't for the life of me see how the **postulate** of an **Almighty God** helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit.
 >
->Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”<sup id="a3"><a href="#f3">3</a></sup>
+>Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”<sup id="a4"><a href="#f4">4</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>
-
 
 >“Religion is an insult to **human dignity**. Without it you would have good people doing good things and evil people doing evil things.But for good people to do evil things, that takes **religion**.”
 
@@ -93,7 +104,11 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Galileo_Galilei" target="_blank">Galileo Galilei</a>
 
->“Physics is too hard for physicists.”<sup id="a4"><a href="#f4">4</a></sup>
+>“It is of great advantage to the student of any subject to read the original memoirs on that subject, for science is always most completely assimilated when it is in the nascent state...”
+
+― <a href="https://en.wikipedia.org/wiki/James_Clerk_Maxwell" target="_blank">James Clerk Maxwell</a>
+
+>“Physics is too hard for physicists.”<sup id="a5"><a href="#f5">5</a></sup>
 
 >“But he (Galileo) was not an idiot,... **Only an idiot could believe that scientific truth needs martyrdom** — that may be necessary in religion, but scientific results prove themselves in time.”
 
@@ -101,7 +116,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the [ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus). For us there is no ignorabimus, and in my opinion none whatever in natural science. In opposition to the foolish ignorabimus our slogan shall be:
 >
->We must know — we will know!”<sup id="a5"><a href="#f5">5</a></sup>
+>We must know — we will know!”<sup id="a6"><a href="#f6">6</a></sup>
 
 ― <a href="https://en.wikiquote.org/wiki/David_Hilbert" target="_blank">David Hilbert</a>
 
@@ -167,13 +182,33 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Murray_Gell-Mann" target="_blank">Murray Gell-Mann</a>
 
+>“I don't think that any physicist would have been clever enough to have invented string theory on purpose... Luckily, it was invented by accident.”
+
+>“String theory is extremely attractive because gravity is forced upon us. All known consistent string theories include gravity, so while gravity is impossible in quantum field theory as we have known it, it is obligatory in string theory.”
+
+>“It's been said that string theory is part of the physics of the twenty-first century that fell by chance into the twentieth century. That's a remark that was made by a leading physicist about fifteen years ago. ...String theory was invented essentially by accident in a long series of events, starting with the Veneziano model... No one invented it on purpose, it was invented in a lucky accident. ...By rights, string theory shouldn't have been invented until our knowledge of some of the areas that are prerequisite... had developed to the point that it was possible for us to have the right concept of what it is all about.”
+
+>“Generally speaking, all the really great ideas of physics are really spin-offs of string theory... Some of them were discovered first, but I consider that a mere accident of the development on planet earth. On planet earth, they were discovered in this order [general relativity, quantum field theory, superstrings, and supersymmetry]... But I don't believe, if there are many civilizations in the universe, that those four ideas were discovered in that order in each civilization.”
+
+― <a href="https://en.wikipedia.org/wiki/Edward_Witten" target="_blank">Edward Witten</a>
+
+>“In pre-relativistic mechanics, time is a special physical quantity, whose value is measured by physical clocks, that plays the role of the independent variable of physical evolution.”
+
+>“Time is... the expression of our ignorance of the full microstate.”
+
+― <a href="https://en.wikipedia.org/wiki/Carlo_Rovelli" target="_blank">Carlo Rovelli</a>
+
 >“The question of the origin of the matter in the universe is no longer thought to be beyond the range of science — everything can be created from nothing…it is fair to say that the universe is the ultimate free lunch.”
 
 ― <a href="https://en.wikipedia.org/wiki/Alan_Guth" target="_blank">Alan Guth</a>
 
+>“Perhaps I may claim as evidence for progress in religion the fact that we no longer burn heretics.”
+
+― <a href="https://en.wikipedia.org/wiki/Freeman_Dyson" target="_blank">Freeman Dyson</a>
+
 >“There are countless suns and countless earths all rotating round their suns in exactly the same way as the seven planets of our system.”
 
->“You may be more afraid to bring that sentence against me than I am to accept it.”
+>“You may be more afraid to bring that sentence against me than I am to accept it.”<sup id="a7"><a href="#f7">7</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Giordano_Bruno" target="_blank">Giordano Bruno</a>
 
@@ -199,7 +234,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 ― Unknown person
 ### Philosophers
 
->“**Desires** are the root cause of **sadness**.”<sup id="a6"><a href="#f6">6</a></sup>
+>“**Desires** are the root cause of **sadness**.”<sup id="a8"><a href="#f8">8</a></sup>
 
 >“I say that there are three instances in which meat should not be consumed: when it is seen, heard, or suspected [that the animal was killed for one’s sake]. These are the three instances in which I say that meat should not be consumed.”
 
@@ -218,7 +253,7 @@ nor upon specious reasoning (ākāra-parivitakka),<br>
 nor upon a bias towards a notion that has been pondered over (diṭṭhi-nijjhān-akkh-antiyā),<br>
 nor upon another's seeming ability (bhabba-rūpatāya),<br>
 nor upon the consideration, The monk is our teacher (samaṇo no garū).<br>
-Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.”<sup id="a7"><a href="#f7">7</a></sup>
+Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.”<sup id="a9"><a href="#f9">9</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a> (I do not support main stream ***unscientific*** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
 
@@ -290,6 +325,16 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“Those who can make you believe absurdities can make you commit atrocities.”
 
 >“It is difficult to free fools from the chains they revere.”
+
+>“I disapprove of what you say, but I will defend to the death your right to say it.” (His ideology condensed into a sentence by Evelyn Beatrice Hall)
+
+>“Confucius has no interest in falsehood; he did not pretend to be prophet; he claimed no inspiration; he taught no new religion; he used no delusions; flattered not the emperor under whom he lived...”
+
+>“Ours [i.e., the Christian religion] is assuredly the most ridiculous, the most absurd and the most bloody religion which has ever infected this world. Your Majesty will do the human race an eternal service by extirpating this infamous superstition, I do not say among the rabble, who are not worthy of being enlightened and who are apt for every yoke; I say among honest people, among men who think, among those who wish to think. ... My one regret in dying is that I cannot aid you in this noble enterprise, the finest and most respectable which the human mind can point out.”
+
+>“Goa is sadly famous for <a href="https://en.wikipedia.org/wiki/Goa_Inquisition" target="_blank">its inquisition</a>, equally contrary to humanity and commerce. The Portuguese monks made us believe that the people worshipped the devil, and it is they who have served him.”
+
+>“The Veda was the most precious gift for which the West had ever been indebted to the East.”<sup id="a10"><a href="#f10">10</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a>
 
@@ -367,14 +412,9 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://en.wikipedia.org/wiki/Mark_Twain" target="_blank">Mark Twain</a>
 
->“I disapprove of what you say, but I will defend to the death your right to say it.” (His ideology condensed into a sentence by Evelyn Beatrice Hall)
+>“If there is a God, He will have to beg my forgiveness.”
 
->“Confucius has no interest in falsehood; he did not pretend to be prophet; he claimed no inspiration; he taught no new religion; he used no delusions; flattered not the emperor under whom he lived...”
-
->“Ours [i.e., the Christian religion] is assuredly the most ridiculous, the most absurd and the most bloody religion which has ever infected this world. Your Majesty will do the human race an eternal service by extirpating this infamous superstition, I do not say among the rabble, who are not worthy of being enlightened and who are apt for every yoke; I say among honest people, among men who think, among those who wish to think. ... My one regret in dying is that I cannot aid you in this noble enterprise, the finest and most respectable which the human mind can point out.”
-
->“The Veda was the most precious gift for which the West had ever been indebted to the East.” (This statement is obviously wrong. The most precious gift is the Hindu numeral system. It is often wrongly called as Arabic numeral system. Vedas are useless in comparison to the Hindu numeral system.)
-― <a href="https://en.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a>
+— A phrase that was carved on the walls of <a href="https://en.wikipedia.org/wiki/Mauthausen_concentration_camp" target="_blank">Mauthausen Nazi concentration camp</a> cell during WWII by a prisoner.
 
 >Asking, 'If there is no God, what is the purpose of life?' is like asking, 'If there is no master, whose slave will I be?' If your purpose of life is to submit as a slave, then your meaning comes from flattering the ego of a person whom you should detest.”
 
@@ -457,16 +497,23 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://onepiece.fandom.com/wiki/Pedro" target="_blank">Pedro</a>
 
-<b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of GR or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.<a href="#a1">↩</a>
+<b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of General Relativity (GR) or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.<a href="#a1">↩</a>
 
-<b id="f2">2)</b> This statement was made considering General Relativity, a classical theory. It was written in 1983 (9 years after Hawking radiation was predicted) in the preface of his book. Maybe he was unaware of the humongous number of states needed for a black hole to interpret Bekenstein-Hawking entropy statistically.<a href="#a2">↩</a> 
+<b id="f2">2)</b> This was Newton's response whenever <a href="https://en.wikipedia.org/wiki/Edmond_Halley" target="_blank">Edmond Halley</a> mocked religion or alchemy. Newton said on atheism: *“Atheism is so senseless & odious to mankind that it never had many professors. Can it be by accident that all birds beasts & men have their right side & left side alike shaped (except in their bowels) & just two eyes & no more on either side the face & just two ears on either side the head & a nose with two holes & no more between the eyes & one mouth under the nose & either two fore leggs or two wings or two arms on the sholders & two leggs on the hipps one on either side & no more? Whence arises this uniformity in all their outward shapes but from the counsel & contrivance of an Author? Whence is it that the eyes of all sorts of living creatures are transparent to the very bottom & the only transparent members in the body, having on the outside an hard transparent skin, & within transparent juyces with a crystalline Lens in the middle & a pupil before the Lens all of them so truly shaped & fitted for vision, that no Artist can mend them? Did blind chance know that there was light & what was its refraction & fit the eyes of all creatures after the most curious manner to make use of it? These & such like considerations always have & ever will prevail with man kind to believe that there is a being who made all things & has all things in his power & who is therfore to be feared.”*<br>
+Newton is widely considered as one of the top 2 physicists of all time (the other being Einstein. Example: <a href="https://en.wikipedia.org/wiki/Lev_Landau#Landau's_ranking_of_physicists" target="_blank">Landau's ranking of physicists</a>). You may ask: 'How could some that intelligent believe in something as silly as religion?'. But we should understand that those questions above were unexplainable back in those days as biology was not mature enough to answer them.<a href="#a2">↩</a>
 
-<b id="f3">3)</b> At the 1927 Solvay Conference.<a href="#a3">↩</a>
+<b id="f3">3)</b> This statement was made considering GR, a classical theory. It was written in 1983 (9 years after Hawking radiation was predicted) in the preface of his book. Maybe he was unaware of the humongous number of states needed for a black hole to interpret Bekenstein-Hawking entropy statistically unlike in GR where the <a href="https://en.wikipedia.org/wiki/No-hair_theorem" target="_blank">No-hair theorem</a> restricts the degrees of freedom.<a href="#a3">↩</a>
 
-<b id="f4">4)</b> He meant mathematicians should become part time physicists and help them otherwise they can't do it.<a href="#a4">↩</a>
+<b id="f4">4)</b> At the 1927 Solvay Conference.<a href="#a4">↩</a>
 
-<b id="f5">5)</b> He was not aware of Gödel's incompleteness theorems when saying this.<a href="#a5">↩</a>
+<b id="f5">5)</b> He meant mathematicians should become part time physicists and help them otherwise they can't do it.<a href="#a5">↩</a>
 
-<b id="f6">6)</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>.<a href="#a6">↩</a>
+<b id="f6">6)</b> He was not aware of Gödel's incompleteness theorems when saying this.<a href="#a6">↩</a>
 
-<b id="f7">7)</b> Taken from <a href="https://en.wikipedia.org/wiki/Kesamutti_Sutta" target="_blank">Kesamutti Sutta</a>. Often times some people people misinterpret this quote to portray Buddhism as a religion based on logic, even though Buddha stated that one should not determine the validity of a statement "by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought". When dealing with scientific theories logic should be given at most importance. But Buddha is not talking about scientific truths, he is talking about morality. Based on science and logic it is strongly evident that there is no such thing as free will. This doesn't mean we should forget about morality. We are in a stubbornly persistent illusion that we have free will and so we should always consider ourselves as responsible beings to be consistent with our illusion.<a href="#a7">↩</a>
+<b id="f7">7)</b> His reply before he was burned to death because he rejected Catholic doctrines, embraced pantheism and for his cosmological theories. <a href="#a7">↩</a>
+
+<b id="f8">8)</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>.<a href="#a8">↩</a>
+
+<b id="f9">9)</b> Taken from <a href="https://en.wikipedia.org/wiki/Kesamutti_Sutta" target="_blank">Kesamutti Sutta</a>. Often times some people people misinterpret this quote to portray Buddhism as a religion based on logic, even though Buddha stated that one should not determine the validity of a statement "by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought". When dealing with scientific theories logic should be given at most importance. But Buddha is not talking about scientific truths, he is talking about morality. Based on science and logic it is strongly evident that there is no such thing as free will. This doesn't mean we should forget about morality. We are in a stubbornly persistent illusion that we have free will and so we should always consider ourselves as responsible beings to be consistent with our illusion.<a href="#a9">↩</a>
+
+<b id="f10">10)</b> This statement is obviously wrong. The most precious gift is the Hindu numeral system. It is often wrongly called as Arabic numeral system. Vedas are useless in comparison to the Hindu numeral system.<a href="#a10">↩</a>
