@@ -25,7 +25,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 - [Physicists](#physicists)
 - [Philosophers](#philosophers)
 - [Others](#others)
-
+  - [Veganism](#veganism)
 ### Physicists
 
 >“I worked horribly strenuously, strange that one can endure that.”<sup id="a1"><a href="#f1">1</a></sup>
@@ -201,6 +201,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“The question of the origin of the matter in the universe is no longer thought to be beyond the range of science — everything can be created from nothing…it is fair to say that the universe is the ultimate free lunch.”
 
 ― <a href="https://en.wikipedia.org/wiki/Alan_Guth" target="_blank">Alan Guth</a>
+
+>“The Big Bang is the poor man's particle accelerator.”
+
+― <a href="https://en.wikipedia.org/wiki/Yakov_Zeldovich" target="_blank">Yakov Zeldovich</a>
 
 >“Perhaps I may claim as evidence for progress in religion the fact that we no longer burn heretics.”
 
@@ -440,13 +444,171 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 >“So, monotheism explains order, but is mystified by evil. Dualism explains evil, but is puzzled by order. There is one logical way of solving the riddle: to argue that there is a single omnipotent God who created the entire universe – and He's ***evil***. But nobody in history has had the stomach for such a belief.”
 
+>“Capitalism did not defeat communism because capitalism was more ethical, because individual liberties are sacred or because God was angry with the heathen communists. Rather, capitalism won the Cold War because distributed data processing works better than centralised data processing, at least in periods of accelerating technological change. The central committee of the Communist Party just could not deal with the rapidly changing world of the late twentieth century. When all data is accumulated in one secret bunker, and all important decisions are taken by a group of elderly apparatchiks, they can produce nuclear bombs by the cartload, but not an Apple or a Wikipedia.”
+
 >“Today more than ninety per cent of all large animals are domesticated. Consider the chicken, for example. Ten thousand years ago it was a rare bird confined to small niches of South Asia. Today billions of chickens live on almost every continent and island, bar Antarctica. The domesticated chicken is probably the most widespread bird in the annals of planet Earth. If you measure success in terms of numbers, chickens, cows and pigs are the most successful animals ever. Alas, domesticated species paid for their unparalleled collective success with unprecedented individual suffering.”
 
 >“Yet from the viewpoint of the herd, rather than that of the shepherd, it’s hard to avoid the impression that for the vast majority of domesticated animals, the Agricultural Revolution was a terrible catastrophe. Their evolutionary ‘success’ is meaningless. A rare wild rhinoceros on the brink of extinction is probably more satisfied than a calf who spends its short life inside a tiny box, fattened to produce juicy steaks. The contented rhinoceros is no less content for being among the last of its kind. The numerical success of the calf’s species is little consolation for the suffering the individual endures.”
 
->“Capitalism did not defeat communism because capitalism was more ethical, because individual liberties are sacred or because God was angry with the heathen communists. Rather, capitalism won the Cold War because distributed data processing works better than centralised data processing, at least in periods of accelerating technological change. The central committee of the Communist Party just could not deal with the rapidly changing world of the late twentieth century. When all data is accumulated in one secret bunker, and all important decisions are taken by a group of elderly apparatchiks, they can produce nuclear bombs by the cartload, but not an Apple or a Wikipedia.”
-
 ― <a href="https://en.wikipedia.org/wiki/Yuval_Noah_Harari" target="_blank">Yuval Noah Harari</a>
+
+#### Veganism
+
+>“Our study [China–Cornell–Oxford Project: The Most Comprehensive Study of Nutrition Ever Conducted] suggests that the closer one approaches a total plant food diet, the greater the health benefit. … It turns out that animal protein, when consumed, exhibits a variety of undesirable health effects. Whether it is the immune system, various enzyme systems, the uptake of carcinogens into the cells, or hormonal activities, animal protein generally only causes mischief. High fat intake still can be a problem, and we ought not to be consuming such high-fat diets. But I suggest that animal protein is more problematic in this whole diet/disease relationship than is total fat.”
+
+― <a href="https://en.wikipedia.org/wiki/T._Colin_Campbell" target="_blank">T. Colin Campbell</a><span style="color:Chartreuse">(biochemist who specializes in the effect of nutrition on long-term health)</span>
+
+>“I credit my plant-based diet with giving me the energy and stamina to help carry my teams to four NBA championship wins. … Veganism has become a transformative part of my life and I have made it my mission to share the power of plant-based eating with the world. … Vegan eating is not just a slam dunk for human health; it’s also the most effective way to combat climate change, according to a 2010 report by the United Nations. … going vegan is one of the best things a person can do **for their health, for animals, and for the environment**.”
+
+― <a href="https://en.wikipedia.org/wiki/John_Salley" target="_blank">John Salley</a> <span style="color:Chartreuse">(1st player in the NBA history to win a championship in three different decades and 1st player in NBA history to win championships with three franchises)</span>
+
+>“In fact, my best year of track competition was the first year I ate a vegan diet. Moreover, by continuing to eat a vegan diet, my weight is under control, I like the way I look. (I know that sounds vain, but all of us want to like the way we look.) I enjoy eating more, and I feel great. … I remember vividly making the decision in July of 1990 to become a vegan. … And I had my best year as an athlete ever! … Your body is your temple. If you nourish it properly, it will be good to you and you will increase its longevity.”
+
+― <a href="https://en.wikipedia.org/wiki/Carl_Lewis" target="_blank">Carl Lewis</a><span style="color:Chartreuse">(Olympic athlete who won nine Olympic gold medals, one Olympic silver medal, and 10 World Championships medals, including eight gold. He also  won a gold medal in the same individual event in four consecutive Olympic Games)</span>
+
+>“A global transition to a cruelty-free vegan diet won't just help non-human animals. The transition will also help malnourished humans who could benefit from the grain currently fed to factory-farmed animals. For factory-farming is not just cruel; it's energy-inefficient. Let’s take just one example. Over the past few decades, millions of Ethiopians have died of "food shortages" while Ethiopia grew grain to sell to the West to feed cattle. Western meat-eating habits prop up the price of grain so that poor people in the developing world can’t afford to buy it. In consequence, they starve by the millions. In my work, I explore futuristic, hi-tech solutions to the problem of suffering. But anybody who seriously wants to reduce human and non-human suffering alike should adopt a cruelty-free vegan lifestyle today.”
+
+>“So what is the alternative to traditional anthropocentric ethics? Antispeciesism is not the claim that "All Animals Are Equal", or that all species are of equal value, or that a human or a pig is equivalent to a mosquito. Rather the antispeciesist claims that, other things being equal, equally strong interests should count equally.”
+
+― <a href="https://en.wikipedia.org/wiki/David_Pearce_(transhumanist)" target="_blank">David Pearce</a><span style="color:Chartreuse">(transhumanist and philosopher)</span>
+
+>“Obviously, the health benefits of being vegan are written in stone but I honestly believe the most benefit to me being vegan is that I do not carry the burden of guilt that I would have to endure knowing that I abused others for my own 'benefit'. … Veganism is everything to me. It touches every part of my life. It is my life. I could not begin to imagine living my life any other way. … Often people think we are weak in body and mind. They mistake our compassion for weakness. … My strengths as an athlete are that I am not an athlete for myself. I am doing it for the benefit of others, which makes me work much harder to achieve. I am not selfish enough to want something this badly for myself. It makes me push myself that bit harder knowing that by doing well I can possibly convince others to consider a vegan lifestyle.”
+
+― <a href="https://en.wikipedia.org/wiki/Fiona_Oakes" target="_blank">Fiona Oakes</a> <span style="color:Chartreuse">(distance runner who holds four world records for marathon running)</span>
+
+>“I am vegan. I went vegetarian at 9 years old, after my mother cooked spare ribs. Till then, meat to me was just one other food that came wrapped in cellophane from the supermarket. I had no idea that meat came from an animal. The spare ribs changed that. I told my parents I was not going to eat meat anymore and then went to the fridge to make a salami sandwich. My parents let me know that salami is meat, thinking I would give up on being a vegetarian. Instead, I put the salami down and never ate meat again. Well, almost never. There was one time.”
+
+>“In the “old” days, it was not so easy to be vegetarian or vegan. I had to cook from a young age. My parents did not accommodate my being a vegetarian. They weren’t against it, but nor did they know what to do with it.”
+
+― <a href="https://en.wikipedia.org/wiki/Brian_Greene" target="_blank">Brian Greene</a><span style="color:Chartreuse">(theoretical physicist, mathematician, and string theorist)</span>
+
+>“This pandemic seemed to come from people eating animals and it’s becoming more well known that eating animals is not the greatest thing for our health … We’ve seen more of the effects of how eating animals has brought us to our knees as a species, I think it’s time to re-examine our world in a way that doesn’t abuse other species.”
+
+― <a href="https://en.wikipedia.org/wiki/Brian_May" target="_blank">Brian May</a><span style="color:Chartreuse">(musician and astrophysicist)</span>
+
+>“In the NFL, the injury rate is a 100 percent. It's a violent game. And so, how you respond to injury and how quickly you heal from injury is important because if you're not on the field, you're not helping the team. I was reading the research and seeing that a plant-based diet could be beneficial, specifically for recovery. And so I started incorporating it and I started seeing really good results with it. I was recovering better. I wasn't getting as sore. I was a lot less swollen.”
+
+― <a href="https://en.wikipedia.org/wiki/Derrick_Morgan_(American_football)" target="_blank">Derrick Morgan</a><span style="color:Chartreuse">(football player)</span>
+
+    Do not unjustly eat fish the water has given up,
+
+    And do not desire as food the flesh of slaughtered animals,
+    Or the white milk of mothers who intended its pure draught
+    for their young, not noble ladies.
+    And do not grieve the unsuspecting birds by taking eggs;
+    for injustice is the worst of crimes.
+    And spare the honey which the bees get industriously
+    from the flowers of fragrant plants;
+    For they did not store it that it might belong to others,
+    Nor did they gather it for bounty and gifts.
+    I washed my hands of all this; and wish that I
+    Perceived my way before my hair went gray! 
+
+>“The world holds two classes of men; intelligent men without religion, and religious men without intelligence.”
+
+― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(philosopher, poet, and writer)</span>
+
+>“When I made the switch to a plant based diet, people, they were like, "I don't know how you're gonna lift that much weight." And, "You're not gonna be eating anything, you're just gonna eat grass. Like, how you gonna be strong?" I qualified for my third Olympic team, you know what I'm saying? I broke two American records. I won at the Pan-Am games. I was like, "Man." Like, "I think, I should've done this a long while ago." Like, "Why didn't I research this before?"”
+
+― <a href="https://en.wikipedia.org/wiki/Kendrick_Farris" target="_blank">Kendrick Farris</a><span style="color:Chartreuse">(Olympic weightlifter)</span>
+
+>“Although my veganism started out absolutely about health, it's also become about the environment and animal cruelty. The way animals are treated and the conditions are atrocious. They're force fed steroids, the chickens are de-beaked. You end up eating sick, diseased chickens because they're living in shit. It's like a holocaust on animals.”
+
+― <a href="https://en.wikipedia.org/wiki/Daniel_Negreanu" target="_blank">Daniel Negreanu</a><span style="color:Chartreuse">(professional poker player)</span>
+
+>“Certainly, if the entire world decided to become vegan tomorrow, a whole host of the world's problems would disappear overnight. Climate change would decrease by 25 percent, deforestation would cease, rainforests would be preserved, our water- and air-quality would increase, life-expectancy rates would increase, and our rates of cancer would plummet, so certainly, with that one action of becoming vegan you are quite effectively making the world a better place.”
+
+― <a href="" target="_blank">Moby (Richard Melville Hall)</a><span style="color:Chartreuse">(musician and animal rights activist)</span>
+
+>“Many years ago, when I was **merely** a vegetarian, I met the great Cesar Chavez, and he said to me: "If you are interested in preventing animal suffering, the first thing you should give up is eggs and milk, because the animals who produce those foods lead the most unhappy lives. You would do better to eat meat and stop eating eggs and dairy products." I was shocked, since I had no intention of eating meat but had never thought of giving up eggs or dairy products. But when I looked into it I realized he was right, and now, years later, after I have studied the matter up close, I know for certain that he was completely correct about the cruel treatment of the animals raised for such products. The advantages of a vegan diet are enormous for our health, for the environment, for the animals themselves.”
+
+― <a href="https://en.wikipedia.org/wiki/Jeffrey_Moussaieff_Masson" target="_blank">Jeffrey Moussaieff Masson</a><span style="color:Chartreuse">(author)</span>
+
+>“The human body has no more need for cows' milk than it does for dogs' milk, horses' milk, or giraffes' milk.”
+
+>“The very saddest sound in all my memory was burned into my awareness at age five on my uncle's dairy farm in Wisconsin. A cow had given birth to a beautiful male calf. The mother was allowed to nurse her calf but for a single night. On the second day after birth, my uncle took the calf from the mother and placed him in the veal pen in the barn—only ten yards away, in plain view of the mother. The mother cow could see her infant, smell him, hear him, but could not touch him, comfort him, or nurse him. The heartrending bellows that she poured forth—minute after minute, hour after hour, for five long days—were excruciating to listen to. They are the most poignant and painful auditory memories I carry in my brain. Since that age, whenever I hear anyone postulate that animals cannot really feel emotions, I need only to replay that torturous sound in my memory of that mother cow crying her bovine heart out to her infant. Mother's love knows no species barriers, and I believe that all people who are vegans in their hearts and souls know that to be true.”
+
+― <a href="https://en.wikipedia.org/wiki/Michael_Klaper" target="_blank">Michael Klaper</a><span style="color:Chartreuse">(physician)</span>
+
+>“I was raised Vegan since birth. … I remember watching undercover investigation videos and reading the pamphlets that were mailed to the house when we were kids—I felt deeply for the animals at an early age. I remember how the other parents of my childhood friends would either get upset or interested when their kids would come home after sleepovers at my house—I felt it was my duty to show my friends what was happening to animals. … Veganism is the ultimate form of compassion. … I never considered my being Vegan was for health reasons—it was always for the love and respect I had for animals. And because of that love and respect I have for non-human animals my compassion flows over to all living beings, of all types. … I am encouraged by compassionate souls and the love I see in the eyes of those I've committed my life to stand up for.”
+
+― <a href="https://en.wikipedia.org/wiki/Seba_Johnson" target="_blank">Seba Johnson</a><span style="color:Chartreuse">(Olympic athlete, actress, and vegan animal rights activist)</span>
+
+>“It started with me being a vegetarian, and then it eventually moved towards veganism. Now it's permanent. It's a true way of life. As a professional athlete, my diet helps me tremendously. There's no difficulty in me making weight before fights, or maintaining it. I feel better than ever, light on my feet... Heck, I even think with a more clear mind, all from my eating the right choices for me and my body. I research everyday on veganism, learning new things daily, which is pretty cool.”
+
+― <a href="https://en.wikipedia.org/wiki/Bryant_Jennings" target="_blank">Bryant Jennings</a><span style="color:Chartreuse">(professional boxer)</span>
+
+>“When you're treating diseases with drugs, you know there's one drug you take for cholesterol, a different class of drugs you take for high blood pressure, different class of drugs you take for diabetes, but, with diet, a plant-based diet affects all these diseases. One diet to kinda rule them all.”
+
+>“By age 10, nearly all kids have fatty streaks in their arteries. This is the first sign of atherosclerosis, the leading cause of death in the United States. So the question for most of us is not whether we should eat healthy to prevent heart disease, but whether we want to reverse the heart disease we may already have.”
+
+― <a href="https://en.wikipedia.org/wiki/Michael_Greger" target="_blank">Michael Greger</a><span style="color:Chartreuse">(physician)</span>
+
+>“One of the main arguments that I make is that although almost everyone accepts that it is morally wrong to inflict "unnecessary" suffering and death on animals, 99% of the suffering and death that we inflict on animals can be justified only by our pleasure, amusement, or convenience. For example, the best justification that we have for killing the billions of nonhumans that we eat every year is that we enjoy the taste of animal flesh and animal products. This is not an acceptable justification if we take seriously, as we purport to, that it is wrong to inflict unnecessary suffering or death on animals, and it illustrates the confused thinking that I characterize as our "moral schizophrenia" when it comes to nonhumans.”
+
+― <a href="https://en.wikipedia.org/wiki/Gary_L._Francione" target="_blank">Gary L. Francione</a><span style="color:Chartreuse">(ethics philosopher)</span>
+
+>“The world's strongest animals are plant eaters. Gorillas, buffaloes, elephants and me.”
+
+>“Someone once asked me, 'How can you get as strong as an ox without eating any meat?' My answer was, 'Have you ever seen an ox eating meat?'”
+
+>“One day, I just thought, if you see a bird with a broken leg, you really have the urge to do something about it and help the bird. … Then, at the same time, you go to a restaurant and eat a chicken or something. It doesn’t make any sense. … I just realized that if it’s really compassion that drives you, maybe it’s not enough just to stop eating animals but you maybe should boycott the whole animal industry, because … it’s not what you as a compassionate being would want. So actually you should go one step further and become vegan.”
+
+― <a href="https://en.wikipedia.org/wiki/Patrik_Baboumian" target="_blank">Patrik Baboumian</a><span style="color:Chartreuse">(strongman and bodybuilder)</span>
+
+>“28% of the greenhouse gasses come from eating meat and from raising cattle, so we can do a much better job. … Luckily we know that you can get your protein source from many different ways, you can get it through vegetables if you are a vegetarian. I have seen many body builders that are vegetarian and they get strong and healthy.”
+
+― <a href="https://en.wikipedia.org/wiki/Arnold_Schwarzenegger" target="_blank">Arnold Schwarzenegger</a><span style="color:Chartreuse">(actor and bodybuilder)</span>
+
+>“[After struggle with heart disease] I've stopped eating meat, cheese, milk, even fish. No dairy at all. I've lost more than 20 pounds so far, aiming for about 30 before Chelsea's wedding. And I have so much more energy now! I feel great. … I just decided that I was the high-risk person, and I didn't want to fool with this anymore. And I wanted to live to be a grandfather. So I decided to pick the diet that I thought would maximize my chances of long-term survival.”
+
+― <a href="https://en.wikipedia.org/wiki/Bill_Clinton" target="_blank">Bill Clinton</a><span style="color:Chartreuse">(former president of the United States)</span>
+
+>“One of the things that pushed me to change my diet is that the average football player dies at 56 years of age. That's because they're constantly drinking milk and whey protein shakes, eating steak and chicken. … We thought, 'We're big dudes, we need to eat meat to be men.' I thought that too. But you're screwing your insides up. You're taking advantage of a helpless animal. You're killing a life that you don't need to take. With dairy, you're stealing breast milk that's meant for the baby cows and drinking it yourself. How is that manly? Men are supposed to be protectors.  ”
+
+― <a href="https://en.wikipedia.org/wiki/David_Carter_(defensive_lineman)" target="_blank">David H. Carter</a><span style="color:Chartreuse">(football player)</span>
+
+>“I have used this [vegan] diet since 2008. I first tried it when I was preparing for my challenge of WBC super lightweight champion Junior Wittier -- my first world title fight -- and after seeing the results it gave me I have tried to stay as loyal to it as possible. It helps keep my body clean and it provides me with a tremendous amount of energy due to my body spending less energy breaking down foods like meats. This is a big key factor in my fitness. … The energy is always there. I feel so alive. My senses and reflexes are so acute. … With a vegan diet you always have energy, so much that sometimes I have trouble sleeping at night. You feel light. You don't feel bulky or heavy. This would benefit any athlete in any sport.”
+
+― <a href="https://en.wikipedia.org/wiki/Timothy_Bradley" target="_blank">Timothy Bradley</a><span style="color:Chartreuse">(boxer with multiple world championships)</span>
+
+>“My perspective of veganism was most affected by learning that the veal calf is a by-product of dairying, and that in essence there is a slice of veal in every glass of what l had thought was an innocuous white liquid—milk.”
+
+― <a href="https://en.wikipedia.org/wiki/Rynn_Berry" target="_blank">Rynn Berry</a>
+
+>“By setting aside animal-derived products—meat, dairy products, and eggs—you can reach a level of health and well-being that you may never have expected you could enjoy. … Although our work has focused on helping people trim down, conquer diabetes, cut cholesterol, and tackle other medical problems, it should be said that not everyone who decides to forgo animal products makes that choice for health reasons. Many people are concerned with how animals are treated by the food industries, and rightly so. And the environmental consequences of meat and dairy production should be of concern to all of us.”
+
+― <a href="https://en.wikipedia.org/wiki/Neal_D._Barnard" target="_blank">Neal D. Barnard</a><span style="color:Chartreuse">(clinical researcher)</span>
+
+>“I think, whether we’re talking about gender inequality or racism or queer rights or indigenous rights or animal rights, we’re talking about the fight against injustice. We’re talking about the fight against the belief that one nation, one people, one race, one gender, one species, has the right to dominate, use and control another with impunity. I think we’ve become very disconnected from the natural world. Many of us are guilty of an egocentric world view, and we believe that we’re the centre of the universe. We go into the natural world and we plunder it for its resources. We feel entitled to artificially inseminate a cow and steal her baby, even though her cries of anguish are unmistakeable. Then we take her milk that’s intended for her calf and we put it in our coffee and our cereal. We fear the idea of personal change, because we think we need to sacrifice something; to give something up. But human beings at our best are so creative and inventive, and we can create, develop and implement systems of change that are beneficial to all sentient beings and the environment.”
+
+― <a href="https://en.wikipedia.org/wiki/Joaquin_Phoenix" target="_blank">Joaquin Phoenix</a><span style="color:Chartreuse">(actor who portrayed Joker in Joker)</span>
+
+>“I had gone vegetarian when I was 11 because I was viscerally repelled by the idea of eating animal flesh and there was no way to avoid the fact that someone had been killed for that piece of meat. […] it took me until 2015 to become fully vegan. […] I think the root of this whole lifestyle is Compassion. It’s a daily reminder that we are all one. I believe veganism is what will heal this planet. […] I don’t know why we are still using our power and our blessings to quash animals. **Why have we not yet assumed our rightful role as their caretakers?** And every time I look into a cow’s eyes and see the gentle soul dwelling in that enormous powerful body, I feel like the animals are patiently waiting, quietly willing us to just catch on.”
+
+― <a href="" target="_blank">Evanna Lynch</a><span style="color:Chartreuse">(actress who portrayed Luna Lovegood in the Harry Potter films)</span>
+
+>“I coined the term feminized protein for eggs and dairy products: plant protein produced through the abuse of the reproductive cycle of female animals. Feminized protein is taken from living female animals, whose reproductive capacity is manipulated for human needs. The unique situation of domesticated female animals required its own term: a sexual slavery with chickens in battery cages and dairy cows hooked up to milking machines. … The radical truth is that people can be perfectly happy as vegans, but the dominant culture can’t or won’t acknowledge this. … Being vegan is an exciting, wonderful culinary experience and we probably don’t even know what’s possible because it’s still so new. … The process of objectification/fragmentation/consumption can be interrupted by the process of attention/nowness/compassion.”
+
+― <a href="https://en.wikipedia.org/wiki/Carol_J._Adams" target="_blank">Carol J. Adams</a><span style="color:Chartreuse">(feminist and animal rights advocate)</span>
+
+>“To protest about bullfighting in Spain, the eating of dogs in South Korea, or the slaughter of baby seals in Canada while continuing to eat eggs from hens who have spent their lives crammed into cages, or veal from calves who have been deprived of their mothers, their proper diet, and the freedom to lie down with their legs extended, is like denouncing apartheid in South Africa while asking your neighbours not to sell their houses to blacks.”
+
+>“Those who claim to care about the wellbeing of human beings and the preservation of our environment should become vegetarians for that reason alone. They would thereby increase the amount of grain available to feed people elsewhere, reduce pollution, save water and energy, and cease contributing to the clearing of forests; moreover, since a vegetarian diet is cheaper than one based on meat dishes, they would have more money available to devote to famine relief, population control, or whatever social or political cause they thought most urgent. … when nonvegetarians say that “human problems come first” I cannot help wondering what exactly it is that they are doing for human beings that compels them to continue to support the wasteful, ruthless exploitation of farm animals.”
+
+>“The animals themselves are incapable of demanding their own liberation, or of protesting against their condition with votes, demonstrations, or boycotts. Human beings have the power to continue to oppress other species forever, or until we make this planet unsuitable for living beings. Will our tyranny continue, proving that morality counts for nothing when it clashes with selfinterest, as the most cynical of poets and philosophers have always said? Or will we rise to the challenge and prove our capacity for genuine altruism by ending our ruthless exploitation of the species in our power, not because we are forced to do so by rebels or terrorists, but because we recognize that our position is morally indefensible? The way in which we answer this question depends on the way in which each one of us, individually, answers it.”
+
+>“One common strategy on which we should all be able to agree is to take steps to reduce the risk of human extinction when those steps are also highly effective in benefiting existing sentient beings. For example, eliminating or decreasing the consumption of animal products will benefit animals, reduce greenhouse gas emissions, and lessen the chances of a pandemic resulting from a virus evolving among the animals crowded into today’s factory farms, which are an ideal breeding ground for viruses. That therefore looks like a high-priority strategy.”<sup id="a11"><a href="#f11">11</a></sup>
+
+>“When we buy new clothes not to keep ourselves warm but to look "well-dressed" we are not providing for any important need. We would not be sacrificing anything significant if we were to continue to wear our old clothes, and give the money to famine relief. By doing so, we would be preventing another person from starving. It follows from what I have said earlier that we ought to give money away, rather than spend it on clothes which we do not need to keep us warm. To do so is not charitable, or generous. Nor is it the kind of act which philosophers and theologians have called "supererogatory" - an act which it would be good to do, but not wrong not to do. On the contrary, we ought to give the money away, and it is wrong not to do so.”
+
+>“There can be no brotherhood when some nations indulge in previously unheard of luxuries, while others struggle to stave off famine.”
+
+>“My students often ask me if I think their parents did wrong to pay the $44,000 per year that it costs to send them to Princeton. I respond that paying that much for a place at an elite university is not justified unless it is seen as an investment in the future that will benefit not only one’s child, but others as well. An outstanding education provides students with the skills, qualifications, and understanding to do more for the world than would otherwise be the case. It is good for the world as a whole if there are more people with these qualities. Even if going to Princeton does no more than open doors to jobs with higher salaries, that, too, is a benefit that can be spread to others, as long as after graduating you remain firm in the resolve to contribute a percentage of that salary to organizations working for the poor, and spread this idea among your highly paid colleagues. The danger, of course, is that your colleagues will instead persuade you that you can’t possibly drive anything less expensive than a BMW and that you absolutely must live in an impressively large apartment in one of the most expensive parts of town.”
+
+>“September 11, 2001, was just another day for most of the world’s desperately poor people, so presumably close to 30,000 children under five died from these causes on that day—about ten times the number of victims of the terrorist attacks. The publication of these figures did not lead to an avalanche of money for UNICEF or other aid agencies helping to reduce infant mortality. In the year 2000 Americans made private donations for foreign aid of all kinds totalling about $4 per person in extreme poverty, or roughly $20 per family. New Yorkers who were living in lower Manhattan on September 11, 2001, whether wealthy or not, were able to receive an average of $5,300 per family. The distance between these amounts encapsulates the way in which, for many people, the circle of concern for others stops at the boundaries of their own country—if it extends even that far.”
+
+― <a href="https://en.wikipedia.org/wiki/Peter_Singer" target="_blank">Peter Singer</a><span style="color:Chartreuse">(moral philosopher)</span>
 
 >“జీవితంలో భయం ఉండాలి, కాని భయమే జీవితం కాకూడదు.”
  ― <a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D" target="_blank">రజినీకాంత్ </a>(భాషా  సినిమాలో)
@@ -470,6 +632,12 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“What do you do when there is an evil you cannot defeat by just means? Do you stain your hands with evil to destroy evil? Or do you remain steadfastly just and righteous even if it means surrendering to evil?”
 
 ― <a href="https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia" target="_blank">Lelouch vi Britannia</a>
+
+>“There’s no signs that the evils of this world are disappearing. That hasn’t changed since before I became a superhero. So, I guess that means I haven’t really made any difference. I’m not necessarily sad about that. But there has been something bothering me lately. As the days pass, my emotions become more distant. Fear, tension, joy, anger. I feel none of them anymore. **In exchange for power, maybe I’ve lost something that’s essential for being human.**”
+
+>“Before I’d have all kinds of emotions boiling inside me when I fought. Dread. Panic. But now all I need is one punch to end it. Every day I come home uninjured and wash my gloves. Whenever I’m out fighting monsters, I never feel like my heart’s really in it anymore.”
+
+― <a href="https://onepunchman.fandom.com/wiki/Saitama" target="_blank">Saitama</a>
 
 >“Kircheis, do you think what was possible for Rudolf is impossible for me?”
 
@@ -517,3 +685,5 @@ Newton is widely considered as one of the top 2 physicists of all time (the othe
 <b id="f9">9)</b> Taken from <a href="https://en.wikipedia.org/wiki/Kesamutti_Sutta" target="_blank">Kesamutti Sutta</a>. Often times some people people misinterpret this quote to portray Buddhism as a religion based on logic, even though Buddha stated that one should not determine the validity of a statement "by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought". When dealing with scientific theories logic should be given at most importance. But Buddha is not talking about scientific truths, he is talking about morality. Based on science and logic it is strongly evident that there is no such thing as free will. This doesn't mean we should forget about morality. We are in a stubbornly persistent illusion that we have free will and so we should always consider ourselves as responsible beings to be consistent with our illusion.<a href="#a9">↩</a>
 
 <b id="f10">10)</b> This statement is obviously wrong. The most precious gift is the Hindu numeral system. It is often wrongly called as Arabic numeral system. Vedas are useless in comparison to the Hindu numeral system.<a href="#a10">↩</a>
+
+<b id="f11">11)</b> Stated on 2015, before COVID-19 pandemic.<a href="#a11">↩</a>
