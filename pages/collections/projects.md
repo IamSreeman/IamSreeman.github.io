@@ -11,19 +11,19 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 
 ##### List of projects and reports
 
-- [List of projects and reports](#list-of-projects-and-reports)
-- [Black hole information paradox (June-Present 2021)](#black-hole-information-paradox-june-present-2021)
+- [Black hole information paradox (June-November 2021)](#black-hole-information-paradox-june-november-2021)
 - [One-dimensional photonic bound states in the continuum (March-April 2021)](#one-dimensional-photonic-bound-states-in-the-continuum-march-april-2021)
 - [Category theory applications in physics (October-November 2020)](#category-theory-applications-in-physics-october-november-2020)
 - [Covid-19:analysis of a modified SEIR model (October-November 2020)](#covid-19analysis-of-a-modified-seir-model-october-november-2020)
 - [Special and General Relativity (April 2020)](#special-and-general-relativity-april-2020)
 
-##### Black hole information paradox (June-Present 2021)
+##### Black hole information paradox (June-November 2021)
 *Supervisor: Prof. Vikram Rentala*
 - Studied quantum scalar field theory in curved spacetime and how it compares with QFT in ﬂat spacetime.
 - Reviewed the four laws of black hole mechanics and their similarity with thermodynamics and Penrose process in a Kerr black hole.
 - Studied **Unruh effect** which explains that the vacuum state of a Minkowski observer will be a thermal state as observed by a Rindler observer and how entanglement between the left and right Rindler wedges prevents a firewall at the Rindler horizon.
-- Studied **Hawking radiation**, the conditions in which a black hole can be in stable equilibrium with CMB and currently studying recent advances like AdS/CFT correspondence which are strongly implying that information is conserved and quantum gravity is unitary.<br>
+- Studied **Hawking radiation** and the conditions under which a black hole can be in stable or unstable equilibrium.
+- Assuming that the evaporation is unitary, studied the characteristics of Page curve using the Page theorem.<br>
 <a href="https://github.com/IamSreeman/LaTeX/blob/master/BlackHoleInformationParadox/BlackHoleInformationParadox.pdf" class="button" target="_blank">View PDF</a><br>
 ##### One-dimensional photonic bound states in the continuum (March-April 2021)
 *Supervisor: Prof. Anshuman Kumar*

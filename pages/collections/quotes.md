@@ -490,19 +490,22 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://en.wikipedia.org/wiki/Derrick_Morgan_(American_football)" target="_blank">Derrick Morgan</a><span style="color:Chartreuse">(football player)</span>
 
-    Do not unjustly eat fish the water has given up,
+>“I was raised Vegan since birth. … I remember watching undercover investigation videos and reading the pamphlets that were mailed to the house when we were kids—I felt deeply for the animals at an early age. I remember how the other parents of my childhood friends would either get upset or interested when their kids would come home after sleepovers at my house—I felt it was my duty to show my friends what was happening to animals. … Veganism is the ultimate form of compassion. … I never considered my being Vegan was for health reasons—it was always for the love and respect I had for animals. And because of that love and respect I have for non-human animals my compassion flows over to all living beings, of all types. … I am encouraged by compassionate souls and the love I see in the eyes of those I've committed my life to stand up for.”
 
-    And do not desire as food the flesh of slaughtered animals,
-    Or the white milk of mothers who intended its pure draught
-    for their young, not noble ladies.
-    And do not grieve the unsuspecting birds by taking eggs;
-    for injustice is the worst of crimes.
+― <a href="https://en.wikipedia.org/wiki/Seba_Johnson" target="_blank">Seba Johnson</a><span style="color:Chartreuse">(Olympic athlete, actress, and vegan animal rights activist)</span>
+
+>“    Do not unjustly eat fish the water has given up,<br>
+>    And do not desire as food the flesh of slaughtered animals,<br>
+    Or the white milk of mothers who intended its pure draught<br>
+    for their young, not noble ladies.<br>
+    And do not grieve the unsuspecting birds by taking eggs;<br>
+    for injustice is the worst of crimes.<br>
     And spare the honey which the bees get industriously
-    from the flowers of fragrant plants;
-    For they did not store it that it might belong to others,
-    Nor did they gather it for bounty and gifts.
-    I washed my hands of all this; and wish that I
-    Perceived my way before my hair went gray! 
+    from the flowers of fragrant plants;<br>
+    For they did not store it that it might belong to others,<br>
+    Nor did they gather it for bounty and gifts.<br>
+    I washed my hands of all this; and wish that I<br>
+    Perceived my way before my hair went gray!”<br>
 
 >“The world holds two classes of men; intelligent men without religion, and religious men without intelligence.”
 
@@ -529,10 +532,6 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“The very saddest sound in all my memory was burned into my awareness at age five on my uncle's dairy farm in Wisconsin. A cow had given birth to a beautiful male calf. The mother was allowed to nurse her calf but for a single night. On the second day after birth, my uncle took the calf from the mother and placed him in the veal pen in the barn—only ten yards away, in plain view of the mother. The mother cow could see her infant, smell him, hear him, but could not touch him, comfort him, or nurse him. The heartrending bellows that she poured forth—minute after minute, hour after hour, for five long days—were excruciating to listen to. They are the most poignant and painful auditory memories I carry in my brain. Since that age, whenever I hear anyone postulate that animals cannot really feel emotions, I need only to replay that torturous sound in my memory of that mother cow crying her bovine heart out to her infant. Mother's love knows no species barriers, and I believe that all people who are vegans in their hearts and souls know that to be true.”
 
 ― <a href="https://en.wikipedia.org/wiki/Michael_Klaper" target="_blank">Michael Klaper</a><span style="color:Chartreuse">(physician)</span>
-
->“I was raised Vegan since birth. … I remember watching undercover investigation videos and reading the pamphlets that were mailed to the house when we were kids—I felt deeply for the animals at an early age. I remember how the other parents of my childhood friends would either get upset or interested when their kids would come home after sleepovers at my house—I felt it was my duty to show my friends what was happening to animals. … Veganism is the ultimate form of compassion. … I never considered my being Vegan was for health reasons—it was always for the love and respect I had for animals. And because of that love and respect I have for non-human animals my compassion flows over to all living beings, of all types. … I am encouraged by compassionate souls and the love I see in the eyes of those I've committed my life to stand up for.”
-
-― <a href="https://en.wikipedia.org/wiki/Seba_Johnson" target="_blank">Seba Johnson</a><span style="color:Chartreuse">(Olympic athlete, actress, and vegan animal rights activist)</span>
 
 >“It started with me being a vegetarian, and then it eventually moved towards veganism. Now it's permanent. It's a true way of life. As a professional athlete, my diet helps me tremendously. There's no difficulty in me making weight before fights, or maintaining it. I feel better than ever, light on my feet... Heck, I even think with a more clear mind, all from my eating the right choices for me and my body. I research everyday on veganism, learning new things daily, which is pretty cool.”
 

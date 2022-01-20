@@ -4,6 +4,8 @@ date:   2021-10-13 15:23:00 +0530
 subheadline: ""
 category: physics
 tags:   [Quantum mechanics, Special relativity, Textbook]
+image:
+    thumb: 2021-10-13-thumb.jpg
 script:
   foot: bookmarklet.js
 ---

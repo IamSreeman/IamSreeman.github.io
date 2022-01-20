@@ -4,10 +4,12 @@ date:   2020-05-10 18:05:55 +0530
 subheadline: "As an atheist"
 category: non-physics
 tags:   [Atheism,Philosophy]
+image:
+    thumb: 2020-05-10-thumb.jpg
 script:
   foot: bookmarklet.js
 ---
-![alt text]({{site.baseurl}}/images/posts/01.jpg "Steven Weinberg")
+![alt text]({{site.baseurl}}/images/posts/2020-05-10-Weinberg.jpg "Steven Weinberg")
 I am  a [strong atheist](https://en.wikipedia.org/wiki/Negative_and_positive_atheism#:~:text=Positive%20atheism%2C%20also%20called%20strong,no%20deities%20exist.) by belief, culturally influenced by Hinduism and philosophically inspired by Buddhism. You can consider me as a [Secular humanist](https://en.wikipedia.org/wiki/Secular_humanism). I  strongly believe that religion is a big evil social system and it has to be eradicated (not through violence (like [the Soviets did](https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Soviet_Union) or like [the CCP is doing](https://en.wikipedia.org/wiki/Xinjiang_internment_camps)), but through peace and explaining science to religious people).<!--more--> Despite not being religious I often read about religions. My views on religion are generally negative. Among all religions, [Buddhism](https://en.wikipedia.org/wiki/Buddhism) is the religion which I think is the least stupid, because it is the least *religious* religion. It is more about philosophy than dogmatic superstitions. But I don't like mainstream Buddhism.
 # My views on Buddhism
 For around an year (at age 12) I considered myself as a mainstream Buddhist after leaving Hinduism. But even Buddhism is far from perfect. It carried many superstitions from Hinduism(*Old bad habits don't go easily*). Be it the concept of Karma, previous lives of Buddha, the existence of Hindu gods.
