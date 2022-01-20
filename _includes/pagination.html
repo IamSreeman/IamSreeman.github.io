@@ -23,7 +23,15 @@
           {% else %}
           {{ words | divided_by: 200 | plus: 1 }} mins read
           {% endif %}
-        </span><br>
+        </span> | {% if post.tags != empty %}
+        <span class="meta-tags">
+          {% for tag in post.tags %}
+            {% capture tag_url %}{{ site.baseurl }}/blog/tags/#{{ tag | slugify }}{% endcapture %}
+            {% capture tag_name %}{% if site.data.tags[tag].title %}{{ site.data.tags[tag].title }}{% else %}{{ tag }}{% endif %}{% endcapture %}
+            <a href="{{ tag_url }}" class="icon-price-tag tag-{{ tag | slugify }}">{{ tag_name }}</a>
+          {% endfor %}
+        </span>
+      {% endif %}<br>
         {% if post.image.thumb %}<a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title | strip_html | strip_newlines | escape }}"><img src="{{site.baseurl}}/images/posts/{{ post.image.thumb }}" class="alignleft" width="150" height="150" alt="{{ page.title | strip_newlines | escape }}" /></a>{% endif %}
 
         {% if post.meta_description %}{{ post.meta_description | strip_html | strip_newlines | escape }}{% elsif post.teaser %}{{ post.teaser | strip_html | strip_newlines | escape }}{% endif %}
