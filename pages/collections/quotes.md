@@ -132,6 +132,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger" target="_blank">Erwin Schrödinger</a>
 
+>“I learned very early the difference between knowing the name of something and knowing something.”
 
 >“I was born not knowing and have had only a **little time** to change that here and there.”
 
@@ -182,6 +183,24 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Murray_Gell-Mann" target="_blank">Murray Gell-Mann</a>
 
+>“The answer to the ancient question "Why is there something rather than nothing?" would then be that ‘nothing’ is unstable.”
+
+>“Intelligent creatures that evolved to live deep within the atmosphere of a gas giant planet could be deluded, for eons, into thinking that the Universe is an approximately homogeneous expanse of gas, filling a three-dimensional space, but featuring anisotropic laws of motion (which we would ascribe to the planet’s gravitational field). Are we human scientists comparably blinkered?”
+
+>“To put it crudely, theorists can be tempted to think along the lines “If people as clever as us haven’t explained it, that’s because it can’t be explained – it’s just an accident.” I believe there are at least two important regularities among standard model parameters that do have deeper explanations, namely the unification of couplings and the smallness of the QCD θ parameter. There may well be others.”
+
+>“It is delightful in itself when we are able to interpret features of the present as signs confirming our understanding of the past.”
+
+― <a href="https://en.wikipedia.org/wiki/Frank_Wilczek" target="_blank">Frank Wilczek</a>
+
+>“Remarkably, the building of the Standard Model — the theory of how particles and forces interact — was the success of the conservatives. It required no revolution at the foundational level. Normal physics, the kind that goes on experiment after experiment, produced the Standard Model.”
+
+― <a href="https://en.wikipedia.org/wiki/David_Gross" target="_blank">David Gross</a>
+
+>“On your way towards becoming a bad theoretician, take your own immature theory, stop checking it for mistakes, don't listen to colleagues who do spot weaknesses, and start admiring your own infallible intelligence.”
+
+― <a href="https://en.wikipedia.org/wiki/Gerard_%27t_Hooft" target="_blank">Gerard 't Hooft</a>
+
 >“I don't think that any physicist would have been clever enough to have invented string theory on purpose... Luckily, it was invented by accident.”
 
 >“String theory is extremely attractive because gravity is forced upon us. All known consistent string theories include gravity, so while gravity is impossible in quantum field theory as we have known it, it is obligatory in string theory.”
@@ -191,6 +210,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“Generally speaking, all the really great ideas of physics are really spin-offs of string theory... Some of them were discovered first, but I consider that a mere accident of the development on planet earth. On planet earth, they were discovered in this order [general relativity, quantum field theory, superstrings, and supersymmetry]... But I don't believe, if there are many civilizations in the universe, that those four ideas were discovered in that order in each civilization.”
 
 ― <a href="https://en.wikipedia.org/wiki/Edward_Witten" target="_blank">Edward Witten</a>
+
+>“Elegance requires that the number of defining equations be small. Five is better than ten, and one is better than five. On this score, one might facetiously say that String Theory is the ultimate epitome of elegance. With all the years that String Theory has been studied, no one has found even a single defining equation! The number at present count is zero. We know neither what the fundamental equations of the theory are nor even if it has any.”
+
+― <a href="https://en.wikipedia.org/wiki/Leonard_Susskind" target="_blank">Leonard Susskind</a>
 
 >“In pre-relativistic mechanics, time is a special physical quantity, whose value is measured by physical clocks, that plays the role of the independent variable of physical evolution.”
 
@@ -215,6 +238,20 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“You may be more afraid to bring that sentence against me than I am to accept it.”<sup id="a7"><a href="#f7">7</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Giordano_Bruno" target="_blank">Giordano Bruno</a>
+
+>“The behavior of large and complex aggregates of elementary particles, it turns out, is not to be understood in terms of a simple extrapolation of a few particles. Instead, at each level of complexity entirely new properties appear, and the understanding of the new behaviors requires research which I think is as fundamental in its nature as any other.”
+
+>“Of course I am not religious—I don’t in fact see how any scientist who thinks at all deeply can be so ...”
+
+― <a href="https://en.wikipedia.org/wiki/Philip_W._Anderson" target="_blank">Philip W. Anderson</a>
+
+>“If I were forced to sum up in one sentence what the Copenhagen interpretation says to me, it would be 'Shut up and calculate!'”
+
+>“Question: What is the difference between theoretical physics and mathematical physics?<br>
+Answer: Theoretical physics is done by physicists who lack the necessary skills to do real experiments; mathematical physics is done by mathematicians who lack the necessary skills to do real mathematics.<br>
+Mathematical physicists tend not to like this joke, but other physicists seem to. Nonphysicists, of course, are entirely immune to its charms.”
+
+― <a href="https://en.wikipedia.org/wiki/David_Mermin" target="_blank">N. David Mermin</a>
 
 >“Science flies you to the moon. Religion flies you into buildings.”
 
@@ -273,6 +310,12 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 >“In view of the fact that in any future world war nuclear weapons will certainly be employed, and that such weapons threaten the continued existence of mankind, we urge the governments of the world to realize, and to acknowledge publicly, that their purpose cannot be furthered by a world war, and we urge them, consequently, to find peaceful means for the settlement of all matters of dispute between them.” (<a href="https://en.wikipedia.org/wiki/Russell%E2%80%93Einstein_Manifesto" target="_blank">Russell–Einstein Manifesto</a>)
 
+>“If a man is offered a fact which goes against his instincts, he will scrutinize it closely, and unless the evidence is overwhelming, he will refuse to believe it. If, on the other hand, he is offered something which affords a reason for acting in accordance with his instincts, he will accept it even on the slenderest evidence. The origin of myths is explained in this way.”
+
+>“I like mathematics because it is not human and has nothing particular to do with this planet or with the whole accidental universe – because, like Spinoza's God, it won't love us in return.”
+
+>“One of the painful things about our time is that those who feel certainty are stupid, and those with any imagination and understanding are filled with doubt and indecision.”
+
 ― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
 
 >“<a href="https://en.wikipedia.org/wiki/Epicurus" target="_blank">Epicurus</a>’s old questions are yet unanswered. Is God willing to prevent evil, but not able? then is he impotent. Is he able, but not willing? then is he malevolent. Is he both able and willing? whence then is evil?”
@@ -321,6 +364,14 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“Religion is too important a matter to its devotees to be a subject of ridicule. If they indulge in absurdities, they are to be pitied rather than ridiculed.”
 
 ― <a href="https://en.wikipedia.org/wiki/Immanuel_Kant" target="_blank">Immanuel Kant</a>
+
+>“If God existed, only in one way could he serve human liberty — by ceasing to exist.”
+
+>“The first revolt is against the supreme tyranny of theology, of the phantom of God. As long as we have a master in heaven, we will be slaves on earth.”
+
+>“If God really existed, it would be necessary to abolish him.”
+
+― <a href="https://en.wikipedia.org/wiki/Mikhail_Bakunin" target="_blank">Mikhail Bakunin</a>
 
 >“The philosopher has never killed any priests, whereas the priest has killed a great many philosophers.”
 
@@ -415,6 +466,18 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“Belgium's royal palace is still what it has been for the last 14 years: a lair of a wild beast that for its money every year <a href="https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State" target="_blank">mutilates, murders and starves</a> a half million helpless natives in the Congo Free State.”
 
 ― <a href="https://en.wikipedia.org/wiki/Mark_Twain" target="_blank">Mark Twain</a>
+
+>“Cruelty and intolerance to those who do not belong to it are natural to every religion”
+
+>“Immorality, no less than morality, has at all times found support in religion.”
+
+>“Religion is a system of wishful illusions together with a disavowal of reality, such as we find nowhere else but in a state of blissful hallucinatory confusion. Religion's eleventh commandment is "Thou shalt not question."”
+
+>“Religion is an illusion and it derives its strength from the fact that it falls in with our instinctual desires.”
+
+>“Religion is so pathetically absurd and infantile that it is humiliating and embarrassing to think that the majority of people will never rise above it.”
+
+― <a href="https://en.wikipedia.org/wiki/Sigmund_Freud" target="_blank">Sigmund Freud</a>
 
 >“If there is a God, He will have to beg my forgiveness.”
 
