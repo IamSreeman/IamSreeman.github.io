@@ -100,6 +100,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
 
+>“One is left with the uneasy feeling that even if supersymmetry is actually false, as a feature of nature, and that accordingly no supersymmetry partners are ever found by the LHC or by any later more powerful accelerator, then the conclusion that some supersymmetry proponents might come to would not be that supersymmetry is false for the actual particles of nature, but merely that the level of supersymmetry breaking must be greater even that the level reached at that moment, and that a new even more powerful machine would be required to observe it!”
+
+― <a href="https://en.wikipedia.org/wiki/Roger_Penrose" target="_blank">Roge Penrose</a>
+
 >“All truths are easy to understand once they are discovered; the point is to discover them.”
 
 ― <a href="https://en.wikipedia.org/wiki/Galileo_Galilei" target="_blank">Galileo Galilei</a>
@@ -135,6 +139,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“I learned very early the difference between knowing the name of something and knowing something.”
 
 >“I was born not knowing and have had only a **little time** to change that here and there.”
+
+>“What one fool could understand, another can.”
 
 >“From a long view of the history of mankind — seen from, say, ten thousand years from now — there can be little doubt that the most significant event of the 19th century will be judged as Maxwell's discovery of the laws of electrodynamics. The American Civil War will **pale** into provincial insignificance in comparison with this important scientific event of the same decade.”
 
@@ -177,6 +183,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Niels_Bohr" target="_blank">Niels Bohr</a>
 
+>“This work contains many things which are new and interesting. Unfortunately, everything that is new is not interesting, and everything which is interesting, is not new.” 
+
+― <a href="https://en.wikipedia.org/wiki/Lev_Landau" target="_blank">Lev Landau</a>
+
 >“Niels Bohr brain-washed a whole generation of physicists into believing that the problem had been solved fifty years ago [comment on the Copenhagen interpretation].”
 
 >“I thought of killing myself but soon decided that I could always try MIT and then kill myself later if it was that bad but that I couldn't commit suicide and then try MIT afterwards. The two operations, suicide and going to MIT, don't commute...”
@@ -200,6 +210,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“On your way towards becoming a bad theoretician, take your own immature theory, stop checking it for mistakes, don't listen to colleagues who do spot weaknesses, and start admiring your own infallible intelligence.”
 
 ― <a href="https://en.wikipedia.org/wiki/Gerard_%27t_Hooft" target="_blank">Gerard 't Hooft</a>
+
+>“Physics is that subset of human experience which can be reduced to coupled harmonic oscillators”
+
+― <a href="https://en.wikipedia.org/wiki/Michael_Peskin" target="_blank">Michael Peskin</a>
 
 >“I don't think that any physicist would have been clever enough to have invented string theory on purpose... Luckily, it was invented by accident.”
 
@@ -666,9 +680,9 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 >“There can be no brotherhood when some nations indulge in previously unheard of luxuries, while others struggle to stave off famine.”
 
->“My students often ask me if I think their parents did wrong to pay the $44,000 per year that it costs to send them to Princeton. I respond that paying that much for a place at an elite university is not justified unless it is seen as an investment in the future that will benefit not only one’s child, but others as well. An outstanding education provides students with the skills, qualifications, and understanding to do more for the world than would otherwise be the case. It is good for the world as a whole if there are more people with these qualities. Even if going to Princeton does no more than open doors to jobs with higher salaries, that, too, is a benefit that can be spread to others, as long as after graduating you remain firm in the resolve to contribute a percentage of that salary to organizations working for the poor, and spread this idea among your highly paid colleagues. The danger, of course, is that your colleagues will instead persuade you that you can’t possibly drive anything less expensive than a BMW and that you absolutely must live in an impressively large apartment in one of the most expensive parts of town.”
+>“My students often ask me if I think their parents did wrong to pay the <span>$</span>44,000 per year that it costs to send them to Princeton. I respond that paying that much for a place at an elite university is not justified unless it is seen as an investment in the future that will benefit not only one’s child, but others as well. An outstanding education provides students with the skills, qualifications, and understanding to do more for the world than would otherwise be the case. It is good for the world as a whole if there are more people with these qualities. Even if going to Princeton does no more than open doors to jobs with higher salaries, that, too, is a benefit that can be spread to others, as long as after graduating you remain firm in the resolve to contribute a percentage of that salary to organizations working for the poor, and spread this idea among your highly paid colleagues. The danger, of course, is that your colleagues will instead persuade you that you can’t possibly drive anything less expensive than a BMW and that you absolutely must live in an impressively large apartment in one of the most expensive parts of town.”
 
->“September 11, 2001, was just another day for most of the world’s desperately poor people, so presumably close to 30,000 children under five died from these causes on that day—about ten times the number of victims of the terrorist attacks. The publication of these figures did not lead to an avalanche of money for UNICEF or other aid agencies helping to reduce infant mortality. In the year 2000 Americans made private donations for foreign aid of all kinds totalling about $4 per person in extreme poverty, or roughly $20 per family. New Yorkers who were living in lower Manhattan on September 11, 2001, whether wealthy or not, were able to receive an average of $5,300 per family. The distance between these amounts encapsulates the way in which, for many people, the circle of concern for others stops at the boundaries of their own country—if it extends even that far.”
+>“September 11, 2001, was just another day for most of the world’s desperately poor people, so presumably close to 30,000 children under five died from these causes on that day—about ten times the number of victims of the terrorist attacks. The publication of these figures did not lead to an avalanche of money for UNICEF or other aid agencies helping to reduce infant mortality. In the year 2000 Americans made private donations for foreign aid of all kinds totalling about <span>$</span>4 per person in extreme poverty, or roughly <span>$</span>20 per family. New Yorkers who were living in lower Manhattan on September 11, 2001, whether wealthy or not, were able to receive an average of <span>$</span>5,300 per family. The distance between these amounts encapsulates the way in which, for many people, the circle of concern for others stops at the boundaries of their own country—if it extends even that far.”
 
 ― <a href="https://en.wikipedia.org/wiki/Peter_Singer" target="_blank">Peter Singer</a><span style="color:Chartreuse">(moral philosopher)</span>
 

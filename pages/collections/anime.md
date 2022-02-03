@@ -25,6 +25,7 @@ breadcrumbs: true
 >1. [Openings and Endings](#openings-and-endings1)
 >2. [Scenes](#scenes)
 >3. [OSTs](#osts)
+>3. [Recaps](#recaps)
 
 #### Openings and Endings<sup id="a1"><a href="#f1">1</a></sup>
 
@@ -76,6 +77,7 @@ breadcrumbs: true
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TsP0ByjyU6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/64r8jZ6rOmQ?start=60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dzLMD-iYkaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4G7k3UFsl4c?start=811" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### OSTs
 
@@ -108,6 +110,17 @@ breadcrumbs: true
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4J7K3yacig4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mjjkHg5FOhk?start=21" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jqWs4l8l0Zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Recaps
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GxUxTtdkW2E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-Ynlz5zm9Yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wiFTCt-Hc0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zQDFWAi2lhQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hVIsqLg6nWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7XCVu_1Us0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V2-3aZOsgvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <br>
 <br>
 <b id="f1">1)</b> I thought of making this page a long time ago. Today(26-Feb-21) I felt like making this. And I found out just before making this page that, exactly 35 years ago on this day Dragon Ball 1st episode was aired. Irrespective of that coincidence the opening of the 1st Dragon Ball episode would have been the 1st one on this list.<a href="#a1">↩</a>
