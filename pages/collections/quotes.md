@@ -152,6 +152,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”
 
+>“Be less curious about people and more curious about ideas.”
+
 ― <a href="https://en.wikipedia.org/wiki/Marie_Curie" target="_blank">Marie Curie</a>
 
 
@@ -310,7 +312,7 @@ nor upon another's seeming ability (bhabba-rūpatāya),<br>
 nor upon the consideration, The monk is our teacher (samaṇo no garū).<br>
 Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.”<sup id="a9"><a href="#f9">9</a></sup>
 
-― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Gautama Buddha</a> (I do not support main stream ***unscientific*** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
+― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Siddhārtha Gautama</a> (I do not support main stream ***unscientific*** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
 
 >“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
 
@@ -347,6 +349,8 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“The bad thing about all religions is that, instead of being able to confess their allegorical nature, they have to conceal it.”
 
 >“Monotheistic religions alone furnish the spectacle of religious wars, religious persecutions, heretical tribunals, that breaking of idols and destruction of images of the gods, that razing of Indian temples and Egyptian colossi, which had looked on the sun 3,000 years: just because a jealous god had said, 'Thou shalt make no graven image.'”
+
+>“And, above all, don't let us forget India, the cradle of the human race, or at least of that part of it to which we belong, where first Mohammedans, and then Christians, were most cruelly infuriated against the adherents of the original faith of mankind. The destruction or disfigurement of the ancient temples and idols, a lamentable, mischievous and barbarous act, still bears witness to the monotheistic fury of the Mohammedans, carried on from Mahmud the Ghaznevid of cursed memory down to Aureng Zeb, the fratricide, whom the Portuguese Christians have zealously imitated by destruction of temples and the auto da fe of the inquisition at Goa.”
 
 ― <a href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Arthur Schopenhauer</a>
 
@@ -410,6 +414,12 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“The Hiddenness Argument: You’re still a small child, and an amnesiac, but this time you’re in the middle of a vast rain forest, dripping with dangers of various kinds.  You’ve been stuck there for days, trying to figure out who you are and where you came from.  You don’t remember having a mother who accompanied you into this jungle, but in your moments of deepest pain and misery you call for her anyway, ‘Mooooommmmmmm!’  Over and over again.  For days and days … the last time when a jaguar comes at you out of nowhere … but with no response.  What should you think in this situation?  In your dying moments, what should cross your mind?  Would the thought that you have a mother who cares about you and hears your cry and could come to you but chooses not to even make it onto the list?”
 
 ― <a href="https://en.wikipedia.org/wiki/J._L._Schellenberg" target="_blank">J. L. Schellenberg</a>
+
+>“I have seen a great people starving to death before my eyes [in India], and I am convinced that this exhaustion and starvation are due not, as their beneficiaries claim, to over-population and superstition, but to the most sordid and criminal exploitation of one nation by another in all recorded history. I propose to show that England has year by year been bleeding India to the point of death, and that self-government of India by the Hindus could not, within any reasonable probability, have worse results than the present form of alien domination.”
+
+>“The British conquest of India was the invasion and destruction of a high civilization by a trading company (the British East India Company) utterly without scruple or principle, careless of art and greedy of gain, over-running with fire and sword a country temporarily disordered and helpless, bribing and murdering, annexing and stealing, and beginning that career of illegal and 'legal' plunder which has now (1930) gone on ruthlessly for one hundred and seventy-three years.”
+
+>“The Islamic conquest of India is probably the bloodiest story in history. It is a discouraging tale, for its evident moral is that civilization is a precious good, whose delicate complex of order and freedom, culture and peace, can at any moment be overthrown by barbarians invading from without or multiplying within.”
 
 >“In the political sense Ashoka had failed; in another sense he had accomplished one of the greatest tasks in history. Within two hundred years after his death Buddhism had spread throughout India, and was entering upon the bloodless conquest of Asia. If to this day, from Kandy in Ceylon to Kamakura in Japan, the placid face of Gautama bids men be gentle to one another and love peace, **it is partly because a dreamer, perhaps a saint, once held the throne of India**.”
 
@@ -497,9 +507,15 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 — A phrase that was carved on the walls of <a href="https://en.wikipedia.org/wiki/Mauthausen_concentration_camp" target="_blank">Mauthausen Nazi concentration camp</a> cell during WWII by a prisoner.
 
->Asking, 'If there is no God, what is the purpose of life?' is like asking, 'If there is no master, whose slave will I be?' If your purpose of life is to submit as a slave, then your meaning comes from flattering the ego of a person whom you should detest.”
+>“Asking, 'If there is no God, what is the purpose of life?' is like asking, 'If there is no master, whose slave will I be?' If your purpose of life is to submit as a slave, then your meaning comes from flattering the ego of a person whom you should detest.”
 
 ― <a href="https://en.wikipedia.org/wiki/Dan_Barker" target="_blank">Dan Barker</a>
+
+>“The Taiping Rebellion is the perfect example of the old adage that the winners write the history books. Most writers treat the Taipings as poor deluded peasants following a madman's hallucinations, but when you get right down to it, that's how most religions begin (not your religion obviously, but all the other ones). The only difference between <a href="https://en.wikipedia.org/wiki/Hong_Xiuquan" target="_blank">Hong Xiuquan</a> and history's successful prophets is that if a professor, novelist, or cartoonist disrespects Hong Xiuquan, angry mobs won't call for his head.
+>
+>Is fear of its followers really the best test of a religion's authenticity? I'll admit that's the standard I use, but it's probably a good idea to remember that if the Taipings had won their rebellion, they might today be considered totally legit and every bit as Christian as the Mormons ("mostly, sort of").”
+
+― <a href="https://en.wikipedia.org/wiki/The_Great_Big_Book_of_Horrible_Things" target="_blank">Matthew White</a>
 
 >“In some ways people had got used to the idea that India was spiritual and religion-oriented. That gave a leg up to the religious interpretation of India, despite the fact that Sanskrit had a larger atheistic literature than exists in any other classical language. Madhava Acharya, the remarkable 14th century philosopher, wrote this rather great book called <a href="https://en.wikipedia.org/wiki/Vidyaranya#Sarvadar%C5%9Banasa%E1%B9%85graha" target="_blank">Sarvadarśanasaṅgraha</a>, which discussed all the religious schools of thought within the Hindu structure. The first chapter is "<a href="https://en.wikipedia.org/wiki/Charvaka" target="_blank">Cārvāka</a>" or "Atheism"—a very strong presentation of the argument in favour of atheism and materialism.”
 
@@ -662,7 +678,7 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 >“I had gone vegetarian when I was 11 because I was viscerally repelled by the idea of eating animal flesh and there was no way to avoid the fact that someone had been killed for that piece of meat. […] it took me until 2015 to become fully vegan. […] I think the root of this whole lifestyle is Compassion. It’s a daily reminder that we are all one. I believe veganism is what will heal this planet. […] I don’t know why we are still using our power and our blessings to quash animals. **Why have we not yet assumed our rightful role as their caretakers?** And every time I look into a cow’s eyes and see the gentle soul dwelling in that enormous powerful body, I feel like the animals are patiently waiting, quietly willing us to just catch on.”
 
-― <a href="" target="_blank">Evanna Lynch</a><span style="color:Chartreuse">(actress who portrayed Luna Lovegood in the Harry Potter films)</span>
+― <a href="https://en.wikipedia.org/wiki/Evanna_Lynch" target="_blank">Evanna Lynch</a><span style="color:Chartreuse">(actress who portrayed Luna Lovegood in the Harry Potter films)</span>
 
 >“I coined the term feminized protein for eggs and dairy products: plant protein produced through the abuse of the reproductive cycle of female animals. Feminized protein is taken from living female animals, whose reproductive capacity is manipulated for human needs. The unique situation of domesticated female animals required its own term: a sexual slavery with chickens in battery cages and dairy cows hooked up to milking machines. … The radical truth is that people can be perfectly happy as vegans, but the dominant culture can’t or won’t acknowledge this. … Being vegan is an exciting, wonderful culinary experience and we probably don’t even know what’s possible because it’s still so new. … The process of objectification/fragmentation/consumption can be interrupted by the process of attention/nowness/compassion.”
 
