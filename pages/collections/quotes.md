@@ -90,6 +90,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>
 
+>“Most of us do elementary-particle physics neither because of the intrinsic interestingness of the phenomena that we study, nor because of the practical importance of what we learn, but because we are pursuing a reductionist vision. All of the properties of ordinary matter are what they are because of the principles of atomic and nuclear physics, which are what they are because of the rules of the Standard Model of elementary particles, which are what they are because…well, we don’t know, this is the reductionist frontier, which we are currently exploring.”
+
 >“Religion is an insult to **human dignity**. Without it you would have good people doing good things and evil people doing evil things.But for good people to do evil things, that takes **religion**.”
 
 >“I think the world needs to wake up from its long nightmare of religious belief; and anything that we scientists can do to ***weaken the hold of religion*** should be done, and may in fact be our greatest contribution to civilization.
@@ -128,6 +130,26 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace" target="_blank">Pierre-Simon Laplace</a>
 
+>“It is a great pity that human beings cannot find all of their satisfaction in scientific contemplativeness.”
+
+>“It is wrong to think that the task of physics is to find out how nature is. Physics concerns what we can say about nature...”
+
+>“Every sentence I utter must be understood not as an affirmation, but as a question.”
+
+>“I am absolutely prepared to talk about the spiritual life of an electronic computer: to state that it is reflecting or is in a bad mood... The question whether the machine really feels or ponders, or whether it merely looks as though it did, is of course absolutely meaningingless.”
+
+― <a href="https://en.wikipedia.org/wiki/Niels_Bohr" target="_blank">Niels Bohr</a>
+
+>“I have done a terrible thing, I have postulated a particle that cannot be detected.”
+
+>“I cannot believe God is a weak left-hander.” [After discovery of parity violation in 1956.]
+
+>“This isn't right. This isn't even wrong.”
+
+>“Against all the retrogressive endeavors (Bohm, Schrödinger etc. and in some sense also Einstein) I am sure that the statistical character of the ψ-function and hence of nature’s laws – on which you insisted from the very beginning against Schrödinger’s resistance – will define the style of the laws at least for some centuries. It may be that later, e.g. in connection with the living processes, one will find something entirely new, but to dream of a way back, back to the classical style of Newton-Maxwell (and these are just dreams these gentlemen are giving themselves up to) seems to me hopeless, digressive, bad taste. And, we could add, it is not even a beautiful dream.”
+
+― <a href="https://en.wikipedia.org/wiki/Wolfgang_Pauli" target="_blank">Wolfgang Pauli</a>
+
 >“<a href="https://en.wikipedia.org/wiki/Nirvana" target="_blank">Nirvana</a> is a state of pure blissful knowledge... It has nothing to do with the individual. The ego or its separation is an illusion. Indeed in a certain sense two "I"'s are identical namely when one disregards all special contents — their Karma. The goal of man is to preserve his Karma and to develop it further... when man dies his Karma lives and creates for itself another carrier.”
 
 >“In itself, the insight is not new. The earliest records, to my knowledge, date back some 2500 years or more... the recognition **<a href="https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)" target="_blank">ATMAN</a> = <a href="https://en.wikipedia.org/wiki/Brahman" target="_blank">BRAHMAN</a>** (the personal self equals the omnipresent, all-comprehending eternal self) was in Indian thought considered, far from being blasphemous, to represent the quintessence of deepest insight into the happenings of the world. The striving of all the scholars of Vedanta was after having learnt to pronounce with their lips, really assimilate in their minds this grandest of all thoughts.
@@ -135,6 +157,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >Again, the mystics of many centuries, independently, yet in perfect harmony with each other (somewhat like the particles in an ideal gas) have described, each of them, the unique experience of his or her life in terms that can be condensed in the phrase: DEUS FACTUS SUM (I have become God).To Western ideology, the thought has remained a stranger...”
 
 ― <a href="https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger" target="_blank">Erwin Schrödinger</a>
+
+>“We have no right to assume that any physical laws exist, or if they have existed up to now, that they will continue to exist in a similar manner in the future.”
+
+― <a href="https://en.wikipedia.org/wiki/Max_Planck" target="_blank">Max Planck</a>
 
 >“I learned very early the difference between knowing the name of something and knowing something.”
 
@@ -147,6 +173,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“It doesn't seem to me that this fantastically marvellous universe, this tremendous range of time and space and different kinds of animals, and all the different planets, and all these atoms with all their motions, and so on, all this complicated thing can merely be a stage so that God can watch human beings struggle for good and evil — which is the view that religion has. The stage is too big for the drama.”
 
 >“God was always invented to explain mystery. God is always invented to explain those things that you do not understand. Now when you finally discover how something works, you get some laws which you're taking away from God; you don't need him anymore. But you need him for the other mysteries. So therefore you leave him to create the universe because we haven't figured that out yet; you need him for understanding those things which you don't believe the laws will explain, such as consciousness, or why you only live to a certain length of time — life and death — stuff like that. God is always associated with those things that you do not understand. Therefore I don't think that the laws can be considered to be like God because they have been figured out.”
+
+>“Einstein was a giant. His head was in the clouds, but his feet were on the ground. But those of us who are not that tall have to choose!”
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Feynman" target="_blank">Richard Feynman</a>
 
@@ -173,17 +201,11 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither ***understand*** nor ***deserve***.”
 
+>“I have known a great many intelligent people in my life. I knew Planck, von Laue and Heisenberg. Paul Dirac was my brother in law; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. But none of them had a mind as quick and acute as Jancsi [John] von Neumann. I have often remarked this in the presence of those men and no one ever disputed.
+>
+>But Einstein's understanding was deeper even than von Neumann's. His mind was both more penetrating and more original than von Neumann's. And that is a very remarkable statement. Einstein took an extraordinary pleasure in invention. Two of his greatest inventions are the Special and General Theories of Relativity; and for all of Jancsi's brilliance, he never produced anything as original.” 
+
 ― <a href="https://en.wikipedia.org/wiki/Eugene_Wigner" target="_blank">Eugene Wigner</a>
-
->“It is a great pity that human beings cannot find all of their satisfaction in scientific contemplativeness.”
-
->“It is wrong to think that the task of physics is to find out how nature is. Physics concerns what we can say about nature...”
-
->“Every sentence I utter must be understood not as an affirmation, but as a question.”
-
->“I am absolutely prepared to talk about the spiritual life of an electronic computer: to state that it is reflecting or is in a bad mood... The question whether the machine really feels or ponders, or whether it merely looks as though it did, is of course absolutely meaningingless.”
-
-― <a href="https://en.wikipedia.org/wiki/Niels_Bohr" target="_blank">Niels Bohr</a>
 
 >“This work contains many things which are new and interesting. Unfortunately, everything that is new is not interesting, and everything which is interesting, is not new.” 
 
@@ -241,6 +263,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Alan_Guth" target="_blank">Alan Guth</a>
 
+>“This is the best few tens of billions years in the history of the universe to do cosmology.”
+
+― <a href="https://en.wikipedia.org/wiki/Nima_Arkani-Hamed" target="_blank">Nima Arkani-Hamed</a>
+
 >“The Big Bang is the poor man's particle accelerator.”
 
 ― <a href="https://en.wikipedia.org/wiki/Yakov_Zeldovich" target="_blank">Yakov Zeldovich</a>
@@ -248,6 +274,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“Perhaps I may claim as evidence for progress in religion the fact that we no longer burn heretics.”
 
 ― <a href="https://en.wikipedia.org/wiki/Freeman_Dyson" target="_blank">Freeman Dyson</a>
+
+>“No one expects a guitarist to learn to play by going to concerts in Central Park or by spending hours reading transcriptions of Jimi Hendrix solos. Guitarists practice. Guitarists play the guitar until their fingertips are calloused. Similarly, physicists solve problems.”
+
+― <a href="https://www.google.co.in/books/edition/Princeton_Problems_in_Physics_with_Solut/R5Y3BwAAQBAJ?hl=en&gbpv=1&printsec=frontcover" target="_blank">M. Newman et al</a>
 
 >“There are countless suns and countless earths all rotating round their suns in exactly the same way as the seven planets of our system.”
 
@@ -510,6 +540,14 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“Asking, 'If there is no God, what is the purpose of life?' is like asking, 'If there is no master, whose slave will I be?' If your purpose of life is to submit as a slave, then your meaning comes from flattering the ego of a person whom you should detest.”
 
 ― <a href="https://en.wikipedia.org/wiki/Dan_Barker" target="_blank">Dan Barker</a>
+
+>“If every trace of any single religion were wiped out and nothing were passed on, it would never be created exactly that way again. There might be some other nonsense in its place, but not that exact nonsense. If all of science were wiped out, it would still be true and someone would find a way to figure it all out again.”
+
+>“Whatever you do, don't read the Bible for a moral code: it advocates prejudice, cruelty, superstition, and murder. Read it because: we need more atheists — and nothin' will get you there faster than readin' the damn Bible.”
+
+>“The question I get asked by religious people all the time is, without God, what’s to stop me from raping all I want? And my answer is: I do rape all I want. And the amount I want is zero. And I do murder all I want, and the amount I want is zero. The fact that these people think that if they didn’t have this person watching over them that they would go on killing, raping rampages is the most self-damning thing I can imagine. I don't want to do that. Right now, without any god, I don't want to jump across this table and strangle you. I have no desire to strangle you. I have no desire to flip you over and rape you.”
+
+― <a href="https://en.wikipedia.org/wiki/Penn_Jillette" target="_blank">Penn Jillette</a>
 
 >“The Taiping Rebellion is the perfect example of the old adage that the winners write the history books. Most writers treat the Taipings as poor deluded peasants following a madman's hallucinations, but when you get right down to it, that's how most religions begin (not your religion obviously, but all the other ones). The only difference between <a href="https://en.wikipedia.org/wiki/Hong_Xiuquan" target="_blank">Hong Xiuquan</a> and history's successful prophets is that if a professor, novelist, or cartoonist disrespects Hong Xiuquan, angry mobs won't call for his head.
 >
