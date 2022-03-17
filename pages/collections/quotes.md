@@ -303,6 +303,30 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/Victor_J._Stenger" target="_blank">Victor J. Stenger</a>
 
+>“I believe that the extraordinary should certainly be pursued. **But extraordinary claims require extraordinary evidence.**”
+
+>“And we who embody the local eyes and ears and thoughts and feelings of the cosmos we've begun, at last, to wonder about our origins. Star stuff, contemplating the stars organized collections of 10 billion-billion-billion atoms contemplating the evolution of matter tracing that long path by which it arrived at consciousness here on the planet Earth and perhaps, throughout the cosmos.”
+
+>“Once we overcome our fear of being tiny, we find ourselves on the threshold of a vast and awesome Universe that utterly dwarfs — in time, in space, and in potential — the tidy anthropocentric proscenium of our ancestors.”
+
+>“If we crave some cosmic purpose, then let us find ourselves a worthy goal.”
+
+>“The fact that religions can be so shamelessly dishonest, so contemptuous of the intelligence of their adherents, and still flourish does not speak very well for the tough-mindedness of the believers. But it does indicate, if a demonstration were needed, that near the core of the religious experience is something remarkably resistant to rational inquiry.”
+
+>“In many cultures, the customary answer is that a God or Gods created the Universe out of nothing. But if we wish to pursue this question courageously, we must of course ask the next question: where did God come from? If we decide that this is an unanswerable question, why not save a step and conclude that the origin of the Universe is an unanswerable question? Or, if we say that God always existed, why not save a step, and conclude that the Universe always existed? That there's no need for a creation, it was always here. These are not easy questions. Cosmology brings us face to face with the deepest mysteries, questions that were once treated only in religion and myth.”
+
+>“The idea that God is an oversized white male with a flowing beard who sits in the sky and tallies the fall of every sparrow is ludicrous. But if by God one means the set of physical laws that govern the universe, then clearly there is such a God. This God is emotionally unsatisfying... it does not make much sense to pray to the law of gravity.”
+
+>“In some respects, science has far surpassed religion in delivering awe. How is it that hardly any major religion has looked at science and concluded, "This is better than we thought! The Universe is much bigger than our prophets said, grander, more subtle, more elegant. God must be even greater than we dreamed"? Instead they say, "No, no, no! My god is a little god, and I want him to stay that way."”
+
+>“Many religions lay out a set of precepts... and claim that these instructions were given by a god or gods. For example, the first code of law by Hammurabi of Babylon... was handed to him by the god Marduk... this is a bamboozle... a pious hoax. ...if Hammurabi had merely said, "Here's what I think everybody should do," he would have been much less successful...”
+
+>“What I'm saying is, if God wanted to send us a message, and ancient writings were the only way he could think of doing it, he could have done a better job.”
+
+>“It took the Church until 1832 to remove Galileo's work from its list of books which Catholics were forbidden to read at the risk of dire punishment of their immortal souls.”
+
+>“In science it often happens that scientists say, "You know that's a really good argument; my position is mistaken," and then they would actually change their minds and you never hear that old view from them again. They really do it. It doesn't happen as often as it should, because scientists are human and change is sometimes painful. But it happens every day. I cannot recall the last time something like that happened in politics or religion.”
+
 ![alt text]({{site.baseurl}}/images/posts/pbdot.jpeg "Pale blue dot")
 >“Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of **confident religions**, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there-on a mote of dust suspended in a sunbeam.
 >
