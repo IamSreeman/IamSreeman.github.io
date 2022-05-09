@@ -10,7 +10,7 @@ breadcrumbs: true
     <div class="row">
       <div class="about_paragraph">
         <p>
-          On Jan 1st 2022 I decided to become a vegan. You can find many quotes related to veganism <a href="{{site.baseurl}}/quotes/#veganism">here</a>.
+          On Jan 1st 2022 I decided to become a vegan. You can find many quotes related to veganism <a href="{{site.baseurl}}/quotes/#veganism"  target="_blank">here</a>.
         </p>
       </div>
     </div>
@@ -32,15 +32,20 @@ breadcrumbs: true
 >    - [Nutrition](#nutrition)
 >    - [Arguments](#arguments)
 >    - [Cooking](#cooking)
+>    - [Videos](#videos) 
 >    - [Other](#other)
+
 #### Reasons
+
 The following are the reasons why I made this decision. 
 
 ##### Moral
 
 - Meat and Dairy products are not necessary for humans to live and the practise of consuming these is easily the most evil thing that is happening right now on planet earth.
-- Currently each year 80 billion land animals are slaughtered for food. Sources: [1](https://en.wikipedia.org/wiki/Animal_slaughter), [2](https://www.fao.org/faostat/en/#data/QCL)
-<img src="{{site.baseurl}}/images/other/Slaughter.jpg" width="400"/>
+- Currently each year 80 billion land animals are slaughtered for food. Sources: [1](https://en.wikipedia.org/wiki/Animal_slaughter), [2](https://www.fao.org/faostat/en/#data/QCL)<br>
+<img src="{{site.baseurl}}/images/other/Slaughter.png" width="400"/>
+
+- The number of individual wild fish killed each year is estimated as 0.97-2.74 trillion (based on FAO tonnage statistics combined with estimated mean weights of fish species).[2] The FAO numbers do not include illegal, unreported and unregulated fishing, nor discarded fish. If these are included and over-reporting by China subtracted, the totals increase by about 16.6% to 33.3%.[2] A similar estimate for the number of farmed fish slaughtered each year is 0.037 to 0.120 trillion. [Source](http://fishcount.org.uk/published/std/fishcountstudy2.pdf)
 
 This is easily the most important argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their dead bodies with causing pollution, cancer, heart diseases etc. Even then it is not morally OK to not be a vegan because of the ethical issues.
 
@@ -85,7 +90,7 @@ But in early 2020, I found out what actually happens in the dairy industry by wa
 ##### Arguments
 - [Carnism debunked](https://www.carnismdebunked.com/)
 - [Veganspeak.info](https://veganspeak.info/)
-- [Arguments for veganism by philosophical vegan](https://philosophicalvegan.com/wiki/index.php/Arguments_for_veganism#Environmental_Damage)
+- [Arguments for veganism by philosophical vegan](https://philosophicalvegan.com/wiki/index.php/Arguments_for_veganism)
 - [Earthling Ed](https://www.youtube.com/c/EarthlingEdChannel)
 - [Erin Janus](https://www.youtube.com/c/ErinJanus/)
 - [CosmicSkeptic](https://www.youtube.com/c/CosmicSkeptic)
@@ -93,10 +98,8 @@ But in early 2020, I found out what actually happens in the dairy industry by wa
 - [Dontwatch.org](https://dontwatch.org/)
 ##### Cooking
 
-- [Yeung Man Cooking](https://www.youtube.com/c/WILYEUNG)
-
-Example video:
-
+- [Yeung Man Cooking](https://www.youtube.com/c/WILYEUNG)<br>
+Example video:<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i9EmC0pM1YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Pick Up Limes](https://www.youtube.com/c/PickUpLimes)
