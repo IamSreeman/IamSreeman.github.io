@@ -498,6 +498,12 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://en.wikipedia.org/wiki/J._L._Schellenberg" target="_blank">J. L. Schellenberg</a>
 
+>“Nationalism is merely Glorified Tribalism.” [<a href="https://www.youtube.com/watch?v=RRQgExLkYEk" target="_blank">YouTube</a>]
+
+>“Superstition is another mighty evil, and has caused much terrible cruelty. The man who is a slave to it despises others who are wiser, tries to force them to do as he does. Think of the awful slaughter produced by the superstition that animals should be sacrificed, and by the still more cruel superstition that man needs flesh for food. Think of the treatment which superstition has meted out to the depressed classes in our beloved India, and see in that how this evil quality can breed heartless cruelty even among those who know the duty of brotherhood. Many crimes have men committed in the name of the God of Love, moved by this nightmare of superstition; be very careful therefore that no slightest trace of it remains in you.”
+
+― <a href="https://en.wikipedia.org/wiki/Jiddu_Krishnamurti" target="_blank">Jiddu Krishnamurti</a>
+
 >“I have seen a great people starving to death before my eyes [in India], and I am convinced that this exhaustion and starvation are due not, as their beneficiaries claim, to over-population and superstition, but to the most sordid and criminal exploitation of one nation by another in all recorded history. I propose to show that England has year by year been bleeding India to the point of death, and that self-government of India by the Hindus could not, within any reasonable probability, have worse results than the present form of alien domination.”
 
 >“The British conquest of India was the invasion and destruction of a high civilization by a trading company (the British East India Company) utterly without scruple or principle, careless of art and greedy of gain, over-running with fire and sword a country temporarily disordered and helpless, bribing and murdering, annexing and stealing, and beginning that career of illegal and 'legal' plunder which has now (1930) gone on ruthlessly for one hundred and seventy-three years.”
@@ -509,7 +515,7 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 ― <a href="https://en.wikipedia.org/wiki/Will_Durant" target="_blank">Will Durant</a>
 ### Others
 
->“Napoleon, and other great men of his type, they were makers of empire. But there is an order of men that get beyond that: They are not makers of empire, but they are makers of universe. And when they have made those universes, their hands are unstained by the blood of any human being on earth. ... Ptolemy made a universe, which lasted 1400 years. Newton also made a universe, which has lasted 300 years. Einstein has made a universe, and I can't tell you how long that will last.”
+>“Napoleon, and other great men of his type, they were makers of empire. But there is an order of men that get beyond that: They are not makers of empire, but they are makers of universe. And when they have made those universes, their hands are unstained by the blood of any human being on earth. ... Ptolemy made a universe, which lasted 1400 years. Newton also made a universe, which has lasted 300 years. Einstein has made a universe, and I can't tell you how long that will last.” [<a href="https://www.youtube.com/watch?v=1TIt0ITM_RM" target="_blank">YouTube</a>]
 
 >“The fact that a believer is happier than a skeptic is no more to the point than the fact that a drunken man is happier than a sober one. The happiness of credulity is a cheap and dangerous quality of happiness, and by no means a necessity of life.”
 
