@@ -38,6 +38,14 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“I cannot imagine a God who rewards and punishes the objects of his creation, whose purposes are modelled after our own — a God, in short, who is but a reflection of human frailty. Neither can I believe that the individual survives the death of his body, although feeble souls harbour such thoughts through **fear or ridiculous egotisms**.”
 
+>“I claim credit for nothing. Everything is determined, the beginning as well as the end, by forces over which we have no control. It is determined for the insect as well as for the star. Human beings, vegetables or cosmic dust, we all dance to a mysterious tune, intoned in the distance by an invisible player.”
+
+>“I believe in Spinoza's God, Who reveals Himself in the lawful harmony of the world, not in a God Who concerns Himself with the fate and the doings of mankind.”
+
+>“How can it be that mathematics, being, after all, a product of human thought which is independent of experience, is so admirably appropriate to the objects of reality? Is human reason, then, without experience, merely by taking thought, able to fathom the properties of real things?”
+
+>“One reason why mathematics enjoys special esteem, above all other sciences, is that its laws are absolutely certain and indisputable, while those of other sciences are to some extent debatable and in constant danger of being overthrown by newly discovered facts.”
+
 >“Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.”
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
@@ -76,9 +84,17 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“We are just an advanced breed of monkeys on a minor planet of a very average star. But we can **understand the Universe**. That makes us something very special.”
 
+>“The human race is just a chemical scum on a moderate-sized planet, orbiting around a very average star in the outer suburb of one among a hundred billion galaxies. We are so insignificant that I can't believe the whole universe exists for our benefit. That would be like saying that you would disappear if I closed my eyes.” 
+
+>“There ought to be something very special about the boundary conditions of the universe and what can be more special than that there is no boundary?”
+
 >“I have lived with the prospect of an early death for the last 49 years. I'm not afraid of death, but I'm in no hurry to die. I have so much I want to do first ... I regard the brain as a computer which will stop working when its components fail. There is no heaven or afterlife for broken down computers; that is a fairy story for people afraid of the dark.”
 
 >“I used to think that information was destroyed in black holes. But the <a href="https://en.wikipedia.org/wiki/AdS/CFT_correspondence" target="_blank">AdS/CFT correspondence</a> led me to change my mind. This was my biggest blunder, or at least my biggest blunder in science.”
+
+>“[on the possibility of contact with an alien civilization]: I think it would be a disaster. The extraterrestrials would probably be far in advance of us. The history of advanced races meeting more primitive people on this planet is not very happy, and they were the same species. I think we should keep our heads low.”
+
+>“Einstein is the only figure in the physical sciences with a stature that can be compared with Newton. Newton is reported to have said "If I have seen further than other men, it is because I stood on the shoulders of giants." This remark is even more true of Einstein who stood on the shoulders of Newton. Both Newton and Einstein put forward a theory of mechanics and a theory of gravity but Einstein was able to base General Relativity on the mathematical theory of curved spaces that had been constructed by <a href="https://en.wikipedia.org/wiki/Bernhard_Riemann" target="_blank">Riemann</a> while Newton had to develop his own mathematical machinery. It is therefore appropriate to acclaim Newton as the greatest figure in mathematical physics and the Principia is his greatest achievement.”
 
 ― <a href="https://en.wikipedia.org/wiki/Stephen_Hawking" target="_blank">Stephen Hawking</a>
 
@@ -87,6 +103,12 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >But nowadays, when we understand so many natural processes, we have no need for such solutions. I can't for the life of me see how the **postulate** of an **Almighty God** helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit.
 >
 >Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”<sup id="a4"><a href="#f4">4</a></sup>
+
+>“The very idea of God is a product of the human imagination.”
+
+>“It seems clear that the present quantum mechanics is not in its final form. Some further changes will be needed, just about as drastic as the changes made in passing from Bohr's orbit theory to quantum mechanics. Some day a new quantum mechanics, a relativistic one, will be discovered, in which we will not have these infinities occurring at all. It might very well be that the new quantum mechanics will have determinism in the way that Einstein wanted.”
+
+>“The underlying physical laws necessary for the mathematical theory of a large part of physics and the whole of chemistry are thus completely known, and the difficulty is only that the exact application of these laws leads to equations much too complicated to be soluble. It therefore becomes desirable that approximate practical methods of applying quantum mechanics should be developed, which can lead to an explanation of the main features of complex atomic systems without too much computation.”
 
 ― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>
 
@@ -124,6 +146,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >
 >We must know — we will know!”<sup id="a6"><a href="#f6">6</a></sup>
 
+>“No one shall expel us from the Paradise that <a href="https://en.wikipedia.org/wiki/Georg_Cantor" target="_blank">Cantor</a> has created.”
+
 ― <a href="https://en.wikiquote.org/wiki/David_Hilbert" target="_blank">David Hilbert</a>
 
 >“I had no need of that hypothesis.” [When Napoleon said “Laplace, they tell me you have written this large book on the system of the universe, and have never even mentioned its Creator”]
@@ -131,6 +155,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 ― <a href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace" target="_blank">Pierre-Simon Laplace</a>
 
 >“It is a great pity that human beings cannot find all of their satisfaction in scientific contemplativeness.”
+
+>“Prediction is very difficult, especially about the future.”
 
 >“It is wrong to think that the task of physics is to find out how nature is. Physics concerns what we can say about nature...”
 
@@ -148,6 +174,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“Against all the retrogressive endeavors (Bohm, Schrödinger etc. and in some sense also Einstein) I am sure that the statistical character of the ψ-function and hence of nature’s laws – on which you insisted from the very beginning against Schrödinger’s resistance – will define the style of the laws at least for some centuries. It may be that later, e.g. in connection with the living processes, one will find something entirely new, but to dream of a way back, back to the classical style of Newton-Maxwell (and these are just dreams these gentlemen are giving themselves up to) seems to me hopeless, digressive, bad taste. And, we could add, it is not even a beautiful dream.”
 
+>“Einstein's conception [on God] is closer to mine. His God is somehow involved in the immutable laws of nature. Einstein has a feeling for the central order of things. He can detect it in the simplicity of natural laws. We may take it that he felt this simplicity very strongly and directly during his discovery of the theory of relativity. Admittedly, this is a far cry from the contents of religion. I don't believe Einstein is tied to any religious tradition, and I rather think the idea of a personal God is entirely foreign to him. But as far as he is concerned there is no split between science and religion: the central order is part of the subjective as well as the objective realm, and this strikes me as being a far better starting point.”
+
 ― <a href="https://en.wikipedia.org/wiki/Wolfgang_Pauli" target="_blank">Wolfgang Pauli</a>
 
 >“<a href="https://en.wikipedia.org/wiki/Nirvana" target="_blank">Nirvana</a> is a state of pure blissful knowledge... It has nothing to do with the individual. The ego or its separation is an illusion. Indeed in a certain sense two "I"'s are identical namely when one disregards all special contents — their Karma. The goal of man is to preserve his Karma and to develop it further... when man dies his Karma lives and creates for itself another carrier.”
@@ -159,6 +187,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 ― <a href="https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger" target="_blank">Erwin Schrödinger</a>
 
 >“We have no right to assume that any physical laws exist, or if they have existed up to now, that they will continue to exist in a similar manner in the future.”
+
+>“A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die and a new generation grows up that is familiar with it ...”
 
 ― <a href="https://en.wikipedia.org/wiki/Max_Planck" target="_blank">Max Planck</a>
 
@@ -340,9 +370,6 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>
 
->“Prediction is very difficult, especially about the future.”
-
-― Unknown person
 ### Philosophers
 
 >“**Desires** are the root cause of **sadness**.”<sup id="a8"><a href="#f8">8</a></sup>
@@ -385,6 +412,8 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“I like mathematics because it is not human and has nothing particular to do with this planet or with the whole accidental universe – because, like Spinoza's God, it won't love us in return.”
 
 >“One of the painful things about our time is that those who feel certainty are stupid, and those with any imagination and understanding are filled with doubt and indecision.”
+
+>“Love is wise, hatred is foolish.”
 
 ― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
 
@@ -666,6 +695,14 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(philosopher, poet, and writer)</span>
 
+>“Poor countries sell their grain to the West for hard currency while their own children starve in their arms. And the West feeds it to livestock. . . So we can eat a steak? I bet I am not the only one in the room who sees this as a crime?”
+
+>“Every morsel of meat we eat is slapping the tear-stained face of a starving child. When I look into her eyes, do I remain silent?”
+
+>“If everyone ate a Western diet, we would need two Planet Earths to feed them. We only have one. And she is dying.”
+
+― <a href="https://en.wikipedia.org/wiki/Philip_Wollen" target="_blank">Philip Wollen</a><span style="color:Chartreuse">(philanthropist, environmentalist and animal rights activist)</span>
+
 >“When I made the switch to a plant based diet, people, they were like, "I don't know how you're gonna lift that much weight." And, "You're not gonna be eating anything, you're just gonna eat grass. Like, how you gonna be strong?" I qualified for my third Olympic team, you know what I'm saying? I broke two American records. I won at the Pan-Am games. I was like, "Man." Like, "I think, I should've done this a long while ago." Like, "Why didn't I research this before?"”
 
 ― <a href="https://en.wikipedia.org/wiki/Kendrick_Farris" target="_blank">Kendrick Farris</a><span style="color:Chartreuse">(Olympic weightlifter)</span>
@@ -678,7 +715,7 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="" target="_blank">Moby (Richard Melville Hall)</a><span style="color:Chartreuse">(musician and animal rights activist)</span>
 
->“Many years ago, when I was **merely** a vegetarian, I met the great Cesar Chavez, and he said to me: "If you are interested in preventing animal suffering, the first thing you should give up is eggs and milk, because the animals who produce those foods lead the most unhappy lives. You would do better to eat meat and stop eating eggs and dairy products." I was shocked, since I had no intention of eating meat but had never thought of giving up eggs or dairy products. But when I looked into it I realized he was right, and now, years later, after I have studied the matter up close, I know for certain that he was completely correct about the cruel treatment of the animals raised for such products. The advantages of a vegan diet are enormous for our health, for the environment, for the animals themselves.”
+>“Many years ago, when I was **merely** a vegetarian, I met the great <a href="https://en.wikipedia.org/wiki/Cesar_Chavez" target="_blank">Cesar Chavez</a>, and he said to me: "If you are interested in preventing animal suffering, the first thing you should give up is eggs and milk, because the animals who produce those foods lead the most unhappy lives. You would do better to eat meat and stop eating eggs and dairy products." I was shocked, since I had no intention of eating meat but had never thought of giving up eggs or dairy products. But when I looked into it I realized he was right, and now, years later, after I have studied the matter up close, I know for certain that he was completely correct about the cruel treatment of the animals raised for such products. The advantages of a vegan diet are enormous for our health, for the environment, for the animals themselves.”
 
 ― <a href="https://en.wikipedia.org/wiki/Jeffrey_Moussaieff_Masson" target="_blank">Jeffrey Moussaieff Masson</a><span style="color:Chartreuse">(author)</span>
 
@@ -797,6 +834,14 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://gineipaedia.com/wiki/Reinhard_von_Lohengramm" target="_blank">Reinhard von Lohengramm</a>
 
+<img src="{{site.baseurl}}/images/other/Berserk.jpg" alt="Berserk" width="400"/>
+
+― <a href="https://en.wikipedia.org/wiki/Kentaro_Miura" target="_blank">Kentaro Miura</a>
+
+>“You’re going to be all right. You just stumbled over a stone in the road. It means nothing. Your goal lies far beyond this. Doesn’t it? I’m sure you’ll overcome this. You’ll walk again… soon.”
+
+― <a href="https://berserk.fandom.com/wiki/Guts" target="_blank">Guts</a>
+
 >“I am crying. I'm not sad that I'm dying. I am finally sad that my child died. You can’t just erase people’s feelings. It’s as if my emotions just wandered around in an unknown place somewhere hundreds of miles away. It’s as if they were sent long ago, in a letter that was always intended for me. **So this is what true sadness feels like. It feels a lot like...happiness**.”
 
 ― <a href="https://obluda.fandom.com/wiki/Wolfgang_Grimmer" target="_blank">Wolfgang Grimmer</a>
@@ -819,16 +864,20 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://onepiece.fandom.com/wiki/Pedro" target="_blank">Pedro</a>
 
+“Even if you kill me, even if you kill anyone, even if you reset science… There’s always an idiot who will try anything and the shiny monkeys will inevitably create a technological civilization.”
+
+― <a href="https://dr-stone.fandom.com/wiki/Senku_Ishigami" target="_blank">Senku Ishigami</a>
+
 <b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of General Relativity (GR) or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.<a href="#a1">↩</a>
 
 <b id="f2">2)</b> This was Newton's response whenever <a href="https://en.wikipedia.org/wiki/Edmond_Halley" target="_blank">Edmond Halley</a> mocked religion or alchemy. Newton said on atheism: *“Atheism is so senseless & odious to mankind that it never had many professors. Can it be by accident that all birds beasts & men have their right side & left side alike shaped (except in their bowels) & just two eyes & no more on either side the face & just two ears on either side the head & a nose with two holes & no more between the eyes & one mouth under the nose & either two fore leggs or two wings or two arms on the sholders & two leggs on the hipps one on either side & no more? Whence arises this uniformity in all their outward shapes but from the counsel & contrivance of an Author? Whence is it that the eyes of all sorts of living creatures are transparent to the very bottom & the only transparent members in the body, having on the outside an hard transparent skin, & within transparent juyces with a crystalline Lens in the middle & a pupil before the Lens all of them so truly shaped & fitted for vision, that no Artist can mend them? Did blind chance know that there was light & what was its refraction & fit the eyes of all creatures after the most curious manner to make use of it? These & such like considerations always have & ever will prevail with man kind to believe that there is a being who made all things & has all things in his power & who is therfore to be feared.”*<br>
-Newton is widely considered as one of the top 2 physicists of all time (the other being Einstein. Example: <a href="https://en.wikipedia.org/wiki/Lev_Landau#Landau's_ranking_of_physicists" target="_blank">Landau's ranking of physicists</a>). You may ask: 'How could some that intelligent believe in something as silly as religion?'. But we should understand that those questions above were unexplainable back in those days as biology was not mature enough to answer them.<a href="#a2">↩</a>
+Newton is widely considered as one of the top 2 physicists of all time (the other being Einstein. Example: <a href="https://en.wikipedia.org/wiki/Lev_Landau#Landau's_ranking_of_physicists" target="_blank">Landau's ranking of physicists</a>). You may ask: 'How could someone that intelligent believe in something as silly as religion?'. But we should understand that those questions above were unexplainable back in those days as biology was not mature enough to answer them.<a href="#a2">↩</a>
 
 <b id="f3">3)</b> This statement was made considering GR, a classical theory. It was written in 1983 (9 years after Hawking radiation was predicted) in the preface of his book. Maybe he was unaware of the humongous number of states needed for a black hole to interpret Bekenstein-Hawking entropy statistically unlike in GR where the <a href="https://en.wikipedia.org/wiki/No-hair_theorem" target="_blank">No-hair theorem</a> restricts the degrees of freedom.<a href="#a3">↩</a>
 
 <b id="f4">4)</b> At the 1927 Solvay Conference.<a href="#a4">↩</a>
 
-<b id="f5">5)</b> He meant mathematicians should become part time physicists and help them otherwise they can't do it.<a href="#a5">↩</a>
+<b id="f5">5)</b> He meant mathematicians like him should become part time physicists and help physicists otherwise physicists can't do it.<a href="#a5">↩</a>
 
 <b id="f6">6)</b> He was not aware of Gödel's incompleteness theorems when saying this.<a href="#a6">↩</a>
 
