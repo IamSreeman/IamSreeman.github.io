@@ -46,7 +46,7 @@ breadcrumbs: true
 >    - [Cooking](#cooking)
 >    - [Videos](#videos) 
 >    - [Other](#other)
-
+>    - [Memes](#memes)
 #### Reasons
 
 The following are the reasons why I made this decision. 
@@ -89,6 +89,7 @@ If I want to live as a responsible man, I must do something for the species of c
 ##### Health
 - This comprehensive meta-analysis reports a significant protective effect of a vegetarian diet versus the incidence and/or mortality from ischemic heart disease (-25%) and incidence from total cancer (-8%). Vegan diet conferred a significant reduced risk (-15%) of incidence from total cancer. [Source](https://pubmed.ncbi.nlm.nih.gov/26853923/)
 - The World Health Organization has classified processed meats including ham, bacon, salami and frankfurts as a Group 1 carcinogen (known to cause cancer) which means that there's strong evidence that processed meats cause cancer. Eating processed meat increases your risk of bowel and stomach cancer. [Source](https://www.cancercouncil.com.au/1in3cancers/lifestyle-choices-and-cancer/red-meat-processed-meat-and-cancer/)
+- The Academy of Nutrition and Dietetics and Dietitians of Canada consider well-planned vegetarian and vegan diets "appropriate for individuals during all stages of the lifecycle, including pregnancy, lactation, infancy, childhood, and adolescence, and for athletes". [Source](https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=2985&context=pubs)
 
 ##### World hunger
 - One in nine people in the world today are undernourished, yet we feed around a third of our global crop production to animals. If we cut out the middleman and ate the crops ourselves, instead of feeding them to animals, we could feed an additional four billion people – more than enough for everyone, for many years to come! We all know how wasteful old gas-guzzling cars are – how long before livestock farming is viewed in the same way: As a shameful, inefficient waste of resources. [Source](https://viva.org.uk/planet/the-issues/world-hunger/)
@@ -101,6 +102,10 @@ If I want to live as a responsible man, I must do something for the species of c
 - Worldwide an estimated 73% of antimicrobials (mainly antibiotics) are consumed by farm animals. As resistance to antibiotics becomes more common there is greater need for alternative treatments. Calls for new antibiotic therapies have been issued, but new drug development is becoming rarer. [Source](https://en.wikipedia.org/wiki/Antimicrobial_resistance)
 
 #### Resources
+
+- [3movies](https://3movies.org/social)
+- [Vegan Cheat Sheet](https://vegancheatsheet.org)
+- [Vegan Starter Kit](https://www.vegankit.com/)
 
 ##### Nutrition
 - [Veganhealth.org](https://veganhealth.org/)
@@ -130,6 +135,10 @@ Example video:<br>
 - [Avant Garde vegan](https://www.youtube.com/c/avantgardevegan)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P_wD2zydD_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q4EgmrfmD0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ##### Videos
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSpglxHTJVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LQRAfJyEsko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -146,4 +155,28 @@ Example video:<br>
 - [Vegan sidekick](http://tinyurl.com/vegansidekick)
 - [Animal clock](https://animalclock.org/)
 
+###### Memes
+<img src="{{site.baseurl}}/images/other/memes/v/1.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/2.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/3.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/4.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/5.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/6.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/7.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/8.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/9.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/10.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/11.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/12.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/13.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/14.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/15.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/16.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/17.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/18.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/19.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/20.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/21.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/22.jpg" width="300"/>
+<br>
 <b id="f1">1)</b> In rare cases when there is no vegan option to consume I might eat some food that contain dairy products instead of fasting. For example recently when I was in a plane to Canada there were veg and nonveg options. In the veg option they included some dairy products in the vegetable pasta and I ate it but I didn't eat yogurt, cheese etc which are direct dairy products. I think society is more responsible for this than me.<a href="#a1">↩</a>
