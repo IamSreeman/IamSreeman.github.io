@@ -55,9 +55,11 @@ The following are the reasons why I made this decision.
 
 - Meat and Dairy products are not necessary for humans to live and the practise of consuming these is easily the most evil thing that is happening right now on planet earth.
 - Currently each year 80 billion land animals are slaughtered for food. Sources: [1](https://en.wikipedia.org/wiki/Animal_slaughter), [2](https://www.fao.org/faostat/en/#data/QCL)<br>
+
 <img src="{{site.baseurl}}/images/other/Slaughter.png" width="400"/>
 
 - The number of individual wild fish killed each year is estimated as 0.97-2.74 trillion (based on FAO tonnage statistics combined with estimated mean weights of fish species).[2] The FAO numbers do not include illegal, unreported and unregulated fishing, nor discarded fish. If these are included and over-reporting by China subtracted, the totals increase by about 16.6% to 33.3%.[2] A similar estimate for the number of farmed fish slaughtered each year is 0.037 to 0.120 trillion. [Source](http://fishcount.org.uk/published/std/fishcountstudy2.pdf)
+
 <img src="{{site.baseurl}}/images/other/AAPrincipleThree.png" width="500"/>
 <br>
 
