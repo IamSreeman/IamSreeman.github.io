@@ -58,8 +58,10 @@ The following are the reasons why I made this decision.
 <img src="{{site.baseurl}}/images/other/Slaughter.png" width="400"/>
 
 - The number of individual wild fish killed each year is estimated as 0.97-2.74 trillion (based on FAO tonnage statistics combined with estimated mean weights of fish species).[2] The FAO numbers do not include illegal, unreported and unregulated fishing, nor discarded fish. If these are included and over-reporting by China subtracted, the totals increase by about 16.6% to 33.3%.[2] A similar estimate for the number of farmed fish slaughtered each year is 0.037 to 0.120 trillion. [Source](http://fishcount.org.uk/published/std/fishcountstudy2.pdf)
+<img src="{{site.baseurl}}/images/other/AAPrincipleThree.png" width="500"/>
+<br>
 
-This is easily the most important argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their dead bodies with causing pollution, cancer, heart diseases etc. Even then it is not morally OK to not be a vegan because of the ethical issues.
+This is easily the most important argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their dead bodies with causing pollution, cancer, heart diseases etc. **Even then** it is not morally OK to not be a vegan because of the ethical issues.
 
 When I was a child I was a vegetarian and I used to think that there is nothing morally wrong with drinking milk since we are not killing the cows or buffaloes. In the middle of my 9th class my biology teacher said that eating meat is necessary to be healthy and he gave several reasons why it is beneficial to health. Because of that I became a meat eater and ate chicken in 2 meals for the next 4 years. Now I know that it is actually healthier to be a vegan. But looking back even if it was true that carnism is slightly more healthier than veganism (which is certainly false) it is not morally OK to eat meat.
 
@@ -106,6 +108,8 @@ If I want to live as a responsible man, I must do something for the species of c
 - [3movies](https://3movies.org/social)
 - [Vegan Cheat Sheet](https://vegancheatsheet.org)
 - [Vegan Starter Kit](https://www.vegankit.com/)
+- [Abolitionist Approach](https://www.abolitionistapproach.com/)
+- [HowDoIGoVegan.com](https://www.howdoigovegan.com/)
 
 ##### Nutrition
 - [Veganhealth.org](https://veganhealth.org/)
