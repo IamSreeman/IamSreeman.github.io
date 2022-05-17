@@ -33,6 +33,7 @@ breadcrumbs: true
 >
 >1. [Reasons](#reasons)
 >    - [Moral](#moral)
+>      - [Vivisection](#vivisection)
 >    - [Environmental](#environmental)
 >    - [Health](#health)
 >    - [World hunger](#world-hunger)
@@ -80,6 +81,22 @@ If I want to live as a responsible man, I must do something for the species of c
 >“Yet from the viewpoint of the herd, rather than that of the shepherd, it’s hard to avoid the impression that for the vast majority of domesticated animals, the Agricultural Revolution was a terrible catastrophe. Their evolutionary ‘success’ is meaningless. A rare wild rhinoceros on the brink of extinction is probably more satisfied than a calf who spends its short life inside a tiny box, fattened to produce juicy steaks. The contented rhinoceros is no less content for being among the last of its kind. The numerical success of the calf’s species is little consolation for the suffering the individual endures.”
 
 ― <a href="https://en.wikipedia.org/wiki/Yuval_Noah_Harari" target="_blank">Yuval Noah Harari</a>
+
+###### Vivisection
+
+It is easy to understand that unnecessarily killing and eating animal dead bodies ("meat") is cruel. It is not easy to understand whether vivisection is evil.
+Read the following articles
+1. [vivisection-part-one-the-necessity-of-vivisection](https://www.abolitionistapproach.com/vivisection-part-one-the-necessity-of-vivisection/)
+2. [vivisection-part-two-the-moral-justification-of-vivisection](https://www.abolitionistapproach.com/vivisection-part-two-the-moral-justification-of-vivisection/)
+3. [on-vivisection-and-violence](https://www.abolitionistapproach.com/on-vivisection-and-violence/)
+4. [animals-used-for-experimentation](https://www.peta.org/issues/animals-used-for-experimentation/)
+5. [navs](https://navs.org/)
+
+Humanity should invest more on <a href="https://en.wikipedia.org/wiki/Alternatives_to_animal_testing" target="_blank">alternative ways of medical research</a> instead of vivisection and in the long term should completely move away from this method of research. But until those areas of research are developed I think it is justifiable to use animals for testing **as long as large number of humans will benefit from it AND it can't be done in other peaceful ways**. But there is a claim in the 3rd reference that "the results of vivisection are “no more informative than tossing a coin,”" **if that is true then all types of vivisection are unjustifiable**. Also vivisection for curiosity, i.e just to understand how the body of the animal works is not justifiable under any circumstances if it doesn't help large number of humans and such research should be banned. In plant agriculture also a lot of insects die, we say it is necessary and we don't search for alternate ways where we don't kill insects, so can we justify vivisection similarly by saying it is necessary? I don't know. It is not clear as of now whether insects are sentient or not. This is not an easy question to answer.
+
+1. [A review of insect cognition and sentience in relation to their use as food and feed](https://www.sciencedirect.com/science/article/abs/pii/S0168159121002197)
+
+The amount of suffering caused by vivisection is currently negligible compared to meat industry and dairy industry. We can think about this problem after those industries are stopped.
 
 ##### Environmental
 - Animal agriculture is responsible for 18% of all greenhouse gas emissions, which is more than all transportation emissions combined. [Source](https://www.fao.org/3/a0701e/a0701e00.htm)
@@ -184,5 +201,6 @@ Example video:<br>
 <img src="{{site.baseurl}}/images/other/memes/v/20.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/21.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/22.jpg" width="300"/>
+<br>
 <br>
 <b id="f1">1)</b> In rare cases when there is no vegan option to consume I might eat some food that contain dairy products instead of fasting. For example recently when I was in a plane to Canada there were veg and nonveg options. In the veg option they included some dairy products in the vegetable pasta and I ate it but I didn't eat yogurt, cheese etc which are direct dairy products. I think society is more responsible for this than me.<a href="#a1">↩</a>

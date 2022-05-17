@@ -28,6 +28,14 @@ These are some quotes which I liked. I removed the quotes which are given as mis
   - [Veganism](#veganism)
 ### Physicists
 
+>“Spacetime tells matter how to move; matter tells spacetime how to curve.”
+
+― <a href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler" target="_blank">John Archibald Wheeler</a>
+
+>“If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”
+
+― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
+
 >“I worked horribly strenuously, strange that one can endure that.”<sup id="a1"><a href="#f1">1</a></sup>
 
 >“Imagine my joy at the feasibility of general covariance and the result that the equations give the perihelion motion of Mercury correctly. For a few days I was beside myself with joyous excitement.”
@@ -53,14 +61,6 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“Any man who reads too much and uses his own brain too little falls into **lazy habits of thinking**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
-
->“Spacetime tells matter how to move; matter tells spacetime how to curve.”
-
-― <a href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler" target="_blank">John Archibald Wheeler</a>
-
->“If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”
-
-― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
 
 >“Absolute, true and mathematical time, of itself, and from its own nature flows equably without regard to anything external, and by another name is called duration: relative, apparent and common time, is some sensible and external (whether accurate or unequable) measure of duration by the means of motion, which is commonly used instead of true time ...”
 
@@ -195,6 +195,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die and a new generation grows up that is familiar with it ...”
 
 ― <a href="https://en.wikipedia.org/wiki/Max_Planck" target="_blank">Max Planck</a>
+
+>“While it is never safe to affirm that the future of Physical Science has no marvels in store even more astonishing than those of the past, it seems probable that most of the grand underlying principles have been firmly established and that further advances are to be sought chiefly in the rigorous application of these principles to all the phenomena which come under our notice. It is here that the science of measurement shows its importance — where quantitative work is more to be desired than qualitative work. An eminent physicist remarked that the **future truths of physical science are to be looked for in the sixth place of decimals**.” 
+
+― <a href="https://en.wikipedia.org/wiki/Albert_A._Michelson" target="_blank">Albert A. Michelson</a> [1894]
 
 >“I learned very early the difference between knowing the name of something and knowing something.”
 
