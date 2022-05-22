@@ -72,6 +72,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“I have not been able to discover the cause of those properties of gravity from phenomena, and I frame no hypotheses; for whatever is not deduced from the phenomena is to be called a hypothesis, and hypotheses, whether metaphysical or physical, whether of occult qualities or mechanical, have no place in experimental philosophy.”
 
+>“Plato is my friend — Aristotle is my friend — but my greatest friend is truth.”
+
 >“I have studied these things — you have not.”<sup id="a2"><a href="#f2">2</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">Isaac Newton</a>
@@ -83,6 +85,36 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“The black holes of nature are **the most perfect macroscopic objects there are in the universe**: the only elements in their construction are our concepts of space and time. And since the general theory of Relativity provides only a single unique family of solutions for their descriptions, they are the simplest objects as well.”<sup id="a3"><a href="#f3">3</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank">Subrahmanyan Chandrasekhar</a>
+
+>“I cannot understand why we idle discussing **religion**. If we are honest—and scientists have to be—we must admit that religion is a jumble of **false assertions**, with no basis in reality. The very idea of God is a product of the human imagination. It is quite understandable why **primitive people**, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling.
+>
+>But nowadays, when we understand so many natural processes, we have no need for such solutions. I can't for the life of me see how the **postulate** of an **Almighty God** helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit.
+>
+>Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”<sup id="a4"><a href="#f4">4</a></sup>
+
+>“The very idea of God is a product of the human imagination.”
+
+>“It seems clear that the present quantum mechanics is not in its final form. Some further changes will be needed, just about as drastic as the changes made in passing from Bohr's orbit theory to quantum mechanics. Some day a new quantum mechanics, a relativistic one, will be discovered, in which we will not have these infinities occurring at all. It might very well be that the new quantum mechanics will have determinism in the way that Einstein wanted.”
+
+>“There was difficulty reconciling the Newtonian theory of gravitation with its instantaneous propagation of forces with the requirements of special relativity; and Einstein working on this difficulty was led to a generalization of his relativity—which was probably the greatest scientific discovery that was ever made.”
+
+>“The underlying physical laws necessary for the mathematical theory of a large part of physics and the whole of chemistry are thus completely known, and the difficulty is only that the exact application of these laws leads to equations much too complicated to be soluble. It therefore becomes desirable that approximate practical methods of applying quantum mechanics should be developed, which can lead to an explanation of the main features of complex atomic systems without too much computation.”
+
+― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>
+
+>“Most of us do elementary-particle physics neither because of the intrinsic interestingness of the phenomena that we study, nor because of the practical importance of what we learn, but because we are pursuing a reductionist vision. All of the properties of ordinary matter are what they are because of the principles of atomic and nuclear physics, which are what they are because of the rules of the Standard Model of elementary particles, which are what they are because…well, we don’t know, this is the reductionist frontier, which we are currently exploring.”
+
+>“Religion is an insult to **human dignity**. Without it you would have good people doing good things and evil people doing evil things.But for good people to do evil things, that takes **religion**.”
+
+>“I think the world needs to wake up from its long nightmare of religious belief; and anything that we scientists can do to ***weaken the hold of religion*** should be done, and may in fact be our greatest contribution to civilization.
+
+>“I have a friend — or had a friend, now dead — <a href="https://en.wikipedia.org/wiki/Abdus_Salam" target="_blank">Abdus Salam</a>, a very devout Muslim, who was trying to bring science into the universities in the Gulf states and he told me that he had a terrible time because, although they were very receptive to technology, they felt that science would be a corrosive to religious belief, and they were worried about it... and damn it, I think they were right. ***It is corrosive of religious belief, and it's a good thing too***.”
+
+>“The more the universe seems comprehensible, the more **it also seems pointless**.”
+
+>“Despite the weakness of the early experimental evidence for general relativity, Einstein’s theory became the standard textbook theory of gravitation in the 1920s and retained that position from then on, even while the various eclipse expeditions of the 1920s and 1930s were reporting at best equivocal evidence for the theory. … Perhaps all of us were just gullible and lucky, but I do not think that is the real explanation. I believe that the general acceptance of general relativity was due in large part to the attractions of the theory itself—in short, to its **beauty**.”
+
+― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
 
 >“Black holes ain't as black as they are painted. They are not the eternal prisons they were once thought. Things can get out of a black hole, both to the outside, and possibly to another universe. So if you feel you are in a black hole, don't give up. There's a way out.”
 
@@ -102,31 +134,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Stephen_Hawking" target="_blank">Stephen Hawking</a>
 
->“I cannot understand why we idle discussing **religion**. If we are honest—and scientists have to be—we must admit that religion is a jumble of **false assertions**, with no basis in reality. The very idea of God is a product of the human imagination. It is quite understandable why **primitive people**, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling.
->
->But nowadays, when we understand so many natural processes, we have no need for such solutions. I can't for the life of me see how the **postulate** of an **Almighty God** helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit.
->
->Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”<sup id="a4"><a href="#f4">4</a></sup>
-
->“The very idea of God is a product of the human imagination.”
-
->“It seems clear that the present quantum mechanics is not in its final form. Some further changes will be needed, just about as drastic as the changes made in passing from Bohr's orbit theory to quantum mechanics. Some day a new quantum mechanics, a relativistic one, will be discovered, in which we will not have these infinities occurring at all. It might very well be that the new quantum mechanics will have determinism in the way that Einstein wanted.”
-
->“The underlying physical laws necessary for the mathematical theory of a large part of physics and the whole of chemistry are thus completely known, and the difficulty is only that the exact application of these laws leads to equations much too complicated to be soluble. It therefore becomes desirable that approximate practical methods of applying quantum mechanics should be developed, which can lead to an explanation of the main features of complex atomic systems without too much computation.”
-
-― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>
-
->“Most of us do elementary-particle physics neither because of the intrinsic interestingness of the phenomena that we study, nor because of the practical importance of what we learn, but because we are pursuing a reductionist vision. All of the properties of ordinary matter are what they are because of the principles of atomic and nuclear physics, which are what they are because of the rules of the Standard Model of elementary particles, which are what they are because…well, we don’t know, this is the reductionist frontier, which we are currently exploring.”
-
->“Religion is an insult to **human dignity**. Without it you would have good people doing good things and evil people doing evil things.But for good people to do evil things, that takes **religion**.”
-
->“I think the world needs to wake up from its long nightmare of religious belief; and anything that we scientists can do to ***weaken the hold of religion*** should be done, and may in fact be our greatest contribution to civilization.
-
->“I have a friend — or had a friend, now dead — <a href="https://en.wikipedia.org/wiki/Abdus_Salam" target="_blank">Abdus Salam</a>, a very devout Muslim, who was trying to bring science into the universities in the Gulf states and he told me that he had a terrible time because, although they were very receptive to technology, they felt that science would be a corrosive to religious belief, and they were worried about it... and damn it, I think they were right. ***It is corrosive of religious belief, and it's a good thing too***.”
-
->“The more the universe seems comprehensible, the more **it also seems pointless**.”
-
-― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
+>“General relativity is certainly a very **beautiful theory**, but how does one judge the elegance of physical theories generally? 
 
 >“One is left with the uneasy feeling that even if supersymmetry is actually false, as a feature of nature, and that accordingly no supersymmetry partners are ever found by the LHC or by any later more powerful accelerator, then the conclusion that some supersymmetry proponents might come to would not be that supersymmetry is false for the actual particles of nature, but merely that the level of supersymmetry breaking must be greater even that the level reached at that moment, and that a new even more powerful machine would be required to observe it!”
 
@@ -245,7 +253,9 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Eugene_Wigner" target="_blank">Eugene Wigner</a>
 
->“This work contains many things which are new and interesting. Unfortunately, everything that is new is not interesting, and everything which is interesting, is not new.” 
+>“This work contains many things which are new and interesting. Unfortunately, everything that is new is not interesting, and everything which is interesting, is not new.”
+
+>“The theory of gravitational fields, constructed on the basis of the theory of relativity, is called the general theory of relativity. It was established by Einstein (and finally formulated by him in 1915), and represents probably the most beautiful of all existing physical theories. It is remarkable that it was developed by Einstein in a purely deductive manner and only later was substantiated by astronomical observations.”
 
 ― <a href="https://en.wikipedia.org/wiki/Lev_Landau" target="_blank">Lev Landau</a>
 

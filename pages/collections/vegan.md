@@ -33,7 +33,7 @@ breadcrumbs: true
 >
 >1. [Reasons](#reasons)
 >    - [Moral](#moral)
->      - [Vivisection](#vivisection)
+>      - [Dilemmas](#dilemmas)
 >    - [Environmental](#environmental)
 >    - [Health](#health)
 >    - [World hunger](#world-hunger)
@@ -82,21 +82,25 @@ If I want to live as a responsible man, I must do something for the species of c
 
 ― <a href="https://en.wikipedia.org/wiki/Yuval_Noah_Harari" target="_blank">Yuval Noah Harari</a>
 
-###### Vivisection
-
-It is easy to understand that unnecessarily killing and eating animal dead bodies ("meat") is cruel. It is not easy to understand whether vivisection is evil.
+###### Dilemmas
+**Vivisection**: It is easy to understand that unnecessarily killing and eating animal dead bodies ("meat") is cruel. It is not easy to understand whether vivisection is evil.
 Read the following articles
 1. [vivisection-part-one-the-necessity-of-vivisection](https://www.abolitionistapproach.com/vivisection-part-one-the-necessity-of-vivisection/)
 2. [vivisection-part-two-the-moral-justification-of-vivisection](https://www.abolitionistapproach.com/vivisection-part-two-the-moral-justification-of-vivisection/)
 3. [on-vivisection-and-violence](https://www.abolitionistapproach.com/on-vivisection-and-violence/)
 4. [animals-used-for-experimentation](https://www.peta.org/issues/animals-used-for-experimentation/)
 5. [navs](https://navs.org/)
+6. [the-importance-of-insect-suffering](https://reducing-suffering.org/the-importance-of-insect-suffering/)
 
-Humanity should invest more on <a href="https://en.wikipedia.org/wiki/Alternatives_to_animal_testing" target="_blank">alternative ways of medical research</a> instead of vivisection and in the long term should completely move away from this method of research. But until those areas of research are developed I think it is justifiable to use animals for testing **as long as large number of humans will benefit from it AND it can't be done in other peaceful ways**. But there is a claim in the 3rd reference that "the results of vivisection are “no more informative than tossing a coin,”" **if that is true then all types of vivisection are unjustifiable**. Also vivisection for curiosity, i.e just to understand how the body of the animal works is not justifiable under any circumstances if it doesn't help large number of humans and such research should be banned. In plant agriculture also a lot of insects die, we say it is necessary and we don't search for alternate ways where we don't kill insects, so can we justify vivisection similarly by saying it is necessary? I don't know. It is not clear as of now whether insects are sentient or not. This is not an easy question to answer.
+Humanity should invest more on <a href="https://en.wikipedia.org/wiki/Alternatives_to_animal_testing" target="_blank">alternative ways of medical research</a> instead of vivisection and in the long term should completely move away from this method of research. But until those areas of research are developed I think it is justifiable to use animals for testing **as long as large number of humans will benefit from it AND it can't be done in other peaceful ways**. But there is a claim in the 3rd reference that "the results of vivisection are “no more informative than tossing a coin,”" **if that is true then all types of vivisection are unjustifiable**. Also vivisection for curiosity, i.e just to understand how the body of the animal works is not justifiable under any circumstances if it doesn't help large number of humans and such research should be banned. In plant agriculture also a lot of insects die, we say it is necessary and we don't search for alternate ways where we don't kill insects, so can we justify vivisection similarly by saying it is necessary? I don't know. It is not clear as of now whether insects are sentient or not. This is not an easy question to answer. Also many mice (they are also the most commonly used animals for medical research) are killed in plant agriculture, which are sentient.
 
 1. [A review of insect cognition and sentience in relation to their use as food and feed](https://www.sciencedirect.com/science/article/abs/pii/S0168159121002197)
 
+But I should add that there is a difference between suffering in vivisection and suffering during plant agriculture. In the former we are directly inflicting the suffering where as in the later it is an indirect thing. Directly inflicting the suffering is definitely **more evil** than indirect. So, vivisection is more evil.
+
 The amount of suffering caused by vivisection is currently negligible compared to meat industry and dairy industry. We can think about this problem after those industries are stopped.
+
+**Honey and Silk**: Again we don't know if these insects are sentient. But it is always better to assume they are sentient if we don't know. These are also quite different from the plant agriculture as these industries inflict direct suffering compared to the insects that die in plant agriculture.
 
 ##### Environmental
 - Animal agriculture is responsible for 18% of all greenhouse gas emissions, which is more than all transportation emissions combined. [Source](https://www.fao.org/3/a0701e/a0701e00.htm)
