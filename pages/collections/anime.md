@@ -1,5 +1,5 @@
 ---
-permalink: /anime/
+permalink: /anime
 title: "Anime"
 meta_title: "Anime | K. Sreeman Reddy"
 layout: page-fullwidth

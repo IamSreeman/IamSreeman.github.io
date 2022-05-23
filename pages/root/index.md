@@ -10,17 +10,17 @@ header:
  image_fullwidth: header.jpg
 widget1:
   title: "Projects"
-  url: /projects/
+  url: /projects
   image: projects.jpg
   text: "Check out my projects."
 widget2:
   title: "About"
-  url: /about/
+  url: /about
   image: me.jpg
   text: "Check out to know about me."
 widget3:
   title: "Notes"
-  url: /notes/
+  url: /notes
   image: notes.png
   text: "Check out my notes."
 ---

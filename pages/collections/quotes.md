@@ -1,5 +1,5 @@
 ---
-permalink: /quotes/
+permalink: /quotes
 title: "Quotes"
 meta_title: "Quotes | K. Sreeman Reddy"
 header:

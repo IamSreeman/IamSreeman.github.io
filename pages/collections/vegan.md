@@ -1,5 +1,5 @@
 ---
-permalink: /vegan/
+permalink: /vegan
 title: "Vegan"
 meta_title: "Vegan | K. Sreeman Reddy"
 layout: page-fullwidth

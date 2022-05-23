@@ -1,5 +1,5 @@
 ---
-permalink: /notes/
+permalink: /notes
 redirect_from:
   - /note/
 title: "Notes"

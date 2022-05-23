@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /projects
 redirect_from:
   - /project/
 title: "Projects"
@@ -11,6 +11,7 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 
 ##### List of projects and reports
 
+- [List of projects and reports](#list-of-projects-and-reports)
 - [Black hole information paradox (June-November 2021)](#black-hole-information-paradox-june-november-2021)
 - [One-dimensional photonic bound states in the continuum (March-April 2021)](#one-dimensional-photonic-bound-states-in-the-continuum-march-april-2021)
 - [Category theory applications in physics (October-November 2020)](#category-theory-applications-in-physics-october-november-2020)

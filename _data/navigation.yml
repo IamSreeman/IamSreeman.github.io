@@ -6,11 +6,11 @@
   side: left
 
 - title: projects
-  url: /projects/
+  url: /projects
   side: left
 
 - title: Notes
-  url: /notes/
+  url: /notes
   side: left
 #    dropdown:
 #    - title: Programozás Alapjai
@@ -51,7 +51,7 @@
 # Right
 
 - title: about
-  url: /about/
+  url: /about
   side: left
 #  - title: Detailed Skill listing
 #    icon: trophy
@@ -106,10 +106,10 @@
 
 - title: Search
   icon: icon-magnifying-glass
-  url: /search/
+  url: /search
   side: right
 
 - title: Contact
   icon: icon-mail
-  url: /contact/
+  url: /contact
   side: right

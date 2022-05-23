@@ -1,5 +1,5 @@
 ---
-permalink: /siteinfo/
+permalink: /siteinfo
 layout: page
 title: "Site Info | K. Sreeman Reddy"
 subheadline: "Home for all things about and by K. Sreeman Reddy (KSR)."
