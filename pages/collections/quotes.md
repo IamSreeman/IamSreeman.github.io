@@ -512,6 +512,10 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://en.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a>
 
+>“The tendency to turn human judgments into divine commands makes religion one of the most dangerous forces in the world.”
+
+― <a href="https://en.wikipedia.org/wiki/Georgia_Harkness" target="_blank">Georgia Harkness</a>
+
 >“The Hiddenness Argument: You’re still a small child, and an amnesiac, but this time you’re in the middle of a vast rain forest, dripping with dangers of various kinds.  You’ve been stuck there for days, trying to figure out who you are and where you came from.  You don’t remember having a mother who accompanied you into this jungle, but in your moments of deepest pain and misery you call for her anyway, ‘Mooooommmmmmm!’  Over and over again.  For days and days … the last time when a jaguar comes at you out of nowhere … but with no response.  What should you think in this situation?  In your dying moments, what should cross your mind?  Would the thought that you have a mother who cares about you and hears your cry and could come to you but chooses not to even make it onto the list?”
 
 ― <a href="https://en.wikipedia.org/wiki/J._L._Schellenberg" target="_blank">J. L. Schellenberg</a>
@@ -531,6 +535,7 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“In the political sense Ashoka had failed; in another sense he had accomplished one of the greatest tasks in history. Within two hundred years after his death Buddhism had spread throughout India, and was entering upon the bloodless conquest of Asia. If to this day, from Kandy in Ceylon to Kamakura in Japan, the placid face of Gautama bids men be gentle to one another and love peace, **it is partly because a dreamer, perhaps a saint, once held the throne of India**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Will_Durant" target="_blank">Will Durant</a>
+
 ### Others
 
 >“Napoleon, and other great men of his type, they were makers of empire. But there is an order of men that get beyond that: They are not makers of empire, but they are makers of universe. And when they have made those universes, their hands are unstained by the blood of any human being on earth. ... Ptolemy made a universe, which lasted 1400 years. Newton also made a universe, which has lasted 300 years. Einstein has made a universe, and I can't tell you how long that will last.” [<a href="https://www.youtube.com/watch?v=1TIt0ITM_RM" target="_blank">YouTube</a>]
@@ -564,6 +569,10 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“If I were not an atheist, I would believe in a God who would choose to save people on the basis of the totality of their lives and not the pattern of their words. I think he would prefer an honest and righteous atheist to a TV preacher whose every word is God, God, God, and whose every deed is foul, foul, foul.”
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a>
+
+Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and tortuous executions, the unrelenting vindictiveness with which more than half the Bible is filled, it would be more consistent that we call it the **word of a demon** than the word of God. It is a history of wickedness that has served to corrupt and brutalize mankind; and, for my part, I sincerely detest it, as I detest everything that is cruel.
+
+― <a href="https://en.wikipedia.org/wiki/Thomas_Paine" target="_blank">Thomas Paine</a>
 
 >“There is a ~~theory~~ belief which states that if ever anyone discovers exactly ~~what the Universe is for and why it is here~~ how to quantize gravity, it will instantly disappear and be replaced by ~~something even more bizarre and inexplicable~~ a universe in which quantizing gravity is even harder. There is another ~~theory~~ belief which states that this has already happened.” (The original is strickenthrough and edited)
 

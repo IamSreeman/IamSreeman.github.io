@@ -48,6 +48,8 @@ breadcrumbs: true
 >    - [Videos](#videos) 
 >    - [Other](#other)
 >    - [Memes](#memes)
+>
+>[Comments](#comments)
 #### Reasons
 
 The following are the reasons why I made this decision. 
@@ -90,11 +92,11 @@ Read the following articles
 3. [on-vivisection-and-violence](https://www.abolitionistapproach.com/on-vivisection-and-violence/)
 4. [animals-used-for-experimentation](https://www.peta.org/issues/animals-used-for-experimentation/)
 5. [navs](https://navs.org/)
-6. [the-importance-of-insect-suffering](https://reducing-suffering.org/the-importance-of-insect-suffering/)
 
 Humanity should invest more on <a href="https://en.wikipedia.org/wiki/Alternatives_to_animal_testing" target="_blank">alternative ways of medical research</a> instead of vivisection and in the long term should completely move away from this method of research. But until those areas of research are developed I think it is justifiable to use animals for testing **as long as large number of humans will benefit from it AND it can't be done in other peaceful ways**. But there is a claim in the 3rd reference that "the results of vivisection are “no more informative than tossing a coin,”" **if that is true then all types of vivisection are unjustifiable**. Also vivisection for curiosity, i.e just to understand how the body of the animal works is not justifiable under any circumstances if it doesn't help large number of humans and such research should be banned. In plant agriculture also a lot of insects die, we say it is necessary and we don't search for alternate ways where we don't kill insects, so can we justify vivisection similarly by saying it is necessary? I don't know. It is not clear as of now whether insects are sentient or not. This is not an easy question to answer. Also many mice (they are also the most commonly used animals for medical research) are killed in plant agriculture, which are sentient.
 
 1. [A review of insect cognition and sentience in relation to their use as food and feed](https://www.sciencedirect.com/science/article/abs/pii/S0168159121002197)
+2. [The-importance-of-insect-suffering](https://reducing-suffering.org/the-importance-of-insect-suffering/)
 
 But I should add that there is a difference between suffering in vivisection and suffering during plant agriculture. In the former we are directly inflicting the suffering where as in the later it is an indirect thing. Directly inflicting the suffering is definitely **more evil** than indirect. So, vivisection is more evil.
 
@@ -208,3 +210,20 @@ Example video:<br>
 <br>
 <br>
 <b id="f1">1)</b> In rare cases when there is no vegan option to consume I might eat some food that contain dairy products instead of fasting. For example recently when I was in a plane to Canada there were veg and nonveg options. In the veg option they included some dairy products in the vegetable pasta and I ate it but I didn't eat yogurt, cheese etc which are direct dairy products. I think society is more responsible for this than me.<a href="#a1">↩</a>
+
+<h3 id="comments">{{ site.data.language.comments_headline }}</h3>
+<script src="https://giscus.app/client.js"
+        data-repo="iamsreeman/iamsreeman.github.io"
+        data-repo-id="MDEwOlJlcG9zaXRvcnkzNzQ2MTYxOTU="
+        data-category="Comments"
+        data-category-id="DIC_kwDOFlQwg84B-TtD"
+        data-mapping="pathname"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="bottom"
+        data-theme="dark_dimmed"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
+Please read my <a href="{{ site.baseurl }}/blog/comments#policy">comments policy</a>. There are also some <a href="{{ site.baseurl }}/blog/comments#tips">tips</a> given.
