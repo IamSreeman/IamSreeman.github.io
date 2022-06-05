@@ -154,6 +154,9 @@ The amount of suffering caused by vivisection is currently negligible compared t
 - [Dontwatch.org](https://dontwatch.org/)
 ##### Cooking
 
+- [Simnett Nutrition](https://www.youtube.com/c/Simnettnutrition)<br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FFFFIzXkTes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - [Yeung Man Cooking](https://www.youtube.com/c/WILYEUNG)<br>
 Example video:<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i9EmC0pM1YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

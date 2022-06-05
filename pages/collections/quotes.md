@@ -164,6 +164,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“I had no need of that hypothesis.” [When Napoleon said “Laplace, they tell me you have written this large book on the system of the universe, and have never even mentioned its Creator”]
 
+>“Read Euler, read Euler, he is the master of us all.”
+
 ― <a href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace" target="_blank">Pierre-Simon Laplace</a>
 
 >“It is a great pity that human beings cannot find all of their satisfaction in scientific contemplativeness.”
@@ -252,6 +254,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >But Einstein's understanding was deeper even than von Neumann's. His mind was both more penetrating and more original than von Neumann's. And that is a very remarkable statement. Einstein took an extraordinary pleasure in invention. Two of his greatest inventions are the Special and General Theories of Relativity; and for all of Jancsi's brilliance, he never produced anything as original.” 
 
 ― <a href="https://en.wikipedia.org/wiki/Eugene_Wigner" target="_blank">Eugene Wigner</a>
+
+>“When I meet God, I am going to ask him two questions: Why relativity? And why turbulence? I really believe he will have an answer for the first.”
+
+― <a href="https://en.wikipedia.org/wiki/Werner_Heisenberg" target="_blank">Werner Heisenberg</a>
 
 >“This work contains many things which are new and interesting. Unfortunately, everything that is new is not interesting, and everything which is interesting, is not new.”
 
@@ -413,6 +419,12 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Siddhārtha Gautama</a> (I do not support main stream ***unscientific*** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
 
+>“All breathing, existing, living, sentient creatures should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away.”
+
+>“Kill not, cause no pain. Nonviolence is the greatest religion.”
+
+― <a href="https://en.wikipedia.org/wiki/Mahavira" target="_blank">Mahavira</a>
+
 >“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
 
 >“If there were a God, I think it very unlikely that he would have such an uneasy vanity as to be offended by those who doubt his existence.”
@@ -430,6 +442,8 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 >“I like mathematics because it is not human and has nothing particular to do with this planet or with the whole accidental universe – because, like Spinoza's God, it won't love us in return.”
 
 >“One of the painful things about our time is that those who feel certainty are stupid, and those with any imagination and understanding are filled with doubt and indecision.”
+
+>“Among present-day religions Buddhism is the best. The doctrines of Buddhism are profound; they are almost reasonable, and historically they have been the least harmful and the least cruel. But I cannot say that Buddhism is positively good, nor would I wish to have it spread all over the world and believed by everyone. This is because Buddhism only focuses on the question of what Man is, not on what the universe is like. Buddhism does not really pursue the truth; it appeals to sentiment and, ultimately, tries to persuade people to believe in doctrines which are based on subjective assumptions not objective evidence.” 
 
 >“Love is wise, hatred is foolish.”
 
@@ -626,6 +640,36 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
 >“Asking, 'If there is no God, what is the purpose of life?' is like asking, 'If there is no master, whose slave will I be?' If your purpose of life is to submit as a slave, then your meaning comes from flattering the ego of a person whom you should detest.”
 
 ― <a href="https://en.wikipedia.org/wiki/Dan_Barker" target="_blank">Dan Barker</a>
+
+>“Any man who stands for progress has to criticize, disbelieve and challenge every item of the old faith. Item by item he has to reason out every nook and corner of the prevailing faith. If after considerable reasoning one is led to believe in any theory or philosophy, his faith is welcomed. His reasoning can be mistaken, wrong, misled and sometimes fallacious. But he is liable to correction because reason is the guiding star of his life. But mere faith and blind faith is dangerous: it dulls the brain, and makes a man reactionary.”
+
+― <a href="https://en.wikipedia.org/wiki/Bhagat_Singh" target="_blank">Bhagat Singh</a>
+
+
+>“No country or people who are **slaves to dogma** and dogmatic mentality can progress, and unhappily our country and people have become extraordinarily dogmatic and little-minded.”
+
+>“The spectacle of what is called religion, or at any rate organised religion, in India and elsewhere, has filled me with horror and I have frequently condemned it and wished to make a clean sweep of it. Almost always it seemed to stand for blind belief and reaction, dogma and bigotry, superstition, exploitation and the preservation of vested interests.”
+
+― <a href="https://en.wikipedia.org/wiki/Jawaharlal_Nehru" target="_blank">Jawaharlal Nehru</a>
+
+>“The teachings of Buddha are eternal, but even then **Buddha did not proclaim them to be infallible**. The religion of Buddha has the capacity to change according to times, a quality which no other religion can claim to have ... Now what is the basis of Buddhism? If you study carefully, you will see that Buddhism is based on reason. There is an element of flexibility inherent in it, which is not found in any other religion.”
+
+>“I was born a Hindu because I had no control over this, but I shall not die a Hindu.”
+
+>“As a matter of fact the Caste system came into being long after the different races of India had co-mingled in blood and culture. To hold that distinctions of Caste are really distinctions of race and to treat different Castes as though they were so many different races is a gross perversion of facts. What racial affinity is there between the Brahmin of the Punjab and the Brahmin of Madras? What racial affinity is there between the untouchables of Bengal and the the untouchables of Madras? What racial difference is there between the Brahmin of Punjab and the Chamar of Punjab? ... The Brahmin of Punjab is racially of the same stock as the Chamar of Punjab, and the Brahmin of Madras is the same race as the Pariah of Madras. Caste system does not demarcate racial division. Caste system is a social division of people of the same race.”
+
+>“There can be no doubt that the <a href="https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent" target="_blank">fall of Buddhism in India</a> was due to the invasions of the Musalmans. Islam came out as the enemy of the 'But'. The word 'But' as everybody knows, is the Arabic word and means an idol. Thus the origin of the word indicates that in the Moslem mind idol worship had come to be identified with the Religion of the Buddha. To the Muslims, they were one and the same thing. The mission to break the idols thus became the mission to destroy Buddhism. Islam destroyed Buddhism not only in India but wherever it went. Before Islam came into being Buddhism was the religion of Bactria, Parthia, Afghanistan, Gandhar, and Chinese Turkestan, as it was of the whole of Asia. In all these countries Islam destroyed Buddhism.”
+
+>“Even a superficial observer cannot fail to notice that a spirit of aggression underlies the Hindu attitude towards the Muslim and the Muslim attitude towards the Hindu. The Hindu's spirit of aggression is a new phase which he has just begun to cultivate. The Muslim's spirit of aggression is his native endowment, and is ancient as compared with that of the Hindu. It is not that the Hindu, if given time, will not pick up and overtake the Muslim. But as matters stand to-day, the Muslim in this exhibition of the spirit of aggression leaves the Hindu far behind.”
+
+>“If I find the constitution being misused, I shall be the first to burn it.”
+
+― <a href="https://en.wikipedia.org/wiki/B._R._Ambedkar" target="_blank">B. R. Ambedkar</a>
+
+>“For the first time in human history, the Buddha admonished, entreated and appealed to people not to hurt a living being, and it is not necessary to offer prayer, praise or sacrifice to gods. With all the eloquence at his command the Buddha **vehemently proclaimed that gods are also in dire need of salvation themselves**.”
+
+― <a href="https://en.wikipedia.org/wiki/Thomas_William_Rhys_Davids" target="_blank">Thomas William Rhys Davids</a>
+
 
 >“If every trace of any single religion were wiped out and nothing were passed on, it would never be created exactly that way again. There might be some other nonsense in its place, but not that exact nonsense. If all of science were wiped out, it would still be true and someone would find a way to figure it all out again.”
 
