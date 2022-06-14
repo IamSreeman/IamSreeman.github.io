@@ -112,6 +112,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“The more the universe seems comprehensible, the more **it also seems pointless**.”
 
+>“The effort to understand the universe is one of the very few things which lifts human life a little above the level of farce and gives it some of the grace of tragedy.”
+
 >“Despite the weakness of the early experimental evidence for general relativity, Einstein’s theory became the standard textbook theory of gravitation in the 1920s and retained that position from then on, even while the various eclipse expeditions of the 1920s and 1930s were reporting at best equivocal evidence for the theory. … Perhaps all of us were just gullible and lucky, but I do not think that is the real explanation. I believe that the general acceptance of general relativity was due in large part to the attractions of the theory itself—in short, to its **beauty**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
@@ -357,6 +359,10 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/Victor_J._Stenger" target="_blank">Victor J. Stenger</a>
 
+>“Cosmology is peculiar among the sciences for it is both the oldest and the youngest. From the dawn of civilization man has speculated about the nature of the starry heavens and the origin of the world, but only in the present century has physical cosmology split away from general philosophy to become an independent discipline.”
+
+― <a href="https://en.wikipedia.org/wiki/Gerald_James_Whitrow" target="_blank">Gerald James Whitrow</a>
+
 >“I believe that the extraordinary should certainly be pursued. **But extraordinary claims require extraordinary evidence.**”
 
 >“And we who embody the local eyes and ears and thoughts and feelings of the cosmos we've begun, at last, to wonder about our origins. Star stuff, contemplating the stars organized collections of 10 billion-billion-billion atoms contemplating the evolution of matter tracing that long path by which it arrived at consciousness here on the planet Earth and perhaps, throughout the cosmos.”
@@ -367,7 +373,7 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 >“The fact that religions can be so shamelessly dishonest, so contemptuous of the intelligence of their adherents, and still flourish does not speak very well for the tough-mindedness of the believers. But it does indicate, if a demonstration were needed, that near the core of the religious experience is something remarkably resistant to rational inquiry.”
 
->“In many cultures, the customary answer is that a God or Gods created the Universe out of nothing. But if we wish to pursue this question courageously, we must of course ask the next question: where did God come from? If we decide that this is an unanswerable question, why not save a step and conclude that the origin of the Universe is an unanswerable question? Or, if we say that God always existed, why not save a step, and conclude that the Universe always existed? That there's no need for a creation, it was always here. These are not easy questions. Cosmology brings us face to face with the deepest mysteries, questions that were once treated only in religion and myth.”
+>“If the general picture, however, of a Big Bang followed by an expanding Universe is correct, what happened before that? Was the Universe devoid of all matter and then the matter suddenly somehow created? How did that happen? In many cultures, the customary answer is that a God or Gods created the Universe out of nothing. But if we wish to pursue this question courageously, we must of course ask the next question: where did God come from? If we decide that this is an unanswerable question, why not save a step and conclude that the origin of the Universe is an unanswerable question? Or, if we say that God always existed, why not save a step, and conclude that the Universe always existed? That there's no need for a creation, it was always here. These are not easy questions. **Cosmology brings us face to face with the deepest mysteries, questions that were once treated only in religion and myth.** ”
 
 >“The idea that God is an oversized white male with a flowing beard who sits in the sky and tallies the fall of every sparrow is ludicrous. But if by God one means the set of physical laws that govern the universe, then clearly there is such a God. This God is emotionally unsatisfying... it does not make much sense to pray to the law of gravity.”
 
@@ -645,7 +651,6 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
 
 ― <a href="https://en.wikipedia.org/wiki/Bhagat_Singh" target="_blank">Bhagat Singh</a>
 
-
 >“No country or people who are **slaves to dogma** and dogmatic mentality can progress, and unhappily our country and people have become extraordinarily dogmatic and little-minded.”
 
 >“The spectacle of what is called religion, or at any rate organised religion, in India and elsewhere, has filled me with horror and I have frequently condemned it and wished to make a clean sweep of it. Almost always it seemed to stand for blind belief and reaction, dogma and bigotry, superstition, exploitation and the preservation of vested interests.”
@@ -684,6 +689,10 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
 >Is fear of its followers really the best test of a religion's authenticity? I'll admit that's the standard I use, but it's probably a good idea to remember that if the Taipings had won their rebellion, they might today be considered totally legit and every bit as Christian as the Mormons ("mostly, sort of").”
 
 ― <a href="https://en.wikipedia.org/wiki/The_Great_Big_Book_of_Horrible_Things" target="_blank">Matthew White</a>
+
+>“In spite of everything I still believe that people are really good at heart.”
+
+― <a href="https://en.wikipedia.org/wiki/Anne_Frank" target="_blank">Anne Frank</a>
 
 >“In some ways people had got used to the idea that India was spiritual and religion-oriented. That gave a leg up to the religious interpretation of India, despite the fact that Sanskrit had a larger atheistic literature than exists in any other classical language. Madhava Acharya, the remarkable 14th century philosopher, wrote this rather great book called <a href="https://en.wikipedia.org/wiki/Vidyaranya#Sarvadar%C5%9Banasa%E1%B9%85graha" target="_blank">Sarvadarśanasaṅgraha</a>, which discussed all the religious schools of thought within the Hindu structure. The first chapter is "<a href="https://en.wikipedia.org/wiki/Charvaka" target="_blank">Cārvāka</a>" or "Atheism"—a very strong presentation of the argument in favour of atheism and materialism.”
 
