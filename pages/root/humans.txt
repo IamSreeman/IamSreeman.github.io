@@ -16,7 +16,7 @@ Twitter: @{{ author.twitter }}{% endif %}
 
 Name: Kasi Reddy Sreeman Reddy
 Role: Creator of the site
-Site: https://iamsreeman.github.io/
+Site: https://ksr.onl
 Twitter: @iamsreeman
 Theme: http://phlow.github.io/feeling-responsive/
 

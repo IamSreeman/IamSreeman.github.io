@@ -28,7 +28,7 @@ description: "The main purpose of this site is to maintain some academic and non
 author: KSR
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-url: 'https://iamsreeman.github.io'
+url: 'https://ksr.onl'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content.html
