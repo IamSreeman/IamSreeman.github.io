@@ -58,6 +58,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“One reason why mathematics enjoys special esteem, above all other sciences, is that its laws are absolutely certain and indisputable, while those of other sciences are to some extent debatable and in constant danger of being overthrown by newly discovered facts.”
 
+>“In my opinion the only salvation for civilization and the human race lies in the creation of a **world government**, with security of nations founded upon law. As long as sovereign states continue to have separate armaments and armament secrets, new world wars will be inevitable.”
+
 >“Any man who reads too much and uses his own brain too little falls into **lazy habits of thinking**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
@@ -451,6 +453,8 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 >“Among present-day religions Buddhism is the best. The doctrines of Buddhism are profound; they are almost reasonable, and historically they have been the least harmful and the least cruel. But I cannot say that Buddhism is positively good, nor would I wish to have it spread all over the world and believed by everyone. This is because Buddhism only focuses on the question of what Man is, not on what the universe is like. Buddhism does not really pursue the truth; it appeals to sentiment and, ultimately, tries to persuade people to believe in doctrines which are based on subjective assumptions not objective evidence.” 
 
+>“A much more desirable way of securing world peace would be by a voluntary agreement among nations to pool their armed forces and submit to an **agreed single supreme world government**.”
+
 >“Love is wise, hatred is foolish.”
 
 ― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
@@ -655,6 +659,8 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
 
 >“The spectacle of what is called religion, or at any rate organised religion, in India and elsewhere, has filled me with horror and I have frequently condemned it and wished to make a clean sweep of it. Almost always it seemed to stand for blind belief and reaction, dogma and bigotry, superstition, exploitation and the preservation of vested interests.”
 
+>“Future peace, security and ordered progress of the world demand a world federation of free nations, and on no other basis can the problems of the world be solved. Such a world federation would ensure the freedom of its constituent nations, the prevention of aggression and exploitation of one nation over another, the protection of national minorities, the advancement of all backward areas and peoples, and the pooling of the world's resources for the common good of all. On the establishment of such a world federation, **disarmament would be practicable in all countries, national armies, navies and air forces would no longer be necessary, and a world federal defence force would keep the peace and prevent aggression**. ...The Committee regretfully realizes, however, despite the tragic and overwhelming lessons of the war and the perils that overhang the world, the Governments of few countries are yet prepared to take this **inevitable step towards world federation**.”
+
 ― <a href="https://en.wikipedia.org/wiki/Jawaharlal_Nehru" target="_blank">Jawaharlal Nehru</a>
 
 >“The teachings of Buddha are eternal, but even then **Buddha did not proclaim them to be infallible**. The religion of Buddha has the capacity to change according to times, a quality which no other religion can claim to have ... Now what is the basis of Buddhism? If you study carefully, you will see that Buddhism is based on reason. There is an element of flexibility inherent in it, which is not found in any other religion.”
@@ -742,6 +748,10 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
 
 ― <a href="https://en.wikipedia.org/wiki/David_Pearce_(transhumanist)" target="_blank">David Pearce</a><span style="color:Chartreuse">(transhumanist and philosopher)</span>
 
+>“The day has been, I am sad to say in many places it is not yet past, in which the greater part of the species, under the denomination of slaves, have been treated by the law exactly upon the same footing, as, in England for example, the inferior races of animals are still. The day may come when the rest of the animal creation may acquire those rights which never could have been witholden from them but by the hand of tyranny. The French have already discovered that the blackness of the skin is no reason a human being should be abandoned without redress to the caprice of a tormentor. It may one day come to be recognised that the number of the legs, the villosity of the skin, or the termination of the os sacrum are reasons equally insufficient for abandoning a sensitive being to the same fate. What else is it that should trace the insuperable line? Is it the faculty of reason or perhaps the faculty of discourse? But a full-grown horse or dog, is beyond comparison a more rational, as well as a more conversable animal, than an infant of a day or a week or even a month, old. But suppose the case were otherwise, what would it avail? **The question is not, Can they reason? nor, Can they talk? but, Can they suffer?**”
+
+― <a href="https://en.wikipedia.org/wiki/Jeremy_Bentham" target="_blank">Jeremy Bentham</a><span style="color:Chartreuse">(founder of modern utilitarianism)</span>
+
 >“Obviously, the health benefits of being vegan are written in stone but I honestly believe the most benefit to me being vegan is that I do not carry the burden of guilt that I would have to endure knowing that I abused others for my own 'benefit'. … Veganism is everything to me. It touches every part of my life. It is my life. I could not begin to imagine living my life any other way. … Often people think we are weak in body and mind. They mistake our compassion for weakness. … My strengths as an athlete are that I am not an athlete for myself. I am doing it for the benefit of others, which makes me work much harder to achieve. I am not selfish enough to want something this badly for myself. It makes me push myself that bit harder knowing that by doing well I can possibly convince others to consider a vegan lifestyle.”
 
 ― <a href="https://en.wikipedia.org/wiki/Fiona_Oakes" target="_blank">Fiona Oakes</a> <span style="color:Chartreuse">(distance runner who holds four world records for marathon running)</span>
@@ -778,6 +788,8 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
     Perceived my way before my hair went gray!”<br>
 
 >“The world holds two classes of men; intelligent men without religion, and religious men without intelligence.”
+
+>“Do not suppose the statements of the prophets to be true; they are all fabrications. Men lived comfortably till they came and spoiled life. The sacred books are only such a set of idle tales as any age could have and indeed did actually produce.”
 
 ― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(philosopher, poet, and writer)</span>
 

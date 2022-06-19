@@ -68,6 +68,8 @@ u_{L}
 }
 $$
 
+<a class="twitter-timeline" data-width="800" data-height="1400" data-dnt="true" data-theme="dark" href="https://twitter.com/IamSreeman?ref_src=twsrc%5Etfw">Tweets by IamSreeman</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </div>
 
-<b id="f1">1)</b> Actually *Kasireddy Sreeman Reddy* but in all documents there is a wrong space and I am continuing that mistake. In Telugu script: కాశిరెడ్డి శ్రీమాన్ రెడ్డి and in Devanagari: काशिरेड्डि श्रीमान रेड्डि. <a href="#a1">↩</a>
+<b id="f1">1)</b> Actually *Kasireddy Sreeman Reddy* but in all documents there is a wrong space and I am continuing that mistake. In Telugu script: కాశిరెడ్డి శ్రీమాన్ రెడ్డి, in Devanagari: काशिरेड्डि श्रीमान रेड्डि and in International Phonetic Alphabet (IPA): /kaːʃiɾeɖɖi ʃɾiːmaːn ɾeɖɖi/. <a href="#a1">↩</a>
