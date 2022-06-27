@@ -329,6 +329,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Yakov_Zeldovich" target="_blank">Yakov Zeldovich</a>
 
+>“Those of us engaged in scientific research generally do it because we can't help it - because Nature is the biggest and most complicated jumbo holiday crossword puzzle you have ever seen.”
+
+― <a href="https://en.wikipedia.org/wiki/Edward_Hinds" target="_blank">Edward Hinds</a>
+
 >“Perhaps I may claim as evidence for progress in religion the fact that we no longer burn heretics.”
 
 ― <a href="https://en.wikipedia.org/wiki/Freeman_Dyson" target="_blank">Freeman Dyson</a>
@@ -700,6 +704,12 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
 
 ― <a href="https://en.wikipedia.org/wiki/Anne_Frank" target="_blank">Anne Frank</a>
 
+>“May the world at least behold a drop, a fraction of this tragic world in which we lived.”
+
+>“I pass on to you only a small part of what took place in the hell of Birkenau-Auschwitz. It is for you to comprehend the reality. I have written a great deal besides this. I am certain that you will come upon these remnants, and from them you will be able to construct a picture of how our people were killed...In this way I hope to immortalize the dear, beloved names of those for whom, at this moment, I cannot even expend a tear! For I live in an inferno of death, where it is impossible to measure my great losses.”
+
+― <a href="https://en.wikipedia.org/wiki/Zalman_Gradowski" target="_blank">Zalman Gradowski</a>
+
 >“In some ways people had got used to the idea that India was spiritual and religion-oriented. That gave a leg up to the religious interpretation of India, despite the fact that Sanskrit had a larger atheistic literature than exists in any other classical language. Madhava Acharya, the remarkable 14th century philosopher, wrote this rather great book called <a href="https://en.wikipedia.org/wiki/Vidyaranya#Sarvadar%C5%9Banasa%E1%B9%85graha" target="_blank">Sarvadarśanasaṅgraha</a>, which discussed all the religious schools of thought within the Hindu structure. The first chapter is "<a href="https://en.wikipedia.org/wiki/Charvaka" target="_blank">Cārvāka</a>" or "Atheism"—a very strong presentation of the argument in favour of atheism and materialism.”
 
 ― <a href="https://en.wikipedia.org/wiki/Amartya_Sen" target="_blank">Amartya Sen</a>
@@ -751,6 +761,10 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
 >“The day has been, I am sad to say in many places it is not yet past, in which the greater part of the species, under the denomination of slaves, have been treated by the law exactly upon the same footing, as, in England for example, the inferior races of animals are still. The day may come when the rest of the animal creation may acquire those rights which never could have been witholden from them but by the hand of tyranny. The French have already discovered that the blackness of the skin is no reason a human being should be abandoned without redress to the caprice of a tormentor. It may one day come to be recognised that the number of the legs, the villosity of the skin, or the termination of the os sacrum are reasons equally insufficient for abandoning a sensitive being to the same fate. What else is it that should trace the insuperable line? Is it the faculty of reason or perhaps the faculty of discourse? But a full-grown horse or dog, is beyond comparison a more rational, as well as a more conversable animal, than an infant of a day or a week or even a month, old. But suppose the case were otherwise, what would it avail? **The question is not, Can they reason? nor, Can they talk? but, Can they suffer?**”
 
 ― <a href="https://en.wikipedia.org/wiki/Jeremy_Bentham" target="_blank">Jeremy Bentham</a><span style="color:Chartreuse">(founder of modern utilitarianism)</span>
+
+>“As long as there are slaughterhouses there will be battlefields.”
+
+― <a href="https://en.wikipedia.org/wiki/Leo_Tolstoy" target="_blank">Jeremy Bentham</a><span style="color:Chartreuse">(Russian writer who is regarded as one of the greatest authors of all time)</span>
 
 >“Obviously, the health benefits of being vegan are written in stone but I honestly believe the most benefit to me being vegan is that I do not carry the burden of guilt that I would have to endure knowing that I abused others for my own 'benefit'. … Veganism is everything to me. It touches every part of my life. It is my life. I could not begin to imagine living my life any other way. … Often people think we are weak in body and mind. They mistake our compassion for weakness. … My strengths as an athlete are that I am not an athlete for myself. I am doing it for the benefit of others, which makes me work much harder to achieve. I am not selfish enough to want something this badly for myself. It makes me push myself that bit harder knowing that by doing well I can possibly convince others to consider a vegan lifestyle.”
 

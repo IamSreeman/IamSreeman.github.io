@@ -1,22 +1,38 @@
 ---
 permalink: /projects
 redirect_from:
-  - /project/
+  - /projects/
 title: "Projects"
 meta_title: "Projects | K. Sreeman Reddy"
 layout: page-fullwidth
 breadcrumbs: true
 ---
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+    
+<script type="text/javascript"
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 You can also see this list on my <a class="waves-effect waves-light btn" href='/CV.pdf' target="_blank">CV</a>.
 
+<!-- omit in toc -->
 ##### List of projects and reports
 
-- [List of projects and reports](#list-of-projects-and-reports)
+- [Quantum Raychaudhuri Equation, Singularities and the Quantum Origin of dark matter and $\Lambda$ (May-July 2022)](#quantum-raychaudhuri-equation-singularities-and-the-quantum-origin-of-dark-matter-and-lambda-may-july-2022)
 - [Black hole information paradox (June-November 2021)](#black-hole-information-paradox-june-november-2021)
 - [One-dimensional photonic bound states in the continuum (March-April 2021)](#one-dimensional-photonic-bound-states-in-the-continuum-march-april-2021)
 - [Category theory applications in physics (October-November 2020)](#category-theory-applications-in-physics-october-november-2020)
 - [Covid-19:analysis of a modified SEIR model (October-November 2020)](#covid-19analysis-of-a-modified-seir-model-october-november-2020)
 - [Special and General Relativity (April 2020)](#special-and-general-relativity-april-2020)
+
+##### Quantum Raychaudhuri Equation, Singularities and the Quantum Origin of dark matter and $\Lambda$ (May-July 2022)
+*Supervisor: Prof. Saurya Das*, University of Lethbridge (through the Canadian Mitacs Globalink Research Internship program)
 
 ##### Black hole information paradox (June-November 2021)
 *Supervisor: Prof. Vikram Rentala*
