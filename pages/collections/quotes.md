@@ -58,6 +58,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“One reason why mathematics enjoys special esteem, above all other sciences, is that its laws are absolutely certain and indisputable, while those of other sciences are to some extent debatable and in constant danger of being overthrown by newly discovered facts.”
 
+>“The world needs new moral impulses which, I'm afraid, won't come from the churches, heavily compromised as they have been throughout the centuries. Perhaps those impulses must come from scientists in the tradition of Galileo, Kepler and Newton. In spite of failures and persecutions, these men devoted their lives to proving that the universe is a single entity, in which, I believe, a humanized God has no place. The genuine scientist is not moved by praise or blame, nor does he preach. He unveils the universe and people come eagerly, without being pushed, to behold a new revelation: the order, the harmony, the magnificence of creation! And as man becomes conscious of the stupendous laws that govern the universe in perfect harmony, **he begins to realize how small he is**. He sees the pettiness of human existence, with its ambitions and intrigues, its "I am better than thou" creed. This is the beginning of cosmic religion within him; fellowship and human service become his moral code. And without such moral foundations, we are hopelessly doomed.”
+
+>“Besides agreeing with the aims of vegetarianism for aesthetic and moral reasons, it is my view that a vegetarian manner of living by its purely physical effect on the human temperament would most beneficially influence a lot of mankind.”
+
 >“In my opinion the only salvation for civilization and the human race lies in the creation of a **world government**, with security of nations founded upon law. As long as sovereign states continue to have separate armaments and armament secrets, new world wars will be inevitable.”
 
 >“Any man who reads too much and uses his own brain too little falls into **lazy habits of thinking**.”
@@ -204,6 +208,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger" target="_blank">Erwin Schrödinger</a>
 
+>“A great deal more was hidden in the Dirac equation than the author had expected when he wrote it down in 1928. Dirac himself remarked in one of his talks that his equation was more intelligent than its author. It should be added, however, that it was Dirac who found most of the additional insights.”
+
+― <a href="https://en.wikipedia.org/wiki/Victor_Weisskopf" target="_blank">Victor Weisskopf</a>
+
 >“We have no right to assume that any physical laws exist, or if they have existed up to now, that they will continue to exist in a similar manner in the future.”
 
 >“A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die and a new generation grows up that is familiar with it ...”
@@ -240,6 +248,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“In some sort of crude sense which no vulgarity, no humor, no overstatement can quite extinguish, the physicists have known sin; and this is a knowledge which they cannot lose.”
 
 >“If we ask, for instance, whether the position of the electron remains the same, we must say 'no'; if we ask whether the electron's position changes with time, we must say 'no'; if we ask whether the electron is at rest, we must say 'no'; if we ask whether it is in motion, we must say 'no'. **The Buddha** has given such answers when interrogated as to the conditions of a man's self after his death; but they are not familiar answers for the tradition of seventeenth and eighteenth century science.”
+
+>“Einstein is also, and I think rightly, known as a man of very great goodwill and humanity. Indeed if I had to think of a single word for his attitude towards human problems, I would pick the Sanskrit word Ahimsa, not to hurt, harmlessness.”
 
 ― <a href="https://en.wikipedia.org/wiki/J._Robert_Oppenheimer" target="_blank">J. Robert Oppenheimer</a>
 
@@ -408,11 +418,13 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ### Philosophers
 
->“**Desires** are the root cause of **sadness**.”<sup id="a8"><a href="#f8">8</a></sup>
+>“**Desires** are the root cause of **suffering**.”<sup id="a8"><a href="#f8">8</a></sup>
 
 >“I say that there are three instances in which meat should not be consumed: when it is seen, heard, or suspected [that the animal was killed for one’s sake]. These are the three instances in which I say that meat should not be consumed.”
 
 >“How then can it be compassionate to gorge on other beings’ blood and flesh? Monks who will not wear silks from the East, whether coarse or fine; who will not wear shoes or boots of leather, nor furs, nor birds’ down from our own country; and who will not consume milk, curds, or ghee, have truly freed themselves from the world.”
+
+>“These five trades, O monks, should not be taken up by a lay follower: trading with weapons, trading in living beings, trading in meat, trading in intoxicants, trading in poison.”
 
 >“Death carries off a man who is gathering flowers and whose mind is distracted, as a flood carries off a sleeping village.”
 
@@ -433,9 +445,25 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 >“All breathing, existing, living, sentient creatures should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away.”
 
->“Kill not, cause no pain. Nonviolence is the greatest religion.”
+>“Kill not, cause no pain. Nonviolence (Ahimsa) is the greatest religion.”
 
 ― <a href="https://en.wikipedia.org/wiki/Mahavira" target="_blank">Mahavira</a>
+
+>“अहिंसा परमॊ धर्मः तथाहिंसा परॊ दमः।<br>
+अहिंसा परमं दानम् अहिंसा परमस तपः।<br>
+अहिंसा परमॊ यज्ञः तथाहिस्मा परं बलम्।<br>
+अहिंसा परमं मित्रम् अहिंसा परमं सुखम्।<br>
+अहिंसा परमं सत्यम् अहिंसा परमं श्रुतम्॥”<br>
+>
+>^ *Translates to:*
+>
+>“Ahimsa is the highest Dharma, Ahimsa is the highest self-control,<br>
+Ahimsa is the greatest gift, Ahimsa is the best practice,<br>
+Ahimsa is the highest sacrifice, Ahimsa is the finest strength,<br>
+Ahimsa is the greatest friend, Ahimsa is the greatest happiness,<br>
+Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
+
+― <a href="https://en.wikipedia.org/wiki/Mahabharata" target="_blank">Mahābhārata</a>
 
 >“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
 
@@ -572,6 +600,10 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://en.wikipedia.org/wiki/George_Bernard_Shaw" target="_blank">George Bernard Shaw</a>
 
+>“Non-violence leads to the highest ethics, which is the goal of all evolution. Until we stop harming all other living beings, we are still savages.”
+
+― <a href="https://en.wikipedia.org/wiki/Thomas_Edison" target="_blank">Thomas Edison</a>
+
 >“If there is a God, atheism must strike Him as less of an insult than religion.”
 
 ― <a href="https://en.wikipedia.org/wiki/Edmond_de_Goncourt" target="_blank">Edmond de Goncourt</a>
@@ -622,6 +654,12 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
 >“The God of the Old Testament is arguably the most unpleasant character in all fiction: jealous and proud of it; a petty, unjust, unforgiving control-freak; a vindictive, bloodthirsty ethnic cleanser; a misogynistic, homophobic, racist, infanticidal, genocidal, filicidal, pestilential, megalomaniacal, sadomasochistic, capriciously malevolent bully.”
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Dawkins" target="_blank">Richard Dawkins</a>
+
+>“Mahavira, the Jain patriarch, surpassed the morality of the Bible with a single sentence: "Do not injure, abuse, oppress, enslave, insult, torment, torture, or kill any creature or living being." Imagine how different our world might be if the Bible contained this as its central precept.”
+
+>“Jainism actually is a religion of peace. The core principle of Jainism is non-violence. Gandhi got his non-violence from the Jains. The crazier you get as a Jain, the less we have to worry about you. Jain extremists are paralysed by their pacifism. Jain extremists can't take their eyes off the ground when they walk lest they step on an ant … Needless to say they are vegetarian.”
+
+― <a href="https://en.wikipedia.org/wiki/Sam_Harris" target="_blank">Sam Harris</a>
 
 >“How easy it is to make people believe a lie, and hard it is to undo that work again!” (Often paraphrased as “It's easier to fool people than to convince them that they have been fooled.”)
 
@@ -874,6 +912,10 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
 >“I have used this [vegan] diet since 2008. I first tried it when I was preparing for my challenge of WBC super lightweight champion Junior Wittier -- my first world title fight -- and after seeing the results it gave me I have tried to stay as loyal to it as possible. It helps keep my body clean and it provides me with a tremendous amount of energy due to my body spending less energy breaking down foods like meats. This is a big key factor in my fitness. … The energy is always there. I feel so alive. My senses and reflexes are so acute. … With a vegan diet you always have energy, so much that sometimes I have trouble sleeping at night. You feel light. You don't feel bulky or heavy. This would benefit any athlete in any sport.”
 
 ― <a href="https://en.wikipedia.org/wiki/Timothy_Bradley" target="_blank">Timothy Bradley</a><span style="color:Chartreuse">(boxer with multiple world championships)</span>
+
+>“Vegan is a term that refers to people who have chosen a way of living guided by ahimsa (nonharming) and reverence for life. … Vegans recognize the value of life to all living creatures and extend to them the compassion, kindness, and justice in The Golden Rule. Vegans see animals as free entities in nature, not slaves or vassals, nor as chattel, pieces of goods to be bought and sold. An animal has feelings, an animal has sensitivity, an animal has a place in life, and the vegan respects this life that is manifest in the animal. Vegans do not wish to harm the animal any more than they would want the animal to harm them. This is an example of The Golden Rule precisely as it should be applied.”
+
+― <a href="https://en.wikipedia.org/wiki/H._Jay_Dinshah" target="_blank">H. Jay Dinshah</a><span style="color:Chartreuse">(founder of the American Vegan Society)</span>
 
 >“My perspective of veganism was most affected by learning that the veal calf is a by-product of dairying, and that in essence there is a slice of veal in every glass of what l had thought was an innocuous white liquid—milk.”
 
