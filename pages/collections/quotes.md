@@ -327,6 +327,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Carlo_Rovelli" target="_blank">Carlo Rovelli</a>
 
+>“We actually have a candidate for the mind of God. The mind of God we believe is cosmic music, the music of strings resonating through 11 dimensional hyperspace. That is the mind of God.”
+
+― <a href="https://en.wikipedia.org/wiki/Michio_Kaku" target="_blank">Michio Kaku</a>
+
 >“The question of the origin of the matter in the universe is no longer thought to be beyond the range of science — everything can be created from nothing…it is fair to say that the universe is the ultimate free lunch.”
 
 ― <a href="https://en.wikipedia.org/wiki/Alan_Guth" target="_blank">Alan Guth</a>
@@ -530,6 +534,30 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 ― <a href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank">Friedrich Nietzsche</a>
 
+>“The principle can be established that for a man who does not cheat, what he believes to be true must determine his action. Belief in the absurdity of existence must then dictate his conduct.”
+
+― <a href="https://en.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert Camus</a>
+
+>“Less well known [than other paradoxes] is **the paradox of tolerance**: Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, if we are not prepared to defend a tolerant society against the onslaught of the intolerant, then the tolerant will be destroyed, and tolerance with them.—In this formulation, I do not imply, for instance, that we should always suppress the utterance of intolerant philosophies; as long as we can counter them by rational argument and keep them in check by public opinion, suppression would certainly be most unwise. But we should claim the right to suppress them if necessary even by force; for it may easily turn out that they are not prepared to meet us on the level of rational argument, but begin by denouncing all argument; they may forbid their followers to listen to rational argument, because it is deceptive, and teach them to answer arguments by the use of their fists or pistols. We should therefore claim, in the name of tolerance, the right not to tolerate the intolerant. We should claim that any movement preaching intolerance places itself outside the law and we should consider incitement to intolerance and persecution as criminal, in the same way as we should consider incitement to murder, or to kidnapping, or to the revival of the slave trade, as criminal.”
+
+>“Science must begin with myths, and with the **criticism of myths**.”
+
+>“...no matter how many instances of white swans we may have observed, this does not justify the conclusion that all swans are white.”
+
+>“The game of science is, in principle, without end. He who decides one day that scientific statements do not call for any further test, and that they can be regarded as finally verified, retires from the game.”
+
+>“True ignorance is not the absence of knowledge, but the refusal to acquire it.”
+
+>“Since we can never know anything for sure, it is simply not worth searching for certainty; but it is well worth searching for truth; and we do this chiefly by searching for mistakes, so that we have to correct them.”
+
+>“You can choose whatever name you like for the two types of government. I personally call the type of government which can be removed without violence "democracy", and the other "tyranny".”
+
+>“If in this book harsh words are spoken about some of the greatest among the intellectual leaders of mankind, my motive is not, I hope, the wish to belittle them. It springs rather from my conviction that, if our civilization is to survive, we must break with the habit of deference to great men. Great men may make great mistakes; and as the book tries to show, some of the greatest leaders of the past supported the perennial attack on freedom and reason. Their influence, too rarely challenged, continues to mislead those on whose defence civilization depends, and to divide them. The responsibility of this tragic and possibly fatal division becomes ours **if we hesitate to be outspoken in our criticism of what admittedly is a part of our intellectual heritage. By reluctance to criticize some of it, we may help to destroy it all.**”
+
+>“I believe that there is, from the ethical point of view, no symmetry between suffering and happiness, or between pain and pleasure. Both the greatest happiness principle of the Utilitarians and Kant's principle 'Promote other people's happiness ..' seem to me (at least in their formulations) wrong on this point which, however, is not completely decidable by rational argument. In my opinion human suffering makes a direct moral appeal, namely, the appeal for help, while there is no similar call to increase the happiness of a man who is doing well anyway. (A further criticism of the Utilitarian formula 'Maximize pleasure' is that it assumes, in principle, a continuous pleasure-pain scale which allows us to treat degrees of pain as negative degrees of pleasure. But, from the moral point of view, pain cannot be outweighed by pleasure, and especially not one man's pain by another man's pleasure. **Instead of the greatest happiness for the greatest number**, one should demand, more modestly, **the least amount of avoidable suffering for all**; and further, that unavoidable suffering—such as hunger in times of an unavoidable shortage of food—should be distributed as equally as possible.)”
+
+― <a href="https://en.wikipedia.org/wiki/Karl_Popper" target="_blank">Karl Popper</a>
+
 >“Is the pious being loved by the gods because it is pious, or is it pious because it is being loved by the gods?”
 
 >“As for me, all I know is that I know nothing.”
@@ -630,7 +658,7 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a>
 
-Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and tortuous executions, the unrelenting vindictiveness with which more than half the Bible is filled, it would be more consistent that we call it the **word of a demon** than the word of God. It is a history of wickedness that has served to corrupt and brutalize mankind; and, for my part, I sincerely detest it, as I detest everything that is cruel.
+>“Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and tortuous executions, the unrelenting vindictiveness with which more than half the Bible is filled, it would be more consistent that we call it the **word of a demon** than the word of God. It is a history of wickedness that has served to corrupt and brutalize mankind; and, for my part, I sincerely detest it, as I detest everything that is cruel.”
 
 ― <a href="https://en.wikipedia.org/wiki/Thomas_Paine" target="_blank">Thomas Paine</a>
 
@@ -649,11 +677,37 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
 
 ― <a href="https://en.wikipedia.org/wiki/Douglas_Adams" target="_blank">Douglas Adams</a>
 
+>“In a way, it feels like the cruelest joke in existence has been played on us. We became self-aware only to realize this story is not about us. While it is great to know about electrons and the powerhouse of the cell, science doesn't do a lot to make this less depressing.” [<a href="https://www.youtube.com/watch?v=MBRqu0YOH14&t=208s" target="_blank">YouTube</a>]
+
+― <a href="https://www.youtube.com/c/inanutshell" target="_blank">Kurzgesagt – In a Nutshell</a>
+
 >“However statistically improbable the entity you seek to explain by invoking a designer, the designer himself has got to be at least as improbable. God is the <a href="https://en.wikipedia.org/wiki/Ultimate_Boeing_747_gambit" target="_blank">Ultimate Boeing 747</a>.”
 
 >“The God of the Old Testament is arguably the most unpleasant character in all fiction: jealous and proud of it; a petty, unjust, unforgiving control-freak; a vindictive, bloodthirsty ethnic cleanser; a misogynistic, homophobic, racist, infanticidal, genocidal, filicidal, pestilential, megalomaniacal, sadomasochistic, capriciously malevolent bully.”
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Dawkins" target="_blank">Richard Dawkins</a>
+
+>“Until 1834 the very word “scientist” was not in common circulation. Men like Sir Isaac Newton were considered, and considered themselves, to be “natural philosophers”: men of scientific bent to be sure, but men of a wider and deeper learning as well. Arguments about greater cosmic purposes were all of a piece with calculations and experiments, and the tyranny of specialization had not imposed itself on us. As a result, by the way, many scientists held completely “unscientific” views. Newton himself was a secret alchemist who believed that the pope was anti-Christ and that the true dimensions of the Temple of Solomon might yield crucial findings. Joseph Priestley, the Unitarian discoverer of oxygen, was a devotee of the phlogiston theory. Alfred Russel Wallace liked nothing better than a good spiritualist séance. It is not really until the figure of Albert Einstein (and perhaps Bertrand Russell also) that we start to find that very powerful synthesis between scientific method and a more general “humanism”; a synthesis basing itself upon reason and daring to make the connection between physical and natural evidence and the conclusion that an ethical life, as well as a rational one, is best believed on the assumption that there is no supernatural dimension.”
+
+>“What can be asserted without evidence can also be dismissed without evidence.”
+
+>“Read one page of Stephen Hawking about the event horizon, about the possibility that we will soon know, not where the universe originated, but where it is tended, and the event horizon to which we may all be headed. There is more to inspire awe in one page of Stephen Hawking, than in any of the fantasies of Tertullian, imagining that he could go to the window of heaven, when he was promoted there, and look down, for his consolation, on the torments of the damned. There is much more to be awe-inspired by, in a page of Hawking, than in any number of burning bushes, or other such myths.”
+
+>“Why, if God was the creator of all things, were we supposed to "praise" him for what came naturally?”
+
+>“If religious instruction were not allowed until the child had attained the age of reason, we would be living in a quite different world.”
+
+>“If Jesus could heal a blind person he happened to meet, then why not heal blindness?”
+
+>“Religion is man-made. Even the men who made it cannot agree on what their prophets or redeemers or gurus actually said or did.”
+
+>“Since human beings are naturally solipsistic, all forms of superstition enjoy what might be called a natural advantage.”
+
+>“Religion has run out of justifications.”
+
+>“Mockery of religion is one of the most essential things... one of the beginnings of human emancipation is the ability to laugh at authority.”
+
+― <a href="https://en.wikipedia.org/wiki/Christopher_Hitchens" target="_blank">Christopher Hitchens</a>
 
 >“Mahavira, the Jain patriarch, surpassed the morality of the Bible with a single sentence: "Do not injure, abuse, oppress, enslave, insult, torment, torture, or kill any creature or living being." Imagine how different our world might be if the Bible contained this as its central precept.”
 
@@ -731,6 +785,10 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
 >“The question I get asked by religious people all the time is, without God, what’s to stop me from raping all I want? And my answer is: I do rape all I want. And the amount I want is zero. And I do murder all I want, and the amount I want is zero. The fact that these people think that if they didn’t have this person watching over them that they would go on killing, raping rampages is the most self-damning thing I can imagine. I don't want to do that. Right now, without any god, I don't want to jump across this table and strangle you. I have no desire to strangle you. I have no desire to flip you over and rape you.”
 
 ― <a href="https://en.wikipedia.org/wiki/Penn_Jillette" target="_blank">Penn Jillette</a>
+
+>“Any sufficiently advanced benevolence may be indistinguishable from malevolence.”
+
+― <a href="https://en.wikipedia.org/wiki/Charles_T._Rubin" target="_blank">Charles T. Rubin</a>
 
 >“The Taiping Rebellion is the perfect example of the old adage that the winners write the history books. Most writers treat the Taipings as poor deluded peasants following a madman's hallucinations, but when you get right down to it, that's how most religions begin (not your religion obviously, but all the other ones). The only difference between <a href="https://en.wikipedia.org/wiki/Hong_Xiuquan" target="_blank">Hong Xiuquan</a> and history's successful prophets is that if a professor, novelist, or cartoonist disrespects Hong Xiuquan, angry mobs won't call for his head.
 >
@@ -896,10 +954,6 @@ Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and
 >“One day, I just thought, if you see a bird with a broken leg, you really have the urge to do something about it and help the bird. … Then, at the same time, you go to a restaurant and eat a chicken or something. It doesn’t make any sense. … I just realized that if it’s really compassion that drives you, maybe it’s not enough just to stop eating animals but you maybe should boycott the whole animal industry, because … it’s not what you as a compassionate being would want. So actually you should go one step further and become vegan.”
 
 ― <a href="https://en.wikipedia.org/wiki/Patrik_Baboumian" target="_blank">Patrik Baboumian</a><span style="color:Chartreuse">(strongman and bodybuilder)</span>
-
->“28% of the greenhouse gasses come from eating meat and from raising cattle, so we can do a much better job. … Luckily we know that you can get your protein source from many different ways, you can get it through vegetables if you are a vegetarian. I have seen many body builders that are vegetarian and they get strong and healthy.”
-
-― <a href="https://en.wikipedia.org/wiki/Arnold_Schwarzenegger" target="_blank">Arnold Schwarzenegger</a><span style="color:Chartreuse">(actor and bodybuilder)</span>
 
 >“[After struggle with heart disease] I've stopped eating meat, cheese, milk, even fish. No dairy at all. I've lost more than 20 pounds so far, aiming for about 30 before Chelsea's wedding. And I have so much more energy now! I feel great. … I just decided that I was the high-risk person, and I didn't want to fool with this anymore. And I wanted to live to be a grandfather. So I decided to pick the diet that I thought would maximize my chances of long-term survival.”
 

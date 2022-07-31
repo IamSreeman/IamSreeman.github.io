@@ -146,6 +146,7 @@ The amount of suffering caused by vivisection is currently negligible compared t
 ##### Arguments
 - [Carnism debunked](https://www.carnismdebunked.com/)
 - [Veganspeak.info](https://veganspeak.info/)
+- [vegansidekick](http://www.godfist.com/vegansidekick/guide.php)
 - [Arguments for veganism by philosophical vegan](https://philosophicalvegan.com/wiki/index.php/Arguments_for_veganism)
 - [Earthling Ed](https://www.youtube.com/c/EarthlingEdChannel)
 - [Erin Janus](https://www.youtube.com/c/ErinJanus/)
@@ -188,6 +189,7 @@ Example video:<br>
 - [Animal clock](https://animalclock.org/)
 
 ###### Memes
+<img src="{{site.baseurl}}/images/other/memes/v/0.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/1.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/2.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/3.jpg" width="300"/>
@@ -210,6 +212,12 @@ Example video:<br>
 <img src="{{site.baseurl}}/images/other/memes/v/20.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/21.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/22.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/23.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/24.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/25.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/26.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/27.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/28.jpg" width="300"/>
 <br>
 <br>
 <b id="f1">1)</b> In rare cases when there is no vegan option to consume I might eat some food that contain dairy products instead of fasting. For example recently when I was in a plane to Canada there were veg and nonveg options. In the veg option they included some dairy products in the vegetable pasta and I ate it but I didn't eat yogurt, cheese etc which are direct dairy products. I think society is more responsible for this than me.<a href="#a1">↩</a>

@@ -21,8 +21,9 @@ breadcrumbs: true
 
 <img src="{{site.baseurl}}/images/me.jpg" alt="me.jpg" width="300"/>
 
-Hi, my name is **Kasi Reddy Sreeman Reddy**<sup id="a1"><a href="#f1">1</a></sup> and I'm an undergraduate studying   <a href="http://www.phy.iitb.ac.in/" target="_blank">B. Tech in Engineering physics at IIT Bombay</a>. I am also pursuing a minor in <a href="http://www.math.iitb.ac.in/" target="_blank">Mathematics</a> and Honors in Physics. I am from <a href="https://en.wikipedia.org/wiki/Tadipatri" target="_blank">Tadipatri</a>.<br>
-I am more interested in fundamental theoretical physics (like <a href="https://en.wikipedia.org/wiki/Quantum_gravity#Candidate_theories" target="_blank">quantum gravity theories</a>, <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a> etc.) compared to applied Physics or experimental physics.
+Hi, my name is **Kasi Reddy Sreeman Reddy**<sup id="a1"><a href="#f1">1</a></sup> and I'm a final year undergraduate studying <a href="http://www.phy.iitb.ac.in/" target="_blank">B. Tech in Engineering physics at IIT Bombay</a> (2019-2023). I am also pursuing a minor in <a href="http://www.math.iitb.ac.in/" target="_blank">Mathematics</a> and Honors in Physics. I am from <a href="https://en.wikipedia.org/wiki/Tadipatri" target="_blank">Tadipatri</a>.
+
+I am currently primarily interested in <a href="https://en.wikipedia.org/wiki/String_theory" target="_blank">string theory</a>. My other interests include <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a>, <a href="https://en.wikipedia.org/wiki/Particle_physics" target="_blank">particle physics</a> etc.
 ##### Hobbies:
 1) Reading physics books and the history of physics.<br>
 2) Watching Anime.<br>
@@ -35,10 +36,9 @@ You can also find me on Physics Stack Exchange.
 
 <a href="https://physics.stackexchange.com/users/264772/kasi-reddy-sreeman-reddy"><img src="https://physics.stackexchange.com/users/flair/264772.png?theme=dark" width="208" height="58" alt="profile for Kasi Reddy Sreeman Reddy at Physics Stack Exchange, Q&amp;A for active researchers, academics and students of physics" title="profile for Kasi Reddy Sreeman Reddy at Physics Stack Exchange, Q&amp;A for active researchers, academics and students of physics"></a>
 
-$$\boxed{G_{\mu\nu}+\Lambda g_{\mu\nu}=\dfrac{8\pi G}{c^4}T_{\mu\nu}}$$
 $$\boxed{
 \begin{aligned}
-\mathcal{L}=&-\frac{1}{4} B_{\mu \nu} B^{\mu \nu}-\frac{1}{8} t r\left(\mathbf{W}_{\mu \nu} \mathbf{W}^{\mu \nu}\right)-\frac{1}{2} t r\left(\mathbf{G}_{\mu \nu} \mathbf{G}^{\mu \nu}\right) &{\text{(U(1), SU(2) and SU(3) gauge terms)}}\\
+\mathcal{L}= &-\frac{1}{4} B_{\mu \nu} B^{\mu \nu}-\frac{1}{8} t r\left(\mathbf{W}_{\mu \nu} \mathbf{W}^{\mu \nu}\right)-\frac{1}{2} t r\left(\mathbf{G}_{\mu \nu} \mathbf{G}^{\mu \nu}\right) &{\text{(U(1), SU(2) and SU(3) gauge terms)}}\\
 &+\left(\bar{\nu}_{L}, \bar{e}_{L}\right) \tilde{\sigma}^{\mu} i D_{\mu}\left(\begin{array}{c}
 \nu_{L} \\
 e_{L}
@@ -63,7 +63,8 @@ d_{L}
 -d_{L} \\
 u_{L}
 \end{array}\right)\right] &{\text{(up, charmed, top mass term)}}\\
-&+\overline{\left(D_{\mu} \phi\right)} D^{\mu} \phi-m_{h}^{2}\left[\bar{\phi} \phi-v^{2} / 2\right]^{2} / 2 v^{2} &\text{(Higgs dynamical and mass term)}
+&+\overline{\left(D_{\mu} \phi\right)} D^{\mu} \phi-m_{h}^{2}\left[\bar{\phi} \phi-v^{2} / 2\right]^{2} / 2 v^{2} &\text{(Higgs dynamical and mass term)}\\
+& \color{red}{+\frac{1}{16 \pi G} R}&{\text{(}\color{red}{\text{Gravity}}\text{ :Not valid near the }\color{red}{\text{Planck scale})}}\\
 \end{aligned}
 }
 $$
