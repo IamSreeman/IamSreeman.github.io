@@ -38,7 +38,7 @@
 		{% capture tag_classes %}tag tag-size-{{ tag_counts[forloop.index0] }} tag-{{ tag | slugify }}{% endcapture %}
 		{% capture tag_name %}{% if tag_data.title %}{{ tag_data.title }}{% else %}{{ tag }}{% endif %}{% endcapture %}
 		<li{% if tag_url == page_url %} class="active"{% endif %}>
-			<a href="{{ include.baseurl }}#{{ tag | slugify }}" class="icon-alias-tag tag-{{ tag_name | slugify }}">{{ tag_name | escape }}</a>
+			<a href="{{ site.baseurl }}/blog/tags/#{{ tag | slugify }}" class="icon-alias-tag tag-{{ tag_name | slugify }}">{{ tag_name | escape }}</a>
 		</li>
 	{% endfor %}
 {% when 'blog-years' %}

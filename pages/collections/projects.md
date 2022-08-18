@@ -40,8 +40,10 @@ equation with Bohmian trajectories.
 into a dark Bose-Einstein condensate.
 - Implemented a special case of this theory in CLASS and estimated the cosmological parameters by
 doing Monte Carlo sampling in Cobaya using Planck 2018 data.
+
 ##### Black hole information paradox (June-November 2021)
-*Supervisor: Prof. Vikram Rentala*
+
+*Supervisor: Prof. Vikram Rentala, Dept. of Physics, IIT Bombay*
 - Studied quantum scalar field theory in curved spacetime and how it compares with QFT in ﬂat spacetime.
 - Reviewed the four laws of black hole mechanics and their similarity with thermodynamics and Penrose process in a Kerr black hole.
 - Studied **Unruh effect** which explains that the vacuum state of a Minkowski observer will be a thermal state as observed by a Rindler observer and how entanglement between the left and right Rindler wedges prevents a firewall at the Rindler horizon.
@@ -56,8 +58,9 @@ doing Monte Carlo sampling in Cobaya using Planck 2018 data.
 breaking.
 - Studied how the theory is renormalizable even after gauge bosons acquire mass through Higgs mecha-
 nism using $R_\xi$ gauges.
+
 ##### Category theory applications in physics (October-November 2020)
-*Supervisor: Prof. Vikram Rentala*
+*Supervisor: Prof. Vikram Rentala, Dept. of Physics, IIT Bombay*
 - Studied basic concepts of category theory like Functors, Natural transformations, Monoidal categories.
 - Studied axiomatization of physical systems using strict monoidal categories.
 \item Investigated **FdHilb** category and studied **no-cloning, no-deleting theorems** in categorical quantum mechanics.<br>
