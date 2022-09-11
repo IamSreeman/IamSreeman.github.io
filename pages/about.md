@@ -21,9 +21,9 @@ breadcrumbs: true
 
 <img src="{{site.baseurl}}/images/me.jpg" alt="me.jpg" width="300"/>
 
-Hi, my name is **Kasi Reddy Sreeman Reddy**<sup id="a1"><a href="#f1">1</a></sup> and I'm a final year undergraduate studying <a href="http://www.phy.iitb.ac.in/" target="_blank">B. Tech in Engineering physics at IIT Bombay</a> (2019-2023). I am also pursuing a minor in <a href="http://www.math.iitb.ac.in/" target="_blank">Mathematics</a> and Honors in Physics. I am from <a href="https://en.wikipedia.org/wiki/Tadipatri" target="_blank">Tadipatri</a>.
+Hi, my name is **Kasi Reddy Sreeman Reddy**<sup id="a1"><a href="#f1">1</a></sup> and I'm a final year undergraduate studying <a href="https://www.phy.iitb.ac.in/en/undergraduate" target="_blank">B. Tech in Engineering physics at IIT Bombay</a> (2019-2023). I am also pursuing a minor in <a href="https://www.math.iitb.ac.in/Academics/minor.php" target="_blank">Mathematics</a> and Honors in Physics. I am from <a href="https://en.wikipedia.org/wiki/Tadipatri" target="_blank">Tadipatri</a>.
 
-I am currently primarily interested in <a href="https://en.wikipedia.org/wiki/String_theory" target="_blank">string theory</a>. My other interests include <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a>, <a href="https://en.wikipedia.org/wiki/Particle_physics" target="_blank">particle physics</a> etc.
+I am currently primarily interested in <a href="https://en.wikipedia.org/wiki/String_theory" target="_blank">string theory</a> (especially the <a href="https://en.wikipedia.org/wiki/AdS/CFT_correspondence" target="_blank">AdS/CFT correspondence</a>). My other interests include <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a>, <a href="https://en.wikipedia.org/wiki/Particle_physics" target="_blank">particle physics</a> (especially strongly coupled quantum field theories), <a href="https://en.wikipedia.org/wiki/Quantum_information" target="_blank">quantum information theory</a> application to string theory/quantum gravity etc.
 ##### Hobbies:
 1) Reading physics books and the history of physics.<br>
 2) Watching Anime.<br>
@@ -32,6 +32,7 @@ I am currently primarily interested in <a href="https://en.wikipedia.org/wiki/St
 Feel free to browse the <a href="{{site.baseurl}}/projects">projects</a> section and also to <a href="{{site.baseurl}}/contact">contact</a> me.
 
 You can also find me on Physics Stack Exchange.
+
 <div style="text-align:center;">
 
 <a href="https://physics.stackexchange.com/users/264772/kasi-reddy-sreeman-reddy"><img src="https://physics.stackexchange.com/users/flair/264772.png?theme=dark" width="208" height="58" alt="profile for Kasi Reddy Sreeman Reddy at Physics Stack Exchange, Q&amp;A for active researchers, academics and students of physics" title="profile for Kasi Reddy Sreeman Reddy at Physics Stack Exchange, Q&amp;A for active researchers, academics and students of physics"></a>
@@ -68,6 +69,9 @@ u_{L}
 \end{aligned}
 }
 $$
+</div>
+
+<div style="text-align:center;">
 
 <a class="twitter-timeline" data-width="800" data-height="1400" data-dnt="true" data-theme="dark" href="https://twitter.com/IamSreeman?ref_src=twsrc%5Etfw">Tweets by IamSreeman</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
