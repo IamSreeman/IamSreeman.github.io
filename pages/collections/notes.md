@@ -1,7 +1,5 @@
 ---
-permalink: /notes
-redirect_from:
-  - /note/
+permalink: /notes/
 title: "Notes"
 meta_title: "Notes | K. Sreeman Reddy"
 layout: page-fullwidth

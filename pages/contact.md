@@ -1,5 +1,5 @@
 ---
-permalink: /contact
+permalink: /contact/
 layout: page-fullwidth
 title: "Contact"
 meta_title: "Contact | K. Sreeman Reddy"

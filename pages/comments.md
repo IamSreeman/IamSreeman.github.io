@@ -1,5 +1,5 @@
 ---
-permalink: /blog/comments
+permalink: /blog/comments/
 layout: page-fullwidth
 title: "Comments policy and tips"
 meta_title: "Comments policy and tips | K. Sreeman Reddy"

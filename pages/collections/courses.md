@@ -1,5 +1,5 @@
 ---
-permalink: /courses
+permalink: /courses/
 title: "Courses"
 meta_title: "Courses | K. Sreeman Reddy"
 layout: page-fullwidth

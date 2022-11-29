@@ -1,5 +1,5 @@
 ---
-permalink: /papers
+permalink: /papers/
 title: "Papers"
 meta_title: "Papers | K. Sreeman Reddy"
 layout: page-fullwidth

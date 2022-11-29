@@ -1,7 +1,5 @@
 ---
-permalink: /projects
-redirect_from:
-  - /projects/
+permalink: /projects/
 title: "Projects"
 meta_title: "Projects | K. Sreeman Reddy"
 layout: page-fullwidth

@@ -1,5 +1,5 @@
 ---
-permalink: /about
+permalink: /about/
 layout: page-fullwidth
 title: "About | K. Sreeman Reddy"
 subheadline: "I am in a stubbornly persistent illusion that I have free will."
