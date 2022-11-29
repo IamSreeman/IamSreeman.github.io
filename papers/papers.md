@@ -28,18 +28,16 @@ List of my papers.
 <ul>  
 <li>
   <p><b>
-    <a href="https://inspirehep.net/literature/2601353">
+    <a href="https://inspirehep.net/literature/2601353" target="_blank">
       A timelike entangled island at the initial singularity in a JT FLRW ($\Lambda>0$) universe
     </a>
   </b></p>
  
-  <p><a href="https://inspirehep.net/authors/2601354">K. Sreeman Reddy</a> (<a href="https://inspirehep.net/institutions/902869">Indian Inst. Tech., Mumbai</a>)</p>
+  <p><a href="https://inspirehep.net/authors/2601354" target="_blank">K. Sreeman Reddy</a> (<a href="https://inspirehep.net/institutions/902869" target="_blank">Indian Inst. Tech., Mumbai</a>)</p>
 
   <p>
       e-Print:
-          <a href="https://arxiv.org/abs/2211.14893">
-      2211.14893
-    </a>[hep-th]</p>
+          <a href="https://arxiv.org/abs/2211.14893" target="_blank"> 2211.14893 </a>[hep-th]</p>
   <br>
 </li>
 </ul>

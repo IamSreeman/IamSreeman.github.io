@@ -1155,8 +1155,8 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://onepiece.fandom.com/wiki/Pedro" target="_blank">Pedro</a>
 
-<img src="{{site.baseurl}}/images/other/Vagabond1.jpg" alt="Berserk" width="400"/><br>
-<img src="{{site.baseurl}}/images/other/Vagabond2.jpg" alt="Berserk" width="400"/>
+<img src="{{site.baseurl}}/images/other/Vagabond1.jpg" alt="Vagabond1" width="400"/><br>
+<img src="{{site.baseurl}}/images/other/Vagabond2.jpg" alt="Vagabond2" width="400"/>
 
 ― <a href="https://en.wikipedia.org/wiki/Takehiko_Inoue" target="_blank">Takehiko Inoue</a> or <a href="https://vagabond.fandom.com/wiki/Soho_Takuan" target="_blank">Soho Takuan</a> [Vagabond chapter 35]
 
