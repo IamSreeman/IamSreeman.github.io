@@ -21,7 +21,7 @@ breadcrumbs: true
 
 <img src="{{site.baseurl}}/images/me.jpg" alt="me.jpg" width="300"/>
 
-Hi, my name is **Kasi Reddy Sreeman Reddy**<sup id="a1"><a href="#f1">1</a></sup> and I'm a final year undergraduate studying <a href="https://www.phy.iitb.ac.in/en/undergraduate" target="_blank">B. Tech in Engineering physics at IIT Bombay</a> (2019-2023). I am also pursuing a minor in <a href="https://www.math.iitb.ac.in/Academics/minor.php" target="_blank">Mathematics</a> and Honors in Physics. I am from <a href="https://en.wikipedia.org/wiki/Tadipatri" target="_blank">Tadipatri</a>.
+Hi, my name is **Kasi Reddy Sreeman Reddy**<sup id="a1"><a href="#f1">1</a></sup> and I'm a final year undergraduate studying <a href="https://www.phy.iitb.ac.in/en/undergraduate" target="_blank">B. Tech in Engineering physics at IIT Bombay</a> (2019-2023). I am also pursuing a minor in <a href="https://www.math.iitb.ac.in/Academics/minor.php" target="_blank">Mathematics</a> and Honors in Physics. I am from <a href="https://en.wikipedia.org/wiki/Andhra_Pradesh" target="_blank">Andhra Pradesh</a>.
 
 I am currently primarily interested in <a href="https://en.wikipedia.org/wiki/String_theory" target="_blank">string theory</a> (especially the <a href="https://en.wikipedia.org/wiki/AdS/CFT_correspondence" target="_blank">AdS/CFT correspondence</a>). My other interests include <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a>, <a href="https://en.wikipedia.org/wiki/Particle_physics" target="_blank">particle physics</a> (especially strongly coupled quantum field theories), <a href="https://en.wikipedia.org/wiki/Quantum_information" target="_blank">quantum information theory</a> application to string theory/quantum gravity etc.
 ##### Hobbies:
@@ -69,12 +69,13 @@ u_{L}
 \end{aligned}
 }
 $$
-</div>
-
-<div style="text-align:center;">
-
-<a class="twitter-timeline" data-width="800" data-height="1400" data-dnt="true" data-theme="dark" href="https://twitter.com/IamSreeman?ref_src=twsrc%5Etfw">Tweets by IamSreeman</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
+
+##### My philosophical positions
+
+1. Raison d'être: Understanding quantum gravity
+2. Ethics: <a href="https://en.wikipedia.org/wiki/Negative_utilitarianism#Combining_negative_utilitarianism_with_rights" target="_blank">Combining negative utilitarianism with rights</a>
+3. Other: <a href="https://en.wikipedia.org/wiki/Naturalism_(philosophy)" target="_blank">Naturalism</a>, <a href="https://en.wikipedia.org/wiki/Reductionism" target="_blank">Reductionism</a>, <a href="https://en.wikipedia.org/wiki/Veganism" target="_blank">Veganism</a>, <a href="https://en.wikipedia.org/wiki/Ahimsa" target="_blank">ahiṃsā</a>, <a href="https://en.wikipedia.org/wiki/Scientism" target="_blank">Scientism</a>, <a href="https://en.wikipedia.org/wiki/Pantheism" target="_blank">Pantheism</a>, <a href="https://en.wikipedia.org/wiki/Atheism" target="_blank">Atheism</a>, <a href="https://en.wikipedia.org/wiki/Antitheism" target="_blank">Antitheism</a>, <a href="https://en.wikipedia.org/wiki/Anti-foundationalism" target="_blank">Antifoundationalism</a>, <a href="https://www.youtube.com/watch?v=MBRqu0YOH14" target="_blank">Optimistic nihilism</a>, <a href="https://en.wikipedia.org/wiki/Philosophical_realism" target="_blank">Realism</a>, <a href="https://en.wikipedia.org/wiki/Moral_realism" target="_blank">Moral realism (Objective morality)</a>, <a href="https://en.wikipedia.org/wiki/Absurdism" target="_blank">Absurdism</a>, <a href="https://en.wikipedia.org/wiki/Incompatibilism#Hard_incompatibilism" target="_blank">Hard incompatibilism</a> and Afraid of <a href="https://en.wikipedia.org/wiki/Philosophical_skepticism" target="_blank">Skepticism</a>
 
 <b id="f1">1)</b> Actually *Kasireddy Sreeman Reddy* but in all documents there is a wrong space and I am continuing that mistake. In Telugu script: కాశిరెడ్డి శ్రీమాన్ రెడ్డి, in Devanagari: काशिरेड्डि श्रीमान रेड्डि and in International Phonetic Alphabet (IPA): /kaːʃiɾeɖɖi ʃɾiːmaːn ɾeɖɖi/. <a href="#a1">↩</a>

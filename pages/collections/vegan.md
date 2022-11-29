@@ -50,6 +50,8 @@ breadcrumbs: true
 >    - [Memes](#memes)
 >
 >[Comments](#comments)
+
+
 #### Reasons
 
 The following are the reasons why I made this decision. 
@@ -63,7 +65,7 @@ The following are the reasons why I made this decision.
 
 - The number of individual wild fish killed each year is estimated as 0.97-2.74 trillion (based on FAO tonnage statistics combined with estimated mean weights of fish species).[2] The FAO numbers do not include illegal, unreported and unregulated fishing, nor discarded fish. If these are included and over-reporting by China subtracted, the totals increase by about 16.6% to 33.3%.[2] A similar estimate for the number of farmed fish slaughtered each year is 0.037 to 0.120 trillion. [Source](http://fishcount.org.uk/published/std/fishcountstudy2.pdf)
 
-<img src="{{site.baseurl}}/images/other/AAPrincipleThree.png" width="500"/>
+<img src="{{site.baseurl}}/images/other/AbolitionistApproach.jpg" width="500"/>
 <br>
 
 This is easily the most important argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their dead bodies with causing pollution, cancer, heart diseases etc. **Even then** it is not morally OK to not be a vegan because of the ethical issues.
@@ -72,11 +74,11 @@ When I was a child I was a vegetarian and I used to think that there is nothing 
 
 Roughly speaking $\frac{1}{4}$ chicken is needed per 1 meal per 1 person. Each week I ate 2 times chicken during the 4 years. So the total number of chickens that are killed because of me is $4\times 52 \times 2 \times \frac{1}{4}=104 \approx 100$ chickens. Let us assume that an average human life is roughly 100 times more worthy than a chickens life. In that case what I did is as bad as murdering a single human being. Of course these are not exact calculations. These are called <a href="https://en.wikipedia.org/wiki/Fermi_problem" target="_blank">Fermi problems</a> which only give an estimate of the order of magnitude. Also I can decrease the number of chickens I killed by like 15% percent because I only ate them when I was in hostel and when I went to home for vacation I didn't eat meat.
 
-Of course if you say an average human is roughly 10 times more worthy than a chickens life then that would mean what I did is as bad as murdering 10 human beings. These things do not have a clear cut answers. Some vegans say that saying human beings are superior to animals is <a href="https://en.wikipedia.org/wiki/Speciesism" target="_blank">Speciesism</a>, but this is a very vague and useless definition for speciesism, because by this definition every one is a speciesist (even if they don't realise). When you walk you kill many microorganisms, if you think their life is as worthy as yours then you need to stop moving forever etc. So a better defintion for antispeciesism is not the claim that “All Animals Are Equal”, or that all species are of equal value, or that a human or a pig is equivalent to a mosquito. Rather the antispeciesist claims that, other things being equal, equally strong interests should count equally. So it is not morally wrong if you have to kill microorganisms to walk since walking is a necessary thing for us to live. But consuming meat and dairy products is not necessary like walking and organisms like chicken, cow etc are many time more worthy than microorganisms. As a <a href="https://en.wikipedia.org/wiki/Negative_utilitarianism" target="_blank">Negative utilitarian</a>, I think it is not wrong to measure the worthiness of 1 animal compared to the other since it is needed to solve problems like the <a href="https://en.wikipedia.org/wiki/Trolley_problem" target="_blank">trolley problem</a>.
+Of course if you say an average human is roughly 10 times more worthy than a chickens life then that would mean what I did is as bad as murdering 10 human beings. These things do not have a clear cut answers. Some vegans say that saying human beings are superior to animals is <a href="https://en.wikipedia.org/wiki/Speciesism" target="_blank">Speciesism</a>, but this is a very vague and useless definition for speciesism, because by this definition every one is a speciesist (even if they don't realise). When you walk you kill many microorganisms, if you think their life is as worthy as yours then you need to stop moving forever etc. So a better defintion for antispeciesism is not the claim that “All Animals Are Equal”, or that all species are of equal value, or that a human or a pig is equivalent to a mosquito. Rather the antispeciesist claims that, other things being equal, equally strong interests should count equally. So it is not morally wrong if you have to kill microorganisms to walk since walking is a necessary thing for us to live. But consuming meat and dairy products is not necessary like walking and organisms like chicken, cow etc are many times more worthy than microorganisms. As a <a href="https://en.wikipedia.org/wiki/Negative_utilitarianism" target="_blank">Negative utilitarian</a>, I think it is not wrong to measure the worthiness of 1 animal compared to the other since it is needed to solve problems like the <a href="https://en.wikipedia.org/wiki/Trolley_problem" target="_blank">trolley problem</a>.
 
-In early 2020, I found out (for the 1st time) what actually happens in the dairy industry by watching [this](https://fb.watch/cTX_VxvCv9/) and some other videos posted by [Arvind Animal Activist](https://www.facebook.com/ArvindAnimalActivist). But I was not sure if it was healthy to go vegan. But after watching many videos of [Erin Janus](https://www.youtube.com/c/ErinJanus) and [Earthling Ed](https://www.youtube.com/c/EarthlingEdChannel) I decided to go vegan. But then covid lockdown happened. After covid started I became a lacto-vegetarian but not a vegan because of some stupid reasons which are definitely not good enough excuses to support the dairy industry for 2 years.
+In early 2020, I found out (for the 1st time) what actually happens in the dairy industry by watching [this](https://fb.watch/cTX_VxvCv9/) and some other videos posted by [Arvind Animal Activist](https://www.facebook.com/ArvindAnimalActivist). But I was not sure if it was healthy to go vegan. But after watching many videos of [Erin Janus](https://www.youtube.com/c/ErinJanus) and [Earthling Ed](https://www.youtube.com/c/EarthlingEdChannel) I decided to go vegan. But then covid lockdown happened. After covid started I became a lacto-vegetarian but not a vegan because of some stupid reasons (like my parents will be angry at me and won't allow etc.) which are definitely not good enough excuses to support the dairy industry for another 2 years.
 
-If I want to live as a responsible man, I must do something for the species of chicken, buffaloes, cows etc. to repent for my evil doings.
+If I want to live as a responsible man, I must do something for the species of chicken, buffaloes, cows etc. to repent for my evil doings. May be one day when I have enough money I will start an animal sanctuary.
 
 >“Today more than ninety per cent of all large animals are domesticated. Consider the chicken, for example. Ten thousand years ago it was a rare bird confined to small niches of South Asia. Today billions of chickens live on almost every continent and island, bar Antarctica. The domesticated chicken is probably the most widespread bird in the annals of planet Earth. If you measure success in terms of numbers, chickens, cows and pigs are the most successful animals ever. Alas, domesticated species paid for their unparalleled collective success with unprecedented individual suffering.”
 
@@ -100,9 +102,13 @@ Humanity should invest more on <a href="https://en.wikipedia.org/wiki/Alternativ
 
 But I should add that there is a difference between suffering in vivisection and suffering during plant agriculture. In the former we are directly inflicting the suffering where as in the later it is an indirect thing. Directly inflicting the suffering is definitely **more evil** than indirect. So, vivisection is more evil.
 
+In the indirect insect deaths in plant agriculture they are not claiming to "**own**" the insects, in the direct deaths in animal agriculture they are claiming they somehow "**own**" animals like chickens and cows. 
+
 The amount of suffering caused by vivisection is currently negligible compared to meat industry and dairy industry. We can think about this problem after those industries are stopped.
 
-**Honey and Silk**: Again we don't know if these insects are sentient. But it is always better to assume they are sentient if we don't know. These are also quite different from the plant agriculture as these industries inflict direct suffering compared to the insects that die in plant agriculture.
+**Honey and Silk**: Evidence is increasing that honey bees are sentient although it looks like the matter isn't completely settled. For silk worms not much research is done. But it is always better to assume insects are sentient if we don't know. These are also quite different from the plant agriculture as these industries inflict direct suffering compared to the insects that die in plant agriculture which are indirect.
+
+[www.collectivefashionjustice.org](https://www.collectivefashionjustice.org/non-humans)
 
 ##### Environmental
 - Animal agriculture is responsible for 18% of all greenhouse gas emissions, which is more than all transportation emissions combined. [Source](https://www.fao.org/3/a0701e/a0701e00.htm)
@@ -153,6 +159,7 @@ The amount of suffering caused by vivisection is currently negligible compared t
 - [CosmicSkeptic](https://www.youtube.com/c/CosmicSkeptic)
 - [ADAPTT](http://www.adaptt.org/index.html)
 - [Dontwatch.org](https://dontwatch.org/)
+- [www.collectivefashionjustice.org](https://www.collectivefashionjustice.org/non-humans)
 ##### Cooking
 
 - [Simnett Nutrition](https://www.youtube.com/c/Simnettnutrition)<br>
@@ -171,7 +178,7 @@ Example video:<br>
 - [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q4EgmrfmD0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+- [cookingwithparita](https://cookingwithparita.com/)
 ##### Videos
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSpglxHTJVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LQRAfJyEsko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

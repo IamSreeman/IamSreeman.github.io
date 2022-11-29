@@ -5,6 +5,10 @@
   url: /
   side: left
 
+- title: papers
+  url: /papers
+  side: left
+
 - title: projects
   url: /projects
   side: left
@@ -82,14 +86,18 @@
   url: #!
   side: left
   dropdown:
-  - title: Tutorials
+  - title: CV (PDF)
+    icon: icon-graduation-cap
+    url: /CV.pdf
+  - title: Courses
+    icon: icon-graduation-cap
+    url: /courses
+  - title: Teaching
     url: #!
     dropdown:
       - title: MA 109
         url: /MA109
-  - title: CV (PDF)
-    icon: icon-graduation-cap
-    url: /CV.pdf
+
   - title: Quotes
     url: /quotes
   - title: Even more

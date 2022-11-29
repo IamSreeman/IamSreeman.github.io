@@ -20,27 +20,40 @@ breadcrumbs: true
         src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
-These are some quotes which I liked. I removed the quotes which are given as misattributed in <a href="https://en.wikiquote.org/wiki/Main_Page" target="_blank">Wikiquote</a>.
+These are some quotes which I liked. I removed the quotes which are given as misattributed in <a href="https://en.wikiquote.org/wiki/Main_Page" target="_blank">Wikiquote</a>. Quotes which I strongly disagree with are ~~struckthrough~~.
 
 - [Physicists](#physicists)
+- [Mathematicians](#mathematicians)
 - [Philosophers](#philosophers)
 - [Others](#others)
   - [Veganism](#veganism)
 ### Physicists
 
->“Spacetime tells matter how to move; matter tells spacetime how to curve.”
-
-― <a href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler" target="_blank">John Archibald Wheeler</a>
-
 >“If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”
 
 ― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
 
+>“Spacetime tells matter how to move; matter tells spacetime how to curve.”
+
+>“**It from bit**. Otherwise put, every it — every particle, every field of force, even the space-time continuum itself — derives its function, its meaning, its very existence entirely — even if in some contexts indirectly — from the apparatus-elicited answers to yes-or-no questions, binary choices, bits. It from bit symbolizes the idea that every item of the physical world has at bottom — at a very deep bottom, in most instances — an immaterial source and explanation; that which we call reality arises in the last analysis from the posing of yes-no questions and the registering of equipment-evoked responses; in short, that **all things physical are information-theoretic in origin** and that this is a participatory universe.”[1990]
+
+― <a href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler" target="_blank">John Archibald Wheeler</a>
+
+>“Mathematics was not sufficiently refined in 1917 to cleave apart the demands for **"no prior geometry"** and for a geometric, coordinate-independent formulation of physics. Einstein described both demands by a single phrase, "general covariance". The "no prior geometry" demand actually fathered general relativity, but by doing so anonymously, disguised as "general covariance", it also fathered half a century of confusion.”
+
+― <a href="https://en.wikipedia.org/wiki/Gravitation_(book)" target="_blank">MTW</a>
+
 >“I worked horribly strenuously, strange that one can endure that.”<sup id="a1"><a href="#f1">1</a></sup>
+
+>“Any man who reads too much and uses his own brain too little falls into **lazy habits of thinking**.”
+
+>“Unthinking respect for authority is the greatest enemy of truth.”
 
 >“Imagine my joy at the feasibility of general covariance and the result that the equations give the perihelion motion of Mercury correctly. For a few days I was beside myself with joyous excitement.”
 
 >“At present I occupy myself exclusively with the problem of gravitation and now believe that I shall master all difficulties with the help of a friendly mathematician here (<a href="https://en.wikipedia.org/wiki/Marcel_Grossmann" target="_blank">Marcel Grossmann</a>). But one thing is certain, in all my life I have never labored nearly as hard, and I have become imbued with **great respect for mathematics, the subtler part of which I had in my simple-mindedness regarded as pure luxury until now**. Compared with this problem, the original relativity is child’s play.” [After nearly ten years of hard work, in a letter to  A. Sommerfeld]
+
+>“Who would have thought around 1900 that in fifty years time we would know so much more and understand so much less.”
 
 >“People like us, who believe in physics, know that the distinction between past, present, and future is only a **stubbornly persistent illusion.**”
 
@@ -62,9 +75,11 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“Besides agreeing with the aims of vegetarianism for aesthetic and moral reasons, it is my view that a vegetarian manner of living by its purely physical effect on the human temperament would most beneficially influence a lot of mankind.”
 
+>“Nationalism is an infantile disease. It is the measles of mankind.”
+
 >“In my opinion the only salvation for civilization and the human race lies in the creation of a **world government**, with security of nations founded upon law. As long as sovereign states continue to have separate armaments and armament secrets, new world wars will be inevitable.”
 
->“Any man who reads too much and uses his own brain too little falls into **lazy habits of thinking**.”
+>“In order to put his system into mathematical form at all, Newton had to devise the concept of differential quotients and propound the laws of motion in the form of total differential equations—perhaps <b>the greatest advance in thought that a single individual</b> was ever privileged to make.”
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
@@ -116,6 +131,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“I have a friend — or had a friend, now dead — <a href="https://en.wikipedia.org/wiki/Abdus_Salam" target="_blank">Abdus Salam</a>, a very devout Muslim, who was trying to bring science into the universities in the Gulf states and he told me that he had a terrible time because, although they were very receptive to technology, they felt that science would be a corrosive to religious belief, and they were worried about it... and damn it, I think they were right. ***It is corrosive of religious belief, and it's a good thing too***.”
 
+>“The steady state theory is philosophically the most attractive theory because it least resembles the account given in Genesis.”
+
 >“The more the universe seems comprehensible, the more **it also seems pointless**.”
 
 >“The effort to understand the universe is one of the very few things which lifts human life a little above the level of farce and gives it some of the grace of tragedy.”
@@ -156,23 +173,9 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/James_Clerk_Maxwell" target="_blank">James Clerk Maxwell</a>
 
->“Physics is too hard for physicists.”<sup id="a5"><a href="#f5">5</a></sup>
+>“I had no need of that hypothesis.” [When <a href="https://en.wikipedia.org/wiki/Napoleon" target="_blank">Napoleon</a> said “Laplace, they tell me you have written this large book on the system of the universe, and have never even mentioned its Creator”]
 
->“But he (Galileo) was not an idiot,... **Only an idiot could believe that scientific truth needs martyrdom** — that may be necessary in religion, but scientific results prove themselves in time.”
-
->“If I were to awaken after having slept for a thousand years, my first question would be: Has the Riemann hypothesis been proven?”
-
->“We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the [ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus). For us there is no ignorabimus, and in my opinion none whatever in natural science. In opposition to the foolish ignorabimus our slogan shall be:
->
->We must know — we will know!”<sup id="a6"><a href="#f6">6</a></sup>
-
->“No one shall expel us from the Paradise that <a href="https://en.wikipedia.org/wiki/Georg_Cantor" target="_blank">Cantor</a> has created.”
-
-― <a href="https://en.wikiquote.org/wiki/David_Hilbert" target="_blank">David Hilbert</a>
-
->“I had no need of that hypothesis.” [When Napoleon said “Laplace, they tell me you have written this large book on the system of the universe, and have never even mentioned its Creator”]
-
->“Read Euler, read Euler, he is the master of us all.”
+>“Read <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" target="_blank">Euler</a>, read Euler, he is the master of us all.”
 
 ― <a href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace" target="_blank">Pierre-Simon Laplace</a>
 
@@ -200,13 +203,17 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Wolfgang_Pauli" target="_blank">Wolfgang Pauli</a>
 
->“<a href="https://en.wikipedia.org/wiki/Nirvana" target="_blank">Nirvana</a> is a state of pure blissful knowledge... It has nothing to do with the individual. The ego or its separation is an illusion. Indeed in a certain sense two "I"'s are identical namely when one disregards all special contents — their Karma. The goal of man is to preserve his Karma and to develop it further... when man dies his Karma lives and creates for itself another carrier.”
+>“General relativity is the **greatest feat of human thinking** about nature, the most amazing combination of philosophical penetration, physical intuition, and mathematical skill.”
 
->“In itself, the insight is not new. The earliest records, to my knowledge, date back some 2500 years or more... the recognition **<a href="https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)" target="_blank">ATMAN</a> = <a href="https://en.wikipedia.org/wiki/Brahman" target="_blank">BRAHMAN</a>** (the personal self equals the omnipresent, all-comprehending eternal self) was in Indian thought considered, far from being blasphemous, to represent the quintessence of deepest insight into the happenings of the world. The striving of all the scholars of Vedanta was after having learnt to pronounce with their lips, really assimilate in their minds this grandest of all thoughts.
+― <a href="https://en.wikipedia.org/wiki/Max_Born" target="_blank">Max Born</a>
+
+>~~“<a href="https://en.wikipedia.org/wiki/Nirvana" target="_blank">Nirvana</a> is a state of pure blissful knowledge... It has nothing to do with the individual. The ego or its separation is an illusion. Indeed in a certain sense two "I"'s are identical namely when one disregards all special contents — their Karma. The goal of man is to preserve his Karma and to develop it further... when man dies his Karma lives and creates for itself another carrier.”~~
+
+>~~“In itself, the insight is not new. The earliest records, to my knowledge, date back some 2500 years or more... the recognition **<a href="https://en.wikipedia.org/wiki/%C4%80tman_(Hinduism)" target="_blank">ATMAN</a> = <a href="https://en.wikipedia.org/wiki/Brahman" target="_blank">BRAHMAN</a>** (the personal self equals the omnipresent, all-comprehending eternal self) was in Indian thought considered, far from being blasphemous, to represent the quintessence of deepest insight into the happenings of the world. The striving of all the scholars of Vedanta was after having learnt to pronounce with their lips, really assimilate in their minds this grandest of all thoughts.~~
 >
->Again, the mystics of many centuries, independently, yet in perfect harmony with each other (somewhat like the particles in an ideal gas) have described, each of them, the unique experience of his or her life in terms that can be condensed in the phrase: DEUS FACTUS SUM (I have become God).To Western ideology, the thought has remained a stranger...”
+>~~Again, the mystics of many centuries, independently, yet in perfect harmony with each other (somewhat like the particles in an ideal gas) have described, each of them, the unique experience of his or her life in terms that can be condensed in the phrase: DEUS FACTUS SUM (I have become God).To Western ideology, the thought has remained a stranger...”~~
 
-― <a href="https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger" target="_blank">Erwin Schrödinger</a>
+― <a href="https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger" target="_blank">~~Erwin Schrödinger~~</a>
 
 >“A great deal more was hidden in the Dirac equation than the author had expected when he wrote it down in 1928. Dirac himself remarked in one of his talks that his equation was more intelligent than its author. It should be added, however, that it was Dirac who found most of the additional insights.”
 
@@ -317,6 +324,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Edward_Witten" target="_blank">Edward Witten</a>
 
+>“Interestingly, both quantum entanglement and wormholes date back to two articles written by Albert Einstein and his collaborators in 1935. On the surface, the papers seem to deal with very different phenomena, and Einstein probably never suspected that there could be a connection between them. In fact, entanglement was a property of quantum mechanics that greatly bothered the German-born physicist, who called it “spooky action at a distance.” How ironic that it now may offer a bridge to extend his relativity theory to the quantum realm.”
+
+― <a href="https://en.wikipedia.org/wiki/Juan_Maldacena" target="_blank">Juan Maldacena</a>
+
 >“Elegance requires that the number of defining equations be small. Five is better than ten, and one is better than five. On this score, one might facetiously say that String Theory is the ultimate epitome of elegance. With all the years that String Theory has been studied, no one has found even a single defining equation! The number at present count is zero. We know neither what the fundamental equations of the theory are nor even if it has any.”
 
 ― <a href="https://en.wikipedia.org/wiki/Leonard_Susskind" target="_blank">Leonard Susskind</a>
@@ -357,7 +368,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“There are countless suns and countless earths all rotating round their suns in exactly the same way as the seven planets of our system.”
 
->“You may be more afraid to bring that sentence against me than I am to accept it.”<sup id="a7"><a href="#f7">7</a></sup>
+>“You may be more afraid to bring that sentence against me than I am to accept it.”<sup id="a5"><a href="#f5">5</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Giordano_Bruno" target="_blank">Giordano Bruno</a>
 
@@ -420,6 +431,38 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>
 
+### Mathematicians
+
+>“Physics is too hard for physicists.”<sup id="a6"><a href="#f6">6</a></sup>
+
+>“But he (Galileo) was not an idiot,... **Only an idiot could believe that scientific truth needs martyrdom** — that may be necessary in religion, but scientific results prove themselves in time.”
+
+>“If I were to awaken after having slept for a thousand years, my first question would be: Has the Riemann hypothesis been proven?”
+
+>“We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the [ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus). For us there is no ignorabimus, and in my opinion none whatever in natural science. In opposition to the foolish ignorabimus our slogan shall be:
+>
+>We must know — we will know!”<sup id="a7"><a href="#f7">7</a></sup>
+
+>“No one shall expel us from the Paradise that <a href="https://en.wikipedia.org/wiki/Georg_Cantor" target="_blank">Cantor</a> has created.”
+
+― <a href="https://en.wikipedia.org/wiki/David_Hilbert" target="_blank">David Hilbert</a>
+
+>“That, if a straight line falling on two straight lines make the interior angles on the same side less than two right angles, the two straight lines, if produced indefinitely, meet on that side on which are the angles less than the two right angles.”[<a href="https://en.wikipedia.org/wiki/Parallel_postulate" target="_blank">Parallel postulate</a>]
+
+― <a href="https://en.wikipedia.org/wiki/Euclid" target="_blank">Euclid of Alexandria</a>
+
+>“Mathematicians have tried in vain to this day to discover some order in the sequence of prime numbers, and we have reason to believe that it is a mystery into which the human mind will never penetrate.”
+
+― <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" target="_blank">Leonhard Euler</a>
+
+>“My greatest concern was what to call it. I thought of calling it 'information,' but the word was overly used, so I decided to call it 'uncertainty.' When I discussed it with John von Neumann, he had a better idea. Von Neumann told me, 'You should call it entropy, for two reasons. In the first place your uncertainty function has been used in statistical mechanics under that name, so it already has a name. In the second place, and more important, no one really knows what entropy really is, so in a debate you will always have the advantage.'”
+
+― <a href="https://en.wikipedia.org/wiki/Claude_Shannon" target="_blank">Claude Shannon</a>
+
+>“Algebra is the offer made by the devil to the mathematician. The devil says: `I will give you this powerful machine, it will answer any question you like. All you need to do is give me your soul: give up geometry and you will have this marvellous machine.'”
+
+― <a href="https://en.wikipedia.org/wiki/Michael_Atiyah" target="_blank">Michael Atiyah</a>
+
 ### Philosophers
 
 >“**Desires** are the root cause of **suffering**.”<sup id="a8"><a href="#f8">8</a></sup>
@@ -431,6 +474,8 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“These five trades, O monks, should not be taken up by a lay follower: trading with weapons, trading in living beings, trading in meat, trading in intoxicants, trading in poison.”
 
 >“Death carries off a man who is gathering flowers and whose mind is distracted, as a flood carries off a sleeping village.”
+
+>“Suppose there were a file of blind men each in touch with the next: the first one does not see, the middle one does not see, and the last one does not see. So too, Bhāradvāja, in regard to their statement the brahmins seem to be like a file of blind men: the first one does not see, the middle one does not see, and the last one does not see. What do you think, Bhāradvāja, that being so, does not the faith of the brahmins turn out to be groundless?”
 
 >“Now, Kalamas,<br>
 Do not go upon what has been acquired by repeated hearing (anussava),<br>
@@ -469,7 +514,32 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 ― <a href="https://en.wikipedia.org/wiki/Mahabharata" target="_blank">Mahābhārata</a>
 
+>“Do not unjustly eat fish the water has given up,<br>
+>    And do not desire as food the flesh of slaughtered animals,<br>
+Or the white milk of mothers who intended its pure draught<br>
+for their young, not noble ladies.<br>
+And do not grieve the unsuspecting birds by taking eggs;<br>
+for injustice is the worst of crimes.<br>
+And spare the honey which the bees get industriously
+from the flowers of fragrant plants;<br>
+For they did not store it that it might belong to others,<br>
+Nor did they gather it for bounty and gifts.<br>
+I washed my hands of all this; and wish that I<br>
+Perceived my way before my hair went gray!”<br>
+
+>“The world holds two classes of men; intelligent men without religion, and religious men without intelligence.”
+
+>“Do not suppose the statements of the prophets to be true; they are all fabrications. Men lived comfortably till they came and spoiled life. The sacred books are only such a set of idle tales as any age could have and indeed did actually produce.”
+
+― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(1st recorded vegan in history, 10th century Arab philosopher, poet, and writer and is regarded as one of the greatest classical Arabic poets)</span>
+
+>“Accepting the authority of the Vedas, believing in individual agency, hoping for merit from bathing, **taking pride in caste**, undertaking rites for the removal of evils: these are the five signs of **stupidity**, the **destruction of intelligence**.”
+
+― <a href="https://en.wikipedia.org/wiki/Dharmakirti" target="_blank">Dharmakīrti</a><span style="color:Chartreuse">(6th century Buddhist philosopher)</span>
+
 >“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
+
+>“Love is wise, hatred is foolish.”
 
 >“If there were a God, I think it very unlikely that he would have such an uneasy vanity as to be offended by those who doubt his existence.”
 
@@ -491,8 +561,6 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 >“A much more desirable way of securing world peace would be by a voluntary agreement among nations to pool their armed forces and submit to an **agreed single supreme world government**.”
 
->“Love is wise, hatred is foolish.”
-
 ― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
 
 >“<a href="https://en.wikipedia.org/wiki/Epicurus" target="_blank">Epicurus</a>’s old questions are yet unanswered. Is God willing to prevent evil, but not able? then is he impotent. Is he able, but not willing? then is he malevolent. Is he both able and willing? whence then is evil?”
@@ -511,7 +579,7 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 >“Monotheistic religions alone furnish the spectacle of religious wars, religious persecutions, heretical tribunals, that breaking of idols and destruction of images of the gods, that razing of Indian temples and Egyptian colossi, which had looked on the sun 3,000 years: just because a jealous god had said, 'Thou shalt make no graven image.'”
 
->“And, above all, don't let us forget India, the cradle of the human race, or at least of that part of it to which we belong, where first Mohammedans, and then Christians, were most cruelly infuriated against the adherents of the original faith of mankind. The destruction or disfigurement of the ancient temples and idols, a lamentable, mischievous and barbarous act, still bears witness to the monotheistic fury of the Mohammedans, carried on from Mahmud the Ghaznevid of cursed memory down to Aureng Zeb, the fratricide, whom the Portuguese Christians have zealously imitated by destruction of temples and the auto da fe of the inquisition at Goa.”
+>“And, above all, don't let us forget India, ~~the cradle of the human race~~, or at least of that part of it to which we belong, where first Mohammedans, and then Christians, were most cruelly infuriated against the adherents of the original faith of mankind. The destruction or disfigurement of the ancient temples and idols, a lamentable, mischievous and barbarous act, still bears witness to the monotheistic fury of the Mohammedans, carried on from Mahmud the Ghaznevid of cursed memory down to Aureng Zeb, the fratricide, whom the Portuguese Christians have zealously imitated by destruction of temples and the auto da fe of the inquisition at Goa.”
 
 ― <a href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Arthur Schopenhauer</a>
 
@@ -521,8 +589,7 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 ― <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes" target="_blank">René Descartes</a>
 
->“We are like sailors who on the open sea must reconstruct their ship but are never able to start afresh from the bottom. Where a beam is taken away a new one must at once be put there, and for this the rest of the ship is used as support. In this way, by using the old beams and driftwood the ship can be shaped entirely anew, but only by gradual reconstruction.” (<a href="https://en.wikipedia.org/wiki/Neurath%27s_boat" target="_blank">Neurath's boat</a>)
-
+>“We are like sailors who on the open sea must reconstruct their ship but are never able to start afresh from the bottom. Where a beam is taken away a new one must at once be put there, and for this the rest of the ship is used as support. In this way, by using the old beams and driftwood the ship can be shaped entirely anew, but only by gradual reconstruction.” (<a href="https://en.wikipedia.org/wiki/Neurath%27s_boat" target="_blank">Neurath's boat</a>: a simile used in anti-foundational philosophy)
 
 ― <a href="https://en.wikipedia.org/wiki/Otto_Neurath" target="_blank">Otto Neurath</a>
 
@@ -584,7 +651,9 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 >“It is difficult to free fools from the chains they revere.”
 
->“I disapprove of what you say, but I will defend to the death your right to say it.” (His ideology condensed into a sentence by Evelyn Beatrice Hall)
+>“I disapprove of what you say, but I will defend to the death your right to say it.” (His ideology condensed into a sentence by <a href="https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall" target="_blank">Evelyn Beatrice Hall</a>)
+
+>“One very singular difference in the lives of these two great men [Newton & Descartes] is, that Sir Isaac, during the long course of years he enjoyed, was never sensible to any passion, was not subject to the common frailties of mankind, nor ever had any commerce with women — a circumstance which was assured me by the physician and surgeon who attended him in his last moments.”
 
 >“Confucius has no interest in falsehood; he did not pretend to be prophet; he claimed no inspiration; he taught no new religion; he used no delusions; flattered not the emperor under whom he lived...”
 
@@ -592,7 +661,7 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 >“Goa is sadly famous for <a href="https://en.wikipedia.org/wiki/Goa_Inquisition" target="_blank">its inquisition</a>, equally contrary to humanity and commerce. The Portuguese monks made us believe that the people worshipped the devil, and it is they who have served him.”
 
->“The Veda was the most precious gift for which the West had ever been indebted to the East.”<sup id="a10"><a href="#f10">10</a></sup>
+>~~“The Veda was the most precious gift for which the West had ever been indebted to the East.”~~<sup id="a10"><a href="#f10">10</a></sup>
 
 ― <a href="https://en.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a>
 
@@ -600,7 +669,7 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 ― <a href="https://en.wikipedia.org/wiki/Georgia_Harkness" target="_blank">Georgia Harkness</a>
 
->“The Hiddenness Argument: You’re still a small child, and an amnesiac, but this time you’re in the middle of a vast rain forest, dripping with dangers of various kinds.  You’ve been stuck there for days, trying to figure out who you are and where you came from.  You don’t remember having a mother who accompanied you into this jungle, but in your moments of deepest pain and misery you call for her anyway, ‘Mooooommmmmmm!’  Over and over again.  For days and days … the last time when a jaguar comes at you out of nowhere … but with no response.  What should you think in this situation?  In your dying moments, what should cross your mind?  Would the thought that you have a mother who cares about you and hears your cry and could come to you but chooses not to even make it onto the list?”
+>“The Hiddenness Argument: philosophy's new challenge to belief in god: You’re still a small child, and an amnesiac, but this time you’re in the middle of a vast rain forest, dripping with dangers of various kinds.  You’ve been stuck there for days, trying to figure out who you are and where you came from.  You don’t remember having a mother who accompanied you into this jungle, but in your moments of deepest pain and misery you call for her anyway, ‘Mooooommmmmmm!’  Over and over again.  For days and days … the last time when a jaguar comes at you out of nowhere … but with no response.  What should you think in this situation?  In your dying moments, what should cross your mind?  Would the thought that you have a mother who cares about you and hears your cry and could come to you but chooses not to even make it onto the list?”
 
 ― <a href="https://en.wikipedia.org/wiki/J._L._Schellenberg" target="_blank">J. L. Schellenberg</a>
 
@@ -624,7 +693,7 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 >“Napoleon, and other great men of his type, they were makers of empire. But there is an order of men that get beyond that: They are not makers of empire, but they are makers of universe. And when they have made those universes, their hands are unstained by the blood of any human being on earth. ... Ptolemy made a universe, which lasted 1400 years. Newton also made a universe, which has lasted 300 years. Einstein has made a universe, and I can't tell you how long that will last.” [<a href="https://www.youtube.com/watch?v=1TIt0ITM_RM" target="_blank">YouTube</a>]
 
->“The fact that a believer is happier than a skeptic is no more to the point than the fact that a drunken man is happier than a sober one. The happiness of credulity is a cheap and dangerous quality of happiness, and by no means a necessity of life.”
+>“The fact that a believer [of a religion] is happier than a skeptic is no more to the point than the fact that a drunken man is happier than a sober one. The happiness of credulity is a cheap and dangerous quality of happiness, and by no means a necessity of life.”
 
 ― <a href="https://en.wikipedia.org/wiki/George_Bernard_Shaw" target="_blank">George Bernard Shaw</a>
 
@@ -654,9 +723,17 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 ― <a href="https://en.wikipedia.org/wiki/Arthur_C._Clarke" target="_blank">Arthur C. Clarke</a>
 
->“If I were not an atheist, I would believe in a God who would choose to save people on the basis of the totality of their lives and not the pattern of their words. I think he would prefer an honest and righteous atheist to a TV preacher whose every word is God, God, God, and whose every deed is foul, foul, foul.”
+>“If I were not an atheist, I would believe in a God who would choose to save people on the basis of the totality of their lives and not the pattern of their words. I think he would prefer an honest and righteous atheist to a TV preacher whose every word is God, God, God, and whose every deed is foul, foul, foul.
+>
+>I would also want a God who would not allow a Hell. **Infinite torture can only be a punishment for infinite evil, and I don't believe that infinite evil can be said to exist even in the case of Hitler**. Besides, if most human governments are civilized enough to try to eliminate torture and outlaw cruel and unusual punishments, can we expect anything less of an all-merciful God?
+>
+>I feel that if there were an afterlife, punishment for evil would be reasonable and of a fixed term. And I feel that the longest and worst punishment should be reserved for those who slandered God by inventing Hell.”
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a>
+
+>“Men rarely (if ever) manage to dream up a god superior to themselves. Most gods have the manners and morals of a spoiled child.” 
+
+― <a href="https://en.wikipedia.org/wiki/Robert_A._Heinlein" target="_blank">Robert A. Heinlein</a>
 
 >“Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and tortuous executions, the unrelenting vindictiveness with which more than half the Bible is filled, it would be more consistent that we call it the **word of a demon** than the word of God. It is a history of wickedness that has served to corrupt and brutalize mankind; and, for my part, I sincerely detest it, as I detest everything that is cruel.”
 
@@ -689,6 +766,8 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 >“Until 1834 the very word “scientist” was not in common circulation. Men like Sir Isaac Newton were considered, and considered themselves, to be “natural philosophers”: men of scientific bent to be sure, but men of a wider and deeper learning as well. Arguments about greater cosmic purposes were all of a piece with calculations and experiments, and the tyranny of specialization had not imposed itself on us. As a result, by the way, many scientists held completely “unscientific” views. Newton himself was a secret alchemist who believed that the pope was anti-Christ and that the true dimensions of the Temple of Solomon might yield crucial findings. Joseph Priestley, the Unitarian discoverer of oxygen, was a devotee of the phlogiston theory. Alfred Russel Wallace liked nothing better than a good spiritualist séance. It is not really until the figure of Albert Einstein (and perhaps Bertrand Russell also) that we start to find that very powerful synthesis between scientific method and a more general “humanism”; a synthesis basing itself upon reason and daring to make the connection between physical and natural evidence and the conclusion that an ethical life, as well as a rational one, is best believed on the assumption that there is no supernatural dimension.”
 
+>“Philosophy begins where religion ends, just as by analogy chemistry begins where alchemy runs out, and astronomy takes the place of astrology.”
+
 >“What can be asserted without evidence can also be dismissed without evidence.”
 
 >“Read one page of Stephen Hawking about the event horizon, about the possibility that we will soon know, not where the universe originated, but where it is tended, and the event horizon to which we may all be headed. There is more to inspire awe in one page of Stephen Hawking, than in any of the fantasies of Tertullian, imagining that he could go to the window of heaven, when he was promoted there, and look down, for his consolation, on the torments of the damned. There is much more to be awe-inspired by, in a page of Hawking, than in any number of burning bushes, or other such myths.”
@@ -707,9 +786,15 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 >“Mockery of religion is one of the most essential things... one of the beginnings of human emancipation is the ability to laugh at authority.”
 
+>“An impressive thing about India is the way in which it has almost as many Muslim citizens, who live with greater prospects of peace and prosperity, as does Pakistan. This comity and integration is one of the many targets of the suicide killers, and it is another reason why firm, warm solidarity with India is the most pressing need of the present hour.”
+
 ― <a href="https://en.wikipedia.org/wiki/Christopher_Hitchens" target="_blank">Christopher Hitchens</a>
 
 >“Mahavira, the Jain patriarch, surpassed the morality of the Bible with a single sentence: "Do not injure, abuse, oppress, enslave, insult, torment, torture, or kill any creature or living being." Imagine how different our world might be if the Bible contained this as its central precept.”
+
+>“There are very good reasons to think it’s not true and we know this from now 150 years of neurology where you damage areas of the brain and faculties are lost. It’s not that everyone with brain damage has their soul perfectly intact, they can’t get the words out. Everything about your mind can be damaged by damaging the brain. You can cease to recognize faces, you can cease to know the names of animals but you still know the names of tools. The fragmentation in the way in which our mind is parcellated at the level of the brain is not at all intuitive, and there’s a lot known about it.
+>
+>**And what we’re being asked to consider is that you damage one part of the brain and something about the mind and subjectivity is lost, you damage another and yet more is lost, and yet if you damage the whole thing at death we can rise off the brain with all our faculties intact, recognizing grandma and speaking English**.”
 
 >“Jainism actually is a religion of peace. The core principle of Jainism is non-violence. Gandhi got his non-violence from the Jains. The crazier you get as a Jain, the less we have to worry about you. Jain extremists are paralysed by their pacifism. Jain extremists can't take their eyes off the ground when they walk lest they step on an ant … Needless to say they are vegetarian.”
 
@@ -739,14 +824,6 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 ― <a href="https://en.wikipedia.org/wiki/Sigmund_Freud" target="_blank">Sigmund Freud</a>
 
->“If there is a God, He will have to beg my forgiveness.”
-
-— A phrase that was carved on the walls of <a href="https://en.wikipedia.org/wiki/Mauthausen_concentration_camp" target="_blank">Mauthausen Nazi concentration camp</a> cell during WWII by a prisoner.
-
->“Asking, 'If there is no God, what is the purpose of life?' is like asking, 'If there is no master, whose slave will I be?' If your purpose of life is to submit as a slave, then your meaning comes from flattering the ego of a person whom you should detest.”
-
-― <a href="https://en.wikipedia.org/wiki/Dan_Barker" target="_blank">Dan Barker</a>
-
 >“Any man who stands for progress has to criticize, disbelieve and challenge every item of the old faith. Item by item he has to reason out every nook and corner of the prevailing faith. If after considerable reasoning one is led to believe in any theory or philosophy, his faith is welcomed. His reasoning can be mistaken, wrong, misled and sometimes fallacious. But he is liable to correction because reason is the guiding star of his life. But mere faith and blind faith is dangerous: it dulls the brain, and makes a man reactionary.”
 
 ― <a href="https://en.wikipedia.org/wiki/Bhagat_Singh" target="_blank">Bhagat Singh</a>
@@ -773,10 +850,17 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 ― <a href="https://en.wikipedia.org/wiki/B._R._Ambedkar" target="_blank">B. R. Ambedkar</a>
 
+>“I saw that the writers on vegetarianism had examined the question very minutely, attacking it in its religious, scientific, practical and medical aspects. Ethically they had arrived at the conclusion that man's supremacy over the lower animals meant not that the former should prey upon the latter, but that **the higher should protect the lower**, and that there should be mutual aid between the two as between man and man.”
+
+― <a href="https://en.wikipedia.org/wiki/Mahatma_Gandhi" target="_blank">Mohandas Karamchand Gandhi</a>
+
+>“The greatness of a nation and its moral progress can be judged by the way its animals are treated.”
+
+― <a href="https://en.wikipedia.org/wiki/David_Strauss" target="_blank">David Strauss</a>
+
 >“For the first time in human history, the Buddha admonished, entreated and appealed to people not to hurt a living being, and it is not necessary to offer prayer, praise or sacrifice to gods. With all the eloquence at his command the Buddha **vehemently proclaimed that gods are also in dire need of salvation themselves**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Thomas_William_Rhys_Davids" target="_blank">Thomas William Rhys Davids</a>
-
 
 >“If every trace of any single religion were wiped out and nothing were passed on, it would never be created exactly that way again. There might be some other nonsense in its place, but not that exact nonsense. If all of science were wiped out, it would still be true and someone would find a way to figure it all out again.”
 
@@ -796,6 +880,14 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 ― <a href="https://en.wikipedia.org/wiki/The_Great_Big_Book_of_Horrible_Things" target="_blank">Matthew White</a>
 
+>“Asking, 'If there is no God, what is the purpose of life?' is like asking, 'If there is no master, whose slave will I be?' If your purpose of life is to submit as a slave, then your meaning comes from flattering the ego of a person whom you should detest.”
+
+― <a href="https://en.wikipedia.org/wiki/Dan_Barker" target="_blank">Dan Barker</a>
+
+>“If there is a God, He will have to beg my forgiveness.”
+
+— A phrase that was carved on the walls of <a href="https://en.wikipedia.org/wiki/Mauthausen_concentration_camp" target="_blank">Mauthausen Nazi concentration camp</a> cell during WWII by a prisoner.
+
 >“In spite of everything I still believe that people are really good at heart.”
 
 ― <a href="https://en.wikipedia.org/wiki/Anne_Frank" target="_blank">Anne Frank</a>
@@ -813,6 +905,10 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 >“Ashoka , one of the great monarchs of history, whose dominions extended from Afghanistan to Madras... is the only military monarch on record who abandoned warfare after victory. He had invaded Kalinga (255 B.C.), a country along the east coast of Madras, perhaps with some intention of completing the conquest of the tip of the Indian peninsula. The expedition was successful, but he was disgusted by what be saw of the cruelties and horrors of war. He declared, in certain inscriptions that still exist, that he would no longer seek conquest by war, but by religion, and the rest of his life was devoted to the spreading of Buddhism throughout the world. He seems to have ruled his vast empire in peace and with great ability. **He was no mere religious fanatic. For eight and twenty years Asoka worked sanely for the real needs of men.** In the history of the world there have been thousands of kings and emperors who called themselves "their highnesses," "their majesties," and "their exalted majesties" and so on. They shone for a brief moment, and as quickly disappeared. But Ashoka shines and shines brightly like a bright star, even unto this day.”
 
 ― <a href="https://en.wikipedia.org/wiki/H._G._Wells" target="_blank">H. G. Wells</a>
+
+>“God only exists in people’s minds. Especially in Japan, God's always has been a kind of flexible concept. Look at what happened to the war. Douglas MacArthur ordered the divine emperor to quit being a God, and he did, making a speech saying he was just an ordinary person.”
+
+― <a href="https://en.wikipedia.org/wiki/Shin%27ichi_Hisamatsu" target="_blank">Shin'ichi Hisamatsu</a>
 
 >“Doubts about the existence of free will and individuals are nothing new, of course. More than 2,000 years ago thinkers in India, China and Greece argued that ‘the individual self is an illusion’. Yet such doubts don’t really change history much unless they have a practical impact on economics, politics and day-to-day life. Humans are masters of cognitive dissonance, and we allow ourselves to believe one thing in the laboratory and an altogether different thing in the courthouse or in parliament. Just as Christianity didn’t disappear the day Darwin published On the Origin of Species, so liberalism won’t vanish just because scientists have reached the conclusion that there are no free individuals.”
 
@@ -860,7 +956,13 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 >“As long as there are slaughterhouses there will be battlefields.”
 
-― <a href="https://en.wikipedia.org/wiki/Leo_Tolstoy" target="_blank">Jeremy Bentham</a><span style="color:Chartreuse">(Russian writer who is regarded as one of the greatest authors of all time)</span>
+>“A man can live and be healthy without killing animals for food; therefore, if he eats meat, he participates in taking animal life merely for the sake of his appetite. And to act so is immoral.”
+
+― <a href="https://en.wikipedia.org/wiki/Leo_Tolstoy" target="_blank">Leo Tolstoy</a><span style="color:Chartreuse">(Russian writer who is regarded as one of the greatest authors of all time and pioneer of **Nonviolent resistance movement** that inspired **M.K. Gandhi** and **Martin Luther King Jr.**)</span>
+
+>“I don't hold animals superior or even equal to humans. The whole case for behaving decently to animals rests on the fact that we are the superior species. We are the species uniquely capable of imagination, rationality and moral choice – and that is precisely why we are under the **obligation** to recognise and respect the rights of animals.”
+
+― <a href="https://en.wikipedia.org/wiki/Brigid_Brophy" target="_blank">Brigid Brophy</a><span style="color:Chartreuse">(writer and animal rights activist)</span>
 
 >“Obviously, the health benefits of being vegan are written in stone but I honestly believe the most benefit to me being vegan is that I do not carry the burden of guilt that I would have to endure knowing that I abused others for my own 'benefit'. … Veganism is everything to me. It touches every part of my life. It is my life. I could not begin to imagine living my life any other way. … Often people think we are weak in body and mind. They mistake our compassion for weakness. … My strengths as an athlete are that I am not an athlete for myself. I am doing it for the benefit of others, which makes me work much harder to achieve. I am not selfish enough to want something this badly for myself. It makes me push myself that bit harder knowing that by doing well I can possibly convince others to consider a vegan lifestyle.”
 
@@ -883,25 +985,6 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 >“I was raised Vegan since birth. … I remember watching undercover investigation videos and reading the pamphlets that were mailed to the house when we were kids—I felt deeply for the animals at an early age. I remember how the other parents of my childhood friends would either get upset or interested when their kids would come home after sleepovers at my house—I felt it was my duty to show my friends what was happening to animals. … Veganism is the ultimate form of compassion. … I never considered my being Vegan was for health reasons—it was always for the love and respect I had for animals. And because of that love and respect I have for non-human animals my compassion flows over to all living beings, of all types. … I am encouraged by compassionate souls and the love I see in the eyes of those I've committed my life to stand up for.”
 
 ― <a href="https://en.wikipedia.org/wiki/Seba_Johnson" target="_blank">Seba Johnson</a><span style="color:Chartreuse">(Olympic athlete, actress, and vegan animal rights activist)</span>
-
->“    Do not unjustly eat fish the water has given up,<br>
->    And do not desire as food the flesh of slaughtered animals,<br>
-    Or the white milk of mothers who intended its pure draught<br>
-    for their young, not noble ladies.<br>
-    And do not grieve the unsuspecting birds by taking eggs;<br>
-    for injustice is the worst of crimes.<br>
-    And spare the honey which the bees get industriously
-    from the flowers of fragrant plants;<br>
-    For they did not store it that it might belong to others,<br>
-    Nor did they gather it for bounty and gifts.<br>
-    I washed my hands of all this; and wish that I<br>
-    Perceived my way before my hair went gray!”<br>
-
->“The world holds two classes of men; intelligent men without religion, and religious men without intelligence.”
-
->“Do not suppose the statements of the prophets to be true; they are all fabrications. Men lived comfortably till they came and spoiled life. The sacred books are only such a set of idle tales as any age could have and indeed did actually produce.”
-
-― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(philosopher, poet, and writer)</span>
 
 >“Poor countries sell their grain to the West for hard currency while their own children starve in their arms. And the West feeds it to livestock. . . So we can eat a steak? I bet I am not the only one in the room who sees this as a crime?”
 
@@ -973,7 +1056,7 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 >“My perspective of veganism was most affected by learning that the veal calf is a by-product of dairying, and that in essence there is a slice of veal in every glass of what l had thought was an innocuous white liquid—milk.”
 
-― <a href="https://en.wikipedia.org/wiki/Rynn_Berry" target="_blank">Rynn Berry</a>
+― <a href="https://en.wikipedia.org/wiki/Rynn_Berry" target="_blank">Rynn Berry</a><span style="color:Chartreuse">(author)</span>
 
 >“By setting aside animal-derived products—meat, dairy products, and eggs—you can reach a level of health and well-being that you may never have expected you could enjoy. … Although our work has focused on helping people trim down, conquer diabetes, cut cholesterol, and tackle other medical problems, it should be said that not everyone who decides to forgo animal products makes that choice for health reasons. Many people are concerned with how animals are treated by the food industries, and rightly so. And the environmental consequences of meat and dairy production should be of concern to all of us.”
 
@@ -1044,7 +1127,7 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 <img src="{{site.baseurl}}/images/other/Berserk.jpg" alt="Berserk" width="400"/>
 
-― <a href="https://en.wikipedia.org/wiki/Kentaro_Miura" target="_blank">Kentaro Miura</a>
+― <a href="https://en.wikipedia.org/wiki/Kentaro_Miura" target="_blank">Kentaro Miura</a> [Berserk episode 1]
 
 >“You’re going to be all right. You just stumbled over a stone in the road. It means nothing. Your goal lies far beyond this. Doesn’t it? I’m sure you’ll overcome this. You’ll walk again… soon.”
 
@@ -1072,9 +1155,18 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 ― <a href="https://onepiece.fandom.com/wiki/Pedro" target="_blank">Pedro</a>
 
+<img src="{{site.baseurl}}/images/other/Vagabond1.jpg" alt="Berserk" width="400"/><br>
+<img src="{{site.baseurl}}/images/other/Vagabond2.jpg" alt="Berserk" width="400"/>
+
+― <a href="https://en.wikipedia.org/wiki/Takehiko_Inoue" target="_blank">Takehiko Inoue</a> or <a href="https://vagabond.fandom.com/wiki/Soho_Takuan" target="_blank">Soho Takuan</a> [Vagabond chapter 35]
+
 >“Even if you kill me, even if you kill anyone, even if you reset science… There’s always an idiot who will try anything and the shiny monkeys will inevitably create a technological civilization.”
 
 ― <a href="https://dr-stone.fandom.com/wiki/Senku_Ishigami" target="_blank">Senku Ishigami</a>
+
+>“He who controls the rebound...controls THE WORLD!”
+
+― <a href="https://slamdunk.fandom.com/wiki/Hanamichi_Sakuragi" target="_blank">Hanamichi Sakuragi</a>
 
 <b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of General Relativity (GR) or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.<a href="#a1">↩</a>
 
@@ -1093,11 +1185,12 @@ Newton is widely considered as one of the top 2 physicists of all time (the othe
 
 <b id="f4">4)</b> At the 1927 Solvay Conference.<a href="#a4">↩</a>
 
-<b id="f5">5)</b> He meant mathematicians like him should become part time physicists and help physicists otherwise physicists can't do it.<a href="#a5">↩</a>
+<b id="f5">5)</b> His reply before he was burned to death because he rejected Catholic doctrines, embraced pantheism and for his cosmological theories. <a href="#a5">↩</a>
 
-<b id="f6">6)</b> He was not aware of Gödel's incompleteness theorems when saying this.<a href="#a6">↩</a>
+<b id="f6">6)</b> He meant mathematicians like him should become part time physicists and help physicists otherwise physicists can't do it.<a href="#a6">↩</a>
 
-<b id="f7">7)</b> His reply before he was burned to death because he rejected Catholic doctrines, embraced pantheism and for his cosmological theories. <a href="#a7">↩</a>
+<b id="f7">7)</b> He was not aware of Gödel's incompleteness theorems when saying this.<a href="#a7">↩</a>
+
 
 <b id="f8">8)</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>.<a href="#a8">↩</a>
 
