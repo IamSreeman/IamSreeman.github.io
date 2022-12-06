@@ -17,11 +17,12 @@ breadcrumbs: true
 <script type="text/javascript"
         src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-You can also see this list on my <a class="waves-effect waves-light btn" href='/CV.pdf' target="_blank">CV</a>.
+You can also see this list on my <a class="waves-effect waves-light btn" href='/files/CV.pdf' target="_blank">CV</a>.
 
 <!-- omit in toc -->
 ##### List of projects and reports
 
+- [AdS/CFT correspondence and the information paradox (Aug-Nov 2022)](#adscft-correspondence-and-the-information-paradox-aug-nov-2022)
 - [Quantum Raychaudhuri Equation and its applications to cosmology (May-July 2022)](#quantum-raychaudhuri-equation-and-its-applications-to-cosmology-may-july-2022)
 - [Black hole information paradox (June-November 2021)](#black-hole-information-paradox-june-november-2021)
 - [Higgs mechanism (April 2022)](#higgs-mechanism-april-2022)
@@ -30,7 +31,18 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 - [Covid-19:analysis of a modified SEIR model (October-November 2020)](#covid-19analysis-of-a-modified-seir-model-october-november-2020)
 - [Special and General Relativity (April 2020)](#special-and-general-relativity-april-2020)
 
+
+##### AdS/CFT correspondence and the information paradox (Aug-Nov 2022)
+
+*Supervisor: Prof. Pichai Ramadevi, Dept. of Physics, IIT Bombay*
+- Studied the AdS/CFT correspondence (with a focus on black hole thermodynamics) from a textbook
+by Năstase.
+- Studied several review articles related to the holographic entanglement entropy.
+- Read recent papers on the resolution of the information paradox using the Island prescription.
+- After reading recent papers on islands in de Sitter spacetimes, started working on a related research
+problem.
 ##### Quantum Raychaudhuri Equation and its applications to cosmology (May-July 2022)
+
 *Supervisor: Prof. Saurya Das, Dept. of Physics and Astronomy, University of Lethbridge, Canada*
 - Studied a semi-classical gravity theory obtained by replacing classical geodesics in the Raychaudhuri
 equation with Bohmian trajectories.
