@@ -88,7 +88,7 @@
   dropdown:
   - title: CV (PDF)
     icon: icon-graduation-cap
-    url: /files/CV.pdf
+    url: https://ksr.onl/files/CV.pdf
   - title: Courses
     icon: icon-graduation-cap
     url: /courses
