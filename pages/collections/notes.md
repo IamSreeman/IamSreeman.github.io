@@ -9,31 +9,32 @@ teaser: "You can find some of my notes here."
 [Spring 2021-2022 (6th semester)](#spring-2021-2022)<br>
 [Autumn 2021-2022 (5th semester)](#autumn-2021-2022)<br>
 [Spring 2020-2021 (4th semester)](#spring-2020-2021)<br>
+[JEE](#jee)<br>
 [Other useful links](#other-useful-links)
 
 ##### Spring 2021-2022
 - Statistical Physics notes<br>
-<a href='{{ site.baseurl }}/notes/StatPhy.pdf' target="_blank">View PDF</a><br>
+<a href='{{ site.baseurl }}/files/StatPhy.pdf' target="_blank">View PDF</a><br>
 - Electromagnetic Theory notes<br>
-<a href='{{ site.baseurl }}/notes/EMT.pdf' target="_blank">View PDF</a><br>
+<a href='{{ site.baseurl }}/files/EMT.pdf' target="_blank">View PDF</a><br>
 - Introduction to Condensed Matter Physics notes<br>
-<a href='{{ site.baseurl }}/notes/CondMat.pdf' target="_blank">View PDF</a><br>
+<a href='{{ site.baseurl }}/files/CondMat.pdf' target="_blank">View PDF</a><br>
 
 I also did *Special topics in elementary particle physics* and *Elementary particle physics* courses this semester and they are among my favourite courses I did at IITB till now. Both courses deal with quantum field theory. I will upload the notes for both combined after I add several things to it.
 ##### Autumn 2021-2022
 - Quantum mechanics 2 notes<br>
-<a href='{{ site.baseurl }}/notes/QM2.pdf' target="_blank">View PDF</a><br>
+<a href='{{ site.baseurl }}/files/QM2.pdf' target="_blank">View PDF</a><br>
 Contains perturbation theory and scattering. Mainly from <a href='https://www.google.co.in/books/edition/Principles_of_Quantum_Mechanics/sDvrBwAAQBAJ?hl=en&gbpv=1&printsec=frontcover' target="_blank">Principles of Quantum Mechanics by Shankar</a>.<br>
 - Quantum mechanics 3 notes<br>
-<a href='{{ site.baseurl }}/notes/QM3.pdf' target="_blank">View PDF</a><br>
+<a href='{{ site.baseurl }}/files/QM3.pdf' target="_blank">View PDF</a><br>
 Contains relativistic quantum mechanics and scalar quantum field theory.
 - Philosophy notes<br>
-<a href='{{ site.baseurl }}/notes/Philosophy.pdf' target="_blank">View PDF</a><br>
+<a href='{{ site.baseurl }}/files/Philosophy.pdf' target="_blank">View PDF</a><br>
 Contains Modern philosophy and Indian philosophy.<br>
 ##### Spring 2020-2021
 
 - Quantum mechanics I notes<br>
-<a href='{{ site.baseurl }}/notes/QM1.pdf' target="_blank">View PDF</a> (Handwritten)<br>
+<a href='{{ site.baseurl }}/files/QM1.pdf' target="_blank">View PDF</a> (Handwritten)<br>
 Also, check my [Quantum mechanics textbooks review]({{ site.baseurl }}/blog/2021/06/quantum-mechanics-textbooks-review.html).
 
 - General Relativity course<br>
@@ -41,7 +42,14 @@ I used <a href='{{ site.baseurl }}/projects/#special-and-general-relativity-apri
 Also, check my [Relativity textbooks review]({{ site.baseurl }}/blog/2021/06/relativity-textbooks-review.html).
 
 - Introduction to Numerical Analysis<br>
-<a href='{{ site.baseurl }}/notes/NA.pdf' target="_blank">View PDF</a> (Handwritten)<br>
+<a href='{{ site.baseurl }}/files/NA.pdf' target="_blank">View PDF</a> (Handwritten)<br>
+##### JEE
+- Physics short notes<br>
+<a href='{{ site.baseurl }}/files/P.pdf' target="_blank">View PDF</a> (Handwritten)<br>
+- Maths short notes<br>
+<a href='{{ site.baseurl }}/files/M.pdf' target="_blank">View PDF</a> (Handwritten)<br>
+- Chemistry short notes<br>
+<a href='{{ site.baseurl }}/files/C.pdf' target="_blank">View PDF</a> (Handwritten)<br>
 ##### Other useful links
 
 1) <a href='https://physics.stackexchange.com/questions/12175/book-recommendations' target="_blank">Book recommendations from PSE</a><br>

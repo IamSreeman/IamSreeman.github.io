@@ -107,13 +107,11 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank">Subrahmanyan Chandrasekhar</a>
 
->“I cannot understand why we idle discussing **religion**. If we are honest—and scientists have to be—we must admit that religion is a jumble of **false assertions**, with no basis in reality. The very idea of God is a product of the human imagination. It is quite understandable why **primitive people**, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling.
+>“I cannot understand why we idle discussing **religion**. If we are honest—and scientists have to be—we must admit that religion is a **jumble of false assertions**, with no basis in reality. The very idea of God is a product of the human imagination. It is quite understandable why **primitive people**, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling.
 >
 >But nowadays, when we understand so many natural processes, we have no need for such solutions. I can't for the life of me see how the **postulate** of an **Almighty God** helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit.
 >
->Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”<sup id="a4"><a href="#f4">4</a></sup>
-
->“The very idea of God is a product of the human imagination.”
+>**Religion** is a kind of **opium** that allows a **nation to lull itself into wishful dreams** and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”<sup id="a4"><a href="#f4">4</a></sup>
 
 >“It seems clear that the present quantum mechanics is not in its final form. Some further changes will be needed, just about as drastic as the changes made in passing from Bohr's orbit theory to quantum mechanics. Some day a new quantum mechanics, a relativistic one, will be discovered, in which we will not have these infinities occurring at all. It might very well be that the new quantum mechanics will have determinism in the way that Einstein wanted.”
 
@@ -164,6 +162,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“One is left with the uneasy feeling that even if supersymmetry is actually false, as a feature of nature, and that accordingly no supersymmetry partners are ever found by the LHC or by any later more powerful accelerator, then the conclusion that some supersymmetry proponents might come to would not be that supersymmetry is false for the actual particles of nature, but merely that the level of supersymmetry breaking must be greater even that the level reached at that moment, and that a new even more powerful machine would be required to observe it!”
 
 ― <a href="https://en.wikipedia.org/wiki/Roger_Penrose" target="_blank">Roge Penrose</a>
+
+>“The book of nature is written in the language of mathematics.”
 
 >“All truths are easy to understand once they are discovered; the point is to discover them.”
 
@@ -541,9 +541,9 @@ Perceived my way before my hair went gray!”<br>
 
 >“Love is wise, hatred is foolish.”
 
->“If there were a God, I think it very unlikely that he would have such an uneasy vanity as to be offended by those who doubt his existence.”
+>“If there were a God, I think it very unlikely that he would have such an **uneasy vanity** as to be **offended by those who doubt his existence**.”
 
->“I think all the great religions of the world - Buddhism, Hinduism, Christianity, Islam, and Communism - both untrue and harmful. It is evident as a matter of logic that, since they disagree, not more than one of them can be true. With very few exception, the religions which a man accepts is that of the community in which he lives, which makes it obvious that the influence of environment is what has led him to accept the religion in question.”
+>“I think all the great **religions** of the world - Buddhism, Hinduism, Christianity, Islam, and Communism - both **untrue** and **harmful**. It is evident as a matter of logic that, since they disagree, not more than one of them can be true. With very few exception, the religions which a man accepts is that of the community in which he lives, which makes it obvious that the **influence of environment** is what has led him to accept the religion in question.”
 
 >“If everything must have a cause, then God must have a cause. If there can be anything without a cause, it may just as well be the world as God, so that there cannot be any validity in that argument. It is exactly of the same nature as the Hindu's view, that the world rested upon an elephant and the elephant rested upon a tortoise; and when they said, "How about the tortoise?" the Indian said, "Suppose we change the subject." The argument is really no better than that.”
 
@@ -551,13 +551,13 @@ Perceived my way before my hair went gray!”<br>
 
 >“In view of the fact that in any future world war nuclear weapons will certainly be employed, and that such weapons threaten the continued existence of mankind, we urge the governments of the world to realize, and to acknowledge publicly, that their purpose cannot be furthered by a world war, and we urge them, consequently, to find peaceful means for the settlement of all matters of dispute between them.” (<a href="https://en.wikipedia.org/wiki/Russell%E2%80%93Einstein_Manifesto" target="_blank">Russell–Einstein Manifesto</a>)
 
->“If a man is offered a fact which goes against his instincts, he will scrutinize it closely, and unless the evidence is overwhelming, he will refuse to believe it. If, on the other hand, he is offered something which affords a reason for acting in accordance with his instincts, he will accept it even on the slenderest evidence. The origin of myths is explained in this way.”
+>“If a man is offered a fact which goes against his instincts, he will scrutinize it closely, and unless the **evidence is overwhelming**, he will refuse to believe it. If, on the other hand, he is offered something which affords a reason for acting in accordance with his instincts, he will accept it even on the **slenderest evidence**. The origin of myths is explained in this way.”
 
 >“I like mathematics because it is not human and has nothing particular to do with this planet or with the whole accidental universe – because, like Spinoza's God, it won't love us in return.”
 
 >“One of the painful things about our time is that those who feel certainty are stupid, and those with any imagination and understanding are filled with doubt and indecision.”
 
->“Among present-day religions Buddhism is the best. The doctrines of Buddhism are profound; they are almost reasonable, and historically they have been the least harmful and the least cruel. But I cannot say that Buddhism is positively good, nor would I wish to have it spread all over the world and believed by everyone. This is because Buddhism only focuses on the question of what Man is, not on what the universe is like. Buddhism does not really pursue the truth; it appeals to sentiment and, ultimately, tries to persuade people to believe in doctrines which are based on subjective assumptions not objective evidence.” 
+>“Among present-day religions Buddhism is the best. The doctrines of Buddhism are profound; they are almost reasonable, and historically they have been the least harmful and the least cruel. But I cannot say that Buddhism is positively good, nor would I wish to have it spread all over the world and believed by everyone. This is because Buddhism only focuses on the question of what Man is, not on what the universe is like. **Buddhism does not really pursue the truth**; it **appeals to sentiment** and, ultimately, tries to persuade people to believe in doctrines which are based on subjective assumptions not objective evidence.” 
 
 >“A much more desirable way of securing world peace would be by a voluntary agreement among nations to pool their armed forces and submit to an **agreed single supreme world government**.”
 
@@ -567,9 +567,9 @@ Perceived my way before my hair went gray!”<br>
 
 >“Ignorance is the mother of Devotion.”
 
->“Survey most nations and most ages. Examine the religious principles, which have, in fact, prevailed in the world. You will scarcely be persuaded, that they are any thing but sick men's dreams: Or perhaps will regard them more as the playsome whimsies of monkies in human shape, than the serious, positive, dogmatical asseverations of a being, who dignifies himself with the name of rational.”
+>“Survey most nations and most ages. Examine the **religious principles**, which have, in fact, prevailed in the world. You will scarcely be persuaded, that they are any thing but **sick men's dreams**: Or perhaps will regard them more as the playsome whimsies of monkies in human shape, than the serious, positive, dogmatical asseverations of a being, who dignifies himself with the name of rational.”
 
->“No testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact which it endeavours to establish.”
+>“No testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that **its falsehood would be more miraculous**, than the fact which it endeavours to establish.”
 
 ― <a href="https://en.wikipedia.org/wiki/David_Hume" target="_blank">David Hume</a>
 
@@ -583,7 +583,7 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Arthur Schopenhauer</a>
 
->“In order to seek truth, it is necessary once in the course of our life, to doubt, as far as possible, of all things.”
+>“In order to seek truth, it is necessary once in the course of our life, to **doubt**, as far as possible, of **all things**.”
 
 >“I shall then suppose . . . some <a href="https://en.wikipedia.org/wiki/Evil_demon" target="_blank">evil genius</a> not less powerful than deceitful, has employed his whole energies in deceiving me; I shall consider that . . . all . . . external things are but illusions and dreams of which this genius has availed himself to lay traps for my credulity.”
 
@@ -631,15 +631,15 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Socrates" target="_blank">Socrates</a>
 
->“Religion is too important a matter to its devotees to be a subject of ridicule. If they indulge in absurdities, they are to be pitied rather than ridiculed.”
+>“Religion is too important a matter to its devotees to be a **subject of ridicule**. If they indulge in absurdities, they are to be **pitied** rather than ridiculed.”
 
 ― <a href="https://en.wikipedia.org/wiki/Immanuel_Kant" target="_blank">Immanuel Kant</a>
 
 >“If God existed, only in one way could he serve human liberty — by ceasing to exist.”
 
->“The first revolt is against the supreme tyranny of theology, of the phantom of God. As long as we have a master in heaven, we will be slaves on earth.”
+>“The first revolt is against the **supreme tyranny of theology**, of the phantom of God. As long as we have a master in heaven, we will be slaves on earth.”
 
->“If God really existed, it would be necessary to abolish him.”
+>“If God really existed, it would be **necessary to abolish him**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Mikhail_Bakunin" target="_blank">Mikhail Bakunin</a>
 
@@ -665,7 +665,7 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a>
 
->“The tendency to turn human judgments into divine commands makes religion one of the most dangerous forces in the world.”
+>“The tendency to turn human judgments into divine commands makes **religion one of the most dangerous forces** in the world.”
 
 ― <a href="https://en.wikipedia.org/wiki/Georgia_Harkness" target="_blank">Georgia Harkness</a>
 
@@ -675,13 +675,13 @@ Perceived my way before my hair went gray!”<br>
 
 >“Nationalism is merely Glorified Tribalism.” [<a href="https://www.youtube.com/watch?v=RRQgExLkYEk" target="_blank">YouTube</a>]
 
->“Superstition is another mighty evil, and has caused much terrible cruelty. The man who is a slave to it despises others who are wiser, tries to force them to do as he does. Think of the awful slaughter produced by the superstition that animals should be sacrificed, and by the still more cruel superstition that man needs flesh for food. Think of the treatment which superstition has meted out to the depressed classes in our beloved India, and see in that how this evil quality can breed heartless cruelty even among those who know the duty of brotherhood. Many crimes have men committed in the name of the God of Love, moved by this nightmare of superstition; be very careful therefore that no slightest trace of it remains in you.”
+>“Superstition is another mighty evil, and has caused much terrible cruelty. **The man who is a slave to it despises others who are wiser, tries to force them to do as he does**. Think of the **awful slaughter** produced by the superstition that animals should be sacrificed, and by the still more cruel superstition that man needs flesh for food. Think of the treatment which superstition has meted out to the depressed classes in our beloved India, and see in that how this evil quality can breed heartless cruelty even among those who know the duty of brotherhood. Many crimes have men committed in the name of the God of Love, moved by this nightmare of superstition; be very careful therefore that no slightest trace of it remains in you.”
 
 ― <a href="https://en.wikipedia.org/wiki/Jiddu_Krishnamurti" target="_blank">Jiddu Krishnamurti</a>
 
 >“I have seen a great people starving to death before my eyes [in India], and I am convinced that this exhaustion and starvation are due not, as their beneficiaries claim, to over-population and superstition, but to the most sordid and criminal exploitation of one nation by another in all recorded history. I propose to show that England has year by year been bleeding India to the point of death, and that self-government of India by the Hindus could not, within any reasonable probability, have worse results than the present form of alien domination.”
 
->“The British conquest of India was the invasion and destruction of a high civilization by a trading company (the British East India Company) utterly without scruple or principle, careless of art and greedy of gain, over-running with fire and sword a country temporarily disordered and helpless, bribing and murdering, annexing and stealing, and beginning that career of illegal and 'legal' plunder which has now (1930) gone on ruthlessly for one hundred and seventy-three years.”
+>“The British conquest of India was the **invasion and destruction of a high civilization by a trading company** (the British East India Company) utterly without scruple or principle, careless of art and greedy of gain, over-running with fire and sword a country temporarily disordered and helpless, bribing and murdering, annexing and stealing, and beginning that career of illegal and 'legal' plunder which has now (1930) gone on ruthlessly for one hundred and seventy-three years.”
 
 >“The Islamic conquest of India is probably the bloodiest story in history. It is a discouraging tale, for its evident moral is that civilization is a precious good, whose delicate complex of order and freedom, culture and peace, can at any moment be overthrown by barbarians invading from without or multiplying within.”
 
@@ -691,7 +691,7 @@ Perceived my way before my hair went gray!”<br>
 
 ### Others
 
->“Napoleon, and other great men of his type, they were makers of empire. But there is an order of men that get beyond that: They are not makers of empire, but they are makers of universe. And when they have made those universes, their hands are unstained by the blood of any human being on earth. ... Ptolemy made a universe, which lasted 1400 years. Newton also made a universe, which has lasted 300 years. Einstein has made a universe, and I can't tell you how long that will last.” [<a href="https://www.youtube.com/watch?v=1TIt0ITM_RM" target="_blank">YouTube</a>]
+>“Napoleon, and other great men of his type, they were makers of empire. But there is an order of men that get beyond that: They are not makers of empire, but they are makers of universe. And when they have made those universes, **their hands are unstained by the blood of any human being on earth**. ... Ptolemy made a universe, which lasted 1400 years. Newton also made a universe, which has lasted 300 years. Einstein has made a universe, and I can't tell you how long that will last.” [<a href="https://www.youtube.com/watch?v=1TIt0ITM_RM" target="_blank">YouTube</a>]
 
 >“The fact that a believer [of a religion] is happier than a skeptic is no more to the point than the fact that a drunken man is happier than a sober one. The happiness of credulity is a cheap and dangerous quality of happiness, and by no means a necessity of life.”
 
@@ -711,13 +711,13 @@ Perceived my way before my hair went gray!”<br>
 >3.Any sufficiently advanced technology is indistinguishable from magic.<br>
 >As three laws were good enough for Newton, I have modestly decided to stop there”
 
->“The greatest tragedy in mankind's entire history may be the hijacking of morality by religion.”
+>“The greatest tragedy in mankind's entire history may be the **hijacking of morality by religion**.”
 
->“Science can destroy religion by ignoring it as well as by disproving its tenets. No one ever demonstrated, so far as I am aware, the non-existence of Zeus or Thor — but they have few followers now.”
+>“**Science can destroy religion** by ignoring it as well as by disproving its tenets. No one ever demonstrated, so far as I am aware, the non-existence of Zeus or Thor — but they have few followers now.”
 
->“The rash assertion that 'God made man in His own image' is ticking like a time bomb at the foundation of many faiths, and as the hierarchy of the universe is disclosed to us, we may have to recognize this chilling truth: if there are any gods whose chief concern is man, they cannot be very important gods.”
+>“The rash assertion that 'God made man in His own image' is **ticking like a time bomb at the foundation of many faiths**, and as the hierarchy of the universe is disclosed to us, we may have to recognize this chilling truth: **if there are any gods whose chief concern is man, they cannot be very important gods**.”
 
->“Religion is the most malevolent and persistent of all mind viruses. We should get rid of it as quick as we can.”
+>“Religion is the **most malevolent and persistent of all mind viruses**. We should get rid of it as quick as we can.”
 
 >“It is not easy to see how the more extreme forms of nationalism can long survive when men have seen the Earth in its true perspective as a single small globe against the stars.”
 
@@ -731,7 +731,7 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a>
 
->“Men rarely (if ever) manage to dream up a god superior to themselves. Most gods have the manners and morals of a spoiled child.” 
+>“Men rarely (if ever) manage to dream up a god superior to themselves. **Most gods have the manners and morals of a spoiled child**.” 
 
 ― <a href="https://en.wikipedia.org/wiki/Robert_A._Heinlein" target="_blank">Robert A. Heinlein</a>
 
@@ -764,27 +764,27 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Dawkins" target="_blank">Richard Dawkins</a>
 
->“Until 1834 the very word “scientist” was not in common circulation. Men like Sir Isaac Newton were considered, and considered themselves, to be “natural philosophers”: men of scientific bent to be sure, but men of a wider and deeper learning as well. Arguments about greater cosmic purposes were all of a piece with calculations and experiments, and the tyranny of specialization had not imposed itself on us. As a result, by the way, many scientists held completely “unscientific” views. Newton himself was a secret alchemist who believed that the pope was anti-Christ and that the true dimensions of the Temple of Solomon might yield crucial findings. Joseph Priestley, the Unitarian discoverer of oxygen, was a devotee of the phlogiston theory. Alfred Russel Wallace liked nothing better than a good spiritualist séance. It is not really until the figure of Albert Einstein (and perhaps Bertrand Russell also) that we start to find that very powerful synthesis between scientific method and a more general “humanism”; a synthesis basing itself upon reason and daring to make the connection between physical and natural evidence and the conclusion that an ethical life, as well as a rational one, is best believed on the assumption that there is no supernatural dimension.”
+>“What can be asserted without evidence can also be dismissed without evidence.”
 
 >“Philosophy begins where religion ends, just as by analogy chemistry begins where alchemy runs out, and astronomy takes the place of astrology.”
 
->“What can be asserted without evidence can also be dismissed without evidence.”
+>“If religious instruction were not allowed until the child had attained the age of reason, we would be living in a quite different world.”
+
+>“Religion has run out of justifications.”
+
+>“Mockery of religion is one of the most essential things... one of the beginnings of human emancipation is the ability to laugh at authority.”
+
+>“Until 1834 the very word “scientist” was not in common circulation. Men like Sir Isaac Newton were considered, and considered themselves, to be “natural philosophers”: men of scientific bent to be sure, but men of a wider and deeper learning as well. Arguments about greater cosmic purposes were all of a piece with calculations and experiments, and the tyranny of specialization had not imposed itself on us. As a result, by the way, many scientists held completely “unscientific” views. Newton himself was a secret alchemist who believed that the pope was anti-Christ and that the true dimensions of the Temple of Solomon might yield crucial findings. Joseph Priestley, the Unitarian discoverer of oxygen, was a devotee of the phlogiston theory. Alfred Russel Wallace liked nothing better than a good spiritualist séance. It is not really until the figure of Albert Einstein (and perhaps Bertrand Russell also) that we start to find that very powerful synthesis between scientific method and a more general “humanism”; a synthesis basing itself upon reason and daring to make the connection between physical and natural evidence and the conclusion that an ethical life, as well as a rational one, is best believed on the assumption that there is no supernatural dimension.”
 
 >“Read one page of Stephen Hawking about the event horizon, about the possibility that we will soon know, not where the universe originated, but where it is tended, and the event horizon to which we may all be headed. There is more to inspire awe in one page of Stephen Hawking, than in any of the fantasies of Tertullian, imagining that he could go to the window of heaven, when he was promoted there, and look down, for his consolation, on the torments of the damned. There is much more to be awe-inspired by, in a page of Hawking, than in any number of burning bushes, or other such myths.”
 
 >“Why, if God was the creator of all things, were we supposed to "praise" him for what came naturally?”
-
->“If religious instruction were not allowed until the child had attained the age of reason, we would be living in a quite different world.”
 
 >“If Jesus could heal a blind person he happened to meet, then why not heal blindness?”
 
 >“Religion is man-made. Even the men who made it cannot agree on what their prophets or redeemers or gurus actually said or did.”
 
 >“Since human beings are naturally solipsistic, all forms of superstition enjoy what might be called a natural advantage.”
-
->“Religion has run out of justifications.”
-
->“Mockery of religion is one of the most essential things... one of the beginnings of human emancipation is the ability to laugh at authority.”
 
 >“An impressive thing about India is the way in which it has almost as many Muslim citizens, who live with greater prospects of peace and prosperity, as does Pakistan. This comity and integration is one of the many targets of the suicide killers, and it is another reason why firm, warm solidarity with India is the most pressing need of the present hour.”
 
@@ -806,31 +806,31 @@ Perceived my way before my hair went gray!”<br>
 
 >“Lincoln's <a href="https://en.wikipedia.org/wiki/Emancipation_Proclamation" target="_blank">Proclamation</a> ... not only set the black slaves free, but set the white man free also.”
 
->“There is one notable thing about our Christianity: bad, bloody, merciless, money-grabbing, and predatory as it is – in our country particularly and in all other Christian countries in a somewhat modified degree – it is still a hundred times better than the Christianity of the Bible, with its prodigious crime – the invention of Hell. Measured by our Christianity of to-day, bad as it is, hypocritical as it is, empty and hollow as it is, neither the Deity nor his Son is a Christian, nor qualified for that moderately high place. Ours is a terrible religion. The fleets of the world could swim in spacious comfort in the innocent blood it has spilled.”
+>“There is one notable thing about our Christianity: bad, bloody, merciless, money-grabbing, and predatory as it is – in our country particularly and in all other Christian countries in a somewhat modified degree – it is still a **hundred times better than the Christianity of the Bible**, with its prodigious crime – the invention of Hell. Measured by our Christianity of to-day, bad as it is, hypocritical as it is, empty and hollow as it is, neither the Deity nor his Son is a Christian, nor qualified for that moderately high place. Ours is a terrible religion. The fleets of the world could swim in spacious comfort in the innocent blood it has spilled.”
 
 >“Belgium's royal palace is still what it has been for the last 14 years: a lair of a wild beast that for its money every year <a href="https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State" target="_blank">mutilates, murders and starves</a> a half million helpless natives in the Congo Free State.”
 
 ― <a href="https://en.wikipedia.org/wiki/Mark_Twain" target="_blank">Mark Twain</a>
 
->“Cruelty and intolerance to those who do not belong to it are natural to every religion”
+>“Religion is so **pathetically absurd and infantile** that it is **humiliating and embarrassing** to think that the **majority of people** will never rise above it.”
+
+>“Religion is an illusion and it derives its strength from the fact that it falls in with our **instinctual desires**.”
+
+>“Cruelty and intolerance to those who do not belong to it are natural to **every religion**.”
 
 >“Immorality, no less than morality, has at all times found support in religion.”
 
 >“Religion is a system of wishful illusions together with a disavowal of reality, such as we find nowhere else but in a state of blissful hallucinatory confusion. Religion's eleventh commandment is "Thou shalt not question."”
 
->“Religion is an illusion and it derives its strength from the fact that it falls in with our instinctual desires.”
-
->“Religion is so pathetically absurd and infantile that it is humiliating and embarrassing to think that the majority of people will never rise above it.”
-
 ― <a href="https://en.wikipedia.org/wiki/Sigmund_Freud" target="_blank">Sigmund Freud</a>
 
->“Any man who stands for progress has to criticize, disbelieve and challenge every item of the old faith. Item by item he has to reason out every nook and corner of the prevailing faith. If after considerable reasoning one is led to believe in any theory or philosophy, his faith is welcomed. His reasoning can be mistaken, wrong, misled and sometimes fallacious. But he is liable to correction because reason is the guiding star of his life. But mere faith and blind faith is dangerous: it dulls the brain, and makes a man reactionary.”
+>“Any man who stands for progress has to **criticize, disbelieve and challenge every item of the old faith**. Item by item he has to reason out every nook and corner of the prevailing faith. If after considerable reasoning one is led to believe in any theory or philosophy, his faith is welcomed. His reasoning can be mistaken, wrong, misled and sometimes fallacious. But he is **liable to correction because reason is the guiding star of his life**. But mere faith and blind faith is dangerous: it dulls the brain, and makes a man reactionary.”
 
 ― <a href="https://en.wikipedia.org/wiki/Bhagat_Singh" target="_blank">Bhagat Singh</a>
 
->“No country or people who are **slaves to dogma** and dogmatic mentality can progress, and unhappily our country and people have become extraordinarily dogmatic and little-minded.”
+>“No country or people who are **slaves to dogma and dogmatic mentality** can progress, and **unhappily our country and people** have become extraordinarily dogmatic and little-minded.”
 
->“The spectacle of what is called religion, or at any rate organised religion, in India and elsewhere, has filled me with horror and I have frequently condemned it and wished to make a clean sweep of it. Almost always it seemed to stand for blind belief and reaction, dogma and bigotry, superstition, exploitation and the preservation of vested interests.”
+>“The spectacle of what is called **religion**, or at any rate organised religion, in India and elsewhere, has filled me with **horror** and I have frequently condemned it and wished to make a clean sweep of it. Almost always it seemed to stand for **blind belief** and reaction, dogma and **bigotry**, superstition, **exploitation** and the preservation of vested interests.”
 
 >“Future peace, security and ordered progress of the world demand a world federation of free nations, and on no other basis can the problems of the world be solved. Such a world federation would ensure the freedom of its constituent nations, the prevention of aggression and exploitation of one nation over another, the protection of national minorities, the advancement of all backward areas and peoples, and the pooling of the world's resources for the common good of all. On the establishment of such a world federation, **disarmament would be practicable in all countries, national armies, navies and air forces would no longer be necessary, and a world federal defence force would keep the peace and prevent aggression**. ...The Committee regretfully realizes, however, despite the tragic and overwhelming lessons of the war and the perils that overhang the world, the Governments of few countries are yet prepared to take this **inevitable step towards world federation**.”
 
@@ -862,9 +862,9 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Thomas_William_Rhys_Davids" target="_blank">Thomas William Rhys Davids</a>
 
->“If every trace of any single religion were wiped out and nothing were passed on, it would never be created exactly that way again. There might be some other nonsense in its place, but not that exact nonsense. If all of science were wiped out, it would still be true and someone would find a way to figure it all out again.”
+>“If every trace of any single religion were wiped out and nothing were passed on, it would never be created exactly that way again. There might be **some other nonsense** in its place, **but not that exact nonsense**. If all of science were wiped out, it would still be true and someone would find a way to figure it all out again.”
 
->“Whatever you do, don't read the Bible for a moral code: it advocates prejudice, cruelty, superstition, and murder. Read it because: we need more atheists — and nothin' will get you there faster than readin' the damn Bible.”
+>“Whatever you do, don't read the Bible for a moral code: it advocates **prejudice, cruelty, superstition, and murder**. Read it because: we need more atheists — and nothin' will get you there faster than readin' the damn Bible.”
 
 >“The question I get asked by religious people all the time is, without God, what’s to stop me from raping all I want? And my answer is: I do rape all I want. And the amount I want is zero. And I do murder all I want, and the amount I want is zero. The fact that these people think that if they didn’t have this person watching over them that they would go on killing, raping rampages is the most self-damning thing I can imagine. I don't want to do that. Right now, without any god, I don't want to jump across this table and strangle you. I have no desire to strangle you. I have no desire to flip you over and rape you.”
 
@@ -874,13 +874,13 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Charles_T._Rubin" target="_blank">Charles T. Rubin</a>
 
->“The Taiping Rebellion is the perfect example of the old adage that the winners write the history books. Most writers treat the Taipings as poor deluded peasants following a madman's hallucinations, but when you get right down to it, that's how most religions begin (not your religion obviously, but all the other ones). The only difference between <a href="https://en.wikipedia.org/wiki/Hong_Xiuquan" target="_blank">Hong Xiuquan</a> and history's successful prophets is that if a professor, novelist, or cartoonist disrespects Hong Xiuquan, angry mobs won't call for his head.
+>“The Taiping Rebellion is the perfect example of the old adage that the **winners write the history books**. Most writers treat the Taipings as **poor deluded peasants following a madman's hallucinations**, but when you get right down to it, **that's how most religions begin** (not your religion obviously, but all the other ones). The only difference between <a href="https://en.wikipedia.org/wiki/Hong_Xiuquan" target="_blank">Hong Xiuquan</a> and history's successful prophets is that if a professor, novelist, or cartoonist disrespects Hong Xiuquan, angry mobs won't call for his head.
 >
->Is fear of its followers really the best test of a religion's authenticity? I'll admit that's the standard I use, but it's probably a good idea to remember that if the Taipings had won their rebellion, they might today be considered totally legit and every bit as Christian as the Mormons ("mostly, sort of").”
+>**Is fear of its followers really the best test of a religion's authenticity?** I'll admit that's the standard I use, but it's probably a good idea to remember that if the Taipings had won their rebellion, they might today be considered totally legit and every bit as Christian as the Mormons ("mostly, sort of").”
 
 ― <a href="https://en.wikipedia.org/wiki/The_Great_Big_Book_of_Horrible_Things" target="_blank">Matthew White</a>
 
->“Asking, 'If there is no God, what is the purpose of life?' is like asking, 'If there is no master, whose slave will I be?' If your purpose of life is to submit as a slave, then your meaning comes from flattering the ego of a person whom you should detest.”
+>“Asking, 'If there is no God, what is the purpose of life?' is like asking, 'If there is no master, whose slave will I be?' If your purpose of life is to submit as a slave, then your meaning comes from **flattering the ego of a person whom you should detest**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Dan_Barker" target="_blank">Dan Barker</a>
 
@@ -898,7 +898,7 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Zalman_Gradowski" target="_blank">Zalman Gradowski</a>
 
->“In some ways people had got used to the idea that India was spiritual and religion-oriented. That gave a leg up to the religious interpretation of India, despite the fact that Sanskrit had a larger atheistic literature than exists in any other classical language. Madhava Acharya, the remarkable 14th century philosopher, wrote this rather great book called <a href="https://en.wikipedia.org/wiki/Vidyaranya#Sarvadar%C5%9Banasa%E1%B9%85graha" target="_blank">Sarvadarśanasaṅgraha</a>, which discussed all the religious schools of thought within the Hindu structure. The first chapter is "<a href="https://en.wikipedia.org/wiki/Charvaka" target="_blank">Cārvāka</a>" or "Atheism"—a very strong presentation of the argument in favour of atheism and materialism.”
+>“In some ways people had got used to the idea that India was spiritual and religion-oriented. That gave a leg up to the religious interpretation of India, despite the fact that **Sanskrit had a larger atheistic literature than exists in any other classical language**. Madhava Acharya, the remarkable 14th century philosopher, wrote this rather great book called <a href="https://en.wikipedia.org/wiki/Vidyaranya#Sarvadar%C5%9Banasa%E1%B9%85graha" target="_blank">Sarvadarśanasaṅgraha</a>, which discussed all the religious schools of thought within the Hindu structure. The **first chapter** is "<a href="https://en.wikipedia.org/wiki/Charvaka" target="_blank">Cārvāka</a>" or "Atheism"—a very strong presentation of the argument in favour of atheism and materialism.”
 
 ― <a href="https://en.wikipedia.org/wiki/Amartya_Sen" target="_blank">Amartya Sen</a>
 
@@ -906,15 +906,15 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/H._G._Wells" target="_blank">H. G. Wells</a>
 
->“God only exists in people’s minds. Especially in Japan, God's always has been a kind of flexible concept. Look at what happened to the war. Douglas MacArthur ordered the divine emperor to quit being a God, and he did, making a speech saying he was just an ordinary person.”
+>“God only exists in people’s minds. Especially in Japan, God's always has been a kind of flexible concept. Look at what happened to the war. **Douglas MacArthur ordered the divine emperor to quit being a God, and he did**, making a speech saying he was just an ordinary person.”
 
 ― <a href="https://en.wikipedia.org/wiki/Shin%27ichi_Hisamatsu" target="_blank">Shin'ichi Hisamatsu</a>
 
->“Doubts about the existence of free will and individuals are nothing new, of course. More than 2,000 years ago thinkers in India, China and Greece argued that ‘the individual self is an illusion’. Yet such doubts don’t really change history much unless they have a practical impact on economics, politics and day-to-day life. Humans are masters of cognitive dissonance, and we allow ourselves to believe one thing in the laboratory and an altogether different thing in the courthouse or in parliament. Just as Christianity didn’t disappear the day Darwin published On the Origin of Species, so liberalism won’t vanish just because scientists have reached the conclusion that there are no free individuals.”
+>“Doubts about the existence of free will and individuals are nothing new, of course. More than 2,000 years ago thinkers in India, China and Greece argued that ‘the individual self is an illusion’. Yet such doubts don’t really change history much unless they have a practical impact on economics, politics and day-to-day life. **Humans are masters of cognitive dissonance**, and we allow ourselves to believe one thing in the laboratory and an altogether different thing in the courthouse or in parliament. Just as Christianity didn’t disappear the day Darwin published On the Origin of Species, so liberalism won’t vanish just because scientists have reached the conclusion that there are no free individuals.”
 
 >“Buddha agreed with modern biology and New Age movements that happiness is independent of external conditions. Yet his more important and far more profound insight was that true happiness is also independent of our inner feelings. Indeed, the more significance we give our feelings, the more we crave them, and the more we suffer. Buddha’s recommendation was to stop not only the pursuit of external achievements, but also the pursuit of inner feelings.”
 
->“Understanding human history in the millennia following the Agricultural Revolution boils down to a single question: how did humans organise themselves in mass-cooperation networks, when they lacked the biological instincts necessary to sustain such networks? The short answer is that humans created imagined orders and devised scripts. These two inventions filled the gaps left by our biological inheritance.”
+>“Understanding human history in the millennia following the Agricultural Revolution boils down to a single question: **how did humans organise themselves in mass-cooperation networks, when they lacked the biological instincts** necessary to sustain such networks? The short answer is that **humans created imagined orders and devised scripts**. These two inventions filled the gaps left by our biological inheritance.”
 
 >“History began when humans invented gods, and will end when humans become gods.”
 
@@ -924,15 +924,15 @@ Perceived my way before my hair went gray!”<br>
 
 >“Capitalism did not defeat communism because capitalism was more ethical, because individual liberties are sacred or because God was angry with the heathen communists. Rather, capitalism won the Cold War because distributed data processing works better than centralised data processing, at least in periods of accelerating technological change. The central committee of the Communist Party just could not deal with the rapidly changing world of the late twentieth century. When all data is accumulated in one secret bunker, and all important decisions are taken by a group of elderly apparatchiks, they can produce nuclear bombs by the cartload, but not an Apple or a Wikipedia.”
 
->“Today more than ninety per cent of all large animals are domesticated. Consider the chicken, for example. Ten thousand years ago it was a rare bird confined to small niches of South Asia. Today billions of chickens live on almost every continent and island, bar Antarctica. The domesticated chicken is probably the most widespread bird in the annals of planet Earth. If you measure success in terms of numbers, chickens, cows and pigs are the most successful animals ever. Alas, domesticated species paid for their unparalleled collective success with unprecedented individual suffering.”
+>“Today more than ninety per cent of all large animals are domesticated. Consider the chicken, for example. Ten thousand years ago it was a rare bird confined to small niches of South Asia. Today billions of chickens live on almost every continent and island, bar Antarctica. The domesticated chicken is probably the most widespread bird in the annals of planet Earth. If you measure success in terms of numbers, chickens, cows and pigs are the most successful animals ever. Alas, **domesticated species paid for their unparalleled collective success with unprecedented individual suffering**.”
 
->“Yet from the viewpoint of the herd, rather than that of the shepherd, it’s hard to avoid the impression that for the vast majority of domesticated animals, the Agricultural Revolution was a terrible catastrophe. Their evolutionary ‘success’ is meaningless. A rare wild rhinoceros on the brink of extinction is probably more satisfied than a calf who spends its short life inside a tiny box, fattened to produce juicy steaks. The contented rhinoceros is no less content for being among the last of its kind. The numerical success of the calf’s species is little consolation for the suffering the individual endures.”
+>“Yet from the viewpoint of the herd, rather than that of the shepherd, it’s hard to avoid the impression that **for the vast majority of domesticated animals, the Agricultural Revolution was a terrible catastrophe**. Their evolutionary ‘success’ is meaningless. A rare wild rhinoceros on the brink of extinction is probably more satisfied than a calf who spends its short life inside a tiny box, fattened to produce juicy steaks. The contented rhinoceros is no less content for being among the last of its kind. **The numerical success of the calf’s species is little consolation for the suffering the individual endures**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Yuval_Noah_Harari" target="_blank">Yuval Noah Harari</a>
 
 #### Veganism
 
->“Our study [China–Cornell–Oxford Project: The Most Comprehensive Study of Nutrition Ever Conducted] suggests that the closer one approaches a total plant food diet, the greater the health benefit. … It turns out that animal protein, when consumed, exhibits a variety of undesirable health effects. Whether it is the immune system, various enzyme systems, the uptake of carcinogens into the cells, or hormonal activities, animal protein generally only causes mischief. High fat intake still can be a problem, and we ought not to be consuming such high-fat diets. But I suggest that animal protein is more problematic in this whole diet/disease relationship than is total fat.”
+>“Our study [China–Cornell–Oxford Project: The Most Comprehensive Study of Nutrition Ever Conducted] suggests that **the closer one approaches a total plant food diet, the greater the health benefit**. … It turns out that animal protein, when consumed, exhibits a variety of undesirable health effects. Whether it is the immune system, various enzyme systems, the uptake of carcinogens into the cells, or hormonal activities, animal protein generally only causes mischief. High fat intake still can be a problem, and we ought not to be consuming such high-fat diets. But I suggest that animal protein is more problematic in this whole diet/disease relationship than is total fat.”
 
 ― <a href="https://en.wikipedia.org/wiki/T._Colin_Campbell" target="_blank">T. Colin Campbell</a><span style="color:Chartreuse">(biochemist who specializes in the effect of nutrition on long-term health)</span>
 
@@ -944,19 +944,19 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Lewis" target="_blank">Carl Lewis</a><span style="color:Chartreuse">(Olympic athlete who won nine Olympic gold medals, one Olympic silver medal, and 10 World Championships medals, including eight gold. He also  won a gold medal in the same individual event in four consecutive Olympic Games)</span>
 
->“A global transition to a cruelty-free vegan diet won't just help non-human animals. The transition will also help malnourished humans who could benefit from the grain currently fed to factory-farmed animals. For factory-farming is not just cruel; it's energy-inefficient. Let’s take just one example. Over the past few decades, millions of Ethiopians have died of "food shortages" while Ethiopia grew grain to sell to the West to feed cattle. Western meat-eating habits prop up the price of grain so that poor people in the developing world can’t afford to buy it. In consequence, they starve by the millions. In my work, I explore futuristic, hi-tech solutions to the problem of suffering. But anybody who seriously wants to reduce human and non-human suffering alike should adopt a cruelty-free vegan lifestyle today.”
+>“A global transition to a cruelty-free vegan diet won't just help non-human animals. **The transition will also help malnourished humans who could benefit from the grain currently fed to factory-farmed animals**. For **factory-farming** is **not just cruel**; it's **energy-inefficient**. Let’s take just one example. Over the past few decades, millions of Ethiopians have died of "food shortages" while Ethiopia grew grain to sell to the West to feed cattle. Western meat-eating habits **prop up the price of grain so that poor people in the developing world can’t afford to buy it**. In consequence, they starve by the millions. In my work, I explore futuristic, hi-tech solutions to the problem of suffering. But anybody who seriously wants to reduce human and non-human suffering alike should adopt a cruelty-free vegan lifestyle today.”
 
 >“So what is the alternative to traditional anthropocentric ethics? Antispeciesism is not the claim that "All Animals Are Equal", or that all species are of equal value, or that a human or a pig is equivalent to a mosquito. Rather the antispeciesist claims that, other things being equal, equally strong interests should count equally.”
 
 ― <a href="https://en.wikipedia.org/wiki/David_Pearce_(transhumanist)" target="_blank">David Pearce</a><span style="color:Chartreuse">(transhumanist and philosopher)</span>
 
->“The day has been, I am sad to say in many places it is not yet past, in which the greater part of the species, under the denomination of slaves, have been treated by the law exactly upon the same footing, as, in England for example, the inferior races of animals are still. The day may come when the rest of the animal creation may acquire those rights which never could have been witholden from them but by the hand of tyranny. The French have already discovered that the blackness of the skin is no reason a human being should be abandoned without redress to the caprice of a tormentor. It may one day come to be recognised that the number of the legs, the villosity of the skin, or the termination of the os sacrum are reasons equally insufficient for abandoning a sensitive being to the same fate. What else is it that should trace the insuperable line? Is it the faculty of reason or perhaps the faculty of discourse? But a full-grown horse or dog, is beyond comparison a more rational, as well as a more conversable animal, than an infant of a day or a week or even a month, old. But suppose the case were otherwise, what would it avail? **The question is not, Can they reason? nor, Can they talk? but, Can they suffer?**”
+>“The day has been, I am sad to say in many places it is not yet past, in which the greater part of the species, under the denomination of slaves, have been treated by the law exactly upon the same footing, as, in England for example, the inferior races of animals are still. **The day may come when the rest of the animal creation may acquire those rights which never could have been witholden from them but by the hand of tyranny**. The French have already discovered that the blackness of the skin is no reason a human being should be abandoned without redress to the caprice of a tormentor. It may one day come to be recognised that the number of the legs, the villosity of the skin, or the termination of the os sacrum are reasons equally insufficient for abandoning a sensitive being to the same fate. What else is it that should trace the insuperable line? Is it the faculty of reason or perhaps the faculty of discourse? But a full-grown horse or dog, is beyond comparison a more rational, as well as a more conversable animal, than an infant of a day or a week or even a month, old. But suppose the case were otherwise, what would it avail? **The question is not, Can they reason? nor, Can they talk? but, Can they suffer?**”
 
 ― <a href="https://en.wikipedia.org/wiki/Jeremy_Bentham" target="_blank">Jeremy Bentham</a><span style="color:Chartreuse">(founder of modern utilitarianism)</span>
 
 >“As long as there are slaughterhouses there will be battlefields.”
 
->“A man can live and be healthy without killing animals for food; therefore, if he eats meat, he participates in taking animal life merely for the sake of his appetite. And to act so is immoral.”
+>“A man can live and be healthy without killing animals for food; therefore, if he eats meat, **he participates in taking animal life merely for the sake of his appetite**. And to act so is **immoral**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Leo_Tolstoy" target="_blank">Leo Tolstoy</a><span style="color:Chartreuse">(Russian writer who is regarded as one of the greatest authors of all time and pioneer of **Nonviolent resistance movement** that inspired **M.K. Gandhi** and **Martin Luther King Jr.**)</span>
 
@@ -964,7 +964,7 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Brigid_Brophy" target="_blank">Brigid Brophy</a><span style="color:Chartreuse">(writer and animal rights activist)</span>
 
->“Obviously, the health benefits of being vegan are written in stone but I honestly believe the most benefit to me being vegan is that I do not carry the burden of guilt that I would have to endure knowing that I abused others for my own 'benefit'. … Veganism is everything to me. It touches every part of my life. It is my life. I could not begin to imagine living my life any other way. … Often people think we are weak in body and mind. They mistake our compassion for weakness. … My strengths as an athlete are that I am not an athlete for myself. I am doing it for the benefit of others, which makes me work much harder to achieve. I am not selfish enough to want something this badly for myself. It makes me push myself that bit harder knowing that by doing well I can possibly convince others to consider a vegan lifestyle.”
+>“Obviously, the health benefits of being vegan are written in stone but I honestly believe the most benefit to me being vegan is that **I do not carry the burden of guilt** that I would have to endure knowing that I abused others for my own 'benefit'. … Veganism is everything to me. It touches every part of my life. It is my life. I could not begin to imagine living my life any other way. … Often people think we are weak in body and mind. They mistake our compassion for weakness. … My strengths as an athlete are that I am not an athlete for myself. I am doing it for the benefit of others, which makes me work much harder to achieve. I am not selfish enough to want something this badly for myself. It makes me push myself that bit harder knowing that by doing well I can possibly convince others to consider a vegan lifestyle.”
 
 ― <a href="https://en.wikipedia.org/wiki/Fiona_Oakes" target="_blank">Fiona Oakes</a> <span style="color:Chartreuse">(distance runner who holds four world records for marathon running)</span>
 
@@ -974,7 +974,7 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Brian_Greene" target="_blank">Brian Greene</a><span style="color:Chartreuse">(theoretical physicist, mathematician, and string theorist)</span>
 
->“This pandemic seemed to come from people eating animals and it’s becoming more well known that eating animals is not the greatest thing for our health … We’ve seen more of the effects of how eating animals has brought us to our knees as a species, I think it’s time to re-examine our world in a way that doesn’t abuse other species.”
+>“This pandemic seemed to come from people eating animals and it’s becoming more well known that eating animals is not the greatest thing for our health … We’ve seen more of the effects of how eating animals has brought us to our knees as a species, I think it’s time to **re-examine our world in a way that doesn’t abuse other species**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Brian_May" target="_blank">Brian May</a><span style="color:Chartreuse">(musician and astrophysicist)</span>
 
@@ -988,7 +988,7 @@ Perceived my way before my hair went gray!”<br>
 
 >“Poor countries sell their grain to the West for hard currency while their own children starve in their arms. And the West feeds it to livestock. . . So we can eat a steak? I bet I am not the only one in the room who sees this as a crime?”
 
->“Every morsel of meat we eat is slapping the tear-stained face of a starving child. When I look into her eyes, do I remain silent?”
+>“Every morsel of meat we eat is **slapping the tear-stained face of a starving child**. When I look into her eyes, do I remain silent?”
 
 >“If everyone ate a Western diet, we would need two Planet Earths to feed them. We only have one. And she is dying.”
 
@@ -1002,11 +1002,11 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Daniel_Negreanu" target="_blank">Daniel Negreanu</a><span style="color:Chartreuse">(professional poker player)</span>
 
->“Certainly, if the entire world decided to become vegan tomorrow, a whole host of the world's problems would disappear overnight. Climate change would decrease by 25 percent, deforestation would cease, rainforests would be preserved, our water- and air-quality would increase, life-expectancy rates would increase, and our rates of cancer would plummet, so certainly, with that one action of becoming vegan you are quite effectively making the world a better place.”
+>“Certainly, if the entire world decided to become vegan tomorrow, **a whole host of the world's problems would disappear overnight**. Climate change would decrease by 25 percent, deforestation would cease, rainforests would be preserved, our water- and air-quality would increase, life-expectancy rates would increase, and our rates of cancer would plummet, so certainly, with that one action of becoming vegan you are quite effectively making the world a better place.”
 
 ― <a href="" target="_blank">Moby (Richard Melville Hall)</a><span style="color:Chartreuse">(musician and animal rights activist)</span>
 
->“Many years ago, when I was **merely** a vegetarian, I met the great <a href="https://en.wikipedia.org/wiki/Cesar_Chavez" target="_blank">Cesar Chavez</a>, and he said to me: "If you are interested in preventing animal suffering, the first thing you should give up is eggs and milk, because the animals who produce those foods lead the most unhappy lives. You would do better to eat meat and stop eating eggs and dairy products." I was shocked, since I had no intention of eating meat but had never thought of giving up eggs or dairy products. But when I looked into it I realized he was right, and now, years later, after I have studied the matter up close, I know for certain that he was completely correct about the cruel treatment of the animals raised for such products. The advantages of a vegan diet are enormous for our health, for the environment, for the animals themselves.”
+>“Many years ago, when I was **merely a vegetarian**, I met the great <a href="https://en.wikipedia.org/wiki/Cesar_Chavez" target="_blank">Cesar Chavez</a>, and he said to me: "If you are interested in preventing animal suffering, the first thing you should give up is eggs and milk, because the animals who produce those foods lead the most unhappy lives. You would do better to eat meat and stop eating eggs and dairy products." I was shocked, since I had no intention of eating meat but had never thought of giving up eggs or dairy products. But when I looked into it I realized he was right, and now, years later, after I have studied the matter up close, I know for certain that he was completely correct about the cruel treatment of the animals raised for such products. The advantages of a vegan diet are enormous for our health, for the environment, for the animals themselves.”
 
 ― <a href="https://en.wikipedia.org/wiki/Jeffrey_Moussaieff_Masson" target="_blank">Jeffrey Moussaieff Masson</a><span style="color:Chartreuse">(author)</span>
 
@@ -1020,13 +1020,13 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Bryant_Jennings" target="_blank">Bryant Jennings</a><span style="color:Chartreuse">(professional boxer)</span>
 
->“When you're treating diseases with drugs, you know there's one drug you take for cholesterol, a different class of drugs you take for high blood pressure, different class of drugs you take for diabetes, but, with diet, a plant-based diet affects all these diseases. One diet to kinda rule them all.”
+>“When you're treating diseases with drugs, you know there's one drug you take for cholesterol, a different class of drugs you take for high blood pressure, different class of drugs you take for diabetes, but, with diet, **a plant-based diet affects all these diseases. One diet to kinda rule them all**.”
 
 >“By age 10, nearly all kids have fatty streaks in their arteries. This is the first sign of atherosclerosis, the leading cause of death in the United States. So the question for most of us is not whether we should eat healthy to prevent heart disease, but whether we want to reverse the heart disease we may already have.”
 
 ― <a href="https://en.wikipedia.org/wiki/Michael_Greger" target="_blank">Michael Greger</a><span style="color:Chartreuse">(physician)</span>
 
->“One of the main arguments that I make is that although almost everyone accepts that it is morally wrong to inflict "unnecessary" suffering and death on animals, 99% of the suffering and death that we inflict on animals can be justified only by our pleasure, amusement, or convenience. For example, the best justification that we have for killing the billions of nonhumans that we eat every year is that we enjoy the taste of animal flesh and animal products. This is not an acceptable justification if we take seriously, as we purport to, that it is wrong to inflict unnecessary suffering or death on animals, and it illustrates the confused thinking that I characterize as our "moral schizophrenia" when it comes to nonhumans.”
+>“One of the main arguments that I make is that although almost everyone accepts that it is morally wrong to inflict "**unnecessary**" suffering and death on animals, 99% of the suffering and death that we inflict on animals can be justified only by our pleasure, amusement, or convenience. For example, the best justification that we have for killing the billions of nonhumans that we eat every year is that we enjoy the taste of animal flesh and animal products. This is not an acceptable justification if we take seriously, as we purport to, that it is wrong to inflict unnecessary suffering or death on animals, and it illustrates the confused thinking that I characterize as our "moral schizophrenia" when it comes to nonhumans.”
 
 ― <a href="https://en.wikipedia.org/wiki/Gary_L._Francione" target="_blank">Gary L. Francione</a><span style="color:Chartreuse">(ethics philosopher)</span>
 
@@ -1050,7 +1050,7 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Timothy_Bradley" target="_blank">Timothy Bradley</a><span style="color:Chartreuse">(boxer with multiple world championships)</span>
 
->“Vegan is a term that refers to people who have chosen a way of living guided by ahimsa (nonharming) and reverence for life. … Vegans recognize the value of life to all living creatures and extend to them the compassion, kindness, and justice in The Golden Rule. Vegans see animals as free entities in nature, not slaves or vassals, nor as chattel, pieces of goods to be bought and sold. An animal has feelings, an animal has sensitivity, an animal has a place in life, and the vegan respects this life that is manifest in the animal. Vegans do not wish to harm the animal any more than they would want the animal to harm them. This is an example of The Golden Rule precisely as it should be applied.”
+>“Vegan is a term that refers to people who have chosen a way of living guided by **ahimsa** (nonharming) and reverence for life. … Vegans recognize the value of life to all living creatures and extend to them the compassion, kindness, and justice in The Golden Rule. Vegans see animals as free entities in nature, not slaves or vassals, nor as chattel, pieces of goods to be bought and sold. An animal has feelings, an animal has sensitivity, an animal has a place in life, and the vegan respects this life that is manifest in the animal. Vegans do not wish to harm the animal any more than they would want the animal to harm them. This is an example of The Golden Rule precisely as it should be applied.”
 
 ― <a href="https://en.wikipedia.org/wiki/H._Jay_Dinshah" target="_blank">H. Jay Dinshah</a><span style="color:Chartreuse">(founder of the American Vegan Society)</span>
 
@@ -1062,7 +1062,7 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Neal_D._Barnard" target="_blank">Neal D. Barnard</a><span style="color:Chartreuse">(clinical researcher)</span>
 
->“I think, whether we’re talking about gender inequality or racism or queer rights or indigenous rights or animal rights, we’re talking about the fight against injustice. We’re talking about the fight against the belief that one nation, one people, one race, one gender, one species, has the right to dominate, use and control another with impunity. I think we’ve become very disconnected from the natural world. Many of us are guilty of an egocentric world view, and we believe that we’re the centre of the universe. We go into the natural world and we plunder it for its resources. We feel entitled to artificially inseminate a cow and steal her baby, even though her cries of anguish are unmistakeable. Then we take her milk that’s intended for her calf and we put it in our coffee and our cereal. We fear the idea of personal change, because we think we need to sacrifice something; to give something up. But human beings at our best are so creative and inventive, and we can create, develop and implement systems of change that are beneficial to all sentient beings and the environment.”
+>“I think, whether we’re talking about gender inequality or racism or queer rights or indigenous rights or animal rights, we’re talking about the fight against injustice. We’re talking about the **fight against the belief that one nation, one people, one race, one gender, one species, has the right to dominate, use and control another with impunity**. I think we’ve become very disconnected from the natural world. Many of us are guilty of an egocentric world view, and we believe that we’re the centre of the universe. We go into the natural world and we plunder it for its resources. We feel entitled to artificially inseminate a cow and steal her baby, even though her cries of anguish are unmistakeable. Then we take her milk that’s intended for her calf and we put it in our coffee and our cereal. We fear the idea of personal change, because we think we need to sacrifice something; to give something up. But human beings at our best are so creative and inventive, and we can create, develop and implement systems of change that are beneficial to all sentient beings and the environment.”
 
 ― <a href="https://en.wikipedia.org/wiki/Joaquin_Phoenix" target="_blank">Joaquin Phoenix</a><span style="color:Chartreuse">(actor who portrayed Joker in Joker)</span>
 
@@ -1070,7 +1070,7 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Evanna_Lynch" target="_blank">Evanna Lynch</a><span style="color:Chartreuse">(actress who portrayed Luna Lovegood in the Harry Potter films)</span>
 
->“I coined the term feminized protein for eggs and dairy products: plant protein produced through the abuse of the reproductive cycle of female animals. Feminized protein is taken from living female animals, whose reproductive capacity is manipulated for human needs. The unique situation of domesticated female animals required its own term: a sexual slavery with chickens in battery cages and dairy cows hooked up to milking machines. … The radical truth is that people can be perfectly happy as vegans, but the dominant culture can’t or won’t acknowledge this. … Being vegan is an exciting, wonderful culinary experience and we probably don’t even know what’s possible because it’s still so new. … The process of objectification/fragmentation/consumption can be interrupted by the process of attention/nowness/compassion.”
+>“I coined the term **feminized protein** for eggs and dairy products: plant protein **produced through the abuse of the reproductive cycle of female animals**. Feminized protein is taken from living female animals, whose reproductive capacity is manipulated for human needs. The unique situation of domesticated female animals required its own term: a sexual slavery with chickens in battery cages and dairy cows hooked up to milking machines. … The radical truth is that people can be perfectly happy as vegans, but the dominant culture can’t or won’t acknowledge this. … Being vegan is an exciting, wonderful culinary experience and we probably don’t even know what’s possible because it’s still so new. … The process of objectification/fragmentation/consumption can be interrupted by the process of attention/nowness/compassion.”
 
 ― <a href="https://en.wikipedia.org/wiki/Carol_J._Adams" target="_blank">Carol J. Adams</a><span style="color:Chartreuse">(feminist and animal rights advocate)</span>
 
