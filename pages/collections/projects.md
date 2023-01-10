@@ -74,7 +74,7 @@ nism using $R_\xi$ gauges.
 - Studied basic concepts of category theory like Functors, Natural transformations, Monoidal categories.
 - Studied axiomatization of physical systems using strict monoidal categories.
 \item Investigated **FdHilb** category and studied **no-cloning, no-deleting theorems** in categorical quantum mechanics.<br>
-<a href="https://github.com/iamsreeman/LaTeX/blob/master/CTAP/CTAP.pdf" class="button"  target="_blank">View PDF</a><br>
+<a href="https://github.com/iamsreeman/LaTeX/blob/master/CTAP.pdf" class="button"  target="_blank">View PDF</a><br>
 
 ##### One-dimensional photonic bound states in the continuum (March-April 2021)
 
