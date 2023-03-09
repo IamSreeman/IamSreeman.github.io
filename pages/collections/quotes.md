@@ -7,6 +7,8 @@ header:
 layout: page-fullwidth
 breadcrumbs: true
 ---
+<link href="wikipedia-preview.css" rel="stylesheet">
+
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
@@ -27,6 +29,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 - [Philosophers](#philosophers)
 - [Others](#others)
   - [Veganism](#veganism)
+  - [Animanga](#animanga)
 ### Physicists
 
 >“If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”
@@ -73,9 +76,11 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“The world needs new moral impulses which, I'm afraid, won't come from the churches, heavily compromised as they have been throughout the centuries. Perhaps those impulses must come from scientists in the tradition of Galileo, Kepler and Newton. In spite of failures and persecutions, these men devoted their lives to proving that the universe is a single entity, in which, I believe, a humanized God has no place. The genuine scientist is not moved by praise or blame, nor does he preach. He unveils the universe and people come eagerly, without being pushed, to behold a new revelation: the order, the harmony, the magnificence of creation! And as man becomes conscious of the stupendous laws that govern the universe in perfect harmony, **he begins to realize how small he is**. He sees the pettiness of human existence, with its ambitions and intrigues, its "I am better than thou" creed. This is the beginning of cosmic religion within him; fellowship and human service become his moral code. And without such moral foundations, we are hopelessly doomed.”
 
->“Besides agreeing with the aims of vegetarianism for aesthetic and moral reasons, it is my view that a vegetarian manner of living by its purely physical effect on the human temperament would most beneficially influence a lot of mankind.”
+>“Besides agreeing with the aims of vegetarianism for aesthetic and **moral reasons**, it is my view that a vegetarian manner of living by its purely physical effect on the human temperament would most beneficially influence a lot of mankind.”
 
 >“Nationalism is an infantile disease. It is the measles of mankind.”
+
+>“Only a life lived for **others** is a life worthwhile.”
 
 >“In my opinion the only salvation for civilization and the human race lies in the creation of a **world government**, with security of nations founded upon law. As long as sovereign states continue to have separate armaments and armament secrets, new world wars will be inevitable.”
 
@@ -161,13 +166,17 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“One is left with the uneasy feeling that even if supersymmetry is actually false, as a feature of nature, and that accordingly no supersymmetry partners are ever found by the LHC or by any later more powerful accelerator, then the conclusion that some supersymmetry proponents might come to would not be that supersymmetry is false for the actual particles of nature, but merely that the level of supersymmetry breaking must be greater even that the level reached at that moment, and that a new even more powerful machine would be required to observe it!”
 
-― <a href="https://en.wikipedia.org/wiki/Roger_Penrose" target="_blank">Roge Penrose</a>
+― <a href="https://en.wikipedia.org/wiki/Roger_Penrose" target="_blank">Roger Penrose</a>
 
 >“The book of nature is written in the language of mathematics.”
 
 >“All truths are easy to understand once they are discovered; the point is to discover them.”
 
 ― <a href="https://en.wikipedia.org/wiki/Galileo_Galilei" target="_blank">Galileo Galilei</a>
+
+>“I much prefer the sharpest criticism of a single intelligent man to the thoughtless approval of the masses.”
+
+― <a href="https://en.wikipedia.org/wiki/Johannes_Kepler" target="_blank">Johannes Kepler</a>
 
 >“It is of great advantage to the student of any subject to read the original memoirs on that subject, for science is always most completely assimilated when it is in the nascent state...”
 
@@ -533,15 +542,14 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(1st recorded vegan in history, 10th century Arab philosopher, poet, and writer and is regarded as one of the greatest classical Arabic poets)</span>
 
->“Accepting the authority of the Vedas, believing in individual agency, hoping for merit from bathing, **taking pride in caste**, undertaking rites for the removal of evils: these are the five signs of **stupidity**, the **destruction of intelligence**.”
-
-― <a href="https://en.wikipedia.org/wiki/Dharmakirti" target="_blank">Dharmakīrti</a><span style="color:Chartreuse">(6th century Buddhist philosopher)</span>
 
 >“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
 
 >“Love is wise, hatred is foolish.”
 
 >“If there were a God, I think it very unlikely that he would have such an **uneasy vanity** as to be **offended by those who doubt his existence**.”
+
+>“If a man is offered a fact which goes against his instincts, he will scrutinize it closely, and unless the **evidence is overwhelming**, he will refuse to believe it. If, on the other hand, he is offered something which affords a reason for acting in accordance with his instincts, he will accept it even on the **slenderest evidence**. The origin of myths is explained in this way.”
 
 >“I think all the great **religions** of the world - Buddhism, Hinduism, Christianity, Islam, and Communism - both **untrue** and **harmful**. It is evident as a matter of logic that, since they disagree, not more than one of them can be true. With very few exception, the religions which a man accepts is that of the community in which he lives, which makes it obvious that the **influence of environment** is what has led him to accept the religion in question.”
 
@@ -550,8 +558,6 @@ Perceived my way before my hair went gray!”<br>
 >“Quite illogically, the victory of Locke’s philosophy in England and France was largely due to the prestige of Newton. Descartes’ authority as a philosopher was enhanced, in his own day, by his work in mathematics and natural philosophy. But his doctrine of vortices was definitely inferior to Newton’s law of gravitation as an explanation of the solar system. The victory of the Newtonian cosmogony diminished men’s respect for Descartes and increased their respect for England. Both these causes inclined men favourably towards Locke.”
 
 >“In view of the fact that in any future world war nuclear weapons will certainly be employed, and that such weapons threaten the continued existence of mankind, we urge the governments of the world to realize, and to acknowledge publicly, that their purpose cannot be furthered by a world war, and we urge them, consequently, to find peaceful means for the settlement of all matters of dispute between them.” (<a href="https://en.wikipedia.org/wiki/Russell%E2%80%93Einstein_Manifesto" target="_blank">Russell–Einstein Manifesto</a>)
-
->“If a man is offered a fact which goes against his instincts, he will scrutinize it closely, and unless the **evidence is overwhelming**, he will refuse to believe it. If, on the other hand, he is offered something which affords a reason for acting in accordance with his instincts, he will accept it even on the **slenderest evidence**. The origin of myths is explained in this way.”
 
 >“I like mathematics because it is not human and has nothing particular to do with this planet or with the whole accidental universe – because, like Spinoza's God, it won't love us in return.”
 
@@ -562,6 +568,22 @@ Perceived my way before my hair went gray!”<br>
 >“A much more desirable way of securing world peace would be by a voluntary agreement among nations to pool their armed forces and submit to an **agreed single supreme world government**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
+
+>“There is pleasure when a sore is scratched,<br>
+But to be without sores is more pleasurable still.<br>
+Just so, there are pleasures in worldly desires,<br>
+But to be without desires is more pleasurable still.”
+
+>“Without hope of reward<br>
+Provide help to others.<br>
+Bear suffering alone,<br>
+And share your pleasures with beggars.”
+
+― <a href="https://en.wikipedia.org/wiki/Nagarjuna" target="_blank">Nāgārjuna</a><span style="color:Chartreuse">(2nd century Buddhist philosopher)</span>
+
+>“Accepting the authority of the Vedas, believing in individual agency, hoping for merit from bathing, **taking pride in caste**, undertaking rites for the removal of evils: these are the five signs of **stupidity**, the **destruction of intelligence**.”
+
+― <a href="https://en.wikipedia.org/wiki/Dharmakirti" target="_blank">Dharmakīrti</a><span style="color:Chartreuse">(6th century Buddhist philosopher)</span>
 
 >“<a href="https://en.wikipedia.org/wiki/Epicurus" target="_blank">Epicurus</a>’s old questions are yet unanswered. Is God willing to prevent evil, but not able? then is he impotent. Is he able, but not willing? then is he malevolent. Is he both able and willing? whence then is evil?”
 
@@ -598,6 +620,8 @@ Perceived my way before my hair went gray!”<br>
 >“I cannot believe in a God who wants to be praised all the time.”
 
 >“The modern scientific counterpart to belief in God is the belief in the universe as an organism: this disgusts me. This is to make what is quite rare and extremely derivative, the organic, which we perceive only on the surface of the earth, into something essential, universal, and eternal! This is still an anthropomorphizing of nature!”
+
+>“Man, the bravest animal and most prone to suffer, does not deny suffering as such: he wills it, he even seeks it out, provided he is shown a meaning for it, a purpose of suffering.”
 
 ― <a href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank">Friedrich Nietzsche</a>
 
@@ -731,6 +755,10 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a>
 
+“Time, is what keeps everything from happening at once.”
+
+― <a href="https://en.wikipedia.org/wiki/Ray_Cummings" target="_blank">Ray Cummings</a>
+
 >“Men rarely (if ever) manage to dream up a god superior to themselves. **Most gods have the manners and morals of a spoiled child**.” 
 
 ― <a href="https://en.wikipedia.org/wiki/Robert_A._Heinlein" target="_blank">Robert A. Heinlein</a>
@@ -757,6 +785,10 @@ Perceived my way before my hair went gray!”<br>
 >“In a way, it feels like the cruelest joke in existence has been played on us. We became self-aware only to realize this story is not about us. While it is great to know about electrons and the powerhouse of the cell, science doesn't do a lot to make this less depressing.” [<a href="https://www.youtube.com/watch?v=MBRqu0YOH14&t=208s" target="_blank">YouTube</a>]
 
 ― <a href="https://www.youtube.com/c/inanutshell" target="_blank">Kurzgesagt – In a Nutshell</a>
+
+>“To live is to suffer, to survive is to find some meaning in the suffering.”
+
+― <a href="https://en.wikipedia.org/wiki/Gordon_Allport" target="_blank">Gordon Allport</a>
 
 >“However statistically improbable the entity you seek to explain by invoking a designer, the designer himself has got to be at least as improbable. God is the <a href="https://en.wikipedia.org/wiki/Ultimate_Boeing_747_gambit" target="_blank">Ultimate Boeing 747</a>.”
 
@@ -901,6 +933,12 @@ Perceived my way before my hair went gray!”<br>
 >“In some ways people had got used to the idea that India was spiritual and religion-oriented. That gave a leg up to the religious interpretation of India, despite the fact that **Sanskrit had a larger atheistic literature than exists in any other classical language**. Madhava Acharya, the remarkable 14th century philosopher, wrote this rather great book called <a href="https://en.wikipedia.org/wiki/Vidyaranya#Sarvadar%C5%9Banasa%E1%B9%85graha" target="_blank">Sarvadarśanasaṅgraha</a>, which discussed all the religious schools of thought within the Hindu structure. The **first chapter** is "<a href="https://en.wikipedia.org/wiki/Charvaka" target="_blank">Cārvāka</a>" or "Atheism"—a very strong presentation of the argument in favour of atheism and materialism.”
 
 ― <a href="https://en.wikipedia.org/wiki/Amartya_Sen" target="_blank">Amartya Sen</a>
+
+>“జీవితంలో భయం ఉండాలి, కాని భయమే జీవితం కాకూడదు.”
+ ― <a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D" target="_blank">రజినీకాంత్ </a>(భాషా  సినిమాలో)
+>
+>^ *Translates to* “There should be fear in life, but whole life should not become fear.”
+― <a href="https://en.wikipedia.org/wiki/Rajinikanth" target="_blank">Rajinikanth</a>(From Basha movie)
 
 >“Ashoka , one of the great monarchs of history, whose dominions extended from Afghanistan to Madras... is the only military monarch on record who abandoned warfare after victory. He had invaded Kalinga (255 B.C.), a country along the east coast of Madras, perhaps with some intention of completing the conquest of the tip of the Indian peninsula. The expedition was successful, but he was disgusted by what be saw of the cruelties and horrors of war. He declared, in certain inscriptions that still exist, that he would no longer seek conquest by war, but by religion, and the rest of his life was devoted to the spreading of Buddhism throughout the world. He seems to have ruled his vast empire in peace and with great ability. **He was no mere religious fanatic. For eight and twenty years Asoka worked sanely for the real needs of men.** In the history of the world there have been thousands of kings and emperors who called themselves "their highnesses," "their majesties," and "their exalted majesties" and so on. They shone for a brief moment, and as quickly disappeared. But Ashoka shines and shines brightly like a bright star, even unto this day.”
 
@@ -1092,11 +1130,7 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://en.wikipedia.org/wiki/Peter_Singer" target="_blank">Peter Singer</a><span style="color:Chartreuse">(moral philosopher)</span>
 
->“జీవితంలో భయం ఉండాలి, కాని భయమే జీవితం కాకూడదు.”
- ― <a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%9C%E0%B0%BF%E0%B0%A8%E0%B1%80%E0%B0%95%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D" target="_blank">రజినీకాంత్ </a>(భాషా  సినిమాలో)
->
->^ *Translates to* “There should be fear in life, but whole life should not become fear.”
-― <a href="https://en.wikipedia.org/wiki/Rajinikanth" target="_blank">Rajinikanth</a>(From Basha movie)
+#### Animanga
 
 >“Sometimes life's too **uncertain** to have regrets.”
 
@@ -1121,7 +1155,13 @@ Perceived my way before my hair went gray!”<br>
 
 ― <a href="https://onepunchman.fandom.com/wiki/Saitama" target="_blank">Saitama</a>
 
+>“In any age, in any society, when people are small, they look up at the stars and stretch out their hands as if to grasp them. Then at last,they learn that their own arms aren't long enough to reach the stars.They call that becoming an adult. But I don't think so. **Without fail, those stars will be in this hand**!”
+
 >“Kircheis, do you think what was possible for Rudolf is impossible for me?”
+
+>“The man who succeeds me must have talent equal to, or greater than my own.”
+
+>“Genes determine everything? What nonsense. Hereditary physical qualities have no effect on people, that's for individuals. Heredity concerns family background, not personal abilities. Those who blindly believe in such theories generally having nothing in their own lives to be proud of... they are the people I despise the most.”
 
 ― <a href="https://gineipaedia.com/wiki/Reinhard_von_Lohengramm" target="_blank">Reinhard von Lohengramm</a>
 
@@ -1199,3 +1239,12 @@ Newton is widely considered as one of the top 2 physicists of all time (the othe
 <b id="f10">10)</b> This statement is obviously wrong. The most precious gift is the Hindu numeral system. It is often wrongly called as Arabic numeral system. Vedas are useless in comparison to the Hindu numeral system.<a href="#a10">↩</a>
 
 <b id="f11">11)</b> Stated on 2015, before COVID-19 pandemic.<a href="#a11">↩</a>
+
+<script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
+
+<script type="text/javascript">
+  wikipediaPreview.init({
+    detectLinks: true,
+    selector: '.wikipedia',
+  })
+</script>

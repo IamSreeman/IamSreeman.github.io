@@ -98,15 +98,11 @@
       - title: MA 109
         url: /MA109
 
-  - title: Quotes
-    url: /quotes
   - title: Even more
     url: #!
     dropdown:
       - title: stats
         url: https://stats.ksr.onl
-      - title: Vegan
-        url: /vegan
       - title: Site Info
         url: /siteinfo
       - title: Error 404

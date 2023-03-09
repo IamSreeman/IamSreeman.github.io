@@ -72,10 +72,4 @@ $$
 
 </div>
 
-##### My philosophical positions
-
-1. Raison d'être: Understanding quantum gravity
-2. Ethics: <a href="https://en.wikipedia.org/wiki/Negative_utilitarianism#Combining_negative_utilitarianism_with_rights" target="_blank">Combining negative utilitarianism with rights</a>
-3. Other: <a href="https://en.wikipedia.org/wiki/Naturalism_(philosophy)" target="_blank">Naturalism</a>, <a href="https://en.wikipedia.org/wiki/Reductionism" target="_blank">Reductionism</a>, <a href="https://en.wikipedia.org/wiki/Veganism" target="_blank">Veganism</a>, <a href="https://en.wikipedia.org/wiki/Ahimsa" target="_blank">ahiṃsā</a>, <a href="https://en.wikipedia.org/wiki/Scientism" target="_blank">Scientism</a>, <a href="https://en.wikipedia.org/wiki/Pantheism" target="_blank">Pantheism</a>, <a href="https://en.wikipedia.org/wiki/Atheism" target="_blank">Atheism</a>, <a href="https://en.wikipedia.org/wiki/Antitheism" target="_blank">Antitheism</a>, <a href="https://en.wikipedia.org/wiki/Anti-foundationalism" target="_blank">Antifoundationalism</a>, <a href="https://www.youtube.com/watch?v=MBRqu0YOH14" target="_blank">Optimistic nihilism</a>, <a href="https://en.wikipedia.org/wiki/Philosophical_realism" target="_blank">Realism</a>, <a href="https://en.wikipedia.org/wiki/Moral_realism" target="_blank">Moral realism (Objective morality)</a>, <a href="https://en.wikipedia.org/wiki/Absurdism" target="_blank">Absurdism</a>, <a href="https://en.wikipedia.org/wiki/Incompatibilism#Hard_incompatibilism" target="_blank">Hard incompatibilism</a> and Afraid of <a href="https://en.wikipedia.org/wiki/Philosophical_skepticism" target="_blank">Skepticism</a>
-
 <b id="f1">1)</b> Actually *Kasireddy Sreeman Reddy* but in all documents there is a wrong space and I am continuing that mistake. In Telugu script: కాశిరెడ్డి శ్రీమాన్ రెడ్డి, in Devanagari: काशिरेड्डि श्रीमान रेड्डि and in International Phonetic Alphabet (IPA): /kaːʃiɾeɖɖi ʃɾiːmaːn ɾeɖɖi/. <a href="#a1">↩</a>

@@ -26,6 +26,10 @@ widget3:
 ---
 <div style="text-align: center">
 	<p align="center">
-		Hi, this is a personal website of <a href="{{site.baseurl}}/about" >K. Sreeman Reddy</a>. Check out the <a href="{{site.baseurl}}/projects">projects</a> page. Other links are there in the navigation bar. You can find some <a href="{{site.baseurl}}/quotes">quotes here</a>.
+		Hi, this is a personal website of <a href="{{site.baseurl}}/about" >K. Sreeman Reddy</a>. Check out the <a href="{{site.baseurl}}/projects">projects</a> page. Other links are there in the navigation bar.
 	</p>
+</div>
+
+<div style="text-align:center;">
+
 </div>
