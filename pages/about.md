@@ -22,7 +22,7 @@ breadcrumbs: true
 
 <img src="{{site.baseurl}}/images/me.jpg" alt="me.jpg" width="300"/>
 
-Hi, my name is **Kasi Reddy Sreeman Reddy**<sup id="a1"><a href="#f1">1</a></sup> and I'm a final year undergraduate studying <a href="https://www.phy.iitb.ac.in/en/undergraduate" target="_blank">B. Tech in Engineering physics at IIT Bombay</a> (2019-2023). I am also pursuing a minor in <a href="https://www.math.iitb.ac.in/Academics/minor.php" target="_blank">Mathematics</a> and Honors in Physics. I am from <a href="https://en.wikipedia.org/wiki/Andhra_Pradesh" target="_blank">Andhra Pradesh</a>.
+Hi, my name is **Kasireddy Sreeman Reddy**<sup id="a1"><a href="#f1">1</a></sup> and I'm a final year undergraduate studying <a href="https://www.phy.iitb.ac.in/en/undergraduate" target="_blank">B. Tech in Engineering physics at IIT Bombay</a> (2019-2023). I am also pursuing a minor in <a href="https://www.math.iitb.ac.in/Academics/minor.php" target="_blank">Mathematics</a> and Honors in Physics. I am from <a href="https://en.wikipedia.org/wiki/Andhra_Pradesh" target="_blank">Andhra Pradesh</a>.
 
 I am currently primarily interested in <a href="https://en.wikipedia.org/wiki/String_theory" target="_blank">string theory</a> (especially the <a href="https://en.wikipedia.org/wiki/AdS/CFT_correspondence" target="_blank">AdS/CFT correspondence</a>). My other interests include <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a>, <a href="https://en.wikipedia.org/wiki/Particle_physics" target="_blank">particle physics</a> (especially strongly coupled quantum field theories), <a href="https://en.wikipedia.org/wiki/Quantum_information" target="_blank">quantum information theory</a> application to string theory/quantum gravity etc.
 ##### Hobbies:
@@ -73,7 +73,11 @@ u_{L}
 }
 $$
 
-<b id="f1">1)</b> Actually *Kasireddy Sreeman Reddy* but in all documents there is a wrong space and I am continuing that mistake in all official documents. In Telugu script: కాశిరెడ్డి శ్రీమాన్ రెడ్డి, in Devanagari: काशिरेड्डि श्रीमान रेड्डि and in International Phonetic Alphabet (IPA): /kaːʃiɾeɖɖi ʃɾiːmaːn ɾeɖɖi/. Also in this <a href="https://en.wikipedia.org/wiki/Indian_name#Telugu" target="_blank">Telugu name</a> *Sreeman* is the given name and *Kasireddy* is the family name and family name comes before the given name.<a href="#a1">↩</a>
+<b id="f1">1)</b> In Telugu script: కాశిరెడ్డి శ్రీమాన్ రెడ్డి, in Devanagari: काशिरेड्डि श्रीमान रेड्डि and in International Phonetic Alphabet (IPA): /kaːʃiɾeɖɖi ʃɾiːmaːn ɾeɖɖi/.
+
+In this <a href="https://en.wikipedia.org/wiki/Indian_name#Telugu" target="_blank">Telugu name</a> *Sreeman* is the given name and *Kasireddy* is the family name and family name comes at the beginning of the name.
+
+Also, in all Indian official documents there is a wrong space and my name is written as *Kasi Reddy Sreeman Reddy*, and I am continuing that mistake in all official documents. For international official documents I am using *Sreeman Reddy Kasi Reddy* as my name.<a href="#a1">↩</a>
 
 <script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
 
