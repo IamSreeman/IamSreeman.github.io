@@ -75,7 +75,7 @@ $$
 
 <b id="f1">1)</b> In Telugu script: కాశిరెడ్డి శ్రీమాన్ రెడ్డి, in Devanagari: काशिरेड्डि श्रीमान रेड्डि and in International Phonetic Alphabet (IPA): /kaːʃiɾeɖɖi ʃɾiːmaːn ɾeɖɖi/.
 
-In this <a href="https://en.wikipedia.org/wiki/Indian_name#Telugu" target="_blank">Telugu name</a> *Sreeman* is the given name and *Kasireddy* is the family name and family name comes at the beginning of the name.
+In this <a href="https://en.wikipedia.org/wiki/Telugu_names" target="_blank">Telugu name</a> *Sreeman* is the given name and *Kasireddy* is the family name and family name comes at the beginning of the name.
 
 Also, in all Indian official documents there is a wrong space and my name is written as *Kasi Reddy Sreeman Reddy*, and I am continuing that mistake in all official documents. For international official documents I am using *Sreeman Reddy Kasi Reddy* as my name.<a href="#a1">↩</a>
 
