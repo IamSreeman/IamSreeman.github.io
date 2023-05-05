@@ -8,7 +8,7 @@ script:
   foot: bookmarklet.js
 ---
 Many things which were considered to be morally acceptable centuries ago are now considered to be crimes like, for example, slavery. One such morally bad thing which is currently considered as acceptable throughout the world is brainwashing innocent children in the name of religion.<!--more--> As is evident from the above statements I am against <a href="https://en.wikipedia.org/wiki/Cultural_relativism" target="_blank">cultural relativism</a>. In my opinion, <a href="https://en.wikipedia.org/wiki/Negative_utilitarianism#Combining_negative_utilitarianism_with_rights" target="_blank">combining negative utilitarianism with rights</a> is the best among current ethical theories.<br>
- It is quite obvious that the reason why the majority of people in the world believe in religion is **childhood indoctrination**. Once children are brainwashed it will be hard for them to come out of those delusions compared to adults.<br>
+ It is quite obvious that the reason why the majority of people in the world believe in religion is **childhood indoctrination**. Once children are brainwashed it will be hard for them to come out of those delusions compared to adults. If an average human had never heard about religions until he became a grown man, he would see how silly, immoral, and unscientific religions are. The same person might believe in it sincerely if he was brainwashed from his childhood that it is true.<br>
 - [Responsibility of family](#responsibility-of-family)<br>
 - [Responsibility of government](#responsibility-of-government)
     - [Example of government's failure](#example-of-governments-failure)

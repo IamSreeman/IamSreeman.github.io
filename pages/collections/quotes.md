@@ -28,8 +28,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 - [Mathematicians](#mathematicians)
 - [Philosophers](#philosophers)
 - [Others](#others)
-  - [Veganism](#veganism)
-  - [Animanga](#animanga)
+
 ### Physicists
 
 >“If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”
@@ -74,6 +73,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“One reason why mathematics enjoys special esteem, above all other sciences, is that its laws are absolutely certain and indisputable, while those of other sciences are to some extent debatable and in constant danger of being overthrown by newly discovered facts.”
 
+>“A theory is the more impressive the greater the simplicity of its premises, the more different kinds of things it relates, and the more extended its area of applicability. Therefore the deep impression that classical thermodynamics made upon me. It is the only physical theory of universal content which I am convinced will never be overthrown, within the framework of applicability of its basic concepts.”
+
 >“The world needs new moral impulses which, I'm afraid, won't come from the churches, heavily compromised as they have been throughout the centuries. Perhaps those impulses must come from scientists in the tradition of Galileo, Kepler and Newton. In spite of failures and persecutions, these men devoted their lives to proving that the universe is a single entity, in which, I believe, a humanized God has no place. The genuine scientist is not moved by praise or blame, nor does he preach. He unveils the universe and people come eagerly, without being pushed, to behold a new revelation: the order, the harmony, the magnificence of creation! And as man becomes conscious of the stupendous laws that govern the universe in perfect harmony, **he begins to realize how small he is**. He sees the pettiness of human existence, with its ambitions and intrigues, its "I am better than thou" creed. This is the beginning of cosmic religion within him; fellowship and human service become his moral code. And without such moral foundations, we are hopelessly doomed.”
 
 >“Besides agreeing with the aims of vegetarianism for aesthetic and **moral reasons**, it is my view that a vegetarian manner of living by its purely physical effect on the human temperament would most beneficially influence a lot of mankind.”
@@ -99,6 +100,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“I have not been able to discover the cause of those properties of gravity from phenomena, and I frame no hypotheses; for whatever is not deduced from the phenomena is to be called a hypothesis, and hypotheses, whether metaphysical or physical, whether of occult qualities or mechanical, have no place in experimental philosophy.”
 
 >“Plato is my friend — Aristotle is my friend — but my greatest friend is truth.”
+
+>“I can calculate the motions of the heavenly bodies, but not the madness of the people.”
 
 >“I have studied these things — you have not.”<sup id="a2"><a href="#f2">2</a></sup>
 
@@ -260,7 +263,6 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Marie_Curie" target="_blank">Marie Curie</a>
 
-
 >“In some sort of crude sense which no vulgarity, no humor, no overstatement can quite extinguish, the physicists have known sin; and this is a knowledge which they cannot lose.”
 
 >“If we ask, for instance, whether the position of the electron remains the same, we must say 'no'; if we ask whether the electron's position changes with time, we must say 'no'; if we ask whether the electron is at rest, we must say 'no'; if we ask whether it is in motion, we must say 'no'. **The Buddha** has given such answers when interrogated as to the conditions of a man's self after his death; but they are not familiar answers for the tradition of seventeenth and eighteenth century science.”
@@ -268,6 +270,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“Einstein is also, and I think rightly, known as a man of very great goodwill and humanity. Indeed if I had to think of a single word for his attitude towards human problems, I would pick the Sanskrit word Ahimsa, not to hurt, harmlessness.”
 
 ― <a href="https://en.wikipedia.org/wiki/J._Robert_Oppenheimer" target="_blank">J. Robert Oppenheimer</a>
+
+>“The law that entropy always increases, holds, I think, the supreme position among the laws of Nature. If someone points out to you that your pet theory of the universe is in disagreement with Maxwell's equations — then so much the worse for Maxwell's equations. If it is found to be contradicted by observation — well, these experimentalists do bungle things sometimes. But if your theory is found to be against the second law of thermodynamics I can give you no hope; there is nothing for it but to collapse in deepest humiliation.”
+
+― <a href="https://en.wikipedia.org/wiki/Arthur_Eddington" target="_blank">Arthur Eddington</a>
 
 >“It is just as foolish to complain that people are selfish and treacherous as it is to complain that the magnetic field does not increase unless the electric field has a curl. Both are laws of nature.”
 
@@ -755,7 +761,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a>
 
-“Time, is what keeps everything from happening at once.”
+>“Time, is what keeps everything from happening at once.”
 
 ― <a href="https://en.wikipedia.org/wiki/Ray_Cummings" target="_blank">Ray Cummings</a>
 
@@ -968,7 +974,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Yuval_Noah_Harari" target="_blank">Yuval Noah Harari</a>
 
-#### Veganism
+#### Veganism <!-- omit in toc -->
 
 >“Our study [China–Cornell–Oxford Project: The Most Comprehensive Study of Nutrition Ever Conducted] suggests that **the closer one approaches a total plant food diet, the greater the health benefit**. … It turns out that animal protein, when consumed, exhibits a variety of undesirable health effects. Whether it is the immune system, various enzyme systems, the uptake of carcinogens into the cells, or hormonal activities, animal protein generally only causes mischief. High fat intake still can be a problem, and we ought not to be consuming such high-fat diets. But I suggest that animal protein is more problematic in this whole diet/disease relationship than is total fat.”
 
@@ -1130,7 +1136,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Peter_Singer" target="_blank">Peter Singer</a><span style="color:Chartreuse">(moral philosopher)</span>
 
-#### Animanga
+#### Animanga <!-- omit in toc -->
 
 >“Sometimes life's too **uncertain** to have regrets.”
 

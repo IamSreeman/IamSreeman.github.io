@@ -6,6 +6,7 @@ subheadline: "I am in a stubbornly persistent illusion that I have free will."
 teaser: ""
 breadcrumbs: true
 ---
+<link href="wikipedia-preview.css" rel="stylesheet">
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
@@ -36,6 +37,8 @@ You can also find me on Physics Stack Exchange.
 <div style="text-align:center;">
 
 <a href="https://physics.stackexchange.com/users/264772/kasi-reddy-sreeman-reddy"><img src="https://physics.stackexchange.com/users/flair/264772.png?theme=dark" width="208" height="58" alt="profile for Kasi Reddy Sreeman Reddy at Physics Stack Exchange, Q&amp;A for active researchers, academics and students of physics" title="profile for Kasi Reddy Sreeman Reddy at Physics Stack Exchange, Q&amp;A for active researchers, academics and students of physics"></a>
+
+</div>
 
 $$\boxed{
 \begin{aligned}
@@ -70,6 +73,13 @@ u_{L}
 }
 $$
 
-</div>
+<b id="f1">1)</b> Actually *Kasireddy Sreeman Reddy* but in all documents there is a wrong space and I am continuing that mistake in all official documents. In Telugu script: కాశిరెడ్డి శ్రీమాన్ రెడ్డి, in Devanagari: काशिरेड्डि श्रीमान रेड्डि and in International Phonetic Alphabet (IPA): /kaːʃiɾeɖɖi ʃɾiːmaːn ɾeɖɖi/. Also in this <a href="https://en.wikipedia.org/wiki/Indian_name#Telugu" target="_blank">Telugu name</a> *Sreeman* is the given name and *Kasireddy* is the family name and family name comes before the given name.<a href="#a1">↩</a>
 
-<b id="f1">1)</b> Actually *Kasireddy Sreeman Reddy* but in all documents there is a wrong space and I am continuing that mistake. In Telugu script: కాశిరెడ్డి శ్రీమాన్ రెడ్డి, in Devanagari: काशिरेड्डि श्रीमान रेड्डि and in International Phonetic Alphabet (IPA): /kaːʃiɾeɖɖi ʃɾiːmaːn ɾeɖɖi/. <a href="#a1">↩</a>
+<script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
+
+<script type="text/javascript">
+  wikipediaPreview.init({
+    detectLinks: true,
+    selector: '.wikipedia',
+  })
+</script>
