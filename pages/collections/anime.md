@@ -10,7 +10,7 @@ breadcrumbs: true
     <div class="row">
       <div class="about_paragraph">
         <p>
-          You can find me on <a href="https://myanimelist.net/profile/iamnameers" target="_blank">MyAnimeList here</a>. In this page you can find my favourite anime Openings, OSTs etc. In the beginning they were ordered in decreasing order of favouriteness. But later on after watching any new anime I am adding at the end without any preference.
+          You can see the list of anime I watched on <a href="https://myanimelist.net/animelist/iamnameers?status=7&order=3&order2=0" target="_blank">MyAnimeList here</a>. In this page you can find my favourite anime Openings, OSTs etc. In the beginning they were ordered in decreasing order of favouriteness. But later on after watching any new anime I am adding at the end without any preference.
         </p>
       </div>
     </div>
@@ -22,35 +22,42 @@ breadcrumbs: true
 
 >#### Contents
 >
->1. [Openings and Endings](#openings-and-endings1)
+>1. [Songs](#songs-openings-and-endings-1)
 >2. [Scenes](#scenes)
 >3. [OSTs](#osts)
 >4. [Recaps](#recaps)
 >5. [Certified Hood Classics](#certified-hood-classics)
 
-#### Openings and Endings<sup id="a1"><a href="#f1">1</a></sup>
-
-<a href="https://www.youtube.com/watch?v=FJqGirLjQn4" target="_blank">Dragon Ball - Makafushigi Adventure (Opening 1)</a><br>
+#### Songs (Openings and Endings) <sup id="a1"><a href="#f1">1</a></sup>
 <br>
+<a href="https://youtube.com/playlist?list=PLO4inBkr3NBM7bCOSSgOvLGnJKp3dNmyl" target="_blank">[YouTube playlist link]</a><br>
+<br>
+<a href="https://www.youtube.com/watch?v=FJqGirLjQn4" target="_blank">Dragon Ball - Makafushigi Adventure (Opening 1)</a><br>
 <a href="https://www.youtube.com/watch?v=cott-MKdHWA&t=22s" target="_blank">Hunter x Hunter Ending 2</a><br>
 <a href="https://www.youtube.com/watch?v=ShEAiFqkY0E" target="_blank">Fullmetal Alchemist Brotherhood OP 1</a><br>
 <a href="https://www.youtube.com/watch?v=VBBFDb0hC4Y" target="_blank">The sore feet song ||Mushishi opening||</a><br>
 <a href="https://www.youtube.com/watch?v=o6wtDPVkKqI" target="_blank">Zankoku na Tenshi no Te-ze “The Cruel Angel's Thesis” (Neon Genesis Evangelion op)</a><br>
+<a href="https://www.youtube.com/watch?v=NkYYYew8CUI" target="_blank">BERSERK ~Forces~ by Susumu Hirasawa</a><br>
+<a href="https://www.youtube.com/watch?v=9TRemrRaPjc" target="_blank">Berserk OP Tell me why</a><br>
+<a href="https://www.youtube.com/watch?v=lBdnti4_UUg" target="_blank">Berserk - My Brother</a><br>
 <a href="https://www.youtube.com/watch?v=DehmPOkrtRc" target="_blank">Yu Yu hakusho english opening</a><br>
 <a href="https://www.youtube.com/watch?v=uMeR2W19wT0" target="_blank">Unravel「Tokyo Ghoul」</a><br>
 <a href="https://www.youtube.com/watch?v=uPjxOV8r-Ig" target="_blank">[Naruto] | Opening 1 - R★O★C★K★S</a><br>
-<a href="https://www.youtube.com/watch?v=eZkehdHmXO8" target="_blank">JoJo's Bizarre Adventure OP1 Sono Chi no Sadame</a><br>
-<a href="https://www.youtube.com/watch?v=_ih7vT0CrLE" target="_blank">JoJo's Bizarre Adventure Opening 2 BLOODY STREAM</a><br>
+<a href="https://www.youtube.com/watch?v=8Ns3murXFhw" target="_blank">JoJo's Bizarre Adventure OP1 Sono Chi no Sadame</a><br>
+<a href="https://www.youtube.com/watch?v=PcuTPjgMiXw" target="_blank">JoJo's Bizarre Adventure Opening 2 BLOODY STREAM</a><br>
 <a href="https://www.youtube.com/watch?v=KRtYuG6MgX8" target="_blank">Legend of the Galactic Heroes 1st Opening</a><br>
 <a href="https://www.youtube.com/watch?v=3wQiyOmAUOA" target="_blank">Hunter X Hunter Opening</a><br>
 <a href="https://www.youtube.com/watch?v=_ty-Nqm4Pdc" target="_blank">Bleach Opening 1</a><br>
 <a href="https://www.youtube.com/watch?v=pYnLO7MVKno" target="_blank">CHA-LA HEAD CHA-LA - Dragonball Z (Opening Theme)</a><br>
 <a href="https://www.youtube.com/watch?v=DJcuDgVYjgI" target="_blank">Dragon Ball GT - OP Dan Dan Kokoro hikareteku</a><br>
-<a href="https://www.youtube.com/watch?v=SaaRwKlcNaA" target="_blank">[Naruto]  ENDING - Wind By Yoshio Akeboshi</a><br>
+<a href="https://www.youtube.com/watch?v=4p2rH49c3rI" target="_blank">Dragon Ball Super Opening</a><br>
+<a href="https://www.youtube.com/watch?v=PCfiqY05BpA" target="_blank">[Naruto] Shippuden - Girei (Pain's Theme Song)</a><br>
+<a href="https://www.youtube.com/watch?v=WqGOaOHu5uY" target="_blank">[Naruto] ENDING - Wind By Yoshio Akeboshi</a><br>
 <a href="https://www.youtube.com/watch?v=YVvNh7MKscA" target="_blank">[Naruto] Harmonia</a><br>
 <a href="https://www.youtube.com/watch?v=sfssKc7jofY" target="_blank">[Naruto] Alive</a><br>
 <a href="https://www.youtube.com/watch?v=SQtbLfbUyEI" target="_blank">[Naruto] "Blue Bird" - ikimono</a><br>
 <a href="https://www.youtube.com/watch?v=zVgKnfN9i34" target="_blank">[Naruto] OP 16 | Silhouette</a><br>
+<a href="https://www.youtube.com/watch?v=SavhHnWla6c" target="_blank">Naruto Shippuden Opening 6 | Sign (HD)</a><br>
 <a href="https://www.youtube.com/watch?v=LKP-vZvjbh8" target="_blank">Attack on Titan Season 2 - Opening | Shinzou wo Sasageyo!</a><br>
 <a href="https://www.youtube.com/watch?v=Od9NQbyNpwE" target="_blank">Boku Dake Ga Inai Machi Ending</a><br>
 <a href="https://www.youtube.com/watch?v=ZUjSCPpauDA" target="_blank">Kiseijuu Parasyte ED</a><br>
@@ -73,7 +80,7 @@ breadcrumbs: true
 <a href="https://www.youtube.com/watch?v=REHaJZgWwxY" target="_blank">Gintama Opening 1</a><br>
 <a href="https://www.youtube.com/watch?v=iXpGVuaQwXo" target="_blank">Gintama Opening 13</a><br>
 <a href="https://www.youtube.com/watch?v=dFlDRhvM4L0" target="_blank">CHAINSAW MAN Opening</a><br>
-<a href="https://www.youtube.com/watch?v=5EXFilTUiko" target="_blank">Gurren Lagann Opening 1 Sorairo Days</a><br>
+<a href="https://www.youtube.com/watch?v=FwgMxjhXkKo" target="_blank">Gurren Lagann Opening 1 Sorairo Days</a><br>
 <a href="https://www.youtube.com/watch?v=VT6LFOIofRE" target="_blank">Gurren Lagann Libera Me From Hell</a><br>
 <a href="https://www.youtube.com/watch?v=7U7BDn-gU18" target="_blank">Vinland saga OP 1</a><br>
 <a href="https://www.youtube.com/watch?v=uNbI_AXMics&t=40s" target="_blank">Vinland Saga SEASON 2 1st Cour Ending</a><br>
@@ -81,6 +88,17 @@ breadcrumbs: true
 <a href="https://www.youtube.com/watch?v=3TlMkM6Kq9g" target="_blank">Dororo 1969 opening theme</a><br>
 <a href="https://www.youtube.com/watch?v=X0I0nf2eoK8" target="_blank">Mo Dao Zu Shi Opening (Tencent)</a> (<a href="https://www.youtube.com/watch?v=TtAyKxeibn8" target="_blank">Full</a>)<br>
 <a href="https://www.youtube.com/watch?v=07Zi2ddA6Wc" target="_blank">Mo Dao Zu Shi 2 ED song</a><br>
+<a href="https://www.youtube.com/watch?v=6kguaGI7aZg" target="_blank">The End Of Evangelion - Komm Süsser Tod - Come Sweet Death (HQ)</a><br>
+<a href="https://www.youtube.com/watch?v=7JEjQG4-tpU" target="_blank">Number One - Bankai</a><br>
+<a href="https://www.youtube.com/watch?v=2ZN-zAKIfyQ" target="_blank">Ergo Proxy OP Full HD (Kiri - MONORAL)</a><br>
+<a href="https://www.youtube.com/watch?v=Y9Y0XkSvQSI" target="_blank">Great Teacher Onizuka Ending 1</a><br>
+<a href="https://www.youtube.com/watch?v=2JGl6UzfPkE" target="_blank">GTO the Animation - Opening 1 | Driver's High</a><br>
+<a href="https://www.youtube.com/watch?v=UjjTMNDZi-A" target="_blank">Death Parade OP / Opening デス・パレード"Flyers" by BRADIO</a><br>
+<a href="https://www.youtube.com/watch?v=G8CFuZ9MseQ" target="_blank">Code Geass - Official | COLORS</a><br>
+<a href="https://www.youtube.com/watch?v=dd7BILZcYAY" target="_blank">Steins;Gate Opening HD 1080p Creditless</a><br>
+<a href="https://www.youtube.com/watch?v=5cs4lri-9Xg" target="_blank">Trigun Ending</a><br>
+<a href="https://www.youtube.com/watch?v=JfyjJpeKDzU" target="_blank">trigun sound life (rems song)</a><br>
+<a href="https://www.youtube.com/watch?v=hLMTfIZiIGA" target="_blank">Hajime No Ippo - Ending 1 - Yuuzora No Kami Hikouki</a><br>
 
 #### Scenes
 
@@ -119,18 +137,19 @@ breadcrumbs: true
 <a href="https://www.youtube.com/watch?v=nYjBnKQqYfo" target="_blank">Wei Wuxian in the Sunshot Campaign</a><br>
 
 #### OSTs
-
+<br>
+<a href="https://youtube.com/playlist?list=PLO4inBkr3NBPdvr73wGSPuxYxdvXBCzOO" target="_blank">[YouTube playlist link]</a><br>
+<br>
 <a href="https://www.youtube.com/watch?v=UaIoK3Bf6lk&t=5s" target="_blank">Death Note Kyrie</a><br>
 <a href="https://www.youtube.com/watch?v=PLyi5xHtkb0&t=25s" target="_blank">~Bleach OST On the Precipice of Defeat~</a><br>
 <a href="https://www.youtube.com/watch?v=Q2aM5btBLVU" target="_blank">Bleach OST 3 - Soundscape to Ardor</a><br>
 <a href="https://www.youtube.com/watch?v=440UkXOXL0E" target="_blank">[Naruto] Shippuuden OST 2 Track 23- Senya (Extended)</a><br>
-<a href="https://www.youtube.com/watch?v=PCfiqY05BpA" target="_blank">[Naruto] Shippuden - Girei (Pain's Theme Song)</a><br>
 <a href="https://www.youtube.com/watch?v=wEWF2xh5E8s&t=30s" target="_blank">[Naruto] - Sadness and Sorrow</a><br>
 <a href="https://www.youtube.com/watch?v=jqWs4l8l0Zs" target="_blank">[Naruto] Konoha peace ost</a><br>
 <a href="https://www.youtube.com/watch?v=mjjkHg5FOhk&t=21s" target="_blank">[Naruto] - The Raising Fighting Spirit</a><br>
 <a href="https://www.youtube.com/watch?v=2ISfifczkgM" target="_blank">[Naruto] Shippuden - Departure To The Front Lines</a><br>
 <a href="https://www.youtube.com/watch?v=IkbQ71K3n1M" target="_blank">[Naruto] Shippuuden OST - 19 - Despair</a><br>
-<a href="https://www.youtube.com/watch?v=YR7dyQa-8q0" target="_blank">[Naruto] Shippuden OST - Saika (Colourful Mist)</a><br>
+<a href="https://www.youtube.com/watch?v=yUt8Ot7BBEs" target="_blank">[Naruto] Shippuden OST - Saika (Colourful Mist)</a><br>
 <a href="https://www.youtube.com/watch?v=P6naO7tVcHg" target="_blank">[Naruto] Shippuuden OST -13 - Loneliness</a><br>
 <a href="https://www.youtube.com/watch?v=TdcI-lNBqyg" target="_blank">[Naruto] Shippuden Minato&Kushina's Death Song Chichi no Haha</a><br>
 <a href="https://www.youtube.com/watch?v=3yAKb5xMqbs" target="_blank">[Naruto] Shippuden 1 -  17 - Rakujitsu (Setting Sun)</a><br>
@@ -139,7 +158,7 @@ breadcrumbs: true
 <a href="https://www.youtube.com/watch?v=U0TXIXTzJEY&t=225s" target="_blank">il vento d'oro [JojJo part 5]</a><br>
 <a href="https://www.youtube.com/watch?v=lRrOLTHu-ew" target="_blank">JoJo's Bizarre Adventure OST - Pillar Men Theme『Awaken』</a><br>
 <a href="https://www.youtube.com/watch?v=qrw3NYx2YQ0&t=196s" target="_blank">JoJo - Jonathan's Theme - Fukutsu ~Mushin no Sakebi~</a><br>
-<a href="https://www.youtube.com/watch?v=4fRaWZji_Co&t=14s" target="_blank">Bleach OST 1 #19 Never Meant To Belong</a><br>
+<a href="https://www.youtube.com/watch?v=zO_532nbu0c&t=14s" target="_blank">Bleach OST 1 #19 Never Meant To Belong</a><br>
 <a href="https://www.youtube.com/watch?v=Oi1s1xlk7DQ&t=24s" target="_blank">[HxH 2011] 20. くじら島より / </a><br>
 <a href="https://www.youtube.com/watch?v=qUQPebNuv5A&list=PLRshY30w8mfRs8JTjmvI5MrvgAUz-zeCC&index=18" target="_blank">[HxH 2011] Unreleased Soundtrack - Departure Flute Version</a><br>
 <a href="https://www.youtube.com/watch?v=q43wzP6A1CM" target="_blank">[HxH 2011] OST 3 - 1 - Kingdom of Predators</a><br>
@@ -166,6 +185,7 @@ breadcrumbs: true
 <a href="https://www.youtube.com/watch?v=0l__jSgTAmQ" target="_blank">Gurren Lagann Thrust Through the Heavens with Your Spirit!</a><br>
 <a href="https://www.youtube.com/watch?v=dR3BvkNWZI0" target="_blank">Hero Vinland Saga OST</a><br>
 <a href="https://www.youtube.com/watch?v=3S1NmtWDVYk" target="_blank">Tokyo Ghoul - Licht und Schatten - Yutaka Yamada</a><br>
+<a href="https://www.youtube.com/watch?v=GMpU4ZL15Lg" target="_blank">GTO - Kattobi Rock'n Roll SOUNDT</a><br>
 
 #### Recaps
 <a href="https://www.youtube.com/watch?v=GxUxTtdkW2E" target="_blank">ONE PIECE</a><br>
