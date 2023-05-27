@@ -77,13 +77,17 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“The world needs new moral impulses which, I'm afraid, won't come from the churches, heavily compromised as they have been throughout the centuries. Perhaps those impulses must come from scientists in the tradition of Galileo, Kepler and Newton. In spite of failures and persecutions, these men devoted their lives to proving that the universe is a single entity, in which, I believe, a humanized God has no place. The genuine scientist is not moved by praise or blame, nor does he preach. He unveils the universe and people come eagerly, without being pushed, to behold a new revelation: the order, the harmony, the magnificence of creation! And as man becomes conscious of the stupendous laws that govern the universe in perfect harmony, **he begins to realize how small he is**. He sees the pettiness of human existence, with its ambitions and intrigues, its "I am better than thou" creed. This is the beginning of cosmic religion within him; fellowship and human service become his moral code. And without such moral foundations, we are hopelessly doomed.”
 
->“Besides agreeing with the aims of vegetarianism for aesthetic and **moral reasons**, it is my view that a vegetarian manner of living by its purely physical effect on the human temperament would most beneficially influence a lot of mankind.”
+>“Although I have been prevented by outward circumstances from observing a strictly vegetarian diet, I have long been an adherent to the cause in principle. Besides agreeing with the aims of vegetarianism for aesthetic and **moral reasons**, it is my view that a vegetarian manner of living by its purely physical effect on the human temperament would most beneficially influence a lot of mankind.”[1930]
 
 >“Nationalism is an infantile disease. It is the measles of mankind.”
 
 >“Only a life lived for **others** is a life worthwhile.”
 
 >“In my opinion the only salvation for civilization and the human race lies in the creation of a **world government**, with security of nations founded upon law. As long as sovereign states continue to have separate armaments and armament secrets, new world wars will be inevitable.”
+
+>“Being a Jew myself, perhaps I can understand and empathize with how black people feel as victims of discrimination.”
+
+>“I do not intend to be quiet about it [racism].”
 
 >“In order to put his system into mathematical form at all, Newton had to devise the concept of differential quotients and propound the laws of motion in the form of total differential equations—perhaps <b>the greatest advance in thought that a single individual</b> was ever privileged to make.”
 
