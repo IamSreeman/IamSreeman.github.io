@@ -978,7 +978,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Yuval_Noah_Harari" target="_blank">Yuval Noah Harari</a>
 
-#### Veganism <!-- omit in toc -->
+#### Veganism<!-- omit in toc -->
 
 >“Our study [China–Cornell–Oxford Project: The Most Comprehensive Study of Nutrition Ever Conducted] suggests that **the closer one approaches a total plant food diet, the greater the health benefit**. … It turns out that animal protein, when consumed, exhibits a variety of undesirable health effects. Whether it is the immune system, various enzyme systems, the uptake of carcinogens into the cells, or hormonal activities, animal protein generally only causes mischief. High fat intake still can be a problem, and we ought not to be consuming such high-fat diets. But I suggest that animal protein is more problematic in this whole diet/disease relationship than is total fat.”
 
@@ -1007,6 +1007,16 @@ And share your pleasures with beggars.”
 >“A man can live and be healthy without killing animals for food; therefore, if he eats meat, **he participates in taking animal life merely for the sake of his appetite**. And to act so is **immoral**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Leo_Tolstoy" target="_blank">Leo Tolstoy</a><span style="color:Chartreuse">(Russian writer who is regarded as one of the greatest authors of all time and pioneer of **Nonviolent resistance movement** that inspired **M.K. Gandhi** and **Martin Luther King Jr.**)</span>
+
+>“What do they know-all these scholars, all these philosophers, all the leaders of the world - about such as you? They have convinced themselves that man, the worst transgressor of all the species, is the crown of creation. All other creatures were created merely to provide him with food, pelts, to be tormented, exterminated. **In relation to them, all people are Nazis; for the animals it is an eternal Treblinka.**”
+
+― <a href="https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer" target="_blank">Isaac Bashevis Singer</a><span style="color:Chartreuse">(Jewish-American writer)</span>
+
+>“I have suffered so much myself that I can feel other creatures' suffering by virtue of my own.”
+
+>“I believe as long as man tortures and kills animals, he will torture and kill humans as well—and wars will be waged—for killing must be practiced and learned on a small scale.”
+
+― <a href="https://en.wikipedia.org/wiki/Edgar_Kupfer-Koberwitz" target="_blank">Edgar Kupfer-Koberwitz</a><span style="color:Chartreuse">(journalist, poet and prisoner in the Dachau concentration camp)</span>
 
 >“I don't hold animals superior or even equal to humans. The whole case for behaving decently to animals rests on the fact that we are the superior species. We are the species uniquely capable of imagination, rationality and moral choice – and that is precisely why we are under the **obligation** to recognise and respect the rights of animals.”
 
@@ -1140,7 +1150,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Peter_Singer" target="_blank">Peter Singer</a><span style="color:Chartreuse">(moral philosopher)</span>
 
-#### Animanga <!-- omit in toc -->
+#### Animanga<!-- omit in toc -->
 
 >“Sometimes life's too **uncertain** to have regrets.”
 

@@ -48,6 +48,7 @@ breadcrumbs: true
 >    - [Videos](#videos) 
 >    - [Other](#other)
 >    - [Memes](#memes)
+>3. [My story](#my-story)
 >
 >[Comments](#comments)
 
@@ -106,8 +107,7 @@ The amount of suffering caused by vivisection is currently negligible compared t
 <img src="{{site.baseurl}}/images/other/share-cereal-human-food.png" width="400"/>
 <img src="{{site.baseurl}}/images/other/Land-use-of-different-diets-Poore-Nemecek.png" width="400"/>
 <img src="{{site.baseurl}}/images/other/Environmental impact of animal products.png" width="400"/>
-<img src="{{site.baseurl}}/images/other/Milk Land Water.png" width="400"/>
-<img src="{{site.baseurl}}/images/other/Milk Gas Emissions.png" width="400"/>
+<img src="{{site.baseurl}}/images/other/PlantMilk.png" width="400"/>
 
 ##### Health
 - This comprehensive meta-analysis reports a significant protective effect of a vegetarian diet versus the incidence and/or mortality from ischemic heart disease (-25%) and incidence from total cancer (-8%). Vegan diet conferred a significant reduced risk (-15%) of incidence from total cancer. [Source](https://pubmed.ncbi.nlm.nih.gov/26853923/)
@@ -126,55 +126,80 @@ The amount of suffering caused by vivisection is currently negligible compared t
 
 #### Resources
 
-- [3movies](https://3movies.org/social)
-- [Vegan Cheat Sheet](https://vegancheatsheet.org)
-- [Vegan Starter Kit](https://www.vegankit.com/)
-- [Abolitionist Approach](https://www.abolitionistapproach.com/)
-- [HowDoIGoVegan.com](https://www.howdoigovegan.com/)
+- [3movies](https://3movies.org/social){:target="_blank"}
+- [Vegan Cheat Sheet](https://vegancheatsheet.org){:target="_blank"}
+- [Vegan Starter Kit](https://www.vegankit.com/){:target="_blank"}
+- [Abolitionist Approach](https://www.abolitionistapproach.com/){:target="_blank"}
+- [HowDoIGoVegan.com](https://www.howdoigovegan.com/){:target="_blank"}
 
 ##### Nutrition
-- [Veganhealth.org](https://veganhealth.org/)
-- [Mic the Vegan](https://www.youtube.com/c/MictheVegan)
-- [Nutritionfacts.org](https://nutritionfacts.org/)
-- [Veganfitness.com](https://veganfitness.com/)
-- [Vegan society](https://www.vegansociety.com/resources/nutrition-and-health)
+- [Veganhealth.org](https://veganhealth.org/){:target="_blank"}
+- [Mic the Vegan](https://www.youtube.com/c/MictheVegan){:target="_blank"}
+- [Nutritionfacts.org](https://nutritionfacts.org/){:target="_blank"}
+- [Veganfitness.com](https://veganfitness.com/){:target="_blank"}
+- [Vegan society](https://www.vegansociety.com/resources/nutrition-and-health){:target="_blank"}
 
 ##### Arguments
-- [Carnism debunked](https://www.carnismdebunked.com/)
-- [Veganspeak.info](https://veganspeak.info/)
-- [vegansidekick](http://www.godfist.com/vegansidekick/guide.php)
-- [Arguments for veganism by philosophical vegan](https://philosophicalvegan.com/wiki/index.php/Arguments_for_veganism)
-- [Earthling Ed](https://www.youtube.com/c/EarthlingEdChannel)
-- [Erin Janus](https://www.youtube.com/c/ErinJanus/)
-- [CosmicSkeptic](https://www.youtube.com/c/CosmicSkeptic)
-- [ADAPTT](http://www.adaptt.org/index.html)
-- [Dontwatch.org](https://dontwatch.org/)
-- [www.collectivefashionjustice.org](https://www.collectivefashionjustice.org/non-humans)
+- [Carnism debunked](https://www.carnismdebunked.com/){:target="_blank"}
+- [Veganspeak.info](https://veganspeak.info/){:target="_blank"}
+- [Arguments for veganism by philosophical vegan](https://philosophicalvegan.com/wiki/index.php/Arguments_for_veganism){:target="_blank"}
+- [vegansidekick](http://www.godfist.com/vegansidekick/guide.php){:target="_blank"}
+- [Earthling Ed](https://www.youtube.com/c/EarthlingEdChannel){:target="_blank"}
+- [Erin Janus](https://www.youtube.com/c/ErinJanus/){:target="_blank"}
+- [Lifting Vegan Logic](https://www.youtube.com/c/LiftingVeganLogic){:target="_blank"}
+- [David Ramms](https://www.youtube.com/@davidramms){:target="_blank"}
+- [ADAPTT](http://www.adaptt.org/index.html){:target="_blank"}
+- [Dontwatch.org](https://dontwatch.org/){:target="_blank"}
+- [www.collectivefashionjustice.org](https://www.collectivefashionjustice.org/non-humans){:target="_blank"}
 ##### Cooking
 
-- [Simnett Nutrition](https://www.youtube.com/c/Simnettnutrition)<br>
+1) [Andrew Bernard](https://www.youtube.com/@thenarddogcooks){:target="_blank"}<br>
+Example video:<br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-_JkDYN_U1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2) [Simnett Nutrition](https://www.youtube.com/c/Simnettnutrition){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FFFFIzXkTes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Yeung Man Cooking](https://www.youtube.com/c/WILYEUNG)<br>
-Example video:<br>
+3) [Yeung Man Cooking](https://www.youtube.com/c/WILYEUNG){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i9EmC0pM1YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Pick Up Limes](https://www.youtube.com/c/PickUpLimes)
+4) [Cheap Lazy Vegan](https://www.youtube.com/c/CheapLazyVegan){:target="_blank"}<br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Js8sM0XA2sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+5) [Pick Up Limes](https://www.youtube.com/c/PickUpLimes){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eI91-UZpJr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Avant Garde vegan](https://www.youtube.com/c/avantgardevegan)
+6) [Avant Garde vegan](https://www.youtube.com/c/avantgardevegan){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P_wD2zydD_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife)
+7) [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q4EgmrfmD0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [cookingwithparita](https://cookingwithparita.com/)
+8) [The Happy Pear](https://www.youtube.com/@thehappypear){:target="_blank"}<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0lDjSFhNsE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+9) [Rachel Ama](https://www.youtube.com/@RachelAma){:target="_blank"}<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0rILcTHxlLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+10) [Sweet Simple Vegan](https://www.youtube.com/@Sweetsimplevegan){:target="_blank"}<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4doYb2d2sTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+11) [cookingwithparita](https://cookingwithparita.com/){:target="_blank"}
+
+12) [Sarah's Vegan Kitchen](https://www.youtube.com/@SarahsVeganKitchen){:target="_blank"}
+
+13) [Sauce Stache](https://www.youtube.com/@SauceStache){:target="_blank"}
+
+14) [Lauren Toyota](https://www.youtube.com/@LaurenToyota){:target="_blank"}
+
+15) [Edgy Veg](https://www.youtube.com/@EdgyVeg){:target="_blank"}
+
 ##### Videos
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSpglxHTJVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UcN7SGGoCNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LQRAfJyEsko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nV04zyfLyN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Jf44vLndiRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UcN7SGGoCNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yKp8-X1zZqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gnQL-brI-9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/roIWg4ntj9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -186,28 +211,41 @@ Example video:<br>
 - [Animal clock](https://animalclock.org/)
 
 ###### Memes
+
 <img src="{{site.baseurl}}/images/other/memes/v/0.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/1.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/2.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/3.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/4.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/4.1.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/5.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/6.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/7.jpg" width="300"/>
-<img src="{{site.baseurl}}/images/other/memes/v/8.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/8.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/9.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/9.1.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/10.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/10.1.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/11.jpg" width="300"/>
-<img src="{{site.baseurl}}/images/other/memes/v/12.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/11.1.png" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/12.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/13.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/13.1.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/14.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/14.1.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/15.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/16.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/16.1.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/17.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/17.1.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/18.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/18.1.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/19.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/19.1.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/20.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/20.1.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/21.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/21.1.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/22.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/23.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/24.jpg" width="300"/>
@@ -215,8 +253,16 @@ Example video:<br>
 <img src="{{site.baseurl}}/images/other/memes/v/26.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/27.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/28.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/29.png" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/30.jpeg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/31.png" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/32.png" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/33.png" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/34.png" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/35.png" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/36.png" width="300"/>
 
-###### My story
+#### My story
 
 When I was a child I was a vegetarian and I used to think that there is nothing morally wrong with drinking milk since we are not killing the cows or buffaloes. In the middle of my 9th class my biology teacher said that eating meat is necessary to be healthy and he gave several reasons why it is beneficial to health. Because of that I became a meat eater and ate chicken in 2 meals for the next 4 years. Now I know that it is actually healthier to be a vegan. But looking back even if it was true that carnism is slightly more healthier than veganism (which is certainly false) it is not morally OK to eat meat.
 
