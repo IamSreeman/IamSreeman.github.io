@@ -10,7 +10,7 @@ breadcrumbs: true
     <div class="row">
       <div class="about_paragraph">
         <p>
-          You can see the list of anime I watched on <a href="https://myanimelist.net/animelist/iamnameers?status=7&order=3&order2=0" target="_blank">MyAnimeList here</a>. In this page you can find my favourite anime Openings, OSTs etc. In the beginning they were ordered in decreasing order of favouriteness. But later on after watching any new anime I am adding at the end without any preference.
+          You can see the list of anime I watched on <a href="https://myanimelist.net/animelist/iamnameers?status=7&order=3&order2=0" target="_blank">MyAnimeList here</a>. In this page you can find my favourite anime Openings, OSTs etc. In the beginning they were ordered in decreasing order of favouriteness. But later on after watching any new anime I am adding at the end without any preference. You can find many quotes related to animanga <a href="{{site.baseurl}}/quotes/#animanga"  target="_blank">here</a>.
         </p>
       </div>
     </div>

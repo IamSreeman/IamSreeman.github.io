@@ -59,7 +59,7 @@ The following are the reasons why I made this decision.
 
 ##### Moral
 
-- Meat and Dairy products are not necessary for humans to live and the practise of consuming these is easily the most evil thing that is happening right now on planet earth.
+- Meat and Dairy products are not necessary for humans to live a **healthy life** and the practise of consuming these is easily the biggest cause of suffering in our current times.
 - Currently each year 80 billion land animals are slaughtered for food. Sources: [1](https://en.wikipedia.org/wiki/Animal_slaughter), [2](https://www.fao.org/faostat/en/#data/QCL)<br>
 
 <img src="{{site.baseurl}}/images/other/Slaughter.png" width="400"/>
@@ -158,7 +158,8 @@ Example video:<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-_JkDYN_U1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2) [Simnett Nutrition](https://www.youtube.com/c/Simnettnutrition){:target="_blank"}<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FFFFIzXkTes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FFFFIzXkTes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jiW4w3-7jf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 3) [Yeung Man Cooking](https://www.youtube.com/c/WILYEUNG){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i9EmC0pM1YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -169,7 +170,7 @@ Example video:<br>
 5) [Pick Up Limes](https://www.youtube.com/c/PickUpLimes){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eI91-UZpJr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-6) [Avant Garde vegan](https://www.youtube.com/c/avantgardevegan){:target="_blank"}<br>
+6) [Gaz Oakley](https://www.youtube.com/@gazoakleychef){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P_wD2zydD_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 7) [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife){:target="_blank"}<br>
@@ -258,9 +259,12 @@ Example video:<br>
 <img src="{{site.baseurl}}/images/other/memes/v/31.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/32.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/33.png" width="300"/>
-<img src="{{site.baseurl}}/images/other/memes/v/34.png" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/34.jpeg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/35.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/36.png" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/37.jpg" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/38.png" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/39.png" width="300"/>
 
 #### My story
 
