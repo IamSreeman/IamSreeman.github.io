@@ -158,11 +158,11 @@ Example video:<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-_JkDYN_U1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2) [Simnett Nutrition](https://www.youtube.com/c/Simnettnutrition){:target="_blank"}<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FFFFIzXkTes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jiW4w3-7jf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jiW4w3-7jf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FFFFIzXkTes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3) [Yeung Man Cooking](https://www.youtube.com/c/WILYEUNG){:target="_blank"}<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i9EmC0pM1YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+3) [The Vegan Gym](https://www.youtube.com/@TheVeganGym){:target="_blank"}<br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AQxG258gOx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 4) [Cheap Lazy Vegan](https://www.youtube.com/c/CheapLazyVegan){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Js8sM0XA2sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -176,24 +176,31 @@ Example video:<br>
 7) [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q4EgmrfmD0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-8) [The Happy Pear](https://www.youtube.com/@thehappypear){:target="_blank"}<br>
+8) [Yeung Man Cooking](https://www.youtube.com/c/WILYEUNG){:target="_blank"}<br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i9EmC0pM1YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+9) [The Happy Pear](https://www.youtube.com/@thehappypear){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0lDjSFhNsE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-9) [Rachel Ama](https://www.youtube.com/@RachelAma){:target="_blank"}<br>
+10) [Rachel Ama](https://www.youtube.com/@RachelAma){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0rILcTHxlLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-10) [Sweet Simple Vegan](https://www.youtube.com/@Sweetsimplevegan){:target="_blank"}<br>
+11) [Sweet Simple Vegan](https://www.youtube.com/@Sweetsimplevegan){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4doYb2d2sTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-11) [cookingwithparita](https://cookingwithparita.com/){:target="_blank"}
+12) [cookingwithparita](https://cookingwithparita.com/){:target="_blank"}
 
-12) [Sarah's Vegan Kitchen](https://www.youtube.com/@SarahsVeganKitchen){:target="_blank"}
+13) [Vegan Richa](https://www.veganricha.com/){:target="_blank"}
 
-13) [Sauce Stache](https://www.youtube.com/@SauceStache){:target="_blank"}
+14) [Sarah's Vegan Kitchen](https://www.youtube.com/@SarahsVeganKitchen){:target="_blank"}
 
-14) [Lauren Toyota](https://www.youtube.com/@LaurenToyota){:target="_blank"}
+15) [Sauce Stache](https://www.youtube.com/@SauceStache){:target="_blank"}
 
-15) [Edgy Veg](https://www.youtube.com/@EdgyVeg){:target="_blank"}
+16) [Lauren Toyota](https://www.youtube.com/@LaurenToyota){:target="_blank"}
+
+17) [Edgy Veg](https://www.youtube.com/@EdgyVeg){:target="_blank"}
+
+18) [Julia Ayers](https://www.youtube.com/@juliaayers111){:target="_blank"}
 
 ##### Videos
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSpglxHTJVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
