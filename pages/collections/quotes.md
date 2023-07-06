@@ -283,6 +283,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“Young man, in mathematics you don't understand things. You just get used to them.”
 
+>“If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.”
+
 ― <a href="https://en.wikipedia.org/wiki/John_von_Neumann" target="_blank">John von Neumann</a>
 
 >“A possible explanation of the physicist's use of mathematics to formulate his laws of nature is that he is a somewhat irresponsible person. As a result, when he finds a connection between two quantities which resembles a connection well-known from mathematics, he will jump at the conclusion that the connection is that discussed in mathematics simply because he does not know of any other similar connection.”
@@ -404,6 +406,14 @@ Answer: Theoretical physics is done by physicists who lack the necessary skills 
 Mathematical physicists tend not to like this joke, but other physicists seem to. Nonphysicists, of course, are entirely immune to its charms.”
 
 ― <a href="https://en.wikipedia.org/wiki/David_Mermin" target="_blank">N. David Mermin</a>
+
+>“The general struggle for existence of animate beings is not a struggle for raw materials – these, for organisms, are air, water and soil, all abundantly available – nor for energy which exists in plenty in any body in the form of heat, but a struggle for negative entropy, which becomes available through the transition of energy from the hot sun to the cold earth.”
+
+― <a href="https://en.wikipedia.org/wiki/Ludwig_Boltzmann" target="_blank">Ludwig Boltzmann</a>
+
+>“You start with a random clump of atoms, and if you shine light on it for long enough, it should not be so surprising that you get a plant.”
+
+― <a href="https://en.wikipedia.org/wiki/Jeremy_England" target="_blank">Jeremy England</a>
 
 >“Science flies you to the moon. Religion flies you into buildings.”
 
@@ -1227,6 +1237,10 @@ And share your pleasures with beggars.”
 >“He who controls the rebound...controls THE WORLD!”
 
 ― <a href="https://slamdunk.fandom.com/wiki/Hanamichi_Sakuragi" target="_blank">Hanamichi Sakuragi</a>
+
+>“I have no enemies.”
+
+― <a href="https://vinlandsaga.fandom.com/wiki/Thorfinn" target="_blank">Thorfinn</a>
 
 <b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of General Relativity (GR) or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.<a href="#a1">↩</a>
 

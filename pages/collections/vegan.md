@@ -69,7 +69,7 @@ The following are the reasons why I made this decision.
 <img src="{{site.baseurl}}/images/other/AbolitionistApproach.jpg" width="500"/>
 <br>
 
-This is easily the most important argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their dead bodies without causing pollution, cancer, heart diseases etc. **Even then** it is not morally OK to not be a vegan because of the ethical issues.
+This is easily the most important argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their dead bodies without causing pollution, cancer, heart diseases etc. **But even then** it is not morally OK to not be a vegan because of the ethical issues.
 
 >“Today more than ninety per cent of all large animals are domesticated. Consider the chicken, for example. Ten thousand years ago it was a rare bird confined to small niches of South Asia. Today billions of chickens live on almost every continent and island, bar Antarctica. The domesticated chicken is probably the most widespread bird in the annals of planet Earth. If you measure success in terms of numbers, chickens, cows and pigs are the most successful animals ever. Alas, domesticated species paid for their unparalleled collective success with unprecedented individual suffering.”
 
@@ -78,7 +78,9 @@ This is easily the most important argument for veganism. Maybe after some centur
 ― <a href="https://en.wikipedia.org/wiki/Yuval_Noah_Harari" target="_blank">Yuval Noah Harari</a>
 
 ###### Dilemmas
+
 **Vivisection**: It is easy to understand that unnecessarily killing and eating animal dead bodies ("meat") is cruel. It is not easy to understand whether vivisection is evil.
+
 Read the following articles
 1. [vivisection-part-one-the-necessity-of-vivisection](https://www.abolitionistapproach.com/vivisection-part-one-the-necessity-of-vivisection/)
 2. [vivisection-part-two-the-moral-justification-of-vivisection](https://www.abolitionistapproach.com/vivisection-part-two-the-moral-justification-of-vivisection/)
@@ -86,20 +88,28 @@ Read the following articles
 4. [animals-used-for-experimentation](https://www.peta.org/issues/animals-used-for-experimentation/)
 5. [navs](https://navs.org/)
 
-Humanity should invest more on <a href="https://en.wikipedia.org/wiki/Alternatives_to_animal_testing" target="_blank">alternative ways of medical research</a> instead of vivisection and in the long term should completely move away from this method of research. But until those areas of research are developed I think it is justifiable to use animals for testing **as long as large number of humans will benefit from it AND it can't be done in other peaceful ways**. But there is a claim in the 3rd reference that "the results of vivisection are “no more informative than tossing a coin,”" **if that is true then all types of vivisection are unjustifiable**. Also vivisection for curiosity, i.e just to understand how the body of the animal works is not justifiable under any circumstances if it doesn't help large number of humans and such research should be banned. In plant agriculture also a lot of insects die, we say it is necessary and we don't search for alternate ways where we don't kill insects, so can we justify vivisection similarly by saying it is necessary? I don't know. It is not clear as of now whether insects are sentient or not. This is not an easy question to answer. Also many mice (they are also the most commonly used animals for medical research) are killed in plant agriculture, which are sentient.
+Humanity should invest more on <a href="https://en.wikipedia.org/wiki/Alternatives_to_animal_testing" target="_blank">alternative ways of medical research</a> instead of vivisection and in the long term should completely move away from this method of research. But until those areas of research are developed I think it is justifiable to use animals for testing **as long as large number of humans will benefit from it AND it can't be done in other peaceful ways**. But there is a claim in the 3rd reference that "the results of vivisection are “no more informative than tossing a coin,”" **if that is true then all types of vivisection are unjustifiable**. Also vivisection for curiosity, i.e just to understand how the body of the animal works is not justifiable under any circumstances if it doesn't help a large number of humans and such research should be banned. In plant agriculture also a lot of insects die, we say it is necessary and we don't search for alternate ways where we don't kill insects, so can we justify vivisection similarly by saying it is necessary? I don't know. It is not clear as of now whether insects are sentient or not. This is not an easy question to answer. Also many mice (they are also the most commonly used animals for medical research) are killed in plant agriculture, which are sentient.
 
-1. [A review of insect cognition and sentience in relation to their use as food and feed](https://www.sciencedirect.com/science/article/abs/pii/S0168159121002197)
-2. [The-importance-of-insect-suffering](https://reducing-suffering.org/the-importance-of-insect-suffering/)
+But I should add that there is a difference between suffering in vivisection and suffering during plant agriculture. In the former we are directly inflicting the suffering where as in the later it is an indirect thing. Directly inflicting suffering is definitely **more evil** than indirect. So, vivisection is more evil. In the indirect (or incidental) insect deaths in plant agriculture, they are not claiming to "**own**" the insects, in the direct deaths in animal agriculture they are claiming they somehow "**own**" animals like chickens and cows. 
 
-But I should add that there is a difference between suffering in vivisection and suffering during plant agriculture. In the former we are directly inflicting the suffering where as in the later it is an indirect thing. Directly inflicting the suffering is definitely **more evil** than indirect. So, vivisection is more evil.
+1. [A review of insect cognition and sentience in relation to their use as food and feed](https://www.sciencedirect.com/science/article/abs/pii/S0168159121002197){:target="_blank"}
+2. [The-importance-of-insect-suffering](https://reducing-suffering.org/the-importance-of-insect-suffering/){:target="_blank"}
 
-In the indirect insect deaths in plant agriculture they are not claiming to "**own**" the insects, in the direct deaths in animal agriculture they are claiming they somehow "**own**" animals like chickens and cows. 
+Read the following to know why I used the word "large" above.
+
+**"large N" approximation of trolley problem**: In the standard [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem){:target="_blank"} I think rights theory is the correct theory and we should not take away the right to live of one person to save 5 persons. But if we change the number $5$ to $N\to \infty$ (some large number like billion or trillion) then I think it is ok to kill one person to save that many people. So, in this "large N" approximation, we should use utilitarianism instead of rights theory. But what is the exact value of $N$ at which this transition happens? I don't know! So, I don't actually assume the rights theory as a dogma. Rights are ontologically dubious entities.
+
+When I say I am an abolitionist vegan, you have to understand that it is only a **practical approximation** of my position. Abolitionist veganism assumes the rights theory, but I only approximately believe in rights theory. In most practical cases, my position coincides with abolitionist veganism but unlike Gary Francione I don't believe in it exactly. But in complicated situations I can't give proper answers. The trolley problem is actually a simple looking problem as we only have two options (we can either pull the lever or do nothing) and one parameter (ratio of the number of people on one track to the other). We can make more complex problems where we have many options that depend on many variables. The objective moral theory, that can answer every moral problem, is probably complicated and I am probably far too dumb to understand it. I only know about it in certain limits (like small $N$ and large $N$ in the previous example).
+
+If 100 animals were experimented with medicines and if it saves 100 million humans I think it is justifiable. But if 100 animals were experimented with medicines and it only saves 1 human then it is not justifiable.
 
 The amount of suffering caused by vivisection is currently negligible compared to meat industry and dairy industry. We can think about this problem after those industries are stopped.
 
 **Honey and Silk**: Evidence is increasing that honey bees are sentient although it looks like the matter isn't completely settled. For silk worms not much research is done. But it is always better to assume insects are sentient if we don't know. These are also quite different from the plant agriculture as these industries inflict direct suffering compared to the insects that die in plant agriculture which are indirect.
 
-[www.collectivefashionjustice.org](https://www.collectivefashionjustice.org/non-humans)
+[www.collectivefashionjustice.org](https://www.collectivefashionjustice.org/non-humans){:target="_blank"}
+
+**Wildlife suffering**: From rights point of view we are not responsible for the suffering caused by non-herbivores. But from utilitarian pov we need to do something like [Herbivorize Predators](https://www.herbivorizepredators.org/){:target="_blank"} (they are already doing research in this direction). Now lets say we need to do cruel experiments on non-herbivores to force them to evolve into herbivores. Is it justifiable to take the rights away from non-herbivores for few generations until their future generations will be herbivores? I don't know.
 
 ##### Environmental
 - Animal agriculture is responsible for 18% of all greenhouse gas emissions, which is more than all transportation emissions combined. [Source](https://www.fao.org/3/a0701e/a0701e00.htm)
@@ -110,19 +120,19 @@ The amount of suffering caused by vivisection is currently negligible compared t
 <img src="{{site.baseurl}}/images/other/PlantMilk.png" width="400"/>
 
 ##### Health
-- This comprehensive meta-analysis reports a significant protective effect of a vegetarian diet versus the incidence and/or mortality from ischemic heart disease (-25%) and incidence from total cancer (-8%). Vegan diet conferred a significant reduced risk (-15%) of incidence from total cancer. [Source](https://pubmed.ncbi.nlm.nih.gov/26853923/)
-- The World Health Organization has classified processed meats including ham, bacon, salami and frankfurts as a Group 1 carcinogen (known to cause cancer) which means that there's strong evidence that processed meats cause cancer. Eating processed meat increases your risk of bowel and stomach cancer. [Source](https://www.cancercouncil.com.au/1in3cancers/lifestyle-choices-and-cancer/red-meat-processed-meat-and-cancer/)
-- The Academy of Nutrition and Dietetics and Dietitians of Canada consider well-planned vegetarian and vegan diets "appropriate for individuals during all stages of the lifecycle, including pregnancy, lactation, infancy, childhood, and adolescence, and for athletes". [Source](https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=2985&context=pubs)
+- This comprehensive meta-analysis reports a significant protective effect of a vegetarian diet versus the incidence and/or mortality from ischemic heart disease (-25%) and incidence from total cancer (-8%). Vegan diet conferred a significant reduced risk (-15%) of incidence from total cancer. [Source](https://pubmed.ncbi.nlm.nih.gov/26853923/){:target="_blank"}
+- The World Health Organization has classified processed meats including ham, bacon, salami and frankfurts as a Group 1 carcinogen (known to cause cancer) which means that there's strong evidence that processed meats cause cancer. Eating processed meat increases your risk of bowel and stomach cancer. [Source](https://www.cancercouncil.com.au/1in3cancers/lifestyle-choices-and-cancer/red-meat-processed-meat-and-cancer/){:target="_blank"}
+- The Academy of Nutrition and Dietetics and Dietitians of Canada consider well-planned vegetarian and vegan diets "appropriate for individuals during all stages of the lifecycle, including pregnancy, lactation, infancy, childhood, and adolescence, and for athletes". [Source](https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=2985&context=pubs){:target="_blank"}
 
 ##### World hunger
-- One in nine people in the world today are undernourished, yet we feed around a third of our global crop production to animals. If we cut out the middleman and ate the crops ourselves, instead of feeding them to animals, we could feed an additional four billion people – more than enough for everyone, for many years to come! We all know how wasteful old gas-guzzling cars are – how long before livestock farming is viewed in the same way: As a shameful, inefficient waste of resources. [Source](https://viva.org.uk/planet/the-issues/world-hunger/)
+- One in nine people in the world today are undernourished, yet we feed around a third of our global crop production to animals. If we cut out the middleman and ate the crops ourselves, instead of feeding them to animals, we could feed an additional four billion people – more than enough for everyone, for many years to come! We all know how wasteful old gas-guzzling cars are – how long before livestock farming is viewed in the same way: As a shameful, inefficient waste of resources. [Source](https://viva.org.uk/planet/the-issues/world-hunger/){:target="_blank"}
 
 ##### Holocene extinction
-- Since 1970, the collective weight of free-living animals has declined 82%. Instead, a small number of farmed animals (mainly cows and pigs) dominate the global biomass. They account for 60% of mammal species by mass, 36% goes to humans, and just 4% are free-living animals. Sources: [1](https://www.chathamhouse.org/sites/default/files/2021-02/2021-02-03-food-system-biodiversity-loss-benton-et-al_0.pdf), [2](https://www.pnas.org/doi/10.1073/pnas.1711842115)
+- Since 1970, the collective weight of free-living animals has declined 82%. Instead, a small number of farmed animals (mainly cows and pigs) dominate the global biomass. They account for 60% of mammal species by mass, 36% goes to humans, and just 4% are free-living animals. Sources: [1](https://www.chathamhouse.org/sites/default/files/2021-02/2021-02-03-food-system-biodiversity-loss-benton-et-al_0.pdf){:target="_blank"}, [2](https://www.pnas.org/doi/10.1073/pnas.1711842115){:target="_blank"}
 - Meat is considered one of the prime factors contributing to the current biodiversity loss crisis.
 
 ##### Antibiotic resistance
-- Worldwide an estimated 73% of antimicrobials (mainly antibiotics) are consumed by farm animals. As resistance to antibiotics becomes more common there is greater need for alternative treatments. Calls for new antibiotic therapies have been issued, but new drug development is becoming rarer. [Source](https://en.wikipedia.org/wiki/Antimicrobial_resistance)
+- Worldwide an estimated 73% of antimicrobials (mainly antibiotics) are consumed by farm animals. As resistance to antibiotics becomes more common there is greater need for alternative treatments. Calls for new antibiotic therapies have been issued, but new drug development is becoming rarer. [Source](https://en.wikipedia.org/wiki/Antimicrobial_resistance){:target="_blank"}
 
 #### Resources
 
@@ -133,9 +143,9 @@ The amount of suffering caused by vivisection is currently negligible compared t
 - [HowDoIGoVegan.com](https://www.howdoigovegan.com/){:target="_blank"}
 
 ##### Nutrition
-- [Veganhealth.org](https://veganhealth.org/){:target="_blank"}
-- [Mic the Vegan](https://www.youtube.com/c/MictheVegan){:target="_blank"}
 - [Nutritionfacts.org](https://nutritionfacts.org/){:target="_blank"}
+- [Veganhealth.org](https://veganhealth.org/){:target="_blank"} (somewhat pessimistic view but still as evidence packed as the above link)
+- [Mic the Vegan](https://www.youtube.com/c/MictheVegan){:target="_blank"}
 - [Veganfitness.com](https://veganfitness.com/){:target="_blank"}
 - [Vegan society](https://www.vegansociety.com/resources/nutrition-and-health){:target="_blank"}
 
