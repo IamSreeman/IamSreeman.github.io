@@ -150,17 +150,22 @@ The amount of suffering caused by vivisection is currently negligible compared t
 - [Vegan society](https://www.vegansociety.com/resources/nutrition-and-health){:target="_blank"}
 
 ##### Arguments
-- [Carnism debunked](https://www.carnismdebunked.com/){:target="_blank"}
-- [Veganspeak.info](https://veganspeak.info/){:target="_blank"}
+- [Carnism debunked](https://www.carnismdebunked.com/general-ethical){:target="_blank"}
+- [veganspeak.org](https://www.veganspeak.org/){:target="_blank"}
 - [Arguments for veganism by philosophical vegan](https://philosophicalvegan.com/wiki/index.php/Arguments_for_veganism){:target="_blank"}
 - [vegansidekick](http://www.godfist.com/vegansidekick/guide.php){:target="_blank"}
-- [Earthling Ed](https://www.youtube.com/c/EarthlingEdChannel){:target="_blank"}
-- [Erin Janus](https://www.youtube.com/c/ErinJanus/){:target="_blank"}
-- [Lifting Vegan Logic](https://www.youtube.com/c/LiftingVeganLogic){:target="_blank"}
-- [David Ramms](https://www.youtube.com/@davidramms){:target="_blank"}
+- [vomad.life](https://vomad.life/every-argument-against-veganism/#table-of-contents){:target="_blank"}
 - [ADAPTT](http://www.adaptt.org/index.html){:target="_blank"}
 - [Dontwatch.org](https://dontwatch.org/){:target="_blank"}
 - [www.collectivefashionjustice.org](https://www.collectivefashionjustice.org/non-humans){:target="_blank"}
+
+Youtubers:
+
+- [Earthling Ed](https://www.youtube.com/@@ed.winters){:target="_blank"}
+- [Erin Janus](https://www.youtube.com/@ErinJanus/){:target="_blank"}
+- [Lifting Vegan Logic](https://www.youtube.com/@LiftingVeganLogic){:target="_blank"}
+- [David Ramms](https://www.youtube.com/@davidramms){:target="_blank"}
+- [Joey Carbstrong](https://www.youtube.com/@JoeyCarbstrong){:target="_blank"}
 ##### Cooking
 
 1) [Simnett Nutrition](https://www.youtube.com/c/Simnettnutrition){:target="_blank"}<br>
