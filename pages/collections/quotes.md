@@ -69,7 +69,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“I believe in Spinoza's God, Who reveals Himself in the lawful harmony of the world, not in a God Who concerns Himself with the fate and the doings of mankind.”
 
->“How can it be that **mathematics**, being, after all, a product of human thought which is independent of experience, is **so admirably appropriate to the objects of reality?** Is human reason, then, without experience, merely by taking thought, able to fathom the properties of real things?”
+>“At this point an enigma presents itself which in all ages has agitated inquiring minds. How can it be that **mathematics**, being, after all, a product of human thought which is independent of experience, is **so admirably appropriate to the objects of reality?** Is human reason, then, without experience, merely by taking thought, able to fathom the properties of real things?”
 
 >“One reason why mathematics enjoys special esteem, above all other sciences, is that its laws are absolutely certain and indisputable, while those of other sciences are to some extent debatable and in constant danger of being overthrown by newly discovered facts.”
 
@@ -150,6 +150,18 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“Despite the weakness of the early experimental evidence for general relativity, Einstein’s theory became the standard textbook theory of gravitation in the 1920s and retained that position from then on, even while the various eclipse expeditions of the 1920s and 1930s were reporting at best equivocal evidence for the theory. … Perhaps all of us were just gullible and lucky, but I do not think that is the real explanation. I believe that the general acceptance of general relativity was due in large part to the attractions of the theory itself—in short, to its **beauty**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
+
+>“He [[Sidney Coleman](https://en.wikipedia.org/wiki/Sidney_Coleman){:target="_blank"}] was a giant in a peculiar sense, because he's not known to the general populace. He's not a Stephen Hawking; he has virtually no visibility outside. But within the community of theoretical physicists, he's kind of a major god. He is the physicist's physicist.”
+
+― <a href="https://en.wikipedia.org/wiki/Sheldon_Glashow" target="_blank">Sheldon Glashow</a>
+
+>“The career of a young theoretical physicist consists of treating the harmonic oscillator in ever-increasing levels of abstraction.”
+
+>“Quantum gravity is notoriously a subject where problems vastly outnumber results.”
+
+>“Not only God knows, I know, and by the end of the semester, you will know.”
+
+― <a href="https://en.wikipedia.org/wiki/Sidney_Coleman" target="_blank">Sidney Coleman</a>
 
 >“Black holes ain't as black as they are painted. They are not the eternal prisons they were once thought. Things can get out of a black hole, both to the outside, and possibly to another universe. So if you feel you are in a black hole, don't give up. There's a way out.”
 
@@ -521,7 +533,7 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 
 ― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Siddhārtha Gautama</a> (I do not support main stream ***unscientific*** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
 
->“All breathing, existing, living, sentient creatures should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away.”
+>“All breathing, existing, living, **sentient** creatures should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away.”
 
 >“Kill not, cause no pain. Nonviolence (Ahimsa) is the greatest religion.”
 
@@ -910,6 +922,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/David_Strauss" target="_blank">David Strauss</a>
 
+>“It is difficult to get a man to understand something, when his salary depends upon his not understanding it.”
+
+― <a href="https://en.wikipedia.org/wiki/Upton_Sinclair" target="_blank">Upton Sinclair</a>
+
 >“For the first time in human history, the Buddha admonished, entreated and appealed to people not to hurt a living being, and it is not necessary to offer prayer, praise or sacrifice to gods. With all the eloquence at his command the Buddha **vehemently proclaimed that gods are also in dire need of salvation themselves**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Thomas_William_Rhys_Davids" target="_blank">Thomas William Rhys Davids</a>
@@ -1241,6 +1257,10 @@ And share your pleasures with beggars.”
 >“I have no enemies.”
 
 ― <a href="https://vinlandsaga.fandom.com/wiki/Thorfinn" target="_blank">Thorfinn</a>
+
+>“People who think that they can make up their past follies with regret, cannot be forgiven.”
+
+― <a href="https://elfen-lied.fandom.com/wiki/Kurama" target="_blank">Kurama</a>
 
 <b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of General Relativity (GR) or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.<a href="#a1">↩</a>
 
