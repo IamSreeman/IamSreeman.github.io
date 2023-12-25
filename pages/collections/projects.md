@@ -22,6 +22,9 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 <!-- omit in toc -->
 ##### List of projects and reports
 
+- [Quantum covariant bit threads (Oct 2023-Present)](#quantum-covariant-bit-threads-oct-2023-present)
+- [Sparse Double-Scaled SYK (Oct 2023-Present)](#sparse-double-scaled-syk-oct-2023-present)
+- [Holographic description of M-theory (Nov-Dec 2023)](#holographic-description-of-m-theory-nov-dec-2023)
 - [AdS/CFT correspondence and the information paradox (Aug-Nov 2022)](#adscft-correspondence-and-the-information-paradox-aug-nov-2022)
 - [Quantum Raychaudhuri Equation and its applications to cosmology (May-July 2022)](#quantum-raychaudhuri-equation-and-its-applications-to-cosmology-may-july-2022)
 - [Black hole information paradox (June-November 2021)](#black-hole-information-paradox-june-november-2021)
@@ -29,8 +32,28 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 - [Category theory applications in physics (October-November 2020)](#category-theory-applications-in-physics-october-november-2020)
 - [One-dimensional photonic bound states in the continuum (March-April 2021)](#one-dimensional-photonic-bound-states-in-the-continuum-march-april-2021)
 - [Covid-19:analysis of a modified SEIR model (October-November 2020)](#covid-19analysis-of-a-modified-seir-model-october-november-2020)
-- [Special and General Relativity (April 2020)](#special-and-general-relativity-april-2020)
 
+##### Quantum covariant bit threads (Oct 2023-Present)
+
+*Supervisor: Prof. Matthew Headrick, Dept. of Physics,  Brandeis University*
+- Studied several papers about the bit thread formulation of holographic entanglement entropy, especially
+”Quantum bit threads” (2105.08072) and ”Covariant bit threads” (2208.10507)
+- Proposed a definition for ”Quantum covariant bit threads” that unifies the quantum static version 2105.08072 with the classical covariant version 2208.10507 and showed that it has the expected properties.
+- Currently trying to prove that this definition is equivalent to the Quantum Extremal Surface
+(QES) prescription.
+
+##### Sparse Double-Scaled SYK (Oct 2023-Present)
+
+*Supervisor: Prof. Brian Swingle, Dept. of Physics,  Brandeis University*
+- Studied the chord diagram technique that can be used to solve Double Scaled SYK at all energy scales and $\lambda$.
+- Studied the sparse version of SYK.
+- Currently working on sparsifying the Double Scaled SYK. We are developing hyperchord diagram technique for calculating next-order corrections to sparse DSSYK, and I am also working on sparsifying ${\mathcal N} = 1$ and ${\mathcal N} = 2$ supersymmetric DSSYK.
+
+##### Holographic description of M-theory (Nov-Dec 2023)
+
+*Supervisor: Prof. Daniel Jafferis, Dept. of Physics,  Harvard University*
+- Studied the duality between $AdS\_{4}\times S^{7}/\mathbb{Z}_{k}$ M-theory and the $\mathcal N = 6$ $U(N)\_k \times U(N)\_{-k}$ super Chern–Simons theory (ABJM CFT).
+- Gave a presentation focusing on the M2-brane construction and obtaining the gravity dual.
 
 ##### AdS/CFT correspondence and the information paradox (Aug-Nov 2022)
 
@@ -66,8 +89,7 @@ doing Monte Carlo sampling in Cobaya using Planck 2018 data.
 *Supervisor: Prof. Urjit Yajnik, Dept. of Physics, IIT Bombay*
 - Studied how abelian and non-abelian gauge bosons can become massive using spontaneous symmetry
 breaking.
-- Studied how the theory is renormalizable even after gauge bosons acquire mass through Higgs mecha-
-nism using $R_\xi$ gauges.
+- Studied how the theory is renormalizable even after gauge bosons acquire mass through Higgs mechanism using $R_\xi$ gauges.
 
 ##### Category theory applications in physics (October-November 2020)
 *Supervisor: Prof. Vikram Rentala, Dept. of Physics, IIT Bombay*
@@ -90,10 +112,3 @@ nism using $R_\xi$ gauges.
 - Generated different projections for India under different intervention parameters.
 - By varying intervention parameters in the modified model we concluded that testing-quarantining is more efficient in controlling the pandemic than lockdowns.<br>
 <a href="https://github.com/iamsreeman/Nonlinear-dynamics" class="button"  target="_blank">GitHub</a><br>
-
-##### Special and General Relativity (April 2020)
-*Guide: Summer of Science mentor under Maths and Physics Club, IIT Bombay*
-- Studied the principles of relativity. Started with Special Relativity and then read the mathematical prerequisites for General Relativity.
-- Studied General Relativity till Schwarzschild metric and analyzed the properties of Schwarzschild black holes in Schwarzschild coordinates
-and Eddington–Finkelstein coordinates.<br>
-<a href="https://github.com/IamSreeman/LaTeX/raw/master/Special%20and%20General%20Relativity.pdf" class="button"  target="_blank">View PDF</a><br>
