@@ -161,7 +161,7 @@ The amount of suffering caused by vivisection is currently negligible compared t
 
 Youtubers:
 
-- [Earthling Ed](https://www.youtube.com/@@ed.winters){:target="_blank"}
+- [Earthling Ed](https://www.youtube.com/@ed.winters){:target="_blank"}
 - [Erin Janus](https://www.youtube.com/@ErinJanus/){:target="_blank"}
 - [Lifting Vegan Logic](https://www.youtube.com/@LiftingVeganLogic){:target="_blank"}
 - [David Ramms](https://www.youtube.com/@davidramms){:target="_blank"}

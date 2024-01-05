@@ -85,6 +85,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“In my opinion the only salvation for civilization and the human race lies in the creation of a **world government**, with security of nations founded upon law. As long as sovereign states continue to have separate armaments and armament secrets, new world wars will be inevitable.”
 
+>“Equations are more important to me, because politics is for the present, but an equation is something for eternity.”
+
 >“Being a Jew myself, perhaps I can understand and empathize with how black people feel as victims of discrimination.”
 
 >“I do not intend to be quiet about it [racism].”
@@ -178,6 +180,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“[on the possibility of contact with an alien civilization]: I think it would be a disaster. The extraterrestrials would probably be far in advance of us. The history of advanced races meeting more primitive people on this planet is not very happy, and they were the same species. I think we should keep our heads low.”
 
 >“Einstein is the only figure in the physical sciences with a stature that can be compared with Newton. Newton is reported to have said "If I have seen further than other men, it is because I stood on the shoulders of giants." This remark is even more true of Einstein who stood on the shoulders of Newton. Both Newton and Einstein put forward a theory of mechanics and a theory of gravity but Einstein was able to base General Relativity on the mathematical theory of curved spaces that had been constructed by <a href="https://en.wikipedia.org/wiki/Bernhard_Riemann" target="_blank">Riemann</a> while Newton had to develop his own mathematical machinery. It is therefore appropriate to acclaim Newton as the greatest figure in mathematical physics and the Principia is his greatest achievement.”
+
+>“Isaac Newton was **not a pleasant man**. His relations with other academics were notorious, with most of his later life spent embroiled in heated disputes. Following publication of Principia Mathematica – surely the most influential book ever written in physics – Newton had risen rapidly into public prominence. He was appointed president of the Royal Society and became the first scientist ever to be knighted.”
+
+>“Although we now know that Newton discovered calculus years before Leibniz, he published his work much later. A major row ensued over who had been first, with scientists vigorously defending both contenders. It is remarkable, however, that most of the articles appearing in defense of Newton were originally **written by his own hand** – and only published in the name of friends! As the row grew, Leibniz made the mistake of appealing to the Royal Society to resolve the dispute. Newton, as president, appointed an “impartial” committee to investigate, coincidentally consisting entirely of Newton’s friends! But that was not all: Newton then wrote the committee’s report himself and had the Royal Society publish it, officially accusing Leibniz of plagiarism. Still unsatisfied, he then wrote an anonymous review of the report in the Royal Society’s own periodical. Following the death of Leibniz, Newton is reported to have declared that he had taken great satisfaction in "breaking Leibniz’s heart."”
 
 ― <a href="https://en.wikipedia.org/wiki/Stephen_Hawking" target="_blank">Stephen Hawking</a>
 
@@ -503,6 +509,10 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“Algebra is the offer made by the devil to the mathematician. The devil says: `I will give you this powerful machine, it will answer any question you like. All you need to do is give me your soul: give up geometry and you will have this marvellous machine.'”
 
 ― <a href="https://en.wikipedia.org/wiki/Michael_Atiyah" target="_blank">Michael Atiyah</a>
+
+>“Good mathematicians see analogies between theorems or theories; the very best ones see analogies between analogies.”
+
+― <a href="https://en.wikipedia.org/wiki/Stefan_Banach" target="_blank">Stefan Banach</a>
 
 ### Philosophers
 
