@@ -9,7 +9,7 @@ teaser: "You can find some of my notes here."
 [Spring 2021-2022 (6th semester)](#spring-2021-2022)<br>
 [Autumn 2021-2022 (5th semester)](#autumn-2021-2022)<br>
 [Spring 2020-2021 (4th semester)](#spring-2020-2021)<br>
-[JEE](#jee)<br>
+[JEE prep notes (2017-2019)](#jee)<br>
 [Other useful links](#other-useful-links)
 
 ##### Spring 2021-2022
