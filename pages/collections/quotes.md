@@ -31,7 +31,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ### Physicists
 
->“If nature were not beautiful, it would not be worth knowing, and if nature were not worth knowing, life would not be worth living.”
+>“The scientist does not study nature because it is useful to do so. He studies it because he takes pleasure in it, and he takes pleasure in it because it is beautiful. **If nature were not beautiful it would not be worth knowing, and life would not be worth living**. I am not speaking, of course, of the beauty which strikes the senses, of the beauty of qualities and appearances. I am far from despising this, but it has nothing to do with science. What I mean is that more intimate beauty which comes from the harmonious order of its parts, and which a pure intelligence can grasp.”
 
 ― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
 
@@ -87,9 +87,13 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“Equations are more important to me, because politics is for the present, but an equation is something for eternity.”
 
+>“Great spirits have always encountered violent opposition from mediocre minds.” [Einstein's response to <a href="https://en.wikipedia.org/wiki/Bertrand_Russell#Second_World_War" target="_blank">firing Russell</a>]
+
 >“Being a Jew myself, perhaps I can understand and empathize with how black people feel as victims of discrimination.”
 
 >“I do not intend to be quiet about it [racism].”
+
+>“I should much rather see reasonable agreement with the Arabs on the basis of living together in peace than the creation of a Jewish state.”
 
 >“In order to put his system into mathematical form at all, Newton had to devise the concept of differential quotients and propound the laws of motion in the form of total differential equations—perhaps <b>the greatest advance in thought that a single individual</b> was ever privileged to make.”
 
@@ -133,6 +137,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“The underlying physical laws necessary for the mathematical theory of a large part of physics and the whole of chemistry are thus completely known, and the difficulty is only that the exact application of these laws leads to equations much too complicated to be soluble. It therefore becomes desirable that approximate practical methods of applying quantum mechanics should be developed, which can lead to an explanation of the main features of complex atomic systems without too much computation.”
 
+>“Einstein was always rather hostile to guantum mechanics. How can one understand this? I think it is very easy to understand, because Einstein had been proceeding on different lines, lines of pure geometry. He had been developing geometrical theories and had achieved enormous success. It is only natural that he should think that further problems of physics should be solved by further development of geometrical ideas. How, to have a x b not equal to b x a is something that does not fit in very well with geometrical ideas; hence his hostility to it.”
+
 ― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>
 
 >“Most of us do elementary-particle physics neither because of the intrinsic interestingness of the phenomena that we study, nor because of the practical importance of what we learn, but because we are pursuing a reductionist vision. All of the properties of ordinary matter are what they are because of the principles of atomic and nuclear physics, which are what they are because of the rules of the Standard Model of elementary particles, which are what they are because…well, we don’t know, this is the reductionist frontier, which we are currently exploring.”
@@ -164,6 +170,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“Not only God knows, I know, and by the end of the semester, you will know.”
 
 ― <a href="https://en.wikipedia.org/wiki/Sidney_Coleman" target="_blank">Sidney Coleman</a>
+
+>“It happened that one semester [around 1970] I was teaching GR, and I noticed that the formula in gauge theory for the field strength and the formula in Riemannian geometry for the Riemann tensor are not just similar -- they are, in fact, the same if one makes the right identification of symbols! It is hard to describe the thrill I felt at understanding this point..”
+
+― <a href="https://en.wikipedia.org/wiki/Yang_Chen-Ning" target="_blank">Yang Chen-Ning</a>
 
 >“Black holes ain't as black as they are painted. They are not the eternal prisons they were once thought. Things can get out of a black hole, both to the outside, and possibly to another universe. So if you feel you are in a black hole, don't give up. There's a way out.”
 
@@ -317,6 +327,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“When I meet God, I am going to ask him two questions: Why relativity? And why turbulence? I really believe he will have an answer for the first.”
 
+>“We have to remember that what we observe is not nature herself, but nature exposed to our method of questioning.”
+
 ― <a href="https://en.wikipedia.org/wiki/Werner_Heisenberg" target="_blank">Werner Heisenberg</a>
 
 >“This work contains many things which are new and interesting. Unfortunately, everything that is new is not interesting, and everything which is interesting, is not new.”
@@ -342,6 +354,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 ― <a href="https://en.wikipedia.org/wiki/Frank_Wilczek" target="_blank">Frank Wilczek</a>
 
 >“Remarkably, the building of the Standard Model — the theory of how particles and forces interact — was the success of the conservatives. It required no revolution at the foundational level. Normal physics, the kind that goes on experiment after experiment, produced the Standard Model.”
+
+>“The most important [reason] is that there are no other good ideas around. That's what gets most people into it. When people started to get interested in string theory they didn't know anything about it. In fact, the first reaction of most people is that the theory is extremely ugly and unpleasant, at least that was the case a few years ago when the understanding of string theory was much less developed. It was difficult for people to learn about it and to be turned on. So I think the real reason why people have got attracted by it is because there is **no other game in town**. All other approaches of constructing grand unified theories, which were more conservative to begin with, and only gradually became more and more radical, have failed, and this game hasn't failed yet.”[1987]
 
 ― <a href="https://en.wikipedia.org/wiki/David_Gross" target="_blank">David Gross</a>
 
@@ -370,6 +384,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“Elegance requires that the number of defining equations be small. Five is better than ten, and one is better than five. On this score, one might facetiously say that String Theory is the ultimate epitome of elegance. With all the years that String Theory has been studied, no one has found even a single defining equation! The number at present count is zero. We know neither what the fundamental equations of the theory are nor even if it has any.”
 
 ― <a href="https://en.wikipedia.org/wiki/Leonard_Susskind" target="_blank">Leonard Susskind</a>
+
+>“[Smolin] is mistaking an aspect of the mathematical language being used for one of the physics being described. New physical theories are often discovered using a mathematical language that is not the most suitable for them... In string theory, it has always been clear that the physics is background-independent even if the language being used is not, and the search for a more suitable language continues. Indeed, as Smolin belatedly notes, [AdS/CFT] provides a solution to this problem, one that is unexpected and powerful.”
+
+― <a href="https://en.wikipedia.org/wiki/Joseph_Polchinski" target="_blank">Joseph Polchinski</a>
 
 >“In pre-relativistic mechanics, time is a special physical quantity, whose value is measured by physical clocks, that plays the role of the independent variable of physical evolution.”
 
@@ -427,7 +445,13 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 >“The general struggle for existence of animate beings is not a struggle for raw materials – these, for organisms, are air, water and soil, all abundantly available – nor for energy which exists in plenty in any body in the form of heat, but a struggle for negative entropy, which becomes available through the transition of energy from the hot sun to the cold earth.”
 
+>“Was it a god who wrote these lines…” [After seeing Maxwell's equations for the first time]
+
 ― <a href="https://en.wikipedia.org/wiki/Ludwig_Boltzmann" target="_blank">Ludwig Boltzmann</a>
+
+>“There is no Heaven, no Swarga, no Hell, no rebirth, no reincarnation and no immortality. The only thing that is true is that a man is born, he lives and he dies. Therefore, he should live his life properly.”
+
+― <a href="https://en.wikipedia.org/wiki/C._V._Raman" target="_blank">C. V. Raman</a>
 
 >“You start with a random clump of atoms, and if you shine light on it for long enough, it should not be so surprising that you get a plant.”
 
@@ -514,6 +538,30 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/Stefan_Banach" target="_blank">Stefan Banach</a>
 
+>“There can be no dull numbers, because if there were, the first of them would be interesting on account of its dullness.”
+
+― <a href="https://en.wikipedia.org/wiki/Martin_Gardner" target="_blank">Martin Gardner</a>
+
+>“This one's from the Book!” [Said in regard to any particularly beautiful or elegant proof, referring to a Platonic abstract "book" that contains the proofs for all theorems.]
+
+>“Suppose aliens invade the earth and threaten to obliterate it in a year's time unless human beings can find the Ramsey number for red five and blue five. We could marshal the world's best minds and fastest computers, and within a year we could probably calculate the value. If the aliens demanded the Ramsey number for red six and blue six, however, we would have no choice but to launch a preemptive attack.”
+
+>“If numbers aren't beautiful, I don't know what is.”
+
+>“We'll continue tomorrow — if I live.”
+
+― <a href="https://en.wikipedia.org/wiki/Paul_Erd%C5%91s" target="_blank">Paul Erdős</a>
+
+>“Another person who would not have attached equal weight to the two statements was Paul Erdős, who bequeathed to the world an enormous number of fascinating problems, as well as solutions to many others, but is not associated to the same extent with the development of theory. This is not to deny that Erd˝os was trying to understand mathematics: many people who have solved an Erd˝os problem (alas, I am not one of them) will testify that, as they have thought harder and harder about it, they have been led in unexpectedly fruitful directions and come to realize that the problem was more than the amusing curiosity that it might at first have seemed. So when I say that mathematicians can be classified into theory-builders and problem-solvers, I am talking about their priorities, rather than making the ridiculous claim that they are exclusively devoted to only one sort of mathematical activity.” [From "The Two Cultures of Mathematics"]
+
+― <a href="https://en.wikipedia.org/wiki/Timothy_Gowers" target="_blank">Timothy Gowers</a>
+
+>“We recognize the lion by his claw.” [After seeing Newton's anonymous solution to the Brachistochrone problem.]
+
+― <a href="https://en.wikipedia.org/wiki/Johann_Bernoulli" target="_blank">Johann Bernoulli</a>
+
+
+
 ### Philosophers
 
 >“**Desires** are the root cause of **suffering**.”<sup id="a8"><a href="#f8">8</a></sup>
@@ -541,7 +589,7 @@ nor upon another's seeming ability (bhabba-rūpatāya),<br>
 nor upon the consideration, The monk is our teacher (samaṇo no garū).<br>
 Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.”<sup id="a9"><a href="#f9">9</a></sup>
 
-― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Siddhārtha Gautama</a> (I do not support main stream ***unscientific*** Buddhism. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
+― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Siddhārtha Gautama</a> (I am an atheist. I do not support the ***unscientific*** Buddhism. But I think Siddhārtha Gautama was a good philosopher. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
 
 >“All breathing, existing, living, **sentient** creatures should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away.”
 
@@ -563,7 +611,7 @@ Ahimsa is the highest sacrifice, Ahimsa is the finest strength,<br>
 Ahimsa is the greatest friend, Ahimsa is the greatest happiness,<br>
 Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
-― <a href="https://en.wikipedia.org/wiki/Mahabharata" target="_blank">Mahābhārata</a>
+― <a href="https://en.wikipedia.org/wiki/Mahabharata" target="_blank">Mahābhārata</a> (<a href="https://sacred-texts.com/hin/mbs/mbs13117.htm" target="_blank">13.117.37–38</a>)
 
 >“Do not unjustly eat fish the water has given up,<br>
 >    And do not desire as food the flesh of slaughtered animals,<br>
@@ -657,6 +705,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Otto_Neurath" target="_blank">Otto Neurath</a>
 
+>“<a href="https://en.wikipedia.org/wiki/Existence_precedes_essence" target="_blank">Existence precedes essence</a>.”
+
+― <a href="https://en.wikipedia.org/wiki/Jean-Paul_Sartre" target="_blank">Jean-Paul Sartre</a>
+
 >“He who fights with monsters should look to it that he himself does not become a monster. **And if you gaze long into an abyss, the abyss also gazes into you**.”
 
 >“I cannot believe in a God who wants to be praised all the time.”
@@ -665,9 +717,21 @@ And share your pleasures with beggars.”
 
 >“Man, the bravest animal and most prone to suffer, does not deny suffering as such: he wills it, he even seeks it out, provided he is shown a meaning for it, a purpose of suffering.”
 
+>“After Buddha was dead people showed his shadow for centuries afterwards in a cave, — an immense frightful shadow. **God is dead**: but as the human race is constituted, there will perhaps be caves for millenniums yet, in which people will show his shadow. — And we — we have still to overcome his shadow!”
+
+>“God is dead. God remains dead. And we have killed him. How shall we comfort ourselves, the murderers of all murderers? What was holiest and mightiest of all that the world has yet owned has bled to death under our knives: who will wipe this blood off us? What water is there for us to clean ourselves? What festivals of atonement, what sacred games shall we have to invent? Is not the greatness of this deed too great for us? Must we ourselves not become gods simply to appear worthy of it?”
+
+>“The greatest recent event—that 'God is dead,' that the belief in the Christian god has become unbelievable—is already beginning to cast its first shadows over Europe.”
+
+>“[T]he decline of the faith in the Christian god, the **triumph of scientific atheism**, is a generally European event in which all races had their share and for which all deserve credit and honor.[ . . . U]nconditional and honest atheism [ . . . is] a triumph achieved finally and with great difficulty by the European conscience, being the most fateful act of two thousand years of discipline.”
+
 ― <a href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank">Friedrich Nietzsche</a>
 
 >“The principle can be established that for a man who does not cheat, what he believes to be true must determine his action. Belief in the absurdity of existence must then dictate his conduct.”
+
+>“There is but one truly serious philosophical problem and that is suicide. Judging whether life is or is not worth living amounts to answering the fundamental question of philosophy. All the rest – whether or not the world has three dimensions, whether the mind has nine or twelve categories – comes afterwards. These are games; one must first answer. And if it is true, as Nietzsche claims, that a philosopher, to deserve our respect, must preach by example, you can appreciate the importance of that reply, for it will precede the definitive act. These are facts the heart can feel; yet they call for careful study before they become clear to the intellect. If I ask myself how to judge that this question is more urgent than that, I reply that one judges by the actions it entails. I have never seen anyone die for the ontological argument.”
+
+>“An international legal code is indeed now being prepared. But this code is made and broken by governments, that is by the executive power. We are thus faced with a regime of international dictatorship. The only way of extricating ourselves is to create a world parliament through elections in which all peoples will participate, which will enact legislation which will exercise authority over national governments.”
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert Camus</a>
 
@@ -898,29 +962,97 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Sigmund_Freud" target="_blank">Sigmund Freud</a>
 
+>“I interrupt you in the name of the people of the world not represented here. Though my words may be unheeded, our common need for world law and order can no longer be disregarded.
+>
+>We, the people, want the peace which only a world government can give. The sovereign states you represent divide us and lead us to the abyss of total war.
+>
+>I call upon you no longer to deceive us by this illusion of political authority. I call upon you to convene forthwith a World Constitutional Assembly to raise the standard around which all men can gather, the standard of true peace, of One Government for One World.”
+
+― <a href="https://en.wikipedia.org/wiki/Garry_Davis" target="_blank">Garry Davis</a>
+
 >“Any man who stands for progress has to **criticize, disbelieve and challenge every item of the old faith**. Item by item he has to reason out every nook and corner of the prevailing faith. If after considerable reasoning one is led to believe in any theory or philosophy, his faith is welcomed. His reasoning can be mistaken, wrong, misled and sometimes fallacious. But he is **liable to correction because reason is the guiding star of his life**. But mere faith and blind faith is dangerous: it dulls the brain, and makes a man reactionary.”
 
 ― <a href="https://en.wikipedia.org/wiki/Bhagat_Singh" target="_blank">Bhagat Singh</a>
+
+>“We have a great deal of evidence to show that the R.S.S. is an organization which is in the nature of a private army and which is definitely proceeding on **strictest Nazi lines**, even following the technique of organization. […] The Nazi party brought Germany to ruin and I have little doubt that if these tendencies are allowed to spread and increase in India, **they would do enormous injury to India**.”
 
 >“No country or people who are **slaves to dogma and dogmatic mentality** can progress, and **unhappily our country and people** have become extraordinarily dogmatic and little-minded.”
 
 >“The spectacle of what is called **religion**, or at any rate organised religion, in India and elsewhere, has filled me with **horror** and I have frequently condemned it and wished to make a clean sweep of it. Almost always it seemed to stand for **blind belief** and reaction, dogma and **bigotry**, superstition, **exploitation** and the preservation of vested interests.”
 
+>“When the minority communities are communal, you can see that and understand it. But the communalism of a majority community is apt to be taken for nationalism.”
+
+>“Religion is not familiar ground for me, and as I have grown older, I have definitely drifted away from it.”
+
+>“[When asked in 1963 that "now that there is Communist government in Kerala, what would happen if communists came to power at the Centre?"] - Communists, communists! Why are you all so obsessed with communism and communists? What is that the communists can do what we cannot do and have not done?... Why do you imagine the communists will ever be voted to power at the Centre? **The danger to India, mark you, is not Communism. It is Hindu right-wing communalism**.”
+
+>“As you know, the ban on the RSS has been removed…. This does not mean that we are convinced about the bona fides of the RSS movement…. Our general relaxation in the field of civil liberties will certainly not mean the slightest relaxation in meeting violence against the individual or the state, wherever it occurs and whatever form it might take.”
+
+>“…RSS is again resuming some of its activities…. The whole mentality of the RSS is a **fascist mentality**. Therefore, their activities have to be very closely watched.”
+
+>“I am greatly worried about the Somnath affair. As I feared, it is assuming a certain political importance. Indeed references have been made to it internationally also. In criticism of our policy in regard to it, we are asked **how a secular Government such as ours can associate itself with such a ceremony which is, in addition, revivalist in character**. Questions are being put to me in Parliament and I am replying to them saying that Government has nothing to do with it and those persons who are connected in any way are functioning entirely in their personal capacity.” [Letter to the first president of India Rajendra Prasad.]
+
+>“I mentioned to the President sometime ago that I did not fancy his visiting the Somnath temple on this occasion. He said he had promised to do so and it was difficult for him to get out of his promise. There is nothing more to be done about it. **But I have made it clear both to the President and to Mr. Munshi that I do not at all like these activities**.”
+
+>“But apart from this, I must be quite frank with you [Jam Saheb] about this ceremony. Indeed I have written to you about it in another connection already. I am troubled by this revivalism and by the fact that our President and some Ministers and you as Rajpramukh are associated with it. I think that this is not in line with the nature of our State and it will have bad consequences both nationally and internationally. As individuals, of course, it is open to anyone to do what he chooses in such matters. But many of us happen to be more than private individuals and we cannot dissociate ourselves from our public capacities.”
+
+>“Reports from many sources have reached me that the communal atmosphere is again becoming tense, and that particularly the people who belong to the RSS…are becoming vocal and demonstrative again…. Many of the RSS men who had been arrested previously, detained in prison for sometime and then subsequently released, are again taking part in these activities in spite of assurances they might have given.”
+
+>“We believe that it is the inalienable right of the Indian people, as of any other people, to have freedom and to enjoy the fruits of their toil and have the necessities of life, so that they may have full opportunities of growth. We believe also that if any government deprives a people of these rights and oppresses them the people have a further right to alter it or abolish it. **The British government in India has not only deprived the Indian people of their freedom but has based itself on the exploitation of the masses, and has ruined India economically, politically, culturally and spiritually**. We believe therefore, that India must sever the British connection and attain **Purna Swaraj or complete independence**.”
+
+>“The experience of a man should not be measured by the number of years he has lived, but rather by the number of problems he has solved.”
+
 >“Future peace, security and ordered progress of the world demand a world federation of free nations, and on no other basis can the problems of the world be solved. Such a world federation would ensure the freedom of its constituent nations, the prevention of aggression and exploitation of one nation over another, the protection of national minorities, the advancement of all backward areas and peoples, and the pooling of the world's resources for the common good of all. On the establishment of such a world federation, **disarmament would be practicable in all countries, national armies, navies and air forces would no longer be necessary, and a world federal defence force would keep the peace and prevent aggression**. ...The Committee regretfully realizes, however, despite the tragic and overwhelming lessons of the war and the perils that overhang the world, the Governments of few countries are yet prepared to take this **inevitable step towards world federation**.”
+
+>“We must constantly remind ourselves that whatever our religion or creed, we are all one people. I regret that many recent disturbances have given us a bad name. Many have acquiesced to the prevailing spirit. This is not citizenship. Citizenship consists in the service of the country. We must prevail on the evil-doers to stop their activities. If you, men of the Navy, the Army and the Air Force, serve your countrymen without distinction of class and religion, you will bring honour to yourselves and to your country.”
+
+>“Instead of understanding and following the teachings of Jesus, the Christians argued and quarreled about the nature of Jesus’s divinity and about the Trinity. They called each other heretics and persecuted each other and cut each other’s heads off. There was a great and violent controversy at one time among different Christian sects over a certain diphthong. One party said that the word Homo-ousion should be used in a prayer; the other wanted Homoi-ousion-this difference had reference to the divinity of Jesus. Over this diphthong fierce war was raged and large numbers of people were slaughtered.”
+
+>“The general Muslim outlook was thus one of Muslim nationalism or Muslim internationalism, and not of true nationalism. ... On the other hand, the Hindu idea of nationalism was definitely one of Hindu nationalism. **It was not easy in this case** (as it was in the case of the Muslims) **to draw a sharp line between this Hindu nationalism and true nationalism**. The two overlapped, as India is the only home of the Hindus and they form a majority there.”
+
+>“Tibet is a very ticklish issue... We have to proceed rather cautiously in regard to it and we do not want it stated that we have been addressing the Chinese Government on this subject. They are sensitive and this itself might create an undesirable reaction in them... For some time past, I have been asked questions about Tibet at press conferences. I have answered them rather vaguely and tried to avoid any direct commitment... We do not intend to make any such clear declaration because whatever we say may be embarrassing either from a Chinese or a Tibetan point of view. Anything we say to the Chinese loses its effect to some extent if any public reference is made to it.”
+
+>“I have become a queer mixture of the East and the West ... Out of place everywhere, at home nowhere. Perhaps my thoughts and approach to life are more akin to what is called Western than Eastern, but India clings to me, as she does to all her children, in innumerable ways ... I am a stranger and alien in the West. I cannot be of it. But in my own country also, sometimes I have an exile's feeling.”
 
 ― <a href="https://en.wikipedia.org/wiki/Jawaharlal_Nehru" target="_blank">Jawaharlal Nehru</a>
 
->“The teachings of Buddha are eternal, but even then **Buddha did not proclaim them to be infallible**. The religion of Buddha has the capacity to change according to times, a quality which no other religion can claim to have ... Now what is the basis of Buddhism? If you study carefully, you will see that Buddhism is based on reason. There is an element of flexibility inherent in it, which is not found in any other religion.”
+>“This man [Nehru] has overcome two of the greatest failings in human nature -he knows neither fear nor hatred.”
 
->“I was born a Hindu because I had no control over this, but I shall not die a Hindu.”
+― <a href="https://en.wikipedia.org/wiki/Winston_Churchill" target="_blank">Winston Churchill</a>
 
->“As a matter of fact the Caste system came into being long after the different races of India had co-mingled in blood and culture. To hold that distinctions of Caste are really distinctions of race and to treat different Castes as though they were so many different races is a gross perversion of facts. What racial affinity is there between the Brahmin of the Punjab and the Brahmin of Madras? What racial affinity is there between the untouchables of Bengal and the the untouchables of Madras? What racial difference is there between the Brahmin of Punjab and the Chamar of Punjab? ... The Brahmin of Punjab is racially of the same stock as the Chamar of Punjab, and the Brahmin of Madras is the same race as the Pariah of Madras. Caste system does not demarcate racial division. Caste system is a social division of people of the same race.”
+>“Though, I was born a Hindu, I solemnly assure you that I will not die as a Hindu.”
+
+>“The teachings of Buddha are eternal, but even then Buddha did not proclaim them to be infallible. The religion of Buddha has the capacity to change according to times, a quality which no other religion can claim to have ... Now what is the basis of Buddhism? If you study carefully, you will see that Buddhism is based on reason. There is an element of flexibility inherent in it, which is not found in any other religion.”
+
+>“I will choose only the least harmful way for the country. And that is the greatest benefit I am conferring on the country by embracing Buddhism; for Buddhism is a part and parcel of Bhâratîya culture. **I have taken care that my conversion will not harm the tradition of the culture and history of this land**.”
+
+>“The history of India is a history of mortal conflict between Buddhism and Brahmanism.”
+
+>“As a matter of fact the Caste system came into being long after the different races of India had co-mingled in blood and culture. To hold that distinctions of Caste are really distinctions of race and to treat different Castes as though they were so many different races is a gross perversion of facts. What racial affinity is there between the Brahmin of the Punjab and the Brahmin of Madras? What racial affinity is there between the untouchables of Bengal and the the untouchables of Madras? What racial difference is there between the Brahmin of Punjab and the Chamar of Punjab? ... The Brahmin of Punjab is racially of the same stock as the Chamar of Punjab, and the Brahmin of Madras is the same race as the Pariah of Madras. Caste system does not demarcate racial division. Caste system is a social division of **people of the same race**.”
+
+>“I measure the progress of a community by the degree of progress which women have achieved.”
 
 >“There can be no doubt that the <a href="https://en.wikipedia.org/wiki/Decline_of_Buddhism_in_the_Indian_subcontinent" target="_blank">fall of Buddhism in India</a> was due to the invasions of the Musalmans. Islam came out as the enemy of the 'But'. The word 'But' as everybody knows, is the Arabic word and means an idol. Thus the origin of the word indicates that in the Moslem mind idol worship had come to be identified with the Religion of the Buddha. To the Muslims, they were one and the same thing. The mission to break the idols thus became the mission to destroy Buddhism. Islam destroyed Buddhism not only in India but wherever it went. Before Islam came into being Buddhism was the religion of Bactria, Parthia, Afghanistan, Gandhar, and Chinese Turkestan, as it was of the whole of Asia. In all these countries Islam destroyed Buddhism.”
 
 >“Even a superficial observer cannot fail to notice that a spirit of aggression underlies the Hindu attitude towards the Muslim and the Muslim attitude towards the Hindu. The Hindu's spirit of aggression is a new phase which he has just begun to cultivate. The Muslim's spirit of aggression is his native endowment, and is ancient as compared with that of the Hindu. It is not that the Hindu, if given time, will not pick up and overtake the Muslim. But as matters stand to-day, the Muslim in this exhibition of the spirit of aggression leaves the Hindu far behind.”
 
 >“If I find the constitution being misused, I shall be the first to burn it.”
+
+>“The outcaste is a bye-product of the caste system. There will be outcastes as long as there are castes. Nothing can emancipate the outcaste except the destruction of the caste system.”
+
+>“Every Congressman who repeats the dogma of Mill that one country is not fit to rule another country must admit that one class is not fit to rule another class.”
+
+>“I am convinced that the real remedy is intermarriage. Fusion of blood can alone create the feeling of being kith and kin, and unless this feeling of kinship, of being kindred, becomes paramount, the separatist feeling—the feeling of being aliens—created by caste will not vanish.”
+
+>“Caste has however done one thing. It has completely disorganized and demoralized the Hindus.”
+
+>“It is beyond doubt that serfdom continued in Europe although Christianity was an established institution for several hundred years. It is an incontrovertible fact that Christianity was not enough to end the slavery of the Negroes in the United States. **A civil war was necessary** to give the Negro the freedom which was denied to him by the Christians. The dependence of those in charge of Christian endeavour upon planting of an idea and leaving it to work a miracle is therefore one of the reasons why the untouchable has remained an untouchable notwithstanding his Christian faith.”
+
+>“Islam is a close corporation and the distinction that it makes between Muslims and non-Muslims is a very real, very positive and very alienating distinction. The brotherhood of Islam is not the universal brotherhood of man. It is brotherhood of Muslims for Muslims only. There is a fraternity, but its benefit is confined to those within that corporation. For those who are outside the corporation, there is nothing but contempt and enmity. The second defect of Islam is that it is a system of social self-government and is incompatible with local self-government, because the allegiance of a Muslim does not rest on his domicile in the country which is his but on the faith to which he belongs. To the Muslim ibi bene ibi patria is unthinkable. Wherever there is the rule of Islam, there is his own country. In other words, Islam can never allow a true Muslim to adopt India as his motherland and regard a Hindu as his kith and kin. That is probably the reason why Maulana Mahomed Ali, a great Indian but a true Muslim, preferred to be buried in Jerusalem rather than in India.”
+
+>“You must not only discard the Shastras, you must deny their authority, as did Buddha and Nanak. You must have courage to tell the Hindus that what is wrong with them is their religion—the religion which has produced in them this notion of the sacredness of Caste. Will you show that courage?”
+
+>“The real method of breaking up the Caste System was not to bring about inter-caste dinners and inter-caste marriages but to destroy the religious notions on which Caste was founded.”
 
 ― <a href="https://en.wikipedia.org/wiki/B._R._Ambedkar" target="_blank">B. R. Ambedkar</a>
 
@@ -1196,6 +1328,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://kiseijuu.fandom.com/wiki/Migi" target="_blank">Migi</a>
 
+>“Those who forgive themselves, and are able to accept their true nature...They are the strong ones!”
 
 >“...People live their lives bound by what they accept as correct and true… that is how they define reality. But what does it mean to be correct or true? Merely vague concepts… their reality may all be an illusion.”
 
@@ -1271,6 +1404,10 @@ And share your pleasures with beggars.”
 >“People who think that they can make up their past follies with regret, cannot be forgiven.”
 
 ― <a href="https://elfen-lied.fandom.com/wiki/Kurama" target="_blank">Kurama</a>
+
+>“With my right hand I will save humans, and with my left hand I will save the Akuma.”
+
+― <a href="https://dgrayman.fandom.com/wiki/Allen_Walker" target="_blank">Allen Walker</a>
 
 <b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of General Relativity (GR) or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.<a href="#a1">↩</a>
 
