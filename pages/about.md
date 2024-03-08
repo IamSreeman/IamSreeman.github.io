@@ -24,7 +24,8 @@ breadcrumbs: true
 
 Hi, my name is **Sreeman Reddy Kasi Reddy** and I'm a physics master's student (2023-2024) at <a href="https://www.brandeis.edu/physics/" target="_blank">Brandeis University</a>. Previously I did my undergrad in physics at <a href="https://www.phy.iitb.ac.in/en/undergraduate" target="_blank">IIT Bombay</a> (2019-2023) with Honors in Physics. I am from <a href="https://en.wikipedia.org/wiki/Andhra_Pradesh" target="_blank">Andhra Pradesh</a>.
 
-I am currently primarily interested in <a href="https://en.wikipedia.org/wiki/String_theory" target="_blank">string theory</a> (especially the <a href="https://en.wikipedia.org/wiki/AdS/CFT_correspondence" target="_blank">AdS/CFT correspondence</a>). My other interests include <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a>, <a href="https://en.wikipedia.org/wiki/Particle_physics" target="_blank">particle physics</a> (especially strongly coupled quantum field theories), <a href="https://en.wikipedia.org/wiki/Quantum_information" target="_blank">quantum information theory</a> application to string theory/quantum gravity etc.
+I am currently interested in doing research in <a href="https://en.wikipedia.org/wiki/Quantum_gravity" target="_blank">quantum gravity</a>, <a href="https://en.wikipedia.org/wiki/Holographic_principle" target="_blank">holographic dualities</a>, <a href="https://en.wikipedia.org/wiki/String_theory" target="_blank">string theory</a>, <a href="https://en.wikipedia.org/wiki/Quantum_field_theory" target="_blank">quantum field theories</a> (especially <a href="https://en.wikipedia.org/wiki/Conformal_field_theory" target="_blank">CFTs</a>), and <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a>.
+
 ##### Hobbies:
 1) Reading physics books and the history of physics.<br>
 2) Watching Anime.<br>
