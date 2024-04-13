@@ -2,10 +2,17 @@
 permalink: /notes/
 title: "Notes"
 meta_title: "Notes | K. Sreeman Reddy"
+subheadline: "FOREVER FORNEVER"
 layout: page-fullwidth
 breadcrumbs: true
-teaser: "You can find some of my notes here."
 ---
+- <a href='{{ site.baseurl }}/files/QG.pdf' target="_blank">Quantum Gravity</a><br>
+- <a href='{{ site.baseurl }}/files/FP.pdf' target="_blank">Fundamental Physics</a><br>
+
+Both of these short notes are related to Fundamental Physics. The first is about Quantum Gravity (mostly string theory and things like toy models inspired from it), and the second is about already empirically established frameworks like general relativity and quantum field theory. My old notes were specific to a single undergrad semester, after which I will never edit them. These 2 are different in that I would like to edit them forever with no set deadline.
+
+You can find some of my old notes below.
+
 [Spring 2021-2022 (6th semester)](#spring-2021-2022)<br>
 [Autumn 2021-2022 (5th semester)](#autumn-2021-2022)<br>
 [Spring 2020-2021 (4th semester)](#spring-2020-2021)<br>
