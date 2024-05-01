@@ -55,6 +55,8 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 - Studied the duality between $AdS\_{4}\times S^{7}/\mathbb{Z}_{k}$ M-theory and the $\mathcal N = 6$ $U(N)\_k \times U(N)\_{-k}$ super Chern–Simons theory (ABJM CFT).
 - Gave a presentation focusing on the M2-brane construction and obtaining the gravity dual.
 
+<a href="https://ksr.onl/files/HdoMt.pdf" class="button" target="_blank">View PDF</a><br>
+
 ##### AdS/CFT correspondence and the information paradox (Aug-Nov 2022)
 
 *Supervisor: Prof. Pichai Ramadevi, Dept. of Physics, IIT Bombay*
