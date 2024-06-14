@@ -10,8 +10,8 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 >#### Contents
 >
 >1. [Songs](#songs-openings-and-endings)
->2. [Scenes](#scenes)
->3. [OSTs](#osts)
+>2. [OSTs](#osts)
+>3. [Scenes](#scenes)
 >4. [Recaps](#recaps)
 >5. [Certified Hood Classics](#certified-hood-classics)
 
@@ -130,49 +130,6 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://youtu.be/sZ50D8khWb4" target="_blank">DGM Remember Lala's (Lala's Lullaby)</a><br>
 <a href="https://youtu.be/OjNpRbNdR7E" target="_blank">mao zedong propaganda music Red Sun in the Sky</a><br>
 <a href="https://youtu.be/NWl5glbSCY4" target="_blank">Hajime no Ippo: The Fighting - Opening 1 | Under Star</a><br>
-
-#### Scenes
-
-<a href="https://www.youtube.com/watch?v=-4PcHYCgXtc&t=4s" target="_blank">Guts tells you that you’re gonna be alright</a><br>
-<a href="https://www.youtube.com/watch?v=5vWqnKhQhUM" target="_blank">Goku goes Super Saiyan 3</a><br>
-<a href="https://www.youtube.com/watch?v=StcXp_hP0Ss" target="_blank">Code Geass Finale</a><br>
-<a href="https://www.youtube.com/watch?v=Y83dmIBMRp4" target="_blank">Hollow Ichigo vs Byakuya Kuichki</a><br>
-<a href="https://www.youtube.com/watch?v=KMJEmCqMcYE" target="_blank">Itachi</a><br>
-<a href="https://www.youtube.com/watch?v=8TFAGAyLzcg" target="_blank">All-Might vs. Noumu</a><br>
-<a href="https://www.youtube.com/watch?v=2m8AtUNzVBk" target="_blank">Netero vs Meruem</a><br>
-<a href="https://www.youtube.com/watch?v=9PTzJ9EveMs" target="_blank">Death Note - Naomi Misora's Death</a><br>
-<a href="https://www.youtube.com/watch?v=vvpD71TX4Eo" target="_blank">Hashirama Senju Sage Art 1000 Armed Kan'on</a><br>
-<a href="https://www.youtube.com/watch?v=aCFXvoJKEPM" target="_blank">Jotaro vs Kira</a><br>
-<a href="https://www.youtube.com/watch?v=0rxN2iYYCPU" target="_blank">Legend of the Galactic Heroes - Westerland</a><br>
-<a href="https://www.youtube.com/watch?v=OldVocgLbEs" target="_blank">Johann's Death?</a><br>
-<a href="https://www.youtube.com/watch?v=8Z3E1pSYQKM" target="_blank">Tanjiro meets Muzan</a><br>
-<a href="https://www.youtube.com/watch?v=AOliV8yiaOg" target="_blank">Fate Zero - Kiritsugu destroys plane</a><br>
-<a href="https://www.youtube.com/watch?v=opK9pvmE-lM" target="_blank">Fate/Stay Night Unlimited Blade Works - Epic Moment!</a><br>
-<a href="https://www.youtube.com/watch?v=TVBI6tHnyUg" target="_blank">Gojo's Domain Expansion</a><br>
-<a href="https://www.youtube.com/watch?v=5_zCClyzXEE" target="_blank">Zoro's promise</a><br>
-<a href="https://www.youtube.com/watch?v=i8V0HZmj2FY" target="_blank">Walk To Arlong Park</a><br>
-<a href="https://www.youtube.com/watch?v=6CPJMrj2f30" target="_blank">Luffy Declares War on the World</a><br>
-<a href="https://www.youtube.com/watch?v=64r8jZ6rOmQ" target="_blank">Ace is saved by luffy</a><br>
-<a href="https://www.youtube.com/watch?v=dzLMD-iYkaY" target="_blank">Whitebeard vs Akainu</a><br>
-<a href="https://www.youtube.com/watch?v=85Jl0OZ5ENI" target="_blank">Saitama vs Deep Sea King</a><br>
-<a href="https://www.youtube.com/watch?v=afB7UHyn4ik" target="_blank">Ergo Proxy - Vincent jumps off the ledge...</a><br>
-<a href="https://www.youtube.com/watch?v=pQLNFpLcqH0" target="_blank">Senku accidentally found his father's recording CD</a><br>
-<a href="https://www.youtube.com/watch?v=cJOcZkgMmm8" target="_blank">Slam Dunk - Who Controls the Rebound</a><br>
-<a href="https://www.youtube.com/watch?v=4LsvwnEsvJU" target="_blank">Yamamoto vs Yhwach</a><br>
-<a href="https://www.youtube.com/watch?v=rlQoex9_WGg" target="_blank">DENJI NOBEL PRIZE</a><br>
-<a href="https://www.youtube.com/watch?v=VWR_hTC4A98" target="_blank">I've Always Known | Mob Psycho 100 II</a><br>
-<a href="https://www.youtube.com/watch?v=YEbQ47KGavg" target="_blank">Goobye Dimple | Mob Psycho 100 III</a><br>
-<a href="https://www.youtube.com/watch?v=6bYFC2NSahg" target="_blank">Gurren Lagann Opening Scene: Spin On!</a><br>
-<a href="https://www.youtube.com/watch?v=MgqJQks8zj8" target="_blank">Thors all Fight scene | Vinland Saga</a><br>
-<a href="https://www.youtube.com/watch?v=sIz3IZnoxlY" target="_blank">What is love? Vinland Saga</a><br>
-<a href="https://www.youtube.com/watch?v=e0XBh_KCJNU" target="_blank">Hyakkimaru's Rage</a><br>
-<a href="https://www.youtube.com/watch?v=nYjBnKQqYfo" target="_blank">Wei Wuxian in the Sunshot Campaign</a><br>
-<a href="https://www.youtube.com/watch?v=0TwLqwl3n94" target="_blank">Akira's Death || Devilman Crybaby</a><br>
-<a href="https://www.youtube.com/watch?v=enY3sXZUwBI" target="_blank">Berserk Griffith's speech</a><br>
-<a href="https://www.youtube.com/watch?v=gFoCllvEdFs" target="_blank">Kite Vs Pitou</a><br>
-<a href="https://www.youtube.com/watch?v=ctjzErxRkFQ" target="_blank">Ichigo vs Kenpachi</a><br>
-<a href="https://www.youtube.com/watch?v=fnQA-1qlgI4" target="_blank">The Nameless Monster</a><br>
-<a href="https://www.youtube.com/watch?v=olZAaf1_m5E" target="_blank">Legendary Battle Hiko Seijuro vs Fuji Japanese with english sub</a><br>
 
 #### OSTs
 <br>
@@ -328,6 +285,49 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://youtu.be/4cZGNKsbo-U" target="_blank">D.Gray-man OST 3 - Good News</a><br>
 <a href="https://youtu.be/ZlbxNeOmjEE" target="_blank">Mushishi OST 1 - Mushishi no Theme</a><br>
 <a href="https://youtu.be/6WhsWzJWp7I" target="_blank">Houseki no kuni ost - sunspot</a><br>
+
+#### Scenes
+
+<a href="https://www.youtube.com/watch?v=-4PcHYCgXtc&t=4s" target="_blank">Guts tells you that you’re gonna be alright</a><br>
+<a href="https://www.youtube.com/watch?v=5vWqnKhQhUM" target="_blank">Goku goes Super Saiyan 3</a><br>
+<a href="https://www.youtube.com/watch?v=StcXp_hP0Ss" target="_blank">Code Geass Finale</a><br>
+<a href="https://www.youtube.com/watch?v=Y83dmIBMRp4" target="_blank">Hollow Ichigo vs Byakuya Kuichki</a><br>
+<a href="https://www.youtube.com/watch?v=KMJEmCqMcYE" target="_blank">Itachi</a><br>
+<a href="https://www.youtube.com/watch?v=8TFAGAyLzcg" target="_blank">All-Might vs. Noumu</a><br>
+<a href="https://www.youtube.com/watch?v=2m8AtUNzVBk" target="_blank">Netero vs Meruem</a><br>
+<a href="https://www.youtube.com/watch?v=9PTzJ9EveMs" target="_blank">Death Note - Naomi Misora's Death</a><br>
+<a href="https://www.youtube.com/watch?v=vvpD71TX4Eo" target="_blank">Hashirama Senju Sage Art 1000 Armed Kan'on</a><br>
+<a href="https://www.youtube.com/watch?v=aCFXvoJKEPM" target="_blank">Jotaro vs Kira</a><br>
+<a href="https://www.youtube.com/watch?v=0rxN2iYYCPU" target="_blank">Legend of the Galactic Heroes - Westerland</a><br>
+<a href="https://www.youtube.com/watch?v=OldVocgLbEs" target="_blank">Johann's Death?</a><br>
+<a href="https://www.youtube.com/watch?v=8Z3E1pSYQKM" target="_blank">Tanjiro meets Muzan</a><br>
+<a href="https://www.youtube.com/watch?v=AOliV8yiaOg" target="_blank">Fate Zero - Kiritsugu destroys plane</a><br>
+<a href="https://www.youtube.com/watch?v=opK9pvmE-lM" target="_blank">Fate/Stay Night Unlimited Blade Works - Epic Moment!</a><br>
+<a href="https://www.youtube.com/watch?v=TVBI6tHnyUg" target="_blank">Gojo's Domain Expansion</a><br>
+<a href="https://www.youtube.com/watch?v=5_zCClyzXEE" target="_blank">Zoro's promise</a><br>
+<a href="https://www.youtube.com/watch?v=i8V0HZmj2FY" target="_blank">Walk To Arlong Park</a><br>
+<a href="https://www.youtube.com/watch?v=6CPJMrj2f30" target="_blank">Luffy Declares War on the World</a><br>
+<a href="https://www.youtube.com/watch?v=64r8jZ6rOmQ" target="_blank">Ace is saved by luffy</a><br>
+<a href="https://www.youtube.com/watch?v=dzLMD-iYkaY" target="_blank">Whitebeard vs Akainu</a><br>
+<a href="https://www.youtube.com/watch?v=85Jl0OZ5ENI" target="_blank">Saitama vs Deep Sea King</a><br>
+<a href="https://www.youtube.com/watch?v=afB7UHyn4ik" target="_blank">Ergo Proxy - Vincent jumps off the ledge...</a><br>
+<a href="https://www.youtube.com/watch?v=pQLNFpLcqH0" target="_blank">Senku accidentally found his father's recording CD</a><br>
+<a href="https://www.youtube.com/watch?v=cJOcZkgMmm8" target="_blank">Slam Dunk - Who Controls the Rebound</a><br>
+<a href="https://www.youtube.com/watch?v=4LsvwnEsvJU" target="_blank">Yamamoto vs Yhwach</a><br>
+<a href="https://www.youtube.com/watch?v=rlQoex9_WGg" target="_blank">DENJI NOBEL PRIZE</a><br>
+<a href="https://www.youtube.com/watch?v=VWR_hTC4A98" target="_blank">I've Always Known | Mob Psycho 100 II</a><br>
+<a href="https://www.youtube.com/watch?v=YEbQ47KGavg" target="_blank">Goobye Dimple | Mob Psycho 100 III</a><br>
+<a href="https://www.youtube.com/watch?v=6bYFC2NSahg" target="_blank">Gurren Lagann Opening Scene: Spin On!</a><br>
+<a href="https://www.youtube.com/watch?v=MgqJQks8zj8" target="_blank">Thors all Fight scene | Vinland Saga</a><br>
+<a href="https://www.youtube.com/watch?v=sIz3IZnoxlY" target="_blank">What is love? Vinland Saga</a><br>
+<a href="https://www.youtube.com/watch?v=e0XBh_KCJNU" target="_blank">Hyakkimaru's Rage</a><br>
+<a href="https://www.youtube.com/watch?v=nYjBnKQqYfo" target="_blank">Wei Wuxian in the Sunshot Campaign</a><br>
+<a href="https://www.youtube.com/watch?v=0TwLqwl3n94" target="_blank">Akira's Death || Devilman Crybaby</a><br>
+<a href="https://www.youtube.com/watch?v=enY3sXZUwBI" target="_blank">Berserk Griffith's speech</a><br>
+<a href="https://www.youtube.com/watch?v=gFoCllvEdFs" target="_blank">Kite Vs Pitou</a><br>
+<a href="https://www.youtube.com/watch?v=ctjzErxRkFQ" target="_blank">Ichigo vs Kenpachi</a><br>
+<a href="https://www.youtube.com/watch?v=fnQA-1qlgI4" target="_blank">The Nameless Monster</a><br>
+<a href="https://www.youtube.com/watch?v=olZAaf1_m5E" target="_blank">Legendary Battle Hiko Seijuro vs Fuji Japanese with english sub</a><br>
 
 #### Recaps
 <a href="https://www.youtube.com/watch?v=hQagzXbyp9I" target="_blank">One Piece</a><br>
