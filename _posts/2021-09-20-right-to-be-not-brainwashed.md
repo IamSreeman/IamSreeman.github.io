@@ -3,7 +3,7 @@ title: "Right to be not brainwashed"
 date:   2021-09-20 18:33:00 +0530
 subheadline: ""
 category: non-physics
-tags:   [Ethics,Philosophy]
+tags:   [Atheism,Ethics,Philosophy]
 script:
   foot: bookmarklet.js
 ---

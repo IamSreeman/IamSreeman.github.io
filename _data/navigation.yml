@@ -78,6 +78,10 @@
     dropdown:
     - special: blog-years
 
+- title: Quotes
+  url: /quotes
+  side: left
+
 - title: More
   url: #!
   side: left
@@ -85,25 +89,31 @@
   - title: CV (PDF)
     icon: icon-graduation-cap
     url: https://ksr.onl/files/CV.pdf
-  - title: Courses
-    icon: icon-graduation-cap
-    url: /courses
   - title: Teaching
     url: #!
     dropdown:
       - title: MA 109
         url: /MA109
+  - title: Courses
+    icon: icon-graduation-cap
+    url: /courses
   - title: Even more
     url: #!
     dropdown:
       - title: stats
         url: https://stats.ksr.onl
+      - title: Old site
+        url: https://iamsreeman.github.io/oldsite
       - title: Site Info
         url: /siteinfo
       - title: Error 404
         url: /404
-      - title: Old site
-        url: https://iamsreeman.github.io/oldsite
+      - title: Anime
+        url: /anime
+      - title: Vegan
+        url: /vegan
+      - title: Philosophy
+        url: /philosophy
 
 - title: Search
   icon: icon-magnifying-glass

@@ -22,12 +22,13 @@ breadcrumbs: true
         src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
-These are some quotes which I liked. I removed the quotes which are given as misattributed in <a href="https://en.wikiquote.org/wiki/Main_Page" target="_blank">Wikiquote</a>. Quotes which I strongly disagree with are ~~struckthrough~~.
+These are some interesting quotes. I removed the quotes which are given as misattributed in <a href="https://en.wikiquote.org/wiki/Main_Page" target="_blank">Wikiquote</a>. Quotes which I strongly disagree with are ~~struckthrough~~.
 
 - [Physicists](#physicists)
 - [Mathematicians](#mathematicians)
 - [Philosophers](#philosophers)
 - [Others](#others)
+  - [Animanga](#animanga)
 
 ### Physicists
 
@@ -35,23 +36,43 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
 
+>“Mathematics was not sufficiently refined in 1917 to cleave apart the demands for **"no prior geometry"** and for a geometric, coordinate-independent formulation of physics. Einstein described both demands by a single phrase, "general covariance". The "no prior geometry" demand actually fathered general relativity, but by doing so anonymously, disguised as "general covariance", it also fathered half a century of confusion.”
+
+― <a href="https://en.wikipedia.org/wiki/Gravitation_(book)" target="_blank">MTW</a>
+
 >“Spacetime tells matter how to move; matter tells spacetime how to curve.”
+
+>“Behind it all is surely an idea so simple, so beautiful, that when we grasp it — in a decade, a century, or a millennium — we will all say to each other, how could it have been otherwise? How could we have been so stupid for so long?”
 
 >“**It from bit**. Otherwise put, every it — every particle, every field of force, even the space-time continuum itself — derives its function, its meaning, its very existence entirely — even if in some contexts indirectly — from the apparatus-elicited answers to yes-or-no questions, binary choices, bits. It from bit symbolizes the idea that every item of the physical world has at bottom — at a very deep bottom, in most instances — an immaterial source and explanation; that which we call reality arises in the last analysis from the posing of yes-no questions and the registering of equipment-evoked responses; in short, that **all things physical are information-theoretic in origin** and that this is a participatory universe.”[1990]
 
 ― <a href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler" target="_blank">John Archibald Wheeler</a>
 
->“Mathematics was not sufficiently refined in 1917 to cleave apart the demands for **"no prior geometry"** and for a geometric, coordinate-independent formulation of physics. Einstein described both demands by a single phrase, "general covariance". The "no prior geometry" demand actually fathered general relativity, but by doing so anonymously, disguised as "general covariance", it also fathered half a century of confusion.”
+>“There is a famous saying about quantization due to <a href="https://en.wikipedia.org/wiki/Edward_Nelson" target="_blank">Edward Nelson</a>: "First quantization is a mystery, but second quantization is a functor!" No one is a true mathematical physicist unless they can explain that remark. So, let me explain that remark!
+>
+>First quantization is a mystery. It is the attempt to get from a classical description of a physical system to a quantum description of the "same" system. Now it doesn't seem to be true that God created a classical universe on the first day and then quantized it on the second day. So it's unnatural to try to get from classical to quantum mechanics. Nonetheless we are inclined to do so since we understand classical mechanics better. So we'd like to find a way to start with a classical mechanics problem - that is, a phase space and a Hamiltonian function on it - and cook up a quantum mechanics problem - that is, a Hilbert space with a Hamiltonian operator on it. It has become clear that there is no utterly general systematic procedure for doing so.
+>
+>Mathematically, if quantization were "natural" it would be a functor from the category whose objects are symplectic manifolds (= phase spaces) and whose morphisms are symplectic maps (= canonical transformations) to the category whose objects are Hilbert spaces and whose morphisms are unitary operators. Alas, there is no such nice functor. So quantization is always an ad hoc and problematic thing to attempt. A lot is known about it, but more isn't. That's why first quantization is a mystery.
+>
+>Second quantization is the attempt to get from a quantum description of a single-particle system to a quantum description of a many-particle system. (There are other ways to think of it, but let's do it this way.) Starting from a Hilbert space H for the single particle system, one forms the symmetric (or antisymmetric) tensor algebra over H and completes it to form a Hilbert space K, called the bosonic (or fermionic) Fock space over H. Any unitary operator on H gives a unitary operator on K in an obvious way. More generally, one has a functor called "second quantization" from the Hilbert category to itself, which sends each Hilbert space to its Fock space, and each unitary map to an obvious unitary map. This functor is positivity-preserving. (All the weird problems with negative-energy states of the electron, Dirac's "holes in the electron sea," and such, are due to thinking about things the wrong way.)”
 
-― <a href="https://en.wikipedia.org/wiki/Gravitation_(book)" target="_blank">MTW</a>
+― <a href="https://en.wikipedia.org/wiki/John_C._Baez" target="_blank">John C. Baez</a>
 
->“I worked horribly strenuously, strange that one can endure that.”<sup id="a1"><a href="#f1">1</a></sup>
+>“In these last months I had great success in my work. Generally covariant gravitation equations. Perihelion motions explained quantitatively. The role of gravitation in the structure of matter. You will be astonished. I worked **horribly strenuously, strange that one can endure that**.”[17 November 1915 Einstein's mail to Michele Besso][^EinsteinNotLazy]
+
+>“Imagine my joy at the feasibility of general covariance and the result that the equations give the perihelion motion of Mercury correctly. For a few days I was beside myself with joyous excitement.”[to Ehrenfest]
+
+>“My wildest dreams have been fulfilled. General covariance. Perihelion motion of Mercury wonderfully exact.”[10 December 1915 Einstein's mail to Michele Besso]
+
+>“You must not be cross with me that I am answering your kind and interesting letter only today. But in the last month I had one of the most stimulating, exhausting times of my life, indeed also one of the most successful. I could not think of writing.”[28 November  1915 Einstein's mail to Sommerfeld]
+
+>“Most gratifying is the agreement with perihelion motion and the general covariance; strangest, however, is the circumstance that Newton’s theory of the field is incorrect already in the 1st order eq. (appearance of the g11-g33). It is just the circumstance that the g11-g33’s do not appear in first-order approximations of the motion eqs. which determines the simplicity of Newton’s theory. Now Planck also is beginning to take the matter more seriously; he is still resisting a bit, though. But he is a splendid person.”[21 December 1915 Einstein's mail to Michele Besso]
 
 >“Any man who reads too much and uses his own brain too little falls into **lazy habits of thinking**.”
 
->“Unthinking respect for authority is the greatest enemy of truth.”
+>“Nevertheless, due to the inneratomic movement of electrons, atoms would have to radiate not only electromagnetic but also gravitational energy, if only in tiny amounts. As this is hardly true in nature, it appears that **quantum theory would have to modify not only Maxwellian electrodynamics, but also the new theory of gravitation**.” [1916, few months after he formulated his general relativity, he already realized it must be quantized.]
 
->“Imagine my joy at the feasibility of general covariance and the result that the equations give the perihelion motion of Mercury correctly. For a few days I was beside myself with joyous excitement.”
+>“Unthinking respect for authority is the greatest enemy of truth.”
 
 >“At present I occupy myself exclusively with the problem of gravitation and now believe that I shall master all difficulties with the help of a friendly mathematician here (<a href="https://en.wikipedia.org/wiki/Marcel_Grossmann" target="_blank">Marcel Grossmann</a>). But one thing is certain, in all my life I have never labored nearly as hard, and I have become imbued with **great respect for mathematics, the subtler part of which I had in my simple-mindedness regarded as pure luxury until now**. Compared with this problem, the original relativity is child’s play.” [After nearly ten years of hard work, in a letter to  A. Sommerfeld]
 
@@ -79,6 +100,16 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“Although I have been prevented by outward circumstances from observing a strictly vegetarian diet, I have long been an adherent to the cause in principle. Besides agreeing with the aims of vegetarianism for aesthetic and **moral reasons**, it is my view that a vegetarian manner of living by its purely physical effect on the human temperament would most beneficially influence a lot of mankind.”[1930]
 
+>“Nothing will benefit human health and increase chances for survival of life on Earth as much as the evolution to a vegetarian diet. Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty.”
+
+>“If a man aspires towards a righteous life, his first act of abstinence is from injury to animals.”
+
+>“I have always eaten animal flesh with a somewhat guilty conscience.”[1953 letter to Max Kariel]
+
+>“So I am living without fats, without meat, without fish, but am feeling quite well this way. It always seems to me that man was not born to be a carnivore.”[1954]
+
+>“Generations to come, it may well be, will scarce believe that such a man as this one [Gandhi] ever in flesh and blood walked upon this Earth.”[^Gandhi]
+
 >“Nationalism is an infantile disease. It is the measles of mankind.”
 
 >“Only a life lived for **others** is a life worthwhile.”
@@ -95,9 +126,33 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“I should much rather see reasonable agreement with the Arabs on the basis of living together in peace than the creation of a Jewish state.”
 
+>“I have trouble with Dirac. This balancing on the dizzying path between genius and madness is awful.”
+
 >“I have learned something else from the theory of gravitation: no collection of empirical facts however comprehensive can ever lead to the formulation of such complicated equations [...] Equations of such complexity as are the equations of the gravitational field can be found only through the discovery of a logically simple mathematical condition that determines the equations completely or [at least] almost completely. Once one has those sufficiently strong formal conditions, one requires only little knowledge of facts for thesetting up of a theory; in the case of the equations of gravitation it is the four- dimensionality and the symmetric tensor as expression for the structure of space which together with the invariance concerning the continuous transformation group, determine the equations almost completely.”
 
->“In order to put his system into mathematical form at all, Newton had to devise the concept of differential quotients and propound the laws of motion in the form of total differential equations—perhaps <b>the greatest advance in thought that a single individual</b> was ever privileged to make.”
+>“The **supreme task** of the physicist is to arrive at those universal elementary laws from which the cosmos can be built up by pure deduction. There is no logical path to these laws; only intuition, resting on sympathetic understanding of experience, can reach them. In this methodological uncertainty, one might suppose that there were any number of possible systems of theoretical physics all equally well justified; and this opinion is no doubt correct, theoretically. But the development of physics has shown that at any given moment, out of all conceivable constructions, a **single one has always proved itself decidedly superior** to all the rest.”
+
+>“As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.”
+
+>“But the truth of a theory will never be proved. Because one can never know if, in the future, some experience will become known that would contradict its conclusion.”[1919]
+
+>“How strange is the lot of us mortals! Each of us is here for a brief sojourn; for what purpose he knows not, though he sometimes thinks he senses it. But without deeper reflection one knows from daily life that one exists for other people — first of all for those upon whose smiles and well-being our own happiness is wholly dependent, and then for the many, unknown to us, to whose destinies we are bound by the ties of sympathy. **A hundred times every day I remind myself that my inner and outer life are based on the labors of other men, living and dead**, and that I must exert myself in order to give in the same measure as I have received and am still receiving...”
+
+>“A man who is convinced of the truth of his religion is **indeed never tolerant**. At the least, he is to feel pity for the adherent of another religion but usually it does not stop there. The faithful adherent of a religion will try first of all to convince those that believe in another religion and usually he goes on to hatred if he is not successful. However, hatred then leads to persecution when the might of the majority is behind it.”
+
+>“I would have transferred even more money to you, but I have no more myself to be able to manage at all without help..... **I myself lead the simplest, almost meager existence imaginable**. In this way we can lay quite a lot aside for the children..... I have duly noted your threat “to seek the assistance of other persons”; I know very well anyway from your previous behavior what I have to expect from you. Nothing will surprise me, no matter what you do. You have taken my children away from me and are ensuring that their attitude toward their father is vitiated. You will also take away from me other people who are close to me and will try to spoil in every way whatever has remained of my joy of living. This is the proper punishment for my weakness in allowing myself to shackle my life to yours. But I repeat: You will not surprise me, no matter what you do.” [15 September 1914 to Mileva Marić]
+
+>“Best regards to Albert and Tete. As long as Albert does not answer my letter I must assume that it has not been given to him. Otherwise I would write to him again. Greetings from me to the children do not seem to be relayed, otherwise they would have sent their regards to me at least once in this long period. Thus it is actually useless to renew the same every time.” [12 December 1914 to Mileva Marić]
+
+>“I received your letter just now, the unkind tone of which dismays me very much. I see from your long delay and from the unfriendliness of your letter that my visit would bring you little joy. Therefore I consider it not right that I sit in the train 2 • 20 hours without the result of making someone happy. I’ll come to visit you again only when you ask me to do so yourself. At Easter I’m going to be in Switzerland anyway, because I must attend a meeting in Berne. I’ll send you the Christmas present in cash as you wish. **But I do think that a luxury gift costing Fr. 70 does not match our modest circumstances**.” [30 November 1915 to his son]
+
+>“There has been a certain ill-feeling between us, the cause of which I do not want to analyze. I have struggled against the feeling of bitterness attached to it, and this with complete success.
+>
+>I think of you again with unmixed geniality and ask you to try to do the same with me. Objectively it is a **shame when two real fellows who have extricated themselves somewhat from this shabby world do not afford each other mutual pleasure**.” [20 December 1915 to Hilbert] [^Hilbert]
+
+>“I have expressed an opinion on public issues whenever they appeared to me so bad and unfortunate that silence would have made me feel guilty of complicity.”
+
+>“In order to put his system into mathematical form at all, Newton had to devise the concept of differential quotients and propound the laws of motion in the form of total differential equations—perhaps **the greatest advance in thought that a single individual** was ever privileged to make.”
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
@@ -115,7 +170,7 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“I can calculate the motions of the heavenly bodies, but not the madness of the people.”
 
->“I have studied these things — you have not.”<sup id="a2"><a href="#f2">2</a></sup>
+>“I have studied these things — you have not.”[^NewtonAtheism]
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">Isaac Newton</a>
 
@@ -123,15 +178,11 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Silvanus_P._Thompson" target="_blank">Silvanus P. Thompson</a>
 
->“The black holes of nature are **the most perfect macroscopic objects there are in the universe**: the only elements in their construction are our concepts of space and time. And since the general theory of Relativity provides only a single unique family of solutions for their descriptions, they are the simplest objects as well.”<sup id="a3"><a href="#f3">3</a></sup>
-
-― <a href="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank">Subrahmanyan Chandrasekhar</a>
-
 >“I cannot understand why we idle discussing **religion**. If we are honest—and scientists have to be—we must admit that religion is a **jumble of false assertions**, with no basis in reality. The very idea of God is a product of the human imagination. It is quite understandable why **primitive people**, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling.
 >
 >But nowadays, when we understand so many natural processes, we have no need for such solutions. I can't for the life of me see how the **postulate** of an **Almighty God** helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit.
 >
->**Religion** is a kind of **opium** that allows a **nation to lull itself into wishful dreams** and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”<sup id="a4"><a href="#f4">4</a></sup>
+>**Religion** is a kind of **opium** that allows a **nation to lull itself into wishful dreams** and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of **all mortal sins**.”[^Dirac]
 
 >“It seems clear that the present quantum mechanics is not in its final form. Some further changes will be needed, just about as drastic as the changes made in passing from Bohr's orbit theory to quantum mechanics. Some day a new quantum mechanics, a relativistic one, will be discovered, in which we will not have these infinities occurring at all. It might very well be that the new quantum mechanics will have determinism in the way that Einstein wanted.”
 
@@ -143,9 +194,15 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>
 
+>“Religion is an insult to **human dignity**. Without it you would have good people doing good things and evil people doing evil things.But for good people to do evil things, that takes **religion**.”
+
 >“Most of us do elementary-particle physics neither because of the intrinsic interestingness of the phenomena that we study, nor because of the practical importance of what we learn, but because we are pursuing a reductionist vision. All of the properties of ordinary matter are what they are because of the principles of atomic and nuclear physics, which are what they are because of the rules of the Standard Model of elementary particles, which are what they are because…well, we don’t know, this is the reductionist frontier, which we are currently exploring.”
 
->“Religion is an insult to **human dignity**. Without it you would have good people doing good things and evil people doing evil things.But for good people to do evil things, that takes **religion**.”
+>“The wave fields $\phi$, $\varphi$, etc, are not probability amplitudes at all, but operators which create or destroy particles in the various normal modes. It would be a good thing if the misleading expression ‘second quantization’ were permanently retired.”
+
+>“Our immersion in the present state of physics makes it hard for us to understand the difficulties of physicists even a few years ago, or to profit from their experience. At the same time, a knowledge of our history is a mixed blessing — it can stand in the way of the logical reconstruction of physical theory that seems to be continually necessary.”
+
+>“During the SSC debate, Anderson and other condensed-matter physicists repeatedly made the point that the knowledge gained in elementary-particle physics would be unlikely to help them to understand emergent phenomena like superconductivity. This is certainly true, but I think beside the point, because that is not why we are studying elementary particles; our aim is to push back the reductive frontier, to get closer to whatever simple and general theory accounts for everything in nature. ... experience shows that the ideas developed in one field can prove very useful in the other. Sometimes these ideas become transformed in translation, so that they even pick up a renewed value to the field in which they were first conceived. The example that concerns me is an idea that elementary-particle physicists learnt from condensed-matter theory – specifically from the BCS theory. It is the idea of spontaneous symmetry breaking.” 
 
 >“I think the world needs to wake up from its long nightmare of religious belief; and anything that we scientists can do to ***weaken the hold of religion*** should be done, and may in fact be our greatest contribution to civilization.
 
@@ -159,7 +216,15 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“Despite the weakness of the early experimental evidence for general relativity, Einstein’s theory became the standard textbook theory of gravitation in the 1920s and retained that position from then on, even while the various eclipse expeditions of the 1920s and 1930s were reporting at best equivocal evidence for the theory. … Perhaps all of us were just gullible and lucky, but I do not think that is the real explanation. I believe that the general acceptance of general relativity was due in large part to the attractions of the theory itself—in short, to its **beauty**.”
 
+>“Well, I think it's yielding very useful insights. And um, I think it's... it's been disappointing because the idea of string theory as a theory of fundamental forces has been around now for quite a while, uh, a number of decades, and it has not led to the kind of specific prediction. Well, it makes some qualitative predictions, like it explains why gravity has to exist, but it has not led to the kind of specific numerical predictions, which will say, well, okay, now you can take it to the bank. Um, But it's the **only game in town**. Um, there are alternatives for pictures of what happens at very short distances. There's one due to me called "<a href="https://en.wikipedia.org/wiki/Asymptotic_safety_in_quantum_gravity" target="_blank">asymptotic safety</a>" which I... I think is **a possibility worth taking seriously, but is much less attractive than the string theory and um, I hope string theory is right, but and I don't see anything else on the horizon that's remotely as attractive**. Andy, do you agree with that?” [<a href="https://www.youtube.com/watch?v=PFJ46G8BflQ&t=3108s" target="_blank">YouTube</a>][^Weinberg]
+
 ― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
+
+>“The black holes of nature are **the most perfect macroscopic objects there are in the universe**: the only elements in their construction are our concepts of space and time. And since the general theory of Relativity provides only a single unique family of solutions for their descriptions, they are the simplest objects as well.”[^Chandrasekhar]
+
+>“I should like to preface my remarks with a personal statement in order that my later remarks will not be misunderstood. I consider myself an atheist.”
+
+― <a href="https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar" target="_blank">Subrahmanyan Chandrasekhar</a>
 
 >“He [[Sidney Coleman](https://en.wikipedia.org/wiki/Sidney_Coleman){:target="_blank"}] was a giant in a peculiar sense, because he's not known to the general populace. He's not a Stephen Hawking; he has virtually no visibility outside. But within the community of theoretical physicists, he's kind of a major god. He is the physicist's physicist.”
 
@@ -173,9 +238,25 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Sidney_Coleman" target="_blank">Sidney Coleman</a>
 
+>“...we should modify the meaning of "understand", and at the same time reduce our expectations of any proof of the Spin-Statistics Theorem. What is proved - whether truly or not, whether optimally or not, in an acceptable logical sequence or not - is that the existing theory is consistent with the spin-statistics relation. What is not demonstrated is a reason for the spin-statistics relation.
+>
+>To belabor the point, it is difficult to imagine a fundamental mechanism for the Pauli Exclusion Principle - upon which all depends - which predicates it (looking ahead to the work of Hall and Wightman) upon the analyticity properties of vacuum expectation values of products of quantized field operators. Did God - for lack of a better word - build a series of failed worlds which sputtered and died, or exploded and disintegrated, before discovering the stabilizing effect of anticommutation relations for half-integral spin fields? Was this before or after imposing the requirements of Lorentz invariance? Are we the lucky winners of a Monte Carlo simulation in which every choice was tried and one survived?
+>
+>Must we reduce our demands on physics to require only consistency? Does an understanding of the "Why?" of the spin-statistics relation have no direct answer in physics? Or must physics be formulated to include it? The Pauli result (Pauli's proof) does not explain the spin-statistics relation and cannot. The Neuenschwanders and the Feynmans of the world must remain unsatisfied (Ch.20)”
+
+― <a href="https://books.google.com/books?id=_A7tCgAAQBAJ&printsec=frontcover#v=onepage&q&f=false" target="_blank">Ian Duck, E C George Sudarshan</a>
+
+>“Once we have bitten the quantum apple, our loss of innocence is permanent.”[From <a href="https://en.wikipedia.org/wiki/Principles_of_Quantum_Mechanics" target="_blank">Principles of Quantum Mechanics</a>]
+
+― <a href="https://en.wikipedia.org/wiki/Ramamurti_Shankar" target="_blank">Ramamurti Shankar</a>
+
 >“It happened that one semester [around 1970] I was teaching GR, and I noticed that the formula in gauge theory for the field strength and the formula in Riemannian geometry for the Riemann tensor are not just similar -- they are, in fact, the same if one makes the right identification of symbols! It is hard to describe the thrill I felt at understanding this point..”
 
 ― <a href="https://en.wikipedia.org/wiki/Yang_Chen-Ning" target="_blank">Yang Chen-Ning</a>
+
+>“I was lucky enough to attend a few lectures of S. S. Chern just before he retired from Berkeley in which he said that the cotangent bundle (differential forms) is the feminine side of analysis on manifolds, and the tangent bundle (vector fields) is the masculine side. From this perspective, Hamiltonian mechanics is the feminine side of classical physics, [and] its masculine side is Lagrangian mechanics.”
+
+― <a href="https://people.ucsc.edu/~rmont/" target="_blank">Richard Montgomery</a>
 
 >“Black holes ain't as black as they are painted. They are not the eternal prisons they were once thought. Things can get out of a black hole, both to the outside, and possibly to another universe. So if you feel you are in a black hole, don't give up. There's a way out.”
 
@@ -188,6 +269,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“I have lived with the prospect of an early death for the last 49 years. I'm not afraid of death, but I'm in no hurry to die. I have so much I want to do first ... I regard the brain as a computer which will stop working when its components fail. There is no heaven or afterlife for broken down computers; that is a fairy story for people afraid of the dark.”
 
 >“I used to think that information was destroyed in black holes. But the <a href="https://en.wikipedia.org/wiki/AdS/CFT_correspondence" target="_blank">AdS/CFT correspondence</a> led me to change my mind. This was my biggest blunder, or at least my biggest blunder in science.”
+
+>“Dirac has done more than anyone this century, with the exception of Einstein, to advance physics and change our picture of the universe. He is surely worthy of the memorial in Westminster Abbey. It is just a scandal that it has taken so long.”
 
 >“[on the possibility of contact with an alien civilization]: I think it would be a disaster. The extraterrestrials would probably be far in advance of us. The history of advanced races meeting more primitive people on this planet is not very happy, and they were the same species. I think we should keep our heads low.”
 
@@ -219,12 +302,6 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/James_Clerk_Maxwell" target="_blank">James Clerk Maxwell</a>
 
->“I had no need of that hypothesis.” [When <a href="https://en.wikipedia.org/wiki/Napoleon" target="_blank">Napoleon</a> said “Laplace, they tell me you have written this large book on the system of the universe, and have never even mentioned its Creator”]
-
->“Read <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" target="_blank">Euler</a>, read Euler, he is the master of us all.”
-
-― <a href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace" target="_blank">Pierre-Simon Laplace</a>
-
 >“It is a great pity that human beings cannot find all of their satisfaction in scientific contemplativeness.”
 
 >“Prediction is very difficult, especially about the future.”
@@ -234,6 +311,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >“Every sentence I utter must be understood not as an affirmation, but as a question.”
 
 >“I am absolutely prepared to talk about the spiritual life of an electronic computer: to state that it is reflecting or is in a bad mood... The question whether the machine really feels or ponders, or whether it merely looks as though it did, is of course absolutely meaningingless.”
+
+>“For those who are not shocked when they first come across quantum theory cannot possibly have understood it.”
 
 ― <a href="https://en.wikipedia.org/wiki/Niels_Bohr" target="_blank">Niels Bohr</a>
 
@@ -295,6 +374,10 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 >
 >No problem is too small or too trivial if we can really do something about it.”
 
+>“I was an ordinary person who studied hard. There are no miracle people. It happens they get interested in this thing and they learn all this stuff, but they’re just people.”
+
+>“If all mathematics were to disappear, physics would be set back exactly one week.”
+
 >“He [<a href="https://en.wikipedia.org/wiki/Ernst_Stueckelberg" target="_blank">Stueckelberg</a>] did the work and walks alone toward the sunset; and, here I am, covered in all the glory, which rightfully should be his!.”
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Feynman" target="_blank">Richard Feynman</a>
@@ -349,7 +432,11 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“Niels Bohr brain-washed a whole generation of physicists into believing that the problem had been solved fifty years ago [comment on the Copenhagen interpretation].”
 
+>“First they told me it was wrong, then they told me it was obvious.”
+
 >“I thought of killing myself but soon decided that I could always try MIT and then kill myself later if it was that bad but that I couldn't commit suicide and then try MIT afterwards. The two operations, suicide and going to MIT, don't commute...”
+
+>“I thought that it was not fair for a theorist to propose several contradictory theories at one time, that a theorist should save his money and then bet on one idea that he really thought was right. And I believed also that proposing a wrong theory counted as having written a wrong paper... My feeling was that a theorist should be judged by the correctness of his guesses about nature, that **his reputation should be gauged by the number of right minus the number wrong**, or event he number right minus twice the number wrong.”
 
 ― <a href="https://en.wikipedia.org/wiki/Murray_Gell-Mann" target="_blank">Murray Gell-Mann</a>
 
@@ -387,6 +474,8 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 >“Generally speaking, all the really great ideas of physics are really spin-offs of string theory... Some of them were discovered first, but I consider that a mere accident of the development on planet earth. On planet earth, they were discovered in this order [general relativity, quantum field theory, superstrings, and supersymmetry]... But I don't believe, if there are many civilizations in the universe, that those four ideas were discovered in that order in each civilization.”
 
+>“If one wants to summarize our knowledge of physics in the briefest possible terms, there are three really fundamental observations: (i) Space-time is a pseudo-Riemannian manifold $M$, endowed with a metric tensor and governed by geometrical laws. (ii) Over $M$ is a vector bundle $X$ with a nonabelian gauge group $G$. (iii) Fermions are sections of $(\hat{S}\_{+}\otimes V\_R) \oplus(\hat{S}\_{-}\otimes V\_{\tilde{R}})$. $R$ and $\tilde{R}$ are not isomorphic; their failure to be isomorphic explains why the light fermions are light and presumably has its origins in a representation difference $\Delta$ in some underlying theory. All of this must be supplemented with the understanding that the geometrical laws obeyed by the metric tensor, the gauge fields, and the fermions are to be interpreted in quantum mechanical terms.”
+
 ― <a href="https://en.wikipedia.org/wiki/Edward_Witten" target="_blank">Edward Witten</a>
 
 >“Interestingly, both quantum entanglement and wormholes date back to two articles written by Albert Einstein and his collaborators in 1935. On the surface, the papers seem to deal with very different phenomena, and Einstein probably never suspected that there could be a connection between them. In fact, entanglement was a property of quantum mechanics that greatly bothered the German-born physicist, who called it “spooky action at a distance.” How ironic that it now may offer a bridge to extend his relativity theory to the quantum realm.”
@@ -397,9 +486,35 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Leonard_Susskind" target="_blank">Leonard Susskind</a>
 
->“[Smolin] is mistaking an aspect of the mathematical language being used for one of the physics being described. New physical theories are often discovered using a mathematical language that is not the most suitable for them... In string theory, it has always been clear that the physics is background-independent even if the language being used is not, and the search for a more suitable language continues. Indeed, as Smolin belatedly notes, [AdS/CFT] provides a solution to this problem, one that is unexpected and powerful.”
+>“[Smolin] is mistaking an aspect of the mathematical language being used for one of the physics being described. New physical theories are often discovered using a mathematical language that is not the most suitable for them… In string theory, it has always been clear that the physics is background-independent even if the language being used is not, and the search for a more suitable language continues. Indeed, as Smolin belatedly notes, [AdS/CFT] provides a solution to this problem, one that is unexpected and powerful.”
 
 ― <a href="https://en.wikipedia.org/wiki/Joseph_Polchinski" target="_blank">Joseph Polchinski</a>
+
+>“Steve [Weinberg], you are certainly the most eloquent champion of the reductionist program in physics that progress in physics is, um, you know, understanding things at shorter and shorter distances. And there was a moment in the 80s. Where it looked as if String Theory could be The Final Step in that reductionist program. That moment evaporated very quickly within a year or 2, I would say. And instead of being everything it is more.... it's a Wellspring of ideas. Um, it gives us ideas of how different quantum systems fit together. And it could find a place in nature which isn't exactly the um, you know the the final Capstone on the reductionist program. 
+>
+>**An example I would like to use to put this in perspective is Yang Mills theory. Yang and Mills invented Yang Mills theory to explain the relationship between the proton and the neutron. That was wrong. I've never heard anybody say Yang Mills Theory is wrong, but what Yang and Mills wanted to do with it in that 1954 paper was undeniably wrong. It doesn't explain. Now it doesn't explain that. It explains something else, you got your Nobel Prize and other people got them too for understanding what it was that it did explain. So we wouldn't say Yang Mills theory... certainly Yang and Mills didn't understand how Yang Mills theory fits into nature. And I think string theory is like that it has an inevitability to it. Like, uh Yang Mills Theory did.**
+>
+>Maybe it's not ruled out that it is the final end point of the reductionist program, but it might find a place in nature and that's how it feels to me, that it has... and that's already happened to some extent. We've used it to explain things about superconductors and heavy ion collisions and so on. Um, It might find a place in nature. That isn't what exactly what its originators imagined and it almost never happens in physics that an idea comes out fully formed into its right place. They get battered around and that I think is already happened to a great extent with string theory. And then it's not right in my mind to hold it up to the standard of it should be a theory of everything or it's not interesting.”[<a href="https://www.youtube.com/watch?v=PFJ46G8BflQ&t=3184s" target="_blank">YouTube</a>]
+
+― <a href="https://en.wikipedia.org/wiki/Andrew_Strominger" target="_blank">Andrew Strominger</a>
+
+>“Black holes hold an impressive number of world records, both observational and theoretical. In astrophysics, they are believed to be the densest objects and to power the most luminous sources. In the theoretical realm, black holes push the extremes of gravitation and quantum mechanics and in several cases actually set fundamental limits—on density, entropy, and a growing list of other attributes—for quantum systems. Adam Brown and colleagues, now argue that we should add a new world record to the list: computational complexity.” [Black holes also saturate the bound on chaos.]
+
+― <a href="http://www.hartmanhep.net/" target="_blank">Thomas Hartman</a>
+
+>“You might reasonably wonder what advantage physicists have over mathematicians in this game. After all, we’re certainly not smarter. (At least, not most of us.) And yet, there are times when we are able to leapfrog mathematicians and then turn around and present them with new results that sit firmly within their area of expertise. This seems unfair, like physicists have some kind of secret weapon that mathematicians are unable to wield. And we do. In fact, we have two. The first is the path integral. The second, a wilful disregard for rigour.” <a href="http://www.damtp.cam.ac.uk/user/tong/susy/susyqm.pdf" target="_blank">susyqm</a>
+
+>“We are now at the end of this introductory course on string theory. We began by trying to make sense of the quantum theory of a relativistic string moving in flat space. It is, admittedly, an odd place to start. But from then on we had no choices to make. The relativistic string leads us ineluctably to conformal field theory, to higher dimensions of spacetime, to Einstein’s theory of gravity at low-energies, to good UV behaviour at high-energies and to Yang-Mills theories living on branes. There are few stories in theoretical physics where such meagre input gives rise to such a rich structure.
+>
+>This journey continues. There is one further ingredient that it is necessary to add: supersymmetry. Even this is in some sense not a choice, but is necessary to remove the troublesome tachyon that plagued these lectures. From there we may again blindly follow where the string leads, through anomalies (and the lack thereof) in ten dimensions, to dualities and M-theory in eleven dimensions, to mirror symmetry and moduli stabilization and black hole entropy counting and holography and the miraculous AdS/CFT correspondence.” <a href="https://www.damtp.cam.ac.uk/user/tong/string/string.pdf" target="_blank">string</a>
+
+― <a href="https://en.wikipedia.org/wiki/David_Tong_(physicist)" target="_blank">David Tong</a>
+
+>“So, what is quantum mechanics? Even though it was discovered by physicists, it’s not a physical theory in the same sense as electromagnetism or general relativity. In the usual “hierarchy of sciences” – with biology at the top, then chemistry, then physics, then math – quantum mechanics sits at a level between math and physics that I don’t know a good name for. Basically, quantum mechanics is the operating system that other physical theories run on as application software (with the exception of general relativity, which hasn’t yet been successfully ported to this particular OS). There’s even a word for taking a physical theory and porting it to this OS: “to quantize.””
+
+― <a href="https://en.wikipedia.org/wiki/Scott_Aaronson" target="_blank">Scott Aaronson</a>
+
+>“The world is made up of fields. Physically, these do not live on spacetime. They live, so to say, on one another. No more fields on spacetime, just fields on fields.”
 
 >“In pre-relativistic mechanics, time is a special physical quantity, whose value is measured by physical clocks, that plays the role of the independent variable of physical evolution.”
 
@@ -431,13 +546,23 @@ These are some quotes which I liked. I removed the quotes which are given as mis
 
 ― <a href="https://en.wikipedia.org/wiki/Freeman_Dyson" target="_blank">Freeman Dyson</a>
 
+>“I must have been 8 or 9 when my father, a man of letters but well-read in every discipline and with a curious mind, told me this story: “A great scientist named Albert Einstein discovered that any object with a mass can't travel faster than the speed of light”. To my bewilderment I replied, boldly: “This can't be true, if I run almost at that speed and then accelerate a little, surely I will run faster than light, right?” My father was adamant: “No, it's impossible to do what you say, it's a known physics fact”. After a while I added: “That bloke, Einstein, must've checked this thing many times … how do you say, he did many experiments?” The answer I got was utterly unexpected: “Not even one I believe. He used maths!”
+>
+>What did numbers and geometrical figures have to do with the existence of an upper limit to speed? How could one stand by such an apparently nonsensical statement as the existence of a maximum speed, although certainly true (I trusted my father), just based on maths? How could mathematics have such big a control on the real world? And Physics ? What on earth was it, and what did it have to do with maths? This was one of the most beguiling and irresistible things I had ever heard till that moment… I had to find out more about it.” [Preface to "Spectral Theory and Quantum Mechanics"]
+
+― <a href="https://moretti.maths.unitn.it/home.html" target="_blank">Valter Moretti</a>
+
 >“No one expects a guitarist to learn to play by going to concerts in Central Park or by spending hours reading transcriptions of Jimi Hendrix solos. Guitarists practice. Guitarists play the guitar until their fingertips are calloused. Similarly, physicists solve problems.”
 
 ― <a href="https://www.google.co.in/books/edition/Princeton_Problems_in_Physics_with_Solut/R5Y3BwAAQBAJ?hl=en&gbpv=1&printsec=frontcover" target="_blank">M. Newman et al</a>
 
+>“If there should really exist in nature any bodies, whose density is not less than that of the sun, and whose diameters are more than 500 times the diameter of the sun, since their light could not arrive at us; or if there should exist any other bodies of a somewhat smaller size, which are not naturally luminous; of the existence of bodies under either of these circumstances, we could have no information from sight; yet, if any other luminous bodies should happen to revolve about them we might still perhaps from the motions of these revolving bodies infer the existence of the central ones with some degree of probability, as this might afford a clue to some of the apparent irregularities of the revolving bodies, which would not be easily explicable on any other hypothesis; but as the consequences of such a supposition are very obvious, and the consideration of them somewhat beside my present purpose, I shall not prosecute them any further.”[In 1784 he realized Newtonian black holes]
+
+― <a href="https://en.wikipedia.org/wiki/John_Michell" target="_blank">John Michell</a>
+
 >“There are countless suns and countless earths all rotating round their suns in exactly the same way as the seven planets of our system.”
 
->“You may be more afraid to bring that sentence against me than I am to accept it.”<sup id="a5"><a href="#f5">5</a></sup>
+>“You may be more afraid to bring that sentence against me than I am to accept it.”[^Bruno]
 
 ― <a href="https://en.wikipedia.org/wiki/Giordano_Bruno" target="_blank">Giordano Bruno</a>
 
@@ -455,6 +580,10 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/David_Mermin" target="_blank">N. David Mermin</a>
 
+>“No theorist in his right mind would have invented quantum mechanics unless forced to by data.”
+
+― <a href="https://en.wikipedia.org/wiki/Craig_Hogan " target="_blank">Craig Hogan</a>
+
 >“The general struggle for existence of animate beings is not a struggle for raw materials – these, for organisms, are air, water and soil, all abundantly available – nor for energy which exists in plenty in any body in the form of heat, but a struggle for negative entropy, which becomes available through the transition of energy from the hot sun to the cold earth.”
 
 >“Was it a god who wrote these lines…” [After seeing Maxwell's equations for the first time]
@@ -464,6 +593,10 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“There is no Heaven, no Swarga, no Hell, no rebirth, no reincarnation and no immortality. The only thing that is true is that a man is born, he lives and he dies. Therefore, he should live his life properly.”
 
 ― <a href="https://en.wikipedia.org/wiki/C._V._Raman" target="_blank">C. V. Raman</a>
+
+>“My greatest discovery was <a href="https://en.wikipedia.org/wiki/Michael_Faraday" target="_blank">Michael Faraday</a>.”
+
+― <a href="https://en.wikipedia.org/wiki/Humphry_Davy" target="_blank">Humphry Davy</a>
 
 >“You start with a random clump of atoms, and if you shine light on it for long enough, it should not be so surprising that you get a plant.”
 
@@ -522,7 +655,11 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ### Mathematicians
 
->“Physics is too hard for physicists.”<sup id="a6"><a href="#f6">6</a></sup>
+>“The physicists want to do path integrals, that is, they want to integrate some "Action Man functional" over the space of all paths or loops $\gamma:[0,1] \rightarrow Y$. This impossibly large integral is one of the major schisms between math and fizz. The physicists learn a number of computations in finite terms that approximate their path integrals, and when sufficiently skilled and imaginative, can use these to derive marvellous consequences; whereas the mathematicians give up on making sense of the space of paths, and not infrequently derive satisfaction or a misplaced sense of superiority from pointing out that the physicists' calculations can equally well be used (or abused!) to prove $0=1$. **Maybe it's time some of us also evolved some skill and imagination**. The motivic integration treated in the next section builds a miniature model of the physicists' path integral, by restricting first to germs of holomorphic paths $\gamma: U \rightarrow Y$, where $0 \in U \subset \mathbb{C}$ is a neighbourhood of 0 , then to formal power series $\gamma: \operatorname{Spec} \mathbb{C} [\\![z]\\!]\rightarrow Y$.” [<a href="https://homepages.warwick.ac.uk/~masda/McKay/Bour/Bour.pdf" target="_blank">Source</a>]
+
+― <a href="https://en.wikipedia.org/wiki/Miles_Reid" target="_blank">Miles Reid</a>
+
+>“Physics is too hard for physicists.”[^HilbertPhysics]
 
 >“But he (Galileo) was not an idiot,... **Only an idiot could believe that scientific truth needs martyrdom** — that may be necessary in religion, but scientific results prove themselves in time.”
 
@@ -530,11 +667,55 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 >“We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the [ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus). For us there is no ignorabimus, and in my opinion none whatever in natural science. In opposition to the foolish ignorabimus our slogan shall be:
 >
->We must know — we will know!”<sup id="a7"><a href="#f7">7</a></sup>
+>We must know — we will know!”[^HilbertIgnorabimus]
 
 >“No one shall expel us from the Paradise that <a href="https://en.wikipedia.org/wiki/Georg_Cantor" target="_blank">Cantor</a> has created.”
 
+>“Every schoolboy in the streets of Göttingen knows more about higher-dimensional geometry than Einstein, but chalk is cheaper than gray matter.”
+
+>“Dr. <a href="https://en.wikipedia.org/wiki/John_von_Neumann" target="_blank">von Neumann</a>, I would very much like to know, what after all is a Hilbert space?”[^HilbertSpace]
+
 ― <a href="https://en.wikipedia.org/wiki/David_Hilbert" target="_blank">David Hilbert</a>
+
+>“I was over the moon when I proved the moonshine conjecture. I sometimes wonder if this is the feeling you get when you take certain drugs. I don't actually know, as I have not tested this theory of mine.”
+
+― <a href="https://en.wikipedia.org/wiki/Richard_Borcherds" target="_blank">Richard Borcherds</a>
+
+>“... the first seven years I had worked on this problem I loved every minute of it however hard it had been. There had been setbacks, things which had seemed insurmountable but it was a kind of private and very personal battle I was engaged in and then after there was a problem with it, doing mathematics in that kind of rather overexposed way is certainly not my style, I certainly have no wish to repeat it ...” <a href="https://www.youtube.com/watch?v=GS7CxAtV5Ks" target="_blank">YouTube</a>
+
+>“... suddenly, totally unexpectedly, I had this incredible revelation. It was the most important moment of my working life. Nothing I ever do again ... it was so indescribably beautiful, it was so simple and so elegant, and I just stared in disbelief for twenty minutes, then during the day I walked round the department. I'd keep coming back to my desk to see it was still there - it was still there.”
+
+>“... there's no other problem that will mean the same to me. I had this very rare privilege of being able to pursue in my adult life what had been my childhood dream. I know its a rare privilege but if one can do this it's more rewarding than anything I can imagine.”
+
+>“I carried this problem around in my head basically the whole time. I would wake up with it first thing in the morning, I would be thinking about it all day, and I would be thinking about it when I went to sleep. Without distraction I would have the same thing going round and round in my mind.”
+
+>“Fermat couldn't possibly have had this proof.”
+
+>“I don't believe Fermat had a proof. I think he fooled himself into thinking he had a proof.”
+
+>“I think one of the things that's important in mathematics is not to have too good a memory and you have to keep going back trying the same thing in a slightly different way and if you had a really good memory you wouldn't go back and try again because you would remember I've tried that doesn't work.” <a href="https://www.youtube.com/watch?v=gWW3Bh6AgWo" target="_blank">YouTube</a>
+
+>“That particular odyssey is now over. My mind is now at rest.”
+
+― <a href="https://en.wikipedia.org/wiki/Andrew_Wiles" target="_blank">Andrew Wiles</a>
+
+>“Every mathematician worthy of the name has experienced, if only rarely, the state of lucid exaltation in which one thought succeeds another as if miraculously, and in which the unconscious (however one interprets this word) seems to play a role. In a famous passage, Poincaré describes how he discovered Fuchsian functions in such a moment. About such states, Gauss is said to have remarked as follows: "Procreare jucundum (to conceive is a pleasure)"; he added, however, "sed parturire molestum (but to give birth is painful)." **Unlike sexual pleasure, this feeling may last for hours at a time, even for days. Once you have experienced it, you are eager to repeat it but unable to do so at will**, unless perhaps by dogged work which it seems to reward with its appearance. It is true that the pleasure experienced is not necessarily in proportion with the value of the discoveries with which it is associated.”
+
+>“First rank scientists recruit first rank scientists, but second rank scientists tend to recruit third rank scientists, third rank scientists recruit fifth rank, and so on.”
+
+>“Is it mere coincidence that in India Pāṇini's invention of grammar had preceded that of decimal notation and negative numbers, and that later on, both grammar and algebra reached the unparalleled heights for which the medieval civilization of the Arabic-speaking world is known?”
+
+>“Kantian ethic, or what passes for it today, has always seemed to me to be the height of arrogance and folly. Claiming always to behave according to the precepts of universal maxims is either totally inept or totally hypocritical; one can always find a maxim to justify whatever behavior one chooses. I could not count the times (for example, when I tell people I never vote in elections) that I have heard the objection: "But if everyone were to behave like you..." - to which I usually reply that this possibility seems to me so implausible that I do not feel obligated to take it into account.”
+
+>“One day I asked him [Hopf] what he would do when he got tired of topology. He replied in all seriousness: "But I'll never get tired of topology!"”
+
+>“My mathematics work is proceeding beyond my wildest hopes, and I am even a bit worried - if it's only in prison that I work so well, will I have to arrange to spend two or three months locked up every year?”
+
+― <a href="https://en.wikipedia.org/wiki/Andr%C3%A9_Weil" target="_blank">André Weil</a>
+
+>“Taking mathematicians from the beginning of the world to the time when Sir Isaac lived, what he had done was much the better half.”
+
+― <a href="https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz" target="_blank">Gottfried Wilhelm Leibniz</a>
 
 >“That, if a straight line falling on two straight lines make the interior angles on the same side less than two right angles, the two straight lines, if produced indefinitely, meet on that side on which are the angles less than the two right angles.”[<a href="https://en.wikipedia.org/wiki/Parallel_postulate" target="_blank">Parallel postulate</a>]
 
@@ -545,6 +726,12 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“Whether ... there are any odd perfect numbers is a most difficult question.”
 
 ― <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" target="_blank">Leonhard Euler</a>
+
+>“I had no need of that hypothesis.” [When <a href="https://en.wikipedia.org/wiki/Napoleon" target="_blank">Napoleon</a> said “Laplace, they tell me you have written this large book on the system of the universe, and have never even mentioned its Creator”]
+
+>“Read <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" target="_blank">Euler</a>, read Euler, he is the master of us all.”
+
+― <a href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace" target="_blank">Pierre-Simon Laplace</a>
 
 >“... a prolonged meditation on the subject has satisfied me that the existence of any one such [odd perfect number]—its escape, so to say, from the complex web of conditions which hem it in on all sides—would be little short of a miracle.”
 
@@ -560,9 +747,21 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/Claude_Shannon" target="_blank">Claude Shannon</a>
 
+>“Uh what is a spinor? Now I spent most of my life working on spinors in one form or another and I don't know. Only god knows maybe Dirac but he's no longer with us.” <a href="https://youtu.be/wgTO8YsRYpI?t=48" target="_blank">YouTube</a>
+
 >“Algebra is the offer made by the devil to the mathematician. The devil says: `I will give you this powerful machine, it will answer any question you like. All you need to do is give me your soul: give up geometry and you will have this marvellous machine.'”
 
+>“The person I admire most is Hermann Weyl. I have found that in almost everything I have ever done in mathematics, Hermann Weyl was there first. Most of the areas I have worked in were areas where he worked and did pioneering, very deep work himself--except topology, of course, which came after his time. But he had interests in group theory, representation theory, differential equations, spectral properties of differential equations, differential geometry, theoretical physics; nearly everything I have done is very much in the spirit of the sort of things he worked in. And I entirely agree with his conceptions about mathematics and his view about what are the interesting things in mathematics.”
+
 ― <a href="https://en.wikipedia.org/wiki/Michael_Atiyah" target="_blank">Michael Atiyah</a>
+
+>“In these days the angel of topology and the devil of abstract algebra fight for the soul of each individual mathematical domain.”
+
+>“Galilei's Principle of Inertia is sufficient in itself to prove conclusively that the world is affine in character.”
+
+>“The objective world simply is, it does not happen Only to the gaze of my consciousness, crawling upward along the life line [world line] of my body, does a section of this world come to life as a fleeting image in space which continuously changes in time.”
+
+― <a href="https://en.wikipedia.org/wiki/Hermann_Weyl" target="_blank">Hermann Weyl</a>
 
 >“Good mathematicians see analogies between theorems or theories; the very best ones see analogies between analogies.”
 
@@ -626,15 +825,23 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/Terence_Tao" target="_blank">Terence Tao</a>
 
->“I was over the moon when I proved the moonshine conjecture. I sometimes wonder if this is the feeling you get when you take certain drugs. I don't actually know, as I have not tested this theory of mine.”
+>“It is a truth universally acknowledged that a closed differential form, in possession of an interpretation as a gauge field in a quantum field theory, must be in want of an integral refinement.”[<a href="https://arxiv.org/abs/2312.14338" target="_blank">2312.14338</a>]
 
-― <a href="https://en.wikipedia.org/wiki/Richard_Borcherds" target="_blank">Richard Borcherds</a>
+― <a href="https://adebray.github.io/" target="_blank">Arun Debray</a>
 
 ### Philosophers
 
->“**Desires** are the root cause of **suffering**.”<sup id="a8"><a href="#f8">8</a></sup>
+>“All breathing, existing, living, **sentient** creatures should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away.”
 
->“I say that there are three instances in which meat should not be consumed: when it is seen, heard, or suspected [that the animal was killed for one’s sake]. These are the three instances in which I say that meat should not be consumed.”<sup id="a9"><a href="#f9">9</a></sup>
+>“Kill not, cause no pain. Nonviolence (ahiṃsā) is the greatest religion.”
+
+>“Non-violence and kindness to living sentient beings is kindness to oneself.”
+
+― <a href="https://en.wikipedia.org/wiki/Mahavira" target="_blank">Mahāvīra</a> (599–527 BCE)
+
+>“**Desires** are the root cause of **suffering**.”[^suffering]
+
+>“I say that there are three instances in which meat should not be consumed: when it is seen, heard, or suspected [that the animal was killed for one’s sake]. These are the three instances in which I say that meat should not be consumed.”[^demand]
 
 >“How then can it be compassionate to gorge on other beings’ blood and flesh? Monks who will not wear silks from the East, whether coarse or fine; who will not wear shoes or boots of leather, nor furs, nor birds’ down from our own country; and who will not consume milk, curds, or ghee, have truly freed themselves from the world.”
 
@@ -643,6 +850,11 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“Death carries off a man who is gathering flowers and whose mind is distracted, as a flood carries off a sleeping village.”
 
 >“Suppose there were a file of blind men each in touch with the next: the first one does not see, the middle one does not see, and the last one does not see. So too, Bhāradvāja, in regard to their statement the brahmins seem to be like a file of blind men: the first one does not see, the middle one does not see, and the last one does not see. What do you think, Bhāradvāja, that being so, does not the faith of the brahmins turn out to be groundless?”
+
+>“Now this, bhikkhus, is the noble truth of suffering: **birth is suffering, aging is suffering, illness is suffering, death is suffering; union with what is displeasing is suffering; separation from what is pleasing is suffering; not to get what one wants is suffering; in brief, the five aggregates subject to clinging are suffering**.<br>
+Now this, bhikkhus, is the noble truth of the origin of suffering: it is this craving which leads to re-becoming, accompanied by delight and lust, seeking delight here and there; that is, **craving for sensual pleasures**, craving for becoming, craving for disbecoming.<br>
+Now this, bhikkhus, is the noble truth of the cessation of suffering: it is the remainderless fading away and cessation of that same craving, the giving up and relinquishing of it, freedom from it, non-reliance on it.<br>
+Now this, bhikkhus, is the noble truth of the way leading to the cessation of suffering: it is this noble eightfold path; that is, right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.”
 
 >“Now, Kalamas,<br>
 Do not go upon what has been acquired by repeated hearing (anussava),<br>
@@ -655,15 +867,9 @@ nor upon specious reasoning (ākāra-parivitakka),<br>
 nor upon a bias towards a notion that has been pondered over (diṭṭhi-nijjhān-akkh-antiyā),<br>
 nor upon another's seeming ability (bhabba-rūpatāya),<br>
 nor upon the consideration, The monk is our teacher (samaṇo no garū).<br>
-Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.”<sup id="a10"><a href="#f10">10</a></sup>
+Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.”[^logic]
 
-― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Siddhārtha Gautama</a> (I am an atheist. I do not support the ***unscientific*** Buddhism. But I still think Siddhārtha Gautama was a good philosopher. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.)
-
->“All breathing, existing, living, **sentient** creatures should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away.”
-
->“Kill not, cause no pain. Nonviolence (Ahimsa) is the greatest religion.”
-
-― <a href="https://en.wikipedia.org/wiki/Mahavira" target="_blank">Mahavira</a>
+― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Siddhārtha Gautama</a>[^Gautama]
 
 >“अहिंसा परमॊ धर्मः तथाहिंसा परॊ दमः।<br>
 अहिंसा परमं दानम् अहिंसा परमस तपः।<br>
@@ -677,9 +883,34 @@ Kalamas, when you yourselves know: "These things are good; these things are not 
 Ahimsa is the greatest gift, Ahimsa is the best practice,<br>
 Ahimsa is the highest sacrifice, Ahimsa is the finest strength,<br>
 Ahimsa is the greatest friend, Ahimsa is the greatest happiness,<br>
-Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
+Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”[<a href="https://sacred-texts.com/hin/mbs/mbs13117.htm" target="_blank">13.117.37–38</a>]
 
-― <a href="https://en.wikipedia.org/wiki/Mahabharata" target="_blank">Mahābhārata</a> (<a href="https://sacred-texts.com/hin/mbs/mbs13117.htm" target="_blank">13.117.37–38</a>)
+― <a href="https://en.wikipedia.org/wiki/Mahabharata" target="_blank">Mahābhārata</a> 
+
+>“And so it would seem that the **denial of the reality of time** is not so very paradoxical after all. It was called paradoxical because it seemed to contradict our experience so violently-to compel us to treat so much as illusion which appears *prima facie* to give knowledge of reality. But we now see that our experience of time-centring as it does about the specious present-would be no less illusory if there were a real time in which the realities we experience existed. The specious present of our observations-varying as it does from you to me-cannot correspond to the present of the events, observed. And consequently the past and future of our observations could not correspond to the past and future of the events observed. On either hypothesis-whether we take time as real or as unreal-everything is observed in a specious present, but nothing, not even the observations themselves, can ever be in a specious present. And in that case I do not see that we treat experience as much more illusory when we say that nothing is ever in a present at all, than when we say that everything passes through some entirely different present.”[From the <a href="https://en.wikipedia.org/wiki/The_Unreality_of_Time" target="_blank">The Unreality of Time</a> (1908) paper.]
+
+― <a href="https://en.wikipedia.org/wiki/J._M._E._McTaggart" target="_blank">J. M. E. McTaggart</a>
+
+>“Do not unjustly eat fish the water has given up,<br>
+>    And do not desire as food the flesh of slaughtered animals,<br>
+Or the white milk of mothers who intended its pure draught<br>
+for their young, not noble ladies.<br>
+And do not grieve the unsuspecting birds by taking eggs;<br>
+for injustice is the worst of crimes.<br>
+And spare the honey which the bees get industriously
+from the flowers of fragrant plants;<br>
+For they did not store it that it might belong to others,<br>
+Nor did they gather it for bounty and gifts.<br>
+I washed my hands of all this; and wish that I<br>
+Perceived my way before my hair went gray!”<br>
+
+>“To let go from my hand a flea that I have caught is a kinder act than to bestow a dirhem on a man in need. There is no difference between the black earless creature which I release and the Black Prince of Kinda who bound the tiara (on his head). Both of them take precaution (against death); and life is dear to it (the flea), and it passionately desires the means of living.”
+
+>“The world holds two classes of men; intelligent men without religion, and religious men without intelligence.”
+
+>“Do not suppose the statements of the prophets to be true; they are all fabrications. Men lived comfortably till they came and spoiled life. The sacred books are only such a set of idle tales as any age could have and indeed did actually produce.”
+
+― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(973-1057, 1st recorded vegan in history, Arab philosopher, poet, and writer and is regarded as one of the greatest classical Arabic poets)</span>
 
 >“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
 
@@ -707,26 +938,59 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”
 
 >“A much more desirable way of securing world peace would be by a voluntary agreement among nations to pool their armed forces and submit to an **agreed single supreme world government**.”
 
+>“We have had in recent years a brilliant example of the **scientific temper** of mind in the theory of relativity and its reception by the world. Einstein, a German-Swiss-Jew pacifist, was appointed to a research professorship by the German Government in the early days of the War; his predictions were verified by an English expedition which observed the eclipse of 1919, very soon after the Armistice. His theory upsets the whole theoretical framework of traditional physics; it is almost as damaging to orthodox dynamics [Newtonian physics] as Darwin was to Genesis. Yet physicists everywhere have shown complete readiness to accept his theory as soon as it appeared that the evidence was in its favour. But none of them, least of all Einstein himself, would claim that he has said the last word. He has not built a monument of infallible dogma to stand for all time. There are difficulties he cannot solve; his doctrines will have to be modified in their turn as they have modified Newton's. This critical undogmatic receptiveness is the true attitude of science.”
+
+>“I ought to call myself an agnostic; but, for all practical purposes, I am an atheist. I do not think the existence of the Christian God any more probable than the existence of the Gods of Olympus or Valhalla. To take another illustration: nobody can prove that there is not between the Earth and Mars a china teapot revolving in an elliptical orbit, but nobody thinks this sufficiently likely to be taken into account in practice. I think the Christian God just as unlikely.” [<a href="https://en.wikipedia.org/wiki/Russell%27s_teapot" target="_blank">Russell's teapot</a>]
+
+>“I love him [Wittgenstein] & feel he will solve the problems I am too old to solve ... He is the young man one hopes for.”
+
+>“His [Wittgenstein's] criticism, tho' I don't think you realized it at the time, was an **event of first-rate importance in my life, and affected everything I have done since**. I saw that he was right, and I saw that I could not hope ever again to do fundamental work in philosophy.”
+
+>“Just about at the time of the Armistice his father had died, and Wittgenstein inherited the bulk of his fortune. **He came to the conclusion, however, that money is a nuisance to a philosopher**, so he gave every penny of it to his brother and sisters. Consequently he was unable to pay the fare from Vienna to the Hague, and was far too proud to accept it from me. ... He must have suffered during this time hunger and considerable privation, though it was very seldom that he could be induced to say anything about it, as he had the pride of Lucifer. At last his sister decided to build a house, and employed him as an architect. This gave him enough to eat for several years, at the end of which he returned to Cambridge as a don...”
+
+>“Wittgenstein is very excitable: he has more passion about philosophy than I have; his avalanches make mine seem mere snowballs. He has the pure intellectual passion in the highest degree; it makes me love him. His disposition is that of an artist, intuitive and moody. He says every morning he begins his work with hope, and every evening he ends in despair — he has just the sort of rage when he can't understand things as I have.”
+
+>“The later Wittgenstein, on the contrary, seems to have **grown tired of serious thinking** and to have invented a doctrine which would make such an activity unnecessary. I do not for one moment believe that the doctrine which has these **lazy consequences** is true. I realize, however, that I have an overpoweringly strong bias against it, for, if it is true, philosophy is, at best, a slight help to lexicographers, and at worst, an idle tea-table amusement.”
+
+>“There are two great men in history with whom he [Wittgenstein] somewhat resembles. One was Pascal, other was Tolstoy. Pascal was a mathematician of genius, but abandoned mathematics for piety. Tolstoy sacrificed his genius as a writer to a kind of bogus humility which made him prefer peasants to educated men and *Uncle Tom's Cabin* to all other works of fiction. Wittgenstein, who could play with metaphysical intricacies as cleverly as Pascal with Hexagons or Tolstoy with emperors, threw away this talent and debased himself before the peasants — in each case from an impulse of pride. I admired Wittgenstein's Tractatus but not his later work, which seemed to me to involve an abnegation of his own best talent very similar to those of Pascal and Tolstoy.... [M]ental torments which made him and Pascal and Tolstoy pardonable in spite of **their treachery to their own greatness**.”
+
 ― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
 
->“Do not unjustly eat fish the water has given up,<br>
->    And do not desire as food the flesh of slaughtered animals,<br>
-Or the white milk of mothers who intended its pure draught<br>
-for their young, not noble ladies.<br>
-And do not grieve the unsuspecting birds by taking eggs;<br>
-for injustice is the worst of crimes.<br>
-And spare the honey which the bees get industriously
-from the flowers of fragrant plants;<br>
-For they did not store it that it might belong to others,<br>
-Nor did they gather it for bounty and gifts.<br>
-I washed my hands of all this; and wish that I<br>
-Perceived my way before my hair went gray!”<br>
+>“Don’t worry, I know you’ll never understand it. [Wittgenstein to Bertrand Russell, his Ph.D supervisor, after he had defended his Ph.D thesis]”
 
->“The world holds two classes of men; intelligent men without religion, and religious men without intelligence.”
+>“Russell's books should be bound in two colours, those dealing with mathematical logic in red – and all students of philosophy should read them; those dealing with ethics and politics in blue – and no one should be allowed to read them.”
 
->“Do not suppose the statements of the prophets to be true; they are all fabrications. Men lived comfortably till they came and spoiled life. The sacred books are only such a set of idle tales as any age could have and indeed did actually produce.”
+>“My work consists of two parts: of the one which is here, and of everything which I have not written. And precisely this second part is the important one.”
 
-― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(1st recorded vegan in history, 10th century Arab philosopher, poet, and writer and is regarded as one of the greatest classical Arabic poets)</span>
+>“The difficulty in philosophy is to say no more than we know.”
+
+>“I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves.”
+
+>“A serious and good philosophical work could be written consisting entirely of jokes.”
+
+>“If you use a trick in logic, whom can you be tricking other than yourself?”
+
+>“Nothing is so difficult as **not deceiving oneself**.”
+
+>“The limits of my language mean the limits of my world.” 
+
+>“My propositions are elucidatory in this way: **he who understands me finally recognizes them as senseless**, when he has climbed out through them, on them, over them... He must so to speak throw away the ladder...”
+
+>“Good!” [After his doctor told him he might live only a few days.]
+
+>“Tell them I've had a wonderful life.” [last sentence]
+
+― <a href="https://en.wikipedia.org/wiki/Ludwig_Wittgenstein" target="_blank">Ludwig Wittgenstein</a>
+
+>“Utilitarian theory is embarrassed by the possibility of utility monsters who get enormously greater sums of utility from any sacrifice of others than these others lose ... the theory seems to require that we all be sacrificed in the monster's maw, in order to increase total utility.” <a href="https://en.wikipedia.org/wiki/Utility_monster" target="_blank">Utility monster</a>
+
+>“There are also substantial puzzles when we ask what matters other than how people's experiences feel "from the inside." Suppose there were an experience machine that would give you any experience you desired. Superduper neuropsychologists could stimulate your brain so that you would think and feel you were writing a great novel, or making a friend, or reading an interesting book. All the time you would be floating in a tank, with electrodes attached to your brain. Should you plug into this machine for life, preprogramming your life's experiences?.” <a href="https://en.wikipedia.org/wiki/Experience_machine" target="_blank">Experience machine</a>
+
+>“Our main conclusions about the state are that a minimal state, limited, to the narrow functions of protection against force, theft, fraud, enforcement of contracts, and so on, is justified, but any more extensive state will violate persons' rights not to be forced to do certain things, and is unjustified; and that the minimal state is inspiring as well as right.”
+
+>“No state more extensive than the minimal state can be justified.”
+
+― <a href="https://en.wikipedia.org/wiki/Robert_Nozick" target="_blank">Robert Nozick</a>
 
 >“There is pleasure when a sore is scratched,<br>
 But to be without sores is more pleasurable still.<br>
@@ -752,7 +1016,21 @@ And share your pleasures with beggars.”
 
 >“No testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that **its falsehood would be more miraculous**, than the fact which it endeavours to establish.”
 
+>“I cannot forbear adding to these reasonings an observation, which may, perhaps, be found of some importance. In every system of morality, which I have hitherto met with, I have always remarked, that the author proceeds for some time in the ordinary way of reasoning, and establishes the being of a God, or makes observations concerning human affairs; when of a sudden I am surprized to find, that instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not. This change is imperceptible; but is, however, of the last consequence. For as this ought, or ought not, expresses some new relation or affirmation, it is necessary that it should be observed and explained; and at the same time that a reason should be given, for what seems altogether inconceivable, how this new relation can be a deduction from others, which are entirely different from it. But as authors do not commonly use this precaution, I shall presume to recommend it to the readers; and am persuaded, that this small attention would subvert all the vulgar systems of morality, and let us see, that the distinction of vice and virtue is not founded merely on the relations of objects, nor is perceived by reason.”[^Hume]
+
 ― <a href="https://en.wikipedia.org/wiki/David_Hume" target="_blank">David Hume</a>
+
+>“Induction is the glory of science and the scandal of philosophy.” [<a href="https://en.wikipedia.org/wiki/Problem_of_induction" target="_blank">Problem of induction</a>]
+
+― <a href="https://en.wikipedia.org/wiki/C._D._Broad" target="_blank">C. D. Broad</a>
+
+>“The reasons for legal intervention in favour of children, apply not less strongly to the case of those unfortunate slaves and victims of the most brutal part of mankind, the lower animals.”
+
+>“Granted that any practice causes more pain to animals than it gives pleasure to man; is that practice moral or immoral? And if, exactly in proportion as human beings raise their heads out of the slough of selfishness, they do not with one voice answer 'immoral,' let the morality of the principle of utility be for ever condemned.”
+
+>“It is not because men's desires are strong that they act ill; it is because their consciences are weak.”
+
+― <a href="https://en.wikipedia.org/wiki/John_Stuart_Mill" target="_blank">John Stuart Mill</a>
 
 >“The chief objection I have to Pantheism is that it says nothing. To call the world "God" is not to explain it; it is only to enrich our language with a superfluous synonym for the word "world".”
 
@@ -760,7 +1038,11 @@ And share your pleasures with beggars.”
 
 >“Monotheistic religions alone furnish the spectacle of religious wars, religious persecutions, heretical tribunals, that breaking of idols and destruction of images of the gods, that razing of Indian temples and Egyptian colossi, which had looked on the sun 3,000 years: just because a jealous god had said, 'Thou shalt make no graven image.'”
 
->“And, above all, don't let us forget India, ~~the cradle of the human race~~, or at least of that part of it to which we belong, where first Mohammedans, and then Christians, were most cruelly infuriated against the adherents of the original faith of mankind. The destruction or disfigurement of the ancient temples and idols, a lamentable, mischievous and barbarous act, still bears witness to the monotheistic fury of the Mohammedans, carried on from Mahmud the Ghaznevid of cursed memory down to Aureng Zeb, the fratricide, whom the Portuguese Christians have zealously imitated by destruction of temples and the auto da fe of the inquisition at Goa.”
+>“And, above all, don't let us forget India, ~~the cradle of the human race, or at least of that part of it to which we belong~~, where first Mohammedans, and then Christians, were most cruelly infuriated against the adherents of the original faith of mankind. The destruction or disfigurement of the ancient temples and idols, a lamentable, mischievous and barbarous act, still bears witness to the monotheistic fury of the Mohammedans, carried on from Mahmud the Ghaznevid of cursed memory down to Aureng Zeb, the fratricide, whom the Portuguese Christians have zealously imitated by destruction of temples and the auto da fe of the inquisition at Goa.”
+
+>“~~Buddhism is the best of all possible religions.~~”
+
+>“Thus, because Christian morality leaves animals out of account ... they are at once outlawed in philosophical morals; they are mere "things," mere means to any ends whatsoever. They can therefore be used for vivisection, hunting, coursing, bullfights, and horse racing, and can be whipped to death as they struggle along with heavy carts of stone. Shame on such a morality that is worthy of pariahs, chandalas, and mlechchhas, and that fails to recognize the eternal essence that exists in every living thing ....”
 
 ― <a href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Arthur Schopenhauer</a>
 
@@ -770,19 +1052,33 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes" target="_blank">René Descartes</a>
 
->“We are like sailors who on the open sea must reconstruct their ship but are never able to start afresh from the bottom. Where a beam is taken away a new one must at once be put there, and for this the rest of the ship is used as support. In this way, by using the old beams and driftwood the ship can be shaped entirely anew, but only by gradual reconstruction.” (<a href="https://en.wikipedia.org/wiki/Neurath%27s_boat" target="_blank">Neurath's boat</a>: a simile used in anti-foundational philosophy)
+>“We are like sailors who on the open sea must reconstruct their ship but are never able to start afresh from the bottom. Where a beam is taken away a new one must at once be put there, and for this the rest of the ship is used as support. In this way, by using the old beams and driftwood the ship can be shaped entirely anew, but only by gradual reconstruction.”[^Neurath]
 
 ― <a href="https://en.wikipedia.org/wiki/Otto_Neurath" target="_blank">Otto Neurath</a>
 
 >“<a href="https://en.wikipedia.org/wiki/Existence_precedes_essence" target="_blank">Existence precedes essence</a>.”
 
+>“The absurd man will not commit suicide; he wants to live, without relinquishing any of his certainty, without a future, without hope, without illusions ... and without resignation either. He stares at death with passionate attention, and this fascination liberates him. He experiences the "divine irresponsibility" of the condemned man.”
+
 ― <a href="https://en.wikipedia.org/wiki/Jean-Paul_Sartre" target="_blank">Jean-Paul Sartre</a>
+
+>“<a href="https://en.wikipedia.org/wiki/Here_is_one_hand" target="_blank">Here is one hand</a>,<br>And here is another.<br>There are at least two external objects in the world.<br>Therefore, an external world exists.”
+
+― <a href="https://en.wikipedia.org/wiki/G._E._Moore" target="_blank">G. E. Moore</a>
+
+>“All of us, I believe, are fortunate to have been born.”
+
+>“Our own experience provides the basic material for our imagination, whose range is therefore limited. It will not help to try to imagine that one has webbing on one's arms, which enables one to fly around at dusk and dawn catching insects in one's mouth; that one has very poor vision, and perceives the surrounding world by a system of reflected high-frequency sound signals; and that one spends the day hanging upside down by one's feet in an attic. **In so far as I can imagine this (which is not very far), it tells me only what it would be like for me to behave as a bat behaves.** But that is not the question. **I want to know what it is like for a bat to be a bat.** Yet if I try to imagine this, I am restricted to the resources of my own mind, and those resources are inadequate to the task. I cannot perform it either by imagining additions to my present experience, or by imagining segments gradually subtracted from it, or by imagining some combination of additions, subtractions, and modifications.” <a href="https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F" target="_blank">What Is It Like to Be a Bat?</a>
+
+― <a href="https://en.wikipedia.org/wiki/Thomas_Nagel" target="_blank">Thomas Nagel</a>
 
 >“He who fights with monsters should look to it that he himself does not become a monster. **And if you gaze long into an abyss, the abyss also gazes into you**.”
 
 >“I cannot believe in a God who wants to be praised all the time.”
 
 >“The modern scientific counterpart to belief in God is the belief in the universe as an organism: this disgusts me. This is to make what is quite rare and extremely derivative, the organic, which we perceive only on the surface of the earth, into something essential, universal, and eternal! This is still an anthropomorphizing of nature!”
+
+>“For man is the cruelest animal. At tragedies, bull-fights, and crucifixions hath he hitherto been happiest on earth; and when he invented his hell, behold, that was his heaven on earth.”
 
 >“Man, the bravest animal and most prone to suffer, does not deny suffering as such: he wills it, he even seeks it out, provided he is shown a meaning for it, a purpose of suffering.”
 
@@ -794,6 +1090,12 @@ And share your pleasures with beggars.”
 
 >“[T]he decline of the faith in the Christian god, the **triumph of scientific atheism**, is a generally European event in which all races had their share and for which all deserve credit and honor.[ . . . U]nconditional and honest atheism [ . . . is] a triumph achieved finally and with great difficulty by the European conscience, being the most fateful act of two thousand years of discipline.”
 
+>“Buddhism is the only genuinely positive religion to be encountered in history, and this applies even to its epistemology (which is a strict phenomenalism) – It does not speak of a “struggle with sin,” but, yielding to reality, of the “struggle with suffering”.”
+
+>“Buddhism already has - and this distinguishes it profoundly from Christianity - the self-deception of moral concepts behind it - it stands, in my language, Beyond Good and Evil.”
+
+>“Pity makes suffering contagious.”
+
 ― <a href="https://en.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank">Friedrich Nietzsche</a>
 
 >“My atheism, like that of Spinoza, is true piety towards the universe and denies only gods fashioned by men in their own image, to be servants of their human interests.
@@ -801,6 +1103,8 @@ And share your pleasures with beggars.”
 ― <a href="https://en.wikipedia.org/wiki/George_Santayana" target="_blank">George Santayana</a>
 
 >“The principle can be established that for a man who does not cheat, what he believes to be true must determine his action. Belief in the absurdity of existence must then dictate his conduct.”
+
+>“For who would dare to assert that eternal happiness can compensate for a single moment's human suffering?”
 
 >“There is but one truly serious philosophical problem and that is suicide. Judging whether life is or is not worth living amounts to answering the fundamental question of philosophy. All the rest – whether or not the world has three dimensions, whether the mind has nine or twelve categories – comes afterwards. These are games; one must first answer. And if it is true, as Nietzsche claims, that a philosopher, to deserve our respect, must preach by example, you can appreciate the importance of that reply, for it will precede the definitive act. These are facts the heart can feel; yet they call for careful study before they become clear to the intellect. If I ask myself how to judge that this question is more urgent than that, I reply that one judges by the actions it entails. I have never seen anyone die for the ontological argument.”
 
@@ -834,7 +1138,25 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Socrates" target="_blank">Socrates</a>
 
+>“Does it not shame you to mingle murder and blood with their beneficent fruits? Other carnivora you call savage and ferocious - lions and tigers and serpents - while yourselves come behind them in no species of barbarity. And yet for them murder is the only means of sustenance; whereas to you it is a superfluous luxury and **crime**!”
+
+― <a href="https://en.wikipedia.org/wiki/Plutarch" target="_blank">Plutarch</a>
+
+>“For if the moral law commands that we ought to be better human beings now, it inescapably follows that we must be capable of being better human beings.”[<a href="https://en.wikipedia.org/wiki/Ought_implies_can" target="_blank">Ought implies can</a>]
+
 >“Religion is too important a matter to its devotees to be a **subject of ridicule**. If they indulge in absurdities, they are to be **pitied** rather than ridiculed.”
+
+>“There is … only a single categorical imperative and it is this: Act only on that maxim through which you can at the same time will that it should become a universal law.”
+
+>“The death of dogma is the birth of morality.”
+
+>“I freely admit: it was David Hume's remark that first, many years ago, interrupted my **dogmatic slumber** and gave a completely different direction to my enquiries in the field of speculative philosophy.”
+
+>“As everybody likes to be honoured, so people imagine that God also wants to be honoured. They forget that the fulfilment of duty towards men is the only honour adequate to him. Thus is formed the conception of a religion of worship, instead of a merely moral religion. … **Apart from moral conduct, all that man thinks himself able to do in order to become acceptable to God is mere superstition and religious folly**.”
+
+>“Man's greatest concern is to know how he shall properly fill his place in the universe and correctly understand what he must be in order to be a man.”
+
+>“Beneficence is a duty. He who often practices this, and sees his beneficent purpose succeed, comes at last really to love him whom he has benefited.”
 
 ― <a href="https://en.wikipedia.org/wiki/Immanuel_Kant" target="_blank">Immanuel Kant</a>
 
@@ -864,7 +1186,7 @@ And share your pleasures with beggars.”
 
 >“Goa is sadly famous for <a href="https://en.wikipedia.org/wiki/Goa_Inquisition" target="_blank">its inquisition</a>, equally contrary to humanity and commerce. The Portuguese monks made us believe that the people worshipped the devil, and it is they who have served him.”
 
->~~“The Veda was the most precious gift for which the West had ever been indebted to the East.”~~<sup id="a11"><a href="#f11">11</a></sup>
+>~~“The Veda was the most precious gift for which the West had ever been indebted to the East.”~~[^Voltaire]
 
 ― <a href="https://en.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a>
 
@@ -875,6 +1197,24 @@ And share your pleasures with beggars.”
 >“The Hiddenness Argument: philosophy's new challenge to belief in god: You’re still a small child, and an amnesiac, but this time you’re in the middle of a vast rain forest, dripping with dangers of various kinds.  You’ve been stuck there for days, trying to figure out who you are and where you came from.  You don’t remember having a mother who accompanied you into this jungle, but in your moments of deepest pain and misery you call for her anyway, ‘Mooooommmmmmm!’  Over and over again.  For days and days … the last time when a jaguar comes at you out of nowhere … but with no response.  What should you think in this situation?  In your dying moments, what should cross your mind?  Would the thought that you have a mother who cares about you and hears your cry and could come to you but chooses not to even make it onto the list?”
 
 ― <a href="https://en.wikipedia.org/wiki/J._L._Schellenberg" target="_blank">J. L. Schellenberg</a>
+
+>“Nations are artificial constructs, their boundaries drawn in the blood of past wars.”
+
+>“There is no greater social evil than religion. It is the cancer in the body of humanity.”
+
+>“Outside the formal disciplines of logic and mathematics there are no absolute certainties—except of course in religion, which abounds in them, to the extent that people commit murder for their sake.”
+
+>“The one thing that is more dangerous than true ignorance is the illusion of understanding.”
+
+― <a href="https://en.wikipedia.org/wiki/A._C._Grayling" target="_blank">A. C. Grayling</a>
+
+>“I am a 21st Century person who was accidentally launched in the 20th. I have a deep nostalgia for the future.”
+
+>“There are no illegal immigrants, only irrelevant borders.”
+
+>“No civilization of the past was great. They were all primitive and persecutory, founded on mass subjugation and mass murder.”
+
+― <a href="https://en.wikipedia.org/wiki/FM-2030" target="_blank">FM-2030</a>
 
 >“Nationalism is merely Glorified Tribalism.” [<a href="https://www.youtube.com/watch?v=RRQgExLkYEk" target="_blank">YouTube</a>]
 
@@ -898,15 +1238,29 @@ And share your pleasures with beggars.”
 
 >“The fact that a believer [of a religion] is happier than a skeptic is no more to the point than the fact that a drunken man is happier than a sober one. The happiness of credulity is a cheap and dangerous quality of happiness, and by no means a necessity of life.”
 
+>“Einstein denies Newton infallible.”
+
 ― <a href="https://en.wikipedia.org/wiki/George_Bernard_Shaw" target="_blank">George Bernard Shaw</a>
+
+>“Everyone knows Newton as the great scientist. Few remember that he spent half his life muddling with alchemy, looking for the philosopher's stone. That was the pebble by the seashore he really wanted to find..”
+
+― <a href="https://en.wikipedia.org/wiki/Fritz_Leiber" target="_blank">Fritz Leiber</a>
 
 >“Non-violence leads to the highest ethics, which is the goal of all evolution. Until we stop harming all other living beings, we are still savages.”
 
 ― <a href="https://en.wikipedia.org/wiki/Thomas_Edison" target="_blank">Thomas Edison</a>
 
+>“[T]he interests of science have suffered by the excessive admiration and wonder, with which several first rate philosophers are considered; and... an opinion of the **greater equality of mankind, in point of genius**, and powers of understanding, would be of real service in the present age.”
+
+― <a href="https://en.wikipedia.org/wiki/Joseph_Priestley" target="_blank">Joseph Priestley</a>
+
 >“If there is a God, atheism must strike Him as less of an insult than religion.”
 
 ― <a href="https://en.wikipedia.org/wiki/Edmond_de_Goncourt" target="_blank">Edmond de Goncourt</a>
+
+>“While science as a process only requires methodological naturalism, the practice or adoption of methodological naturalism entails a logical and moral belief in philosophical naturalism, so they are not logically decoupled.”
+
+― <a href="https://en.wikipedia.org/wiki/Steven_Schafersman" target="_blank">Steven Schafersman</a>
 
 >“Clarke's three laws:<br>
 > 1.When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.<br>
@@ -938,15 +1292,55 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Ray_Cummings" target="_blank">Ray Cummings</a>
 
->“Men rarely (if ever) manage to dream up a god superior to themselves. **Most gods have the manners and morals of a spoiled child**.” 
+>“Men rarely (if ever) manage to dream up a god superior to themselves. **Most gods have the manners and morals of a spoiled child**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Robert_A._Heinlein" target="_blank">Robert A. Heinlein</a>
+
+>“I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidæ with the express intention of their feeding within the living bodies of caterpillars, or that a cat should play with mice.”
+
+>“**Animals whom we have made our slaves** we do not like to consider our equals. — Do not slave holders wish to make the black man other kind? — animals with affections, imitation, fear of death, pain, sorrow for the dead. — respect.”
+
+>“Disinterested love for all living creatures, the most noble attribute of man.”
+
+>“Man in his **arrogance** thinks himself a great work worthy the interposition of a deity. More humble, and I believe truer, to consider him created from animals.”
+
+>“The highest stage in moral culture at which we can arrive, is when we recognise that we ought to control our thoughts.”
+
+>“As man advances in civilisation, and small tribes are united into larger communities, the simplest reason would tell each individual that he ought to extend his social instincts and sympathies to all the members of the same nation, though personally unknown to him. This point being once reached, there is only an artificial barrier to prevent his **sympathies extending to the men of all nations and races**. If, indeed, such men are separated from him by great differences in appearance or habits, experience unfortunately shews us how long it is before we look at them as our fellow-creatures. **Sympathy beyond the confines of man, that is humanity to the lower animals, seems to be one of the latest moral acquisitions. It is apparently unfelt by savages, except towards their pets.** How little the old Romans knew of it is shewn by their abhorrent gladiatorial exhibitions. The very idea of humanity, as far as I could observe, was new to most of the Gauchos of the Pampas. This virtue, one of the noblest with which man is endowed, seems to arise incidentally from our sympathies becoming more tender and more widely diffused, until they are extended to all sentient beings. As soon as this virtue is honoured and practised by some few men, it spreads through instruction and example to the young, and eventually through public opinion.”
+
+>“Physiological experiment on animals is justifiable for real investigation; but **not for mere damnable and detestable curiosity**.”
+
+>“Man in his **arrogance** thinks himself a great work worthy the interposition of a deity. More humble, and I believe truer, to consider him created from animals.”
+
+>“Believing as I do that man in the distant future will be a **far more perfect creature than he now is**, it is an intolerable thought that he and all other sentient beings are doomed to complete annihilation after such long-continued slow progress. To those who fully admit the immortality of the human soul, the destruction of our world will not appear so dreadful.”
+
+>“Alas! A scientific man ought to have no wishes, no affections — a mere heart of stone.”
+
+>“A man who dares to waste one hour of time has not discovered the value of life.”
+
+>“To my mind there are no advantages and many disadvantages in lectures compared with reading.”
+
+>“I attempted mathematics, and even went during the summer of 1828 with a private tutor (a very dull man) to Barmouth, but I got on very slowly. The work was repugnant to me, chiefly from my not being able to see any meaning in the early steps in algebra. **This impatience was very foolish, and in after years I have deeply regretted** that I did not proceed far enough at least to understand something of the great leading principles of mathematics; for men thus endowed seem to have an extra sense.”
+
+>“Even ill-health, though it has annihilated several years of my life, has saved me from the distractions of society and amusement.”
+
+― <a href="https://en.wikipedia.org/wiki/Charles_Darwin" target="_blank">Charles Darwin</a>
 
 >“Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and tortuous executions, the unrelenting vindictiveness with which more than half the Bible is filled, it would be more consistent that we call it the **word of a demon** than the word of God. It is a history of wickedness that has served to corrupt and brutalize mankind; and, for my part, I sincerely detest it, as I detest everything that is cruel.”
 
 ― <a href="https://en.wikipedia.org/wiki/Thomas_Paine" target="_blank">Thomas Paine</a>
 
->“There is a ~~theory~~ belief which states that if ever anyone discovers exactly ~~what the Universe is for and why it is here~~ how to quantize gravity, it will instantly disappear and be replaced by ~~something even more bizarre and inexplicable~~ a universe in which quantizing gravity is even harder. There is another ~~theory~~ belief which states that this has already happened.” (The original is strickenthrough and edited)
+>“You cannot insult a man more atrociously than by refusing to believe he is suffering.”
+
+― <a href="https://en.wikipedia.org/wiki/Cesare_Pavese" target="_blank">Cesare Pavese</a>
+
+>“I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones.”
+
+>“So git is my second big project which is only created to maintain my first big project.”
+
+― <a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank">Linus Torvalds</a>
+
+>“There is a theory which states that if ever anyone discovers exactly ~~what the Universe is for and why it is here~~ how to quantize gravity, it will instantly disappear and be replaced by ~~something even more bizarre and inexplicable~~ a universe in which quantizing gravity is even harder. There is another theory which states that this has already happened.” [The original is strickenthrough and edited]
 
 >“In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.”
 
@@ -968,6 +1362,24 @@ And share your pleasures with beggars.”
 >“To live is to suffer, to survive is to find some meaning in the suffering.”
 
 ― <a href="https://en.wikipedia.org/wiki/Gordon_Allport" target="_blank">Gordon Allport</a>
+
+>“The misnaming of fields of study is so common as to lead to what might be general systems laws. For example, Frank Harary once suggested the law that any field that had the word “science” in its name was guaranteed thereby not to be a science. He would cite as examples Military Science, Library Science, Political Science, Homemaking Science, Social Science, and Computer Science.”
+
+― <a href="https://en.wikipedia.org/wiki/Gerald_Weinberg" target="_blank">Gerald M. Weinberg</a>
+
+>“When about 16 years of age, I happen'd to meet with a book written by one <a href="https://en.wikipedia.org/wiki/Thomas_Tryon" target="_blank">Tryon</a>, recommending a vegetable diet. I determined to go into it ... [By not eating meat] I presently found that I could save half what [my brother] paid me. This was an additional fund for buying books: but I had another advantage in it ... I made the greater progress from that greater clearness of head and quicker apprehension which usually attend temperance in eating and drinking.”
+
+>“Slavery is such an atrocious debasement of human nature, that its very extirpation, if not performed with solicitous care, may sometimes open a source of serious evils.”
+
+― <a href="https://en.wikipedia.org/wiki/Benjamin_Franklin" target="_blank">Benjamin Franklin</a>
+
+>“The optimist proclaims that we live in the best of all possible worlds; and the pessimist fears this is true.”
+
+― <a href="https://en.wikipedia.org/wiki/James_Branch_Cabell" target="_blank">James Branch Cabell</a>
+
+>“It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.”
+
+― <a href="https://en.wikipedia.org/wiki/Jane_Austen" target="_blank">Jane Austen</a>
 
 >“However statistically improbable the entity you seek to explain by invoking a designer, the designer himself has got to be at least as improbable. God is the <a href="https://en.wikipedia.org/wiki/Ultimate_Boeing_747_gambit" target="_blank">Ultimate Boeing 747</a>.”
 
@@ -1053,11 +1465,11 @@ And share your pleasures with beggars.”
 
 >“The spectacle of what is called **religion**, or at any rate organised religion, in India and elsewhere, has filled me with **horror** and I have frequently condemned it and wished to make a clean sweep of it. Almost always it seemed to stand for **blind belief** and reaction, dogma and **bigotry**, superstition, **exploitation** and the preservation of vested interests.”
 
+>“[When asked in 1963 that "now that there is Communist government in Kerala, what would happen if communists came to power at the Centre?"] - Communists, communists! Why are you all so obsessed with communism and communists? What is that the communists can do what we cannot do and have not done?... Why do you imagine the communists will ever be voted to power at the Centre? **The danger to India, mark you, is not Communism. It is Hindu right-wing communalism**.”[^Nehru]
+
 >“When the minority communities are communal, you can see that and understand it. But the communalism of a majority community is apt to be taken for nationalism.”
 
 >“Religion is not familiar ground for me, and as I have grown older, I have definitely drifted away from it.”
-
->“[When asked in 1963 that "now that there is Communist government in Kerala, what would happen if communists came to power at the Centre?"] - Communists, communists! Why are you all so obsessed with communism and communists? What is that the communists can do what we cannot do and have not done?... Why do you imagine the communists will ever be voted to power at the Centre? **The danger to India, mark you, is not Communism. It is Hindu right-wing communalism**.”
 
 >“As you know, the ban on the RSS has been removed…. This does not mean that we are convinced about the bona fides of the RSS movement…. Our general relaxation in the field of civil liberties will certainly not mean the slightest relaxation in meeting violence against the individual or the state, wherever it occurs and whatever form it might take.”
 
@@ -1157,6 +1569,18 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Charles_T._Rubin" target="_blank">Charles T. Rubin</a>
 
+>“When a person can't find a deep sense of meaning, they distract themselves with pleasure.”
+
+>“A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, **will never be able to throw away his life**. He knows the "why" for his existence, and will be able to bear almost any "how."”
+
+>“If there is a meaning in life at all, then there must be a meaning in suffering. Suffering is an ineradicable part of life, even as fate and death.”
+
+>“There is nothing in the world, I venture to say, that would so effectively help one to survive even the worst conditions, as the knowledge that there is a meaning in one’s life.”
+
+>“Since Auschwitz we know what man is capable of.<br>And since Hiroshima we know what is at stake.”
+
+― <a href="https://en.wikipedia.org/wiki/Viktor_Frankl" target="_blank">Viktor Frankl</a>
+
 >“The Taiping Rebellion is the perfect example of the old adage that the **winners write the history books**. Most writers treat the Taipings as **poor deluded peasants following a madman's hallucinations**, but when you get right down to it, **that's how most religions begin** (not your religion obviously, but all the other ones). The only difference between <a href="https://en.wikipedia.org/wiki/Hong_Xiuquan" target="_blank">Hong Xiuquan</a> and history's successful prophets is that if a professor, novelist, or cartoonist disrespects Hong Xiuquan, angry mobs won't call for his head.
 >
 >**Is fear of its followers really the best test of a religion's authenticity?** I'll admit that's the standard I use, but it's probably a good idea to remember that if the Taipings had won their rebellion, they might today be considered totally legit and every bit as Christian as the Mormons ("mostly, sort of").”
@@ -1166,6 +1590,16 @@ And share your pleasures with beggars.”
 >“Asking, 'If there is no God, what is the purpose of life?' is like asking, 'If there is no master, whose slave will I be?' If your purpose of life is to submit as a slave, then your meaning comes from **flattering the ego of a person whom you should detest**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Dan_Barker" target="_blank">Dan Barker</a>
+
+>“To claim that the souls of men will be happy or unhappy after the death of the body, is to pretend that man will be able to see without eyes, to hear without ears, to taste without a palate, to smell without a nose, and to feel without hands and without skin. Nations who believe themselves very rational, adopt, nevertheless, such ideas.”
+
+>“Think hard about the reasons for believing and not believing, what your religion teaches you and demands so inexorably that you believe. I am convinced that if you follow closely the natural light of your spirit, you will see ... that all the religions in the world are only human inventions and that everything your religion teaches you and forces you to believe as supernatural and divine is at heart only error, lie, illusion and trickery.”
+
+>“How I suffered when I had to preach to you those pious lies that I detest in my heart. What remorse your credulity caused me! A thousand times I was on the point of breaking out publicly and opening your eyes, but a fear stronger than myself held me back, and forced me to keep silence until my death.”
+
+>“It is an act of cruelty, of barbarism, to kill, to strike unconscious, and to cut the throat of animals, who do no harm to anyone, the way we do; because they are sensitive to injury and pain just as we are, regardless of what is said vainly, falsely, and ridiculously by our new Cartesians, who regard them as purely machines without soul and without feelings … This is a ridiculous opinion, a pernicious principle, and a detestable doctrine, because it clearly tends to stifle in the hearts of men all feelings of kindness, of gentleness, and of humanity that they might have toward these poor animals. … Blessed are the nations that treat them kindly and favorably, who are compassionate toward their miseries and their pains; but cursed are the nations that treat them cruelly, who tyrannize over them, who enjoy shedding their blood, and who are avid to eat their flesh.”
+
+― <a href="https://en.wikipedia.org/wiki/Jean_Meslier" target="_blank">Jean Meslier</a>
 
 >“Now, my own suspicion is that the universe is not only queerer than we suppose, but queerer than we can suppose.....I suspect that there are more things in heaven and earth than are dreamed of, or can be dreamed of, in any philosophy. That is the reason why I have no philosophy myself, and must be my excuse for dreaming.”
 
@@ -1197,6 +1631,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Franz_Kafka" target="_blank">Franz Kafka</a>
 
+>“If you are not paying for it, you're not the customer; you're the product being sold.”
+
+― <a href="https://x.com/andlewis/status/24380177712" target="_blank">Andrew Lewis</a>
+
 >“In some ways people had got used to the idea that India was spiritual and religion-oriented. That gave a leg up to the religious interpretation of India, despite the fact that **Sanskrit had a larger atheistic literature than exists in any other classical language**. Madhava Acharya, the remarkable 14th century philosopher, wrote this rather great book called <a href="https://en.wikipedia.org/wiki/Vidyaranya#Sarvadar%C5%9Banasa%E1%B9%85graha" target="_blank">Sarvadarśanasaṅgraha</a>, which discussed all the religious schools of thought within the Hindu structure. The **first chapter** is "<a href="https://en.wikipedia.org/wiki/Charvaka" target="_blank">Cārvāka</a>" or "Atheism"—a very strong presentation of the argument in favour of atheism and materialism.”
 
 ― <a href="https://en.wikipedia.org/wiki/Amartya_Sen" target="_blank">Amartya Sen</a>
@@ -1207,7 +1645,7 @@ And share your pleasures with beggars.”
 >^ *Translates to* “There should be fear in life, but whole life should not become fear.”
 ― <a href="https://en.wikipedia.org/wiki/Rajinikanth" target="_blank">Rajinikanth</a>(From Basha movie)
 
->“Ashoka , one of the great monarchs of history, whose dominions extended from Afghanistan to Madras... is the only military monarch on record who abandoned warfare after victory. He had invaded Kalinga (255 B.C.), a country along the east coast of Madras, perhaps with some intention of completing the conquest of the tip of the Indian peninsula. The expedition was successful, but he was disgusted by what be saw of the cruelties and horrors of war. He declared, in certain inscriptions that still exist, that he would no longer seek conquest by war, but by religion, and the rest of his life was devoted to the spreading of Buddhism throughout the world. He seems to have ruled his vast empire in peace and with great ability. **He was no mere religious fanatic. For eight and twenty years Asoka worked sanely for the real needs of men.** In the history of the world there have been thousands of kings and emperors who called themselves "their highnesses," "their majesties," and "their exalted majesties" and so on. They shone for a brief moment, and as quickly disappeared. But Ashoka shines and shines brightly like a bright star, even unto this day.”
+>“Ashoka, one of the great monarchs of history, whose dominions extended from Afghanistan to Madras... is the only military monarch on record who abandoned warfare after victory. He had invaded Kalinga (255 B.C.), a country along the east coast of Madras, perhaps with some intention of completing the conquest of the tip of the Indian peninsula. The expedition was successful, but he was disgusted by what be saw of the cruelties and horrors of war. He declared, in certain inscriptions that still exist, that he would no longer seek conquest by war, but by religion, and the rest of his life was devoted to the spreading of Buddhism throughout the world. He seems to have ruled his vast empire in peace and with great ability. **He was no mere religious fanatic. For eight and twenty years Asoka worked sanely for the real needs of men.** In the history of the world there have been thousands of kings and emperors who called themselves "their highnesses," "their majesties," and "their exalted majesties" and so on. They shone for a brief moment, and as quickly disappeared. But Ashoka shines and shines brightly like a bright star, even unto this day.”
 
 ― <a href="https://en.wikipedia.org/wiki/H._G._Wells" target="_blank">H. G. Wells</a>
 
@@ -1218,6 +1656,10 @@ And share your pleasures with beggars.”
 >“If you can convince the lowest white man he's better than the best colored man, he won't notice you're picking his pocket. Hell, give him somebody to look down on, and he'll empty his pockets for you.”
 
 ― <a href="https://en.wikipedia.org/wiki/Lyndon_B._Johnson" target="_blank">Lyndon B. Johnson</a>
+
+>“A successful individual typically sets his next goal somewhat but not too much above his last achievement. In this way he steadily raises his level of aspiration.”
+
+― <a href="https://en.wikipedia.org/wiki/Kurt_Lewin" target="_blank">Kurt Lewin</a>
 
 >“Doubts about the existence of free will and individuals are nothing new, of course. More than 2,000 years ago thinkers in India, China and Greece argued that ‘the individual self is an illusion’. Yet such doubts don’t really change history much unless they have a practical impact on economics, politics and day-to-day life. **Humans are masters of cognitive dissonance**, and we allow ourselves to believe one thing in the laboratory and an altogether different thing in the courthouse or in parliament. Just as Christianity didn’t disappear the day Darwin published On the Origin of Species, so liberalism won’t vanish just because scientists have reached the conclusion that there are no free individuals.”
 
@@ -1253,10 +1695,6 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Lewis" target="_blank">Carl Lewis</a><span style="color:Chartreuse">(Olympic athlete who won nine Olympic gold medals, one Olympic silver medal, and 10 World Championships medals, including eight gold. He also  won a gold medal in the same individual event in four consecutive Olympic Games)</span>
 
->“One of the main arguments that I make is that although almost everyone accepts that it is morally wrong to inflict "**unnecessary**" suffering and death on animals, 99% of the suffering and death that we inflict on animals can be justified only by our pleasure, amusement, or convenience. For example, the best justification that we have for killing the billions of nonhumans that we eat every year is that we enjoy the taste of animal flesh and animal products. This is not an acceptable justification if we take seriously, as we purport to, that it is wrong to inflict unnecessary suffering or death on animals, and it illustrates the confused thinking that I characterize as our "moral schizophrenia" when it comes to nonhumans.”
-
-― <a href="https://en.wikipedia.org/wiki/Gary_L._Francione" target="_blank">Gary L. Francione</a><span style="color:Chartreuse">(ethics philosopher)</span>
-
 >“A global transition to a cruelty-free vegan diet won't just help non-human animals. **The transition will also help malnourished humans who could benefit from the grain currently fed to factory-farmed animals**. For **factory-farming** is **not just cruel**; it's **energy-inefficient**. Let’s take just one example. Over the past few decades, millions of Ethiopians have died of "food shortages" while Ethiopia grew grain to sell to the West to feed cattle. Western meat-eating habits **prop up the price of grain so that poor people in the developing world can’t afford to buy it**. In consequence, they starve by the millions. In my work, I explore futuristic, hi-tech solutions to the problem of suffering. But anybody who seriously wants to reduce human and non-human suffering alike should adopt a cruelty-free vegan lifestyle today.”
 
 >“So what is the alternative to traditional anthropocentric ethics? Antispeciesism is not the claim that "All Animals Are Equal", or that all species are of equal value, or that a human or a pig is equivalent to a mosquito. Rather the antispeciesist claims that, other things being equal, equally strong interests should count equally.”
@@ -1266,6 +1704,34 @@ And share your pleasures with beggars.”
 >“The day has been, I am sad to say in many places it is not yet past, in which the greater part of the species, under the denomination of slaves, have been treated by the law exactly upon the same footing, as, in England for example, the inferior races of animals are still. **The day may come when the rest of the animal creation may acquire those rights which never could have been witholden from them but by the hand of tyranny**. The French have already discovered that the blackness of the skin is no reason a human being should be abandoned without redress to the caprice of a tormentor. It may one day come to be recognised that the number of the legs, the villosity of the skin, or the termination of the os sacrum are reasons equally insufficient for abandoning a sensitive being to the same fate. What else is it that should trace the insuperable line? Is it the faculty of reason or perhaps the faculty of discourse? But a full-grown horse or dog, is beyond comparison a more rational, as well as a more conversable animal, than an infant of a day or a week or even a month, old. But suppose the case were otherwise, what would it avail? **The question is not, Can they reason? nor, Can they talk? but, Can they suffer?**”
 
 ― <a href="https://en.wikipedia.org/wiki/Jeremy_Bentham" target="_blank">Jeremy Bentham</a><span style="color:Chartreuse">(founder of modern utilitarianism)</span>
+
+>“The emancipation of men from cruelty and injustice will bring with it in due course the emancipation of animals also. The two reforms are inseparably connected, and neither can be fully realized alone.”
+
+>“If "rights" exist at all—and both feeling and usage indubitably prove that they do exist—they cannot be consistently awarded to men and denied to animals, since the same sense of justice and compassion apply in both cases.”
+
+>“Have the lower animals "rights?" Undoubtedly—if men have.”
+
+>“[The] notion of the life of an animal having 'no moral purpose,' belongs to a class of ideas which cannot possibly be accepted by the advanced humanitarian thought of the present day [1894] —it is a purely arbitrary assumption, at variance with our best instincts, at variance with our best science, and absolutely fatal (if the subject be clearly thought out) to any full realization of animals' rights. If we are ever going to do justice to the lower races, we must get rid of the antiquated notion of a 'great gulf' fixed between them and mankind, and must recognize the common bond of humanity that unites **all living beings in one universal brotherhood**.”
+
+>“We have to decide, not whether the practice of fox-hunting, for example, is more, or less, cruel than vivisection, but whether all practices which inflict unnecessary pain on sentient beings are not incompatible with the higher instincts of humanity.”
+
+>“Oppression and cruelty are invariably founded on a lack of imaginative sympathy; the tyrant or tormentor can have no true sense of kinship with the victim of his injustice. When once the sense of affinity is awakened, the knell of tyranny is sounded, and the ultimate concession of "rights" is simply a matter of time.”
+
+>“I shall die ... as I have lived, rationalist, socialist, pacifist, and humanitarian.”
+
+>“Religion has never befriended the cause of humaneness. Its monstrous doctrine of eternal punishment and the torture of the damned underlies **much of the barbarity with which man has treated man**; and the deep division imagined by the Church between the human being, with his immortal soul, and the soulless "beasts", has been responsible for an incalculable sum of cruelty.”
+
+>“In the writings of such "pagan" philosophers as Plutarch and Porphyry we find a humanitarian ethic of the most exalted kind, which, after undergoing a long repression during medieval churchdom, reappeared, albeit but weakly and fitfully at first, in the literature of the Renaissance, to be traced more definitely in the eighteenth century school of "sensibility." But it was not until after the age of Rousseau, from which must be dated the great humanitarian movement of the past century, that Vegetarianism began to assert itself as a system, a reasoned plea for the disuse of flesh-food.”
+
+>“I say ethical principle, because it is beyond doubt that the chief motive of Vegetarianism is the humane one. Questions of hygiene and of economy both play their part, and an important part, in a full discussion of food reform; but the feeling which underlies and animates the whole movement is the instinctive horror of butchery, especially the butchery of the more highly organized animals, so human, so near akin to man.”
+
+>“The ignorance, carelessness, and brutality are not only in the rough-handed slaughtermen, **but in the polite ladies and gentlemen whose dietetic habits render the slaughtermen necessary**.”
+
+>“It is often said, as an excuse for the slaughter of animals, that it is better for them to live and to be butchered than not to live at all. … In fact, if we once admit that it is an advantage to an animal to be brought into the world, there is hardly any treatment that cannot be justified by the supposed terms of such a contract. Also, the argument must apply to mankind. It has, in fact, been the plea of the **slave-breeder**; and it is logically just as good an excuse for slave-holding as for flesh-eating. It would justify parents in almost any treatment of their children, who owe them, for the great boon of life, a debt of gratitude which no subsequent services can repay. We could hardly deny the same merit to cannibals, if they were to breed their human victims for the table, as the early Peruvians are said to have done.”
+
+>“Before passing on, I will merely add this, that in some ways the **evils attendant on slaughtering grow worse, and not better**, as civilisation advances, because of the more complex conditions of town life, and the increasingly long journeys to which animals are subjected in their transit from the grazier to the slaughterman. [1897]”
+
+― <a href="https://en.wikipedia.org/wiki/Henry_Stephens_Salt" target="_blank">Henry Stephens Salt</a><span style="color:Chartreuse">(Campaigner for social reform in the fields of prisons, schools, economic institutions, and the treatment of animals. Introduced Mohandas Gandhi to the influential works on animal rights)</span>
 
 >“A commercial company enslaved a nation comprising two hundred millions. Tell this to a man free from superstition and he will fail to grasp what these words mean. What does it mean that thirty thousand men, not athletes but rather weak and ordinary people, have subdued two hundred million vigorous, clever, capable, and freedom-loving people? **Do not the figures make it clear that it is not the English who have enslaved the Indians, but the Indians who have enslaved themselves?**”
 
@@ -1407,13 +1873,43 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Carol_J._Adams" target="_blank">Carol J. Adams</a><span style="color:Chartreuse">(feminist and animal rights advocate)</span>
 
+>“When a woman responds to mistreatment by protesting "I'm a human being!" or "I want to be treated with respect, not like some animal," what is she suggesting about the acceptable ways of treating other animals? Perhaps because comparisons between women and nonhuman animals so often entail sexism, many women are anxious to distance themselves from other animals. Feminists, especially, recognize that negative "animal" imagery has advanced women's oppression. However, if our treatment and view of other animals became caring, respectful, and just, nonhuman-animal metaphors would quickly lose all power to demean. Few women have confronted how closely they mirror patriarchal oppressors when they too participate in other species' denigration. Women who avoid acknowledging that they are animals closely resemble men who prefer to ignore that women are human.”
+
+>“In any case, abundant evidence indicates that all invertebrates with a brain can experience pain. Like vertebrates, numerous invertebrates produce natural opiates and substance P. These animals include crustaceans (e.g., crabs, lobsters, and shrimps), insects (e.g., fruit flies, locusts, and cockroaches), and mollusks (e.g., octopuses, squids, and snails) [...] Also, crustaceans, insects, and mollusks show less reaction to a noxious stimulus when they receive morphine. For example, morphine reduces the reaction of mantis shrimps to electric shock, praying mantises to electric shock, and land snails to a hot surface.”
+
+― <a href="https://en.wikipedia.org/wiki/Joan_Dunayer" target="_blank">Joan Dunayer</a><span style="color:Chartreuse">(Abolitionist)</span>
+
+>“I admit it as an axiom, that every animal has more right to the use of its own body than others have to use it.”
+
+>“Much as animals suffer in a natural state, much more do they seem to suffer when under the dominion of the generality of men. What suffering in the former can be supposed to equal the constant torture of a hackney-coach horse?.”
+
+>“It is an axiom that the more pleasure and the less pain there is in the Universe, the better it is. If, then, a person suffer pain instead of pleasure, whether he be criminal or not, the pain will be increased and the pleasure decreased; and, as this disagrees with the axiom just cited, it is wrong.”
+
+>“Y: I suppose you also deem it a crime to drink, as you destroy myriads of animals in the water of every draught?<br>
+Z: I consider this an evil, but not a crime, because I do not cause or wish them to be there, and would assist them to escape if possible. They have no more claim to the water than I have; and we know so little of the nature of these animals, that we are not even sure that they die when the water is drunk; the very fact of their being there is concealed from us, and but for the microscope we should never have known it. I however consider it wrong to waste water in anyway which may injure the <a href="https://en.wikipedia.org/wiki/Animalcule" target="_blank">animalcula</a>.”
+
+>“Y: But the whole species of the carnivorous kind would then become extinct. Were they created to be annihilated?<br>
+Z: I do not see why the whole species of one animal is more important than an equal number of another, although that number might not comprise the whole species of the latter: and, besides, it is not proved that the whole species would perish; as some might feed on the bodies of those animals which they might find that were in a fit state; and also upon vegetables, which they will eat occasionally. It is known that wolves will live in the two ways mentioned, when deprived of other means.”
+
+>“Yet it must be confessed that whichever way we turn our eyes we see a system of aggression and destruction. In order for one animal to live, thousands must die: directly so if the one be carnivorous, and indirectly so if graminivorous. It has been calculated that some birds destroy thousands of butterflies during the rearing of a single brood; and if we take man, who is half carnivorous, and calculate how many lives are destroyed to maintain him in comfort during his life, even without sport, the number will appear enormous, no estimate of which can however be made without taking into account the size of the animals he feeds on.”
+
+― <a href="https://en.wikipedia.org/wiki/Lewis_Gompertz" target="_blank">Lewis Gompertz</a><span style="color:Chartreuse">(1784 - 1861; One of the earliest vegans)</span>
+
+>“We have to be aggressive when those we stick up for have no voice. I don't consider it radical to say cruelty is wrong and that animals should be respected. I consider it radical to eat corpses, put electrodes in animals' heads, make elephants live in chains in the circus, and poison animals we consider a nuisance.”
+
+>“Eating meat is primitive, barbaric, and arrogant.”
+
+― <a href="https://en.wikipedia.org/wiki/Ingrid_Newkirk" target="_blank">Ingrid Newkirk</a><span style="color:Chartreuse">(President and founder of PETA, the biggest welfarist organization. PETA doesn't support animal rights, even though Newkirk talks like she believes in animal rights)</span>
+
 >“To protest about bullfighting in Spain, the eating of dogs in South Korea, or the slaughter of baby seals in Canada while continuing to eat eggs from hens who have spent their lives crammed into cages, or veal from calves who have been deprived of their mothers, their proper diet, and the freedom to lie down with their legs extended, is like denouncing apartheid in South Africa while asking your neighbours not to sell their houses to blacks.”
 
->“Those who claim to care about the wellbeing of human beings and the preservation of our environment should become vegetarians for that reason alone. They would thereby increase the amount of grain available to feed people elsewhere, reduce pollution, save water and energy, and cease contributing to the clearing of forests; moreover, since a vegetarian diet is cheaper than one based on meat dishes, they would have more money available to devote to famine relief, population control, or whatever social or political cause they thought most urgent. … when nonvegetarians say that “human problems come first” I cannot help wondering what exactly it is that they are doing for human beings that compels them to continue to support the wasteful, ruthless exploitation of farm animals.”
+>“Those who claim to care about the wellbeing of human beings and the preservation of our environment should become vegans for that reason alone. They would thereby increase the amount of grain available to feed people elsewhere, reduce pollution, save water and energy, and cease contributing to the clearing of forests; moreover, since a vegan diet is cheaper than one based on meat dishes, they would have more money available to devote to famine relief, population control, or whatever social or political cause they thought most urgent. … when nonvegans say that “human problems come first” I cannot help wondering what exactly it is that they are doing for human beings that compels them to continue to support the wasteful, ruthless exploitation of farm animals.”
 
 >“The animals themselves are incapable of demanding their own liberation, or of protesting against their condition with votes, demonstrations, or boycotts. Human beings have the power to continue to oppress other species forever, or until we make this planet unsuitable for living beings. Will our tyranny continue, proving that morality counts for nothing when it clashes with selfinterest, as the most cynical of poets and philosophers have always said? Or will we rise to the challenge and prove our capacity for genuine altruism by ending our ruthless exploitation of the species in our power, not because we are forced to do so by rebels or terrorists, but because we recognize that our position is morally indefensible? The way in which we answer this question depends on the way in which each one of us, individually, answers it.”
 
->“One common strategy on which we should all be able to agree is to take steps to reduce the risk of human extinction when those steps are also highly effective in benefiting existing sentient beings. For example, eliminating or decreasing the consumption of animal products will benefit animals, reduce greenhouse gas emissions, and lessen the chances of a pandemic resulting from a virus evolving among the animals crowded into today’s factory farms, which are an ideal breeding ground for viruses. That therefore looks like a high-priority strategy.”<sup id="a12"><a href="#f12">12</a></sup>
+>“Ethics is inescapable.”
+
+>“One common strategy on which we should all be able to agree is to take steps to reduce the risk of human extinction when those steps are also highly effective in benefiting existing sentient beings. For example, eliminating or decreasing the consumption of animal products will benefit animals, reduce greenhouse gas emissions, and lessen the chances of a pandemic resulting from a virus evolving among the animals crowded into today’s factory farms, which are an ideal breeding ground for viruses. That therefore looks like a high-priority strategy.”[^COVID]
 
 >“When we buy new clothes not to keep ourselves warm but to look "well-dressed" we are not providing for any important need. We would not be sacrificing anything significant if we were to continue to wear our old clothes, and give the money to famine relief. By doing so, we would be preventing another person from starving. It follows from what I have said earlier that we ought to give money away, rather than spend it on clothes which we do not need to keep us warm. To do so is not charitable, or generous. Nor is it the kind of act which philosophers and theologians have called "supererogatory" - an act which it would be good to do, but not wrong not to do. On the contrary, we ought to give the money away, and it is wrong not to do so.”
 
@@ -1423,13 +1919,80 @@ And share your pleasures with beggars.”
 
 >“September 11, 2001, was just another day for most of the world’s desperately poor people, so presumably close to 30,000 children under five died from these causes on that day—about ten times the number of victims of the terrorist attacks. The publication of these figures did not lead to an avalanche of money for UNICEF or other aid agencies helping to reduce infant mortality. In the year 2000 Americans made private donations for foreign aid of all kinds totalling about <span>$</span>4 per person in extreme poverty, or roughly <span>$</span>20 per family. New Yorkers who were living in lower Manhattan on September 11, 2001, whether wealthy or not, were able to receive an average of <span>$</span>5,300 per family. The distance between these amounts encapsulates the way in which, for many people, the circle of concern for others stops at the boundaries of their own country—if it extends even that far.”
 
-― <a href="https://en.wikipedia.org/wiki/Peter_Singer" target="_blank">Peter Singer</a><span style="color:Chartreuse">(moral philosopher)</span>
+― <a href="https://en.wikipedia.org/wiki/Peter_Singer" target="_blank">Peter Singer</a><span style="color:Chartreuse">(Utilitarian moral philosopher, most influential proponent of animal welfare but is incorrectly called the father of animal rights even though he doesn't accept animal rights)</span>
+><img src="{{site.baseurl}}/images/other/AbolitionistApproach.jpg" width="500"/>
 
-#### Animanga<!-- omit in toc -->
+>“According to conservative estimates, 200 million land animals and 2 billion sea animals are killed "Every day* for food. Think about the scale of that violence. Think about the insidious way in which this numbs us to all violence.”
+
+>“We proclaim human intelligence to be morally valuable per se because we are human. If we were birds, we would proclaim the ability to fly as morally valuable per se. If we were fish, we would proclaim the ability to live underwater as morally valuable per se. But apart from our obviously self-interested proclamations, there is nothing morally valuable per se about human intelligence.”
+
+>“If animals have moral value, they must have one right-the right not to be property. If they do not have this one right, their interests in not suffering will be devalued or ignored. Their interest in their lives will be ignored.
+>
+>Recognizing the right of animals not to be property does not protect nonhuman animals from all suffering and death any more than the right of humans not to be property protects them from all suffering and death. But in both cases, the right protects the rightholders from all suffering incidental to use exclusively as a resource.”
+
+>“When we promote welfare reform, we necessarily promote the idea that it is morally desirable to consume the more 'humane' product or engage in the more 'humane' use. Welfare reform campaigns necessarily promote exploitation. Welfare reform campaigns necessarily perpetuate speciesism.”
+
+>“Peter Singer says that if you're a vegan sitting with nonvegan friends in a restaurant and your food comes with cheese on it, you should just shut up and eat it so your friends don't think that being a vegan is difficult. I say that if you eat it, you have just taught your friends that veganism is not something to be taken seriously as a moral matter.”
+
+>“One of the main arguments that I make is that although almost everyone accepts that it is morally wrong to inflict "**unnecessary**" suffering and death on animals, 99% of the suffering and death that we inflict on animals can be justified only by our pleasure, amusement, or convenience. For example, the best justification that we have for killing the billions of nonhumans that we eat every year is that we enjoy the taste of animal flesh and animal products. This is not an acceptable justification if we take seriously, as we purport to, that it is wrong to inflict unnecessary suffering or death on animals, and it illustrates the confused thinking that I characterize as our "moral schizophrenia" when it comes to nonhumans.”
+
+>“If you think it's difficult to be vegan, imagine how difficult it is for the billions of animals we torture and kill that you're not vegan.”
+
+>“It doesn't matter if they had the best lives in the world. Killing an animal so you can eat the animal or wear the animal is wrong.”
+
+>“'But veganism is elitist.' What complete nonsense. Elitism involves promoting a perceived superiority of some sort. It involves the idea of according less moral value to the 'inferior.' As two seconds of thinking make clear, veganism is not elitist in any way. On the contrary. Veganism is about rejecting the idea that it is morally acceptable to exploit sentient nonhumans because they are 'inferior.' Nonvegans believe in the 'inferiority' of animals. It is they who embrace elitism.”
+
+>“You don't have to love animals to recognize that it is immoral and unjust to exploit them. But if you do love animals, and you continue to participate in their exploitation, you need to rethink your idea of what love means.”
+
+>“A question I got: "Why don't you support veganuary?"
+>
+>Answer: being vegan is about justice and the fundamental rights of nonhumans-nothing less. You don't encourage people to stop being racist or sexist for a month. You make it clear that racism and sexism are always wrong.”
+
+>“Just as you will never get people to go vegan by shouting at them, you will also fail if you say it's fine to be a nonvegan on a "reducetarian journey" who does Meatless Monday, etc. You need to be clear: It's not a moral option. No "journeys." Veganism is a moral imperative.”
+
+>“Animal exploitation is the single most spiritually destructive, morally bankrupt, environmentally devastating, and physically unhealthy thing that we do.”
+
+>“To say that animals are not property because you love your nonhuman companions is like saying that your car is not your property because you choose to wash and wax it every week and keep it in splendid condition. You car is your property. You can choose to put a great deal of money and energy into maintaining it. Or you can do nothing more than what is required to have the car pass a safety inspection. The same applies to your nonhuman companions. You can choose to treat them as members of your family. Or you can dump them at a shelter or have a vet kill them. They are [legally] your property.”
+
+>“Consuming animal products is a 'choice' only insofar as society allows you to choose to do things that are obviously and indisputably morally wrong. Are you free to choose to hold racist views? Yes, you are. Is it morally wrong to judge others solely by their skin colour? Yes, of course it is. So saying that something is a 'choice' says nothing about its morality. We cannot morally justify consuming animal products. Period. Consuming those products may be a matter of 'choice' but only in a most superficial sense. It is not a matter of choice for anyone who takes morality seriously.”
+
+>“Vegetarianism is a morally incoherent position. There is no morally coherent distinction between meat and other animal foods. They all involve suffering, death, and injustice. If you care morally about animals, veganism is the only rational response.”
+
+>“The idea that we have the right to inflict suffering and death on other sentient beings for the trivial reasons of palate pleasure and fashion is, without doubt, one of the most arrogant and morally repugnant notions in the history of human thought.”
+
+>“There is really is no escaping that, if you are not vegan, you are treating animals as things without moral value. This means that your claim to take animals seriously and regard them as beings with moral value is bullshit (apologies to bulls). So stop already. Go vegan. Today. Now.”
+
+>“Veganism is about nonviolence. It is about refusing to participate in inflicting completely unjustifiable harm on the vulnerable. Please go vegan.”
+
+― <a href="https://en.wikipedia.org/wiki/Gary_L._Francione" target="_blank">Gary L. Francione</a><span style="color:Chartreuse">(Started the Abolitionist Approach independently shortly after Tom Regan, ethics philosopher, first academic to teach animal rights theory in an American law school)</span>
+
+>“The task facing ARAs (Animal Rights Advocates) is daunting: **we must empty the cages, not make them larger**.”
+
+>“The less gifted do not exist to serve the interests of the more gifted. The former are not mere things when compared to the latter, to be used as means to the latter's ends. From the moral point of view, each of us is equal because each of us is equally a somebody, not a something, the subject-of-a-life, not a life without a subject.”
+
+>“What I had learned about human rights proved to be directly relevant to my thinking about animal rights. Whether any animals have rights depends on the true answer to one question: Are any animals **subjects-of-a-life**? This is the question that needs to be asked about animals because this is the question we need to ask about us.”
+
+>“And they say ARAs are violent. The bitter truth would be laughable if it were not so tragic. The violence done to things by some ARAs (buy which I mean the violent destruction of insensate property) is nothing compared to the violence done to feeling creatures by the major animal user industries. A raindrop compared to an ocean. On a day-to-day basis, by far the greatest amount of violence done in the "civilized" world occurs because of what humans do to other animals. That the violence is legally protected, that in some cases (for example, vivisection) it is socially esteemed, only serves to make matters worse.”
+
+>“Then there are those proverbial “bird brains” of the barnyard, chickens, surely **the most maligned and abused animal on the face of the earth**, and—just as surely—among the brightest, most social birds we'll find anywhere. … Chickens not only are capable of learning, they are also capable of teaching one another. It turns out that chickens are not as dumb as popular mythology makes them out to be.”
+
+>“From my reading of Gandhi I had learned how some people in India regard eating cow as unspeakably repulsive. I realized I felt the same way about cats and dogs: I could never eat them. Were cows so different from cats and dogs that there were two moral standards, one that applies to cows, another that applies to cats and dogs? Were pigs so different? Were any of the animals I ate so different?”
+
+>“Philosophers have written more about animal rights in the past twenty years than their predecessors wrote in the previous two thousand. Not surpris- ingly, disagreements abound. To begin with, among those who challenge attributing moral rights to animals are philosophers who operate within well- worn moral traditions in Western thought. Peter Singer (1975, 1999) and Carl Cohen (1986, 1996, 1997) are representative. Singer follows in the tra- dition of the nineteenth-century English utilitarian Jeremy Bentham, who ridicules moral rights as "nonsense upon stilts." For both Bentham and Singer, not only nonhuman animals but also humans lack moral rights. This is half-true, maintains Cohen. Animals, he argues, most certainly do not have moral rights, but Bentham and Singer err when they deny that humans have them. Nothing could be further from the truth. According to Cohen, not just some but all humans possess basic rights, including the rights to life and to bodily integrity.” [<a href="https://philpapers.org/rec/REGDAR" target="_blank"> Regan (2001), p. 67.</a> The reason for this increase is largely due to his <a href="https://en.wikipedia.org/wiki/The_Case_for_Animal_Rights" target="_blank">1983 book</a>.]
+
+― <a href="https://en.wikipedia.org/wiki/Tom_Regan" target="_blank">Tom Regan</a><span style="color:Chartreuse">(Started the Abolitionist Approach shortly before Gary L. Francione, one of the first academics who argued that the real problem is not animal welfare but the commodity status of the animals)</span>
+
+#### Animanga
 
 >“Sometimes life's too **uncertain** to have regrets.”
 
+>“Even a low class warrior can surpass an elite, with enough hard work.”
+
 ― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a>
+
+>“You’re going to be all right. You just stumbled over a stone in the road. It means nothing. Your goal lies far beyond this. Doesn’t it? I’m sure you’ll overcome this. You’ll walk again… soon.”
+
+― <a href="https://berserk.fandom.com/wiki/Guts" target="_blank">Guts</a>
 
 >“Shinichi, upon researching the concept of demons, I believe that, among all life, humans are the closest thing to it. Although humans kill and eat a wide variety of life forms, my kind eat merely one or two kinds at most. We are quite frugal in comparison.”
 
@@ -1443,6 +2006,16 @@ And share your pleasures with beggars.”
 
 >“What do you do when there is an evil you cannot defeat by just means? Do you stain your hands with evil to destroy evil? Or do you remain steadfastly just and righteous even if it means surrendering to evil?”
 
+>“Attention entire world, hear my proclamation!
+>
+I am Lelouch vi Britannia, Emperor of The Holy Britannian Empire and your only Ruler…
+>
+>Schneizel has surrendered to me, and as a result of this I am now in control of both the Damocles and the F.L.E.I.J.A. weapons, and even the Black Knights no longer possess the strength to oppose me now.
+>
+>If anyone dares to resist my supreme authority, The shall know the devastating power of the F.L.E.I.J.A.s. Those who could challenge my military rule no longer exist. Yes, from this day, from this moment forward, the world belongs to me!
+>
+>Lelouch vi Britannia commands you, obey me subjects! obey me world.”
+
 ― <a href="https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia" target="_blank">Lelouch vi Britannia</a>
 
 >“There’s no signs that the evils of this world are disappearing. That hasn’t changed since before I became a superhero. So, I guess that means I haven’t really made any difference. I’m not necessarily sad about that. But there has been something bothering me lately. As the days pass, my emotions become more distant. Fear, tension, joy, anger. I feel none of them anymore. **In exchange for power, maybe I’ve lost something that’s essential for being human.**”
@@ -1451,7 +2024,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://onepunchman.fandom.com/wiki/Saitama" target="_blank">Saitama</a>
 
->“In any age, in any society, when people are small, they look up at the stars and stretch out their hands as if to grasp them. Then at last,they learn that their own arms aren't long enough to reach the stars.They call that becoming an adult. But I don't think so. **Without fail, those stars will be in this hand**!”
+>“In any age, in any society, when people are small, they look up at the stars and stretch out their hands as if to grasp them. Then at last,they learn that their own arms aren't long enough to reach the stars. They call that becoming an adult. But I don't think so. **Without fail, those stars will be in this hand**!”
 
 >“Kircheis, do you think what was possible for Rudolf is impossible for me?”
 
@@ -1461,13 +2034,9 @@ And share your pleasures with beggars.”
 
 ― <a href="https://gineipaedia.com/wiki/Reinhard_von_Lohengramm" target="_blank">Reinhard von Lohengramm</a>
 
-<img src="{{site.baseurl}}/images/other/Berserk.jpg" alt="Berserk" width="400"/>
+>“<img src="{{site.baseurl}}/images/other/Berserk.jpg" alt="Berserk" width="400"/>”
 
 ― <a href="https://en.wikipedia.org/wiki/Kentaro_Miura" target="_blank">Kentaro Miura</a> [Berserk episode 1]
-
->“You’re going to be all right. You just stumbled over a stone in the road. It means nothing. Your goal lies far beyond this. Doesn’t it? I’m sure you’ll overcome this. You’ll walk again… soon.”
-
-― <a href="https://berserk.fandom.com/wiki/Guts" target="_blank">Guts</a>
 
 >“I am crying. I'm not sad that I'm dying. I am finally sad that my child died. You can’t just erase people’s feelings. It’s as if my emotions just wandered around in an unknown place somewhere hundreds of miles away. It’s as if they were sent long ago, in a letter that was always intended for me. **So this is what true sadness feels like. It feels a lot like...happiness**.”
 
@@ -1491,8 +2060,8 @@ And share your pleasures with beggars.”
 
 ― <a href="https://onepiece.fandom.com/wiki/Pedro" target="_blank">Pedro</a>
 
-<img src="{{site.baseurl}}/images/other/Vagabond1.jpg" alt="Vagabond1" width="400"/><br>
-<img src="{{site.baseurl}}/images/other/Vagabond2.jpg" alt="Vagabond2" width="400"/>
+>“<img src="{{site.baseurl}}/images/other/Vagabond1.jpg" alt="Vagabond1" width="400"/><br>
+<img src="{{site.baseurl}}/images/other/Vagabond2.jpg" alt="Vagabond2" width="400"/>”
 
 ― <a href="https://en.wikipedia.org/wiki/Takehiko_Inoue" target="_blank">Takehiko Inoue</a> or <a href="https://vagabond.fandom.com/wiki/Soho_Takuan" target="_blank">Soho Takuan</a> [Vagabond chapter 35]
 
@@ -1516,7 +2085,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://dgrayman.fandom.com/wiki/Allen_Walker" target="_blank">Allen Walker</a>
 
->This is right at the time when the young Shotaro Ishinomori-sensei and gekiga such as ''Kyojin no Hoshi'' and ''Ashita no Joe'' are coming out, so it must be difficult for him [Osamu Tezuka] to be the reigning champion. That's what I thought at the time.
+>“This is right at the time when the young Shotaro Ishinomori-sensei and gekiga such as ''Kyojin no Hoshi'' and ''Ashita no Joe'' are coming out, so it must be difficult for him [Osamu Tezuka] to be the reigning champion. That's what I thought at the time.
 >
 >When we were in elementary school, there was a feeling that those who had been in the lead for a long time would start to give in half a step to everyone else. But over and over again, we witness the moment when teachers come to the front lines. Things like ''Dororo'' are very much in tune with the times. So when I was in the first year of junior high school, I read all the volumes of ''Phoenix.''
 >
@@ -1524,42 +2093,91 @@ And share your pleasures with beggars.”
 >
 >For about that time, I thought, ''Wow, that's amazing.'' Up until that point, I had seen him as a racer with a myriad of competitors, but one afternoon in my first year of junior high school, I realized that he had already become completely unstoppable.
 >
->My basic way of thinking [about Osamu Tezuka] has not changed since that day. So much so that I want to make that day my coming-of-age ceremony.
+>My basic way of thinking [about Osamu Tezuka] has not changed since that day. **So much so that I want to make that day my coming-of-age ceremony**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Naoki_Urasawa" target="_blank">Naoki Urasawa</a>
 
-<b id="f1">1)</b> I used to think he was a lazy guy. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of General Relativity (GR) or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.<a href="#a1">↩</a>
+>“It all still feels too sudden.<br>
+I feel like a massive hole tore through my heart.<br>
+The thought of never seeing you again fills me with so much sadness. I've admired you so much since I was a child.<br>
+I distinctly remember the day you called me by name for the first time.<br>
+I remember that day walking home, hanging out with Kishimoto-san,<br>
+when you called us "friends" for the first time.<br>
+And I remember the last conversation we had.<br>
+Picking up the relay from an age when reading manga was considered a stupid waste of time, you are among those that forged an era where both adults and children alike could read and enjoy this medium. Showing me that manga could achieve such things...
+you made me dream that I could reach the whole world.
+I felt as if I was witnessing a real superhero pushing forward.<br>
+Your impact wasn't limited to the manga industry alone.<br>
+The childhoods of so many creators from several industries<br>
+were no doubt rooted in the excitement of reading Dragon Ball weekly.<br>
+Your existence is like a great tree whose branches spread into the sky.<br>
+To mangaka of our generation like us, standing on the same stage as he did and the closer we got to Toriyama's work, the more I feel we realized just how much of a presence it had on this industry.
+It was almost frightening to witness.<br>
+And yet at the same time, the man behind it was such an easygoing person. That made me so happy to see.
+I feel that, on a genetic level, we all love Toriyama-sensei for who he was.
+I would like to offer my deepest respect and gratitude for the vibrant creative world that Toriyama-sensei left behind, and pray from the bottom of my heart that he may rest in peace.<br><br>
+I hope that heaven is just as pleasant as you envisioned it in your manga, sensei.”[^Oda]
 
-<b id="f2">2)</b> This “I have studied these things — you have not.” was Newton's response whenever <a href="https://en.wikipedia.org/wiki/Edmond_Halley" target="_blank">Edmond Halley</a> mocked religion or alchemy. Newton once said on atheism:
+― <a href="https://en.wikipedia.org/wiki/Eiichiro_Oda" target="_blank">Eiichiro Oda</a>
 
->“Atheism is so senseless & odious to mankind that it never had many professors. Can it be by accident that all birds beasts & men have their right side & left side alike shaped (except in their bowels) & just two eyes & no more on either side the face & just two ears on either side the head & a nose with two holes & no more between the eyes & one mouth under the nose & either two fore leggs or two wings or two arms on the sholders & two leggs on the hipps one on either side & no more? Whence arises this uniformity in all their outward shapes but from the counsel & contrivance of an Author? Whence is it that the eyes of all sorts of living creatures are transparent to the very bottom & the only transparent members in the body, having on the outside an hard transparent skin, & within transparent juyces with a crystalline Lens in the middle & a pupil before the Lens all of them so truly shaped & fitted for vision, that no Artist can mend them? Did blind chance know that there was light & what was its refraction & fit the eyes of all creatures after the most curious manner to make use of it? These & such like considerations always have & ever will prevail with man kind to believe that there is a being who made all things & has all things in his power & who is therfore to be feared.”
+>“The first to apologize, is the bravest. The first to forgive, is the strongest. And the first to forget, is the happiest. Forgive others, not because they deserve forgiveness but because you, deserve peace.”[<a href="https://www.youtube.com/watch?v=kpK2ftFzw7o" target="_blank">YouTube</a>] (Inspired from <a href="https://knowyourmeme.com/memes/i-have-no-enemies" target="_blank">I Have No Enemies</a>)
 
-Newton is widely considered as one of the top 2 physicists of all time (the other being Einstein. Example: <a href="https://en.wikipedia.org/wiki/Lev_Landau#Landau's_ranking_of_physicists" target="_blank">Landau's ranking of physicists</a>). You may ask: 'How could someone that intelligent believe in something as silly as religion?'. But we should understand that those questions above were unexplainable back in those days as **biology was not mature enough** to answer them. So, **Newton had valid excuses to utter such nonsense**. He also believed in Alchemy and <a href="https://www.livescience.com/54162-newton-recipe-for-philosophers-stone-rediscovered.html" target="_blank">was interested in making the philosopher's stone</a>. To be honest if I believed that philosopher's stone can exist, I would also definitely try to make it and become **immortal**.
+― <a href="https://www.youtube.com/@TheAnimeMen" target="_blank">TheAnimeMen</a>
 
->Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind that looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10 000 years ago.”
+>“<img src="{{site.baseurl}}/images/other/HardWork.jpg" alt="Genji_Kamogawa" width="400"/>”
 
-― <a href="https://en.wikipedia.org/wiki/John_Maynard_Keynes" target="_blank">John Maynard Keynes</a>
-<a href="#a2">↩</a>
+― <a href="https://ippo.fandom.com/wiki/Genji_Kamogawa" target="_blank">Genji Kamogawa</a>
 
-<b id="f3">3)</b> This statement was made considering GR, a classical theory. It was written in 1983 (9 years after Hawking radiation was predicted) in the preface of his book. Maybe he was unaware of the humongous number of states needed for a black hole to interpret Bekenstein-Hawking entropy statistically unlike in GR where the <a href="https://en.wikipedia.org/wiki/No-hair_theorem" target="_blank">No-hair theorem</a> restricts the degrees of freedom.<a href="#a3">↩</a>
+[^EinsteinNotLazy]: I used to think he was a lazy guy in my childhood. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published the correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of General Relativity (GR) or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.
 
-<b id="f4">4)</b> At the 1927 Solvay Conference.<a href="#a4">↩</a>
+[^Gandhi]: Einstein severely overestimated Gandhi. I think Nehru is far greater political leader than Gandhi.
 
-<b id="f5">5)</b> His reply before he was burned to death because he rejected Catholic doctrines, embraced pantheism and for his cosmological theories. <a href="#a5">↩</a>
+[^Hilbert]: Based on this mail between them it seems even though they never publicly stated it privately there was a slight misunderstanding between Einstein and Hilbert about their expected fraction of credit on general relaitivity even if Hilbert never complained publicly.
 
-<b id="f6">6)</b> He meant mathematicians like him should become part time physicists and help physicists otherwise physicists can't do it.<a href="#a6">↩</a>
+[^NewtonAtheism]:
+    This “I have studied these things — you have not.” was Newton's response when <a href="https://en.wikipedia.org/wiki/Edmond_Halley" target="_blank">Edmond Halley</a> mocked religion or alchemy. Newton once said on atheism:
 
-<b id="f7">7)</b> He was not aware of Gödel's incompleteness theorems when saying this.<a href="#a7">↩</a>
+    >“Atheism is so senseless & odious to mankind that it never had many professors. Can it be by accident that all birds beasts & men have their right side & left side alike shaped (except in their bowels) & just two eyes & no more on either side the face & just two ears on either side the head & a nose with two holes & no more between the eyes & one mouth under the nose & either two fore leggs or two wings or two arms on the sholders & two leggs on the hipps one on either side & no more? Whence arises this uniformity in all their outward shapes but from the counsel & contrivance of an Author? Whence is it that the eyes of all sorts of living creatures are transparent to the very bottom & the only transparent members in the body, having on the outside an hard transparent skin, & within transparent juyces with a crystalline Lens in the middle & a pupil before the Lens all of them so truly shaped & fitted for vision, that no Artist can mend them? Did blind chance know that there was light & what was its refraction & fit the eyes of all creatures after the most curious manner to make use of it? These & such like considerations always have & ever will prevail with man kind to believe that there is a being who made all things & has all things in his power & who is therfore to be feared.”
 
-<b id="f8">8)</b> It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>.<a href="#a8">↩</a>
+    Newton is widely considered as one of the top 2 physicists of all time (the other being Einstein. Example: <a href="https://en.wikipedia.org/wiki/Lev_Landau#Landau's_ranking_of_physicists" target="_blank">Landau's ranking of physicists</a>). You may ask: 'How could someone that intelligent believe in something as silly as religion?'. But we should understand that those questions above were unexplainable back in those days as **biology was not mature enough** to answer them. So, **Newton had valid excuses to utter such nonsense**. He also believed in Alchemy and <a href="https://www.livescience.com/54162-newton-recipe-for-philosophers-stone-rediscovered.html" target="_blank">was interested in making the philosopher's stone</a>. To be honest if I believed that philosopher's stone can exist, I would also definitely try to make it and become **immortal**.
 
-<b id="f9">9)</b> Gautama lived as an <a href="https://en.wikipedia.org/wiki/Asceticism" target="_blank">ascetic</a> beggar (bhikṣu) and he ate whatever people gave him including meat. Here he is trying to explain that we should not increase demand for meat which will increase demand for unnecessary suffering. What is remarkable is that the <a href="https://en.wikipedia.org/wiki/Supply_and_demand#History" target="_blank">supply and demand</a> economic concept was first explained in <a href="https://en.wikipedia.org/wiki/Kural" target="_blank">Tirukkuṟaḷ</a> (300 BCE to 500 CE) few centuries after Gautama's death. Gautama intuitively understood this concept. Looks like he was at least decently smart.<a href="#a9">↩</a>
+    >Newton was not the first of the age of reason. He was the last of the magicians, the last of the Babylonians and Sumerians, the last great mind that looked out on the visible and intellectual world with the same eyes as those who began to build our intellectual inheritance rather less than 10 000 years ago.”
 
-<b id="f10">10)</b> Taken from <a href="https://en.wikipedia.org/wiki/Kesamutti_Sutta" target="_blank">Kesamutti Sutta</a>. Often times some people people misinterpret this quote to portray Buddhism as a religion based on logic, even though Gautama stated that one should not determine the validity of a statement "by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought". When dealing with scientific theories logic should be given at most importance. But Gautama is not talking about scientific truths, he is talking about morality. Based on science and logic it is strongly evident that there is no such thing as free will. This doesn't mean we should forget about morality. We are in a stubbornly persistent illusion that we have free will and so we should always consider ourselves as responsible beings to be consistent with our illusion. Sometimes purely logic is not good enough and intuition is also important when thinking about moral issues.<a href="#a10">↩</a>
+    ― <a href="https://en.wikipedia.org/wiki/John_Maynard_Keynes" target="_blank">John Maynard Keynes</a>
 
-<b id="f11">11)</b> This statement is obviously wrong. The most precious gift is the Hindu numeral system. It is often wrongly called as Arabic numeral system. Vedas are useless in comparison to the Hindu numeral system.<a href="#a11">↩</a>
+[^Dirac]: This was Dirac's opinion at the 1927 Solvay Conference when they were talking about religion. I 100% agree with him on this.
 
-<b id="f12">12)</b> Stated on 2015, before COVID-19 pandemic.<a href="#a12">↩</a>
+[^Chandrasekhar]: This statement was made considering GR, a classical theory. It was written in 1983 (9 years after Hawking radiation was predicted) in the preface of his book. Maybe he was unaware of the humongous number of states needed for a black hole to interpret the Bekenstein-Hawking entropy statistically unlike in GR where the <a href="https://en.wikipedia.org/wiki/No-hair_theorem" target="_blank">No-hair theorem</a> restricts the degrees of freedom.
+
+[^Bruno]: His reply before he was burned to death because he rejected Catholic doctrines, embraced pantheism and for his cosmological theories.
+
+[^HilbertPhysics]: He meant mathematicians like him should become part time physicists and help physicists otherwise physicists can't do it.
+
+[^HilbertIgnorabimus]: He was not aware of Gödel's incompleteness theorems when saying this.
+
+[^HilbertSpace]: Even though Hilbert studied them first, he was not aware at that time during a talk by von Neumann that they named these spaces after him.
+
+[^suffering]: It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>.
+
+[^demand]: Gautama lived as an <a href="https://en.wikipedia.org/wiki/Asceticism" target="_blank">ascetic</a> beggar (bhikṣu) and he ate whatever people gave him including meat because it is leftover food. Here he is trying to explain that we should not increase demand for meat which will increase demand for unnecessary suffering. What is remarkable is that the <a href="https://en.wikipedia.org/wiki/Supply_and_demand#History" target="_blank">supply and demand</a> economic concept was first explained in <a href="https://en.wikipedia.org/wiki/Kural" target="_blank">Tirukkuṟaḷ</a> (300 BCE to 500 CE) few centuries after Gautama's death. Gautama intuitively understood this concept even before it was first stated. Looks like he was at least decently smart.
+
+[^logic]: Taken from <a href="https://en.wikipedia.org/wiki/Kesamutti_Sutta" target="_blank">Kesamutti Sutta</a>. Often times some people people misinterpret this quote to portray Buddhism as a religion based on logic, even though Gautama stated that one should not determine the validity of a statement "by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought". Its certianly better than most religions, but protraying it as religion based on logic/rationality is disingenuous.
+
+[^Gautama]: His title "Buddha" (awakened one) was given two centuries after his death. His lived between 563–483 BCE. I am an atheist. I do not support the ***unscientific*** Buddhism. But I still think Siddhārtha Gautama was a good philosopher. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.
+
+[^Voltaire]: This statement is obviously wrong. The most precious gift is the Indian numeral system. It is often wrongly called as Arabic numeral system. Vedas are useless in comparison to the Indian numeral system.
+
+[^COVID]: Stated on 2015, before COVID-19 pandemic.
+
+[^Oda]: This was Oda's response to the death of Akira Toriyama. He is, in many ways, Toriyama's successor (who himself was the successor of Osamu Tezuka) as the greatest shōnen mangaka of their generation.
+
+[^Nehru]: Nehru really understood where India is heading towards better than any other freedom fighter. He rightly guessed that Hindu fanaticism will take over India. The fact that the Indians of 1940s voted him as the prime minister despite him being an atheist who used to publicly state his criticsim of religion astonishes me. He was the only good prime minister India has ever had.
+
+[^Hume]: Hume here found the <a href="https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem" target="_blank">Is–ought problem</a>. One of the deepest ethical problems.
+
+[^Neurath]: <a href="https://en.wikipedia.org/wiki/Neurath%27s_boat" target="_blank">Neurath's boat</a>: a simile used in anti-foundational philosophy
+
+[^Weinberg]: You should believe when Weinberg says this. He is not a string theorist. He didn't devote his life to string theory. He has his own theory called <a href="https://en.wikipedia.org/wiki/Asymptotic_safety_in_quantum_gravity" target="_blank">asymptotic safety</a>. Yet he is telling string theory is the "only game in town". Compare this to <a href="https://www.math.columbia.edu/~woit/wordpress/" target="_blank">bloggers</a>/<a href="https://www.youtube.com/@SabineHossenfelder" target="_blank">social media influencers</a> who never studied string theory properly but spread their unfounded criticism.
 
 <script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
 

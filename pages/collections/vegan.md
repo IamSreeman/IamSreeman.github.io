@@ -17,17 +17,10 @@ breadcrumbs: true
 <script type="text/javascript"
         src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-<div class="project_list">
-  <div class="container about_section">
-    <div class="row">
-      <div class="about_paragraph">
-        <p>
-          On Jan 1st 2022 I decided to become a vegan<sup id="a1"><a href="#f1">1</a></sup>. You can find many quotes related to veganism <a href="{{site.baseurl}}/quotes/#veganism"  target="_blank">here</a>.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
+
+On 2022 Jan 1st, I decided to become a vegan.
+
+This page contains reasons why I made this decision and also some resources if you are open minded and would like to know more about veganism. You can find many quotes related to veganism <a href="{{site.baseurl}}/quotes/#veganism"  target="_blank">here</a>. Sorry, if this page offends anyone.
 
 >#### Contents
 >
@@ -55,21 +48,23 @@ breadcrumbs: true
 
 #### Reasons
 
-The following are the reasons why I made this decision. 
-
 ##### Moral
 
 - Meat and Dairy products are not necessary for humans to live a **healthy life** and the practise of consuming these is easily the biggest cause of suffering in our current times.
+
+- The number of individual wild fish killed each year is estimated as 0.97-2.74 **trillions** (based on FAO tonnage statistics combined with estimated mean weights of fish species).[2] The FAO numbers do not include illegal, unreported and unregulated fishing, nor discarded fish. If these are included and over-reporting by China subtracted, the totals increase by about 16.6% to 33.3%.[2] A similar estimate for the number of farmed fish slaughtered each year is 0.037 to 0.120 trillion. [Source](http://fishcount.org.uk/published/std/fishcountstudy2.pdf)
+
+<img src="{{site.baseurl}}/images/other/wild-caught-fish.svg" width="500"/><br>
+[Source](https://ourworldindata.org/grapher/wild-caught-fish)
+
 - Currently each year 80 billion land animals are slaughtered for food. Sources: [1](https://en.wikipedia.org/wiki/Animal_slaughter), [2](https://www.fao.org/faostat/en/#data/QCL)<br>
 
 <img src="{{site.baseurl}}/images/other/Slaughter.png" width="400"/>
 
-- The number of individual wild fish killed each year is estimated as 0.97-2.74 trillion (based on FAO tonnage statistics combined with estimated mean weights of fish species).[2] The FAO numbers do not include illegal, unreported and unregulated fishing, nor discarded fish. If these are included and over-reporting by China subtracted, the totals increase by about 16.6% to 33.3%.[2] A similar estimate for the number of farmed fish slaughtered each year is 0.037 to 0.120 trillion. [Source](http://fishcount.org.uk/published/std/fishcountstudy2.pdf)
-
 <img src="{{site.baseurl}}/images/other/AbolitionistApproach.jpg" width="500"/>
 <br>
 
-This is easily the most important argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their dead bodies without causing pollution, cancer, heart diseases etc. **But even then** it is not morally OK to not be a vegan because of the ethical issues.
+This is the most important and compelling argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their corpses without causing pollution, cancer, heart diseases etc. **But even then** it is not morally OK to not be a vegan because of the ethical issues since it is totally unnecessary.
 
 >“Today more than ninety per cent of all large animals are domesticated. Consider the chicken, for example. Ten thousand years ago it was a rare bird confined to small niches of South Asia. Today billions of chickens live on almost every continent and island, bar Antarctica. The domesticated chicken is probably the most widespread bird in the annals of planet Earth. If you measure success in terms of numbers, chickens, cows and pigs are the most successful animals ever. Alas, domesticated species paid for their unparalleled collective success with unprecedented individual suffering.”
 
@@ -88,28 +83,18 @@ Read the following articles
 4. [animals-used-for-experimentation](https://www.peta.org/issues/animals-used-for-experimentation/){:target="_blank"}
 5. [navs](https://navs.org/){:target="_blank"}
 
-Humanity should invest more on <a href="https://en.wikipedia.org/wiki/Alternatives_to_animal_testing" target="_blank">alternative ways of medical research</a> instead of vivisection and in the long term should completely move away from this method of research. But until those areas of research are developed I think it is justifiable to use animals for testing **as long as large number of humans will benefit from it AND it can't be done in other peaceful ways**. But there is a claim in the 3rd reference that "the results of vivisection are “no more informative than tossing a coin,”" **if that is true then all types of vivisection are unjustifiable**. Also vivisection for curiosity, i.e just to understand how the body of the animal works is not justifiable under any circumstances if it doesn't help a large number of humans and such research should be banned. In plant agriculture also a lot of insects die, we say it is necessary and we don't search for alternate ways where we don't kill insects, so can we justify vivisection similarly by saying it is necessary? I don't know. It is not clear as of now whether insects are sentient or not. This is not an easy question to answer. Also many mice (they are also the most commonly used animals for medical research) are killed in plant agriculture, which are sentient.
+Humanity should invest more on <a href="https://en.wikipedia.org/wiki/Alternatives_to_animal_testing" target="_blank">alternative ways of medical research</a> instead of vivisection and in the long term should completely move away from this method of research. But until those areas of research are developed I think it is justifiable to use animals for testing **as long as <span style="color:green">*large*</span>[^large] number of humans will benefit from it AND it can't be done in other peaceful ways**. But there is a claim in the 3rd reference that "the results of vivisection are “no more informative than tossing a coin,”" **if that is true then all types of vivisection are unjustifiable**. Also vivisection for curiosity, i.e just to understand how the body of the animal works is not justifiable under any circumstances if it doesn't help a large number of humans and such research should be banned. In plant agriculture also a lot of insects die, we say it is necessary and we don't search for alternate ways where we don't kill insects, so can we justify vivisection similarly by saying it is necessary? I don't know. It is not clear as of now whether insects are sentient or not. This is not an easy question to answer. Also many mice (they are also the most commonly used animals for medical research) are killed in plant agriculture, which are sentient.
 
-But I should add that there is a difference between suffering in vivisection and suffering during plant agriculture. In the former we are directly inflicting the suffering where as in the later it is an indirect thing. Directly inflicting suffering is definitely **more evil** than indirect. So, vivisection is more evil. In the indirect (or incidental) insect deaths in plant agriculture, they are not claiming to "**own**" the insects, in the direct deaths in animal agriculture they are claiming they somehow "**own**" animals like chickens and cows. 
+But I should add that there is a difference between suffering in vivisection and suffering during plant agriculture. In the former the suffering is intended where as in the later it is an unintended incidental thing. Directly inflicting suffering is definitely **more evil** than unintended incidental. So, vivisection is more evil. In the incidental insect deaths in plant agriculture, they are not claiming to "**own**" the insects, in the direct deaths in animal agriculture they are claiming they somehow "**own**" animals like chickens and cows.
 
 1. [A review of insect cognition and sentience in relation to their use as food and feed](https://www.sciencedirect.com/science/article/abs/pii/S0168159121002197){:target="_blank"}
 2. [The-importance-of-insect-suffering](https://reducing-suffering.org/the-importance-of-insect-suffering/){:target="_blank"}
 
-Read the following to know why I used the word "large" above.
-
-**"large N" approximation of trolley problem**: In the standard [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem){:target="_blank"} I think rights theory is the correct theory and we should not take away the right to live of one person to save 5 persons. But if we change the number $5$ to $N\to \infty$ (some large number like billion or trillion) then I think it is ok to kill one person to save that many people. So, in this "large N" approximation, we should use utilitarianism instead of rights theory. But what is the exact value of $N$ at which this transition happens? I don't know! So, I don't actually assume the rights theory as a dogma. Rights are ontologically dubious entities.
-
-When I say I am an abolitionist vegan, you have to understand that it is only a **practical approximation** of my position. Abolitionist veganism assumes the rights theory, but I only approximately believe in rights theory. In most practical cases, my position coincides with abolitionist veganism but unlike Gary Francione I don't believe in it exactly. But in complicated situations I can't give proper answers. The trolley problem is actually a simple looking problem as we only have two options (we can either pull the lever or do nothing) and one parameter (ratio of the number of people on one track to the other). We can make more complex problems where we have many options that depend on many variables. The objective moral theory, that can answer every moral problem, is probably complicated and I am probably far too dumb to understand it. I only know about it in certain limits (like small $N$ and large $N$ in the previous example).
-
-If 100 animals were experimented with medicines and if it saves 100 million humans I think it is justifiable. But if 100 animals were experimented with medicines and it only saves 1 human then it is not justifiable.
-
-The amount of suffering caused by vivisection is currently negligible compared to meat industry and dairy industry. We can think about this problem after those industries are stopped.
-
-**Honey and Silk**: Evidence is increasing that honey bees are sentient although it looks like the matter isn't completely settled. For silk worms not much research is done. But it is always better to assume insects are sentient if we don't know. These are also quite different from the plant agriculture as these industries inflict direct suffering compared to the insects that die in plant agriculture which are indirect.
+**Honey and Silk**: Evidence is increasing that honey bees are sentient although it looks like the matter isn't completely settled. For silk worms not much research is done. But it is always better to assume insects are sentient if we don't know. These are also quite different from the plant agriculture as these industries inflict intended suffering compared to the insects that die in plant agriculture which are incidental.
 
 [www.collectivefashionjustice.org](https://www.collectivefashionjustice.org/non-humans){:target="_blank"}
 
-**Wildlife suffering**: From rights point of view we are not responsible for the suffering caused by non-herbivores. But from utilitarian pov we need to do something like [Herbivorize Predators](https://www.herbivorizepredators.org/){:target="_blank"} (they are already doing research in this direction). Now lets say we need to do cruel experiments on non-herbivores to force them to evolve into herbivores. Is it justifiable to take the rights away from non-herbivores for few generations until their future generations will be herbivores? I don't know.
+**Wildlife suffering**: From rights point of view we are not responsible for the suffering caused by non-herbivores. But from utilitarian pov we need to do something like [Herbivorize Predators](https://www.herbivorizepredators.org/){:target="_blank"} (they are already doing research in this direction). Now lets say we need to do cruel experiments on non-herbivores to force them to evolve into herbivores. Is it justifiable to take the rights away from non-herbivores for few generations until their future generations will be herbivores? I don't know. I generally follow rights only until a threashold after which I believe in negative utilitairansim<sup id="a1"><a href="#f1">1</a></sup>.
 
 ##### Environmental
 - Animal agriculture is responsible for 18% of all greenhouse gas emissions, which is more than all transportation emissions combined. [Source](https://www.fao.org/3/a0701e/a0701e00.htm)
@@ -128,8 +113,7 @@ The amount of suffering caused by vivisection is currently negligible compared t
 - One in nine people in the world today are undernourished, yet we feed around a third of our global crop production to animals. If we cut out the middleman and ate the crops ourselves, instead of feeding them to animals, we could feed an additional four billion people – more than enough for everyone, for many years to come! We all know how wasteful old gas-guzzling cars are – how long before livestock farming is viewed in the same way: As a shameful, inefficient waste of resources. [Source](https://viva.org.uk/planet/the-issues/world-hunger/){:target="_blank"}
 
 ##### Holocene extinction
-- Since 1970, the collective weight of free-living animals has declined 82%. Instead, a small number of farmed animals (mainly cows and pigs) dominate the global biomass. They account for 60% of mammal species by mass, 36% goes to humans, and just 4% are free-living animals. Sources: [1](https://www.chathamhouse.org/sites/default/files/2021-02/2021-02-03-food-system-biodiversity-loss-benton-et-al_0.pdf){:target="_blank"}, [2](https://www.pnas.org/doi/10.1073/pnas.1711842115){:target="_blank"}
-- Meat is considered one of the prime factors contributing to the current biodiversity loss crisis.
+- Since 1970, the collective weight of free-living animals has declined 82%. Instead, a small number of farmed animals (mainly cows and pigs) dominate the global biomass. They account for 60% of mammal species by mass, 36% goes to humans, and just 4% are free-living animals. Animal agriculture is considered one of the prime factors contributing to the current biodiversity loss crisis. Sources: [1](https://www.chathamhouse.org/sites/default/files/2021-02/2021-02-03-food-system-biodiversity-loss-benton-et-al_0.pdf){:target="_blank"}, [2](https://www.pnas.org/doi/10.1073/pnas.1711842115){:target="_blank"}
 
 ##### Antibiotic resistance
 - Worldwide an estimated 73% of antimicrobials (mainly antibiotics) are consumed by farm animals. As resistance to antibiotics becomes more common there is greater need for alternative treatments. Calls for new antibiotic therapies have been issued, but new drug development is becoming rarer. [Source](https://en.wikipedia.org/wiki/Antimicrobial_resistance){:target="_blank"}
@@ -168,19 +152,19 @@ Youtubers:
 - [Joey Carbstrong](https://www.youtube.com/@JoeyCarbstrong){:target="_blank"}
 ##### Cooking
 
-1) [Simnett Nutrition](https://www.youtube.com/c/Simnettnutrition){:target="_blank"}<br>
+1) [Andrew Bernard](https://www.youtube.com/@thenarddogcooks){:target="_blank"}<br>
+Example video:<br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-_JkDYN_U1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2) [Simnett Nutrition](https://www.youtube.com/c/Simnettnutrition){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jiW4w3-7jf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FFFFIzXkTes" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-2) [Cheap Lazy Vegan](https://www.youtube.com/c/CheapLazyVegan){:target="_blank"}<br>
+3) [Cheap Lazy Vegan](https://www.youtube.com/c/CheapLazyVegan){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Js8sM0XA2sk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3) [The Vegan Gym](https://www.youtube.com/@TheVeganGym){:target="_blank"}<br>
+4) [The Vegan Gym](https://www.youtube.com/@TheVeganGym){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AQxG258gOx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-4) [Andrew Bernard](https://www.youtube.com/@thenarddogcooks){:target="_blank"}<br>
-Example video:<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-_JkDYN_U1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 5) [Pick Up Limes](https://www.youtube.com/c/PickUpLimes){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eI91-UZpJr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -290,32 +274,28 @@ Example video:<br>
 
 #### My story
 
-When I was a child I was a vegetarian and I used to think that there is nothing morally wrong with drinking milk since we are not killing the cows or buffaloes. In the middle of my 9th class my biology teacher said that eating meat is necessary to be healthy and he gave several reasons why it is beneficial to health. Because of that I became a meat eater and ate chicken in 2 meals for the next 4 years. Now I know that it is actually healthier to be a vegan. But looking back even if it was true that carnism is slightly more healthier than veganism (which is certainly false) it is not morally OK to eat meat.
+When I was a child I was a vegetarian (because of religious reasons meat was not eaten in my home) and I used to think that there is nothing morally wrong with drinking milk since we are not killing the cows or buffaloes. In the middle of my 9th class my biology teacher said that eating meat is necessary to be healthy and he gave several reasons why it is beneficial to health. Because of that I became a meat eater (I was living in hostel not home) and ate chicken in 2 meals for the next 4 years. Now I know that he is wrong and it is actually healthier to be a vegan. But looking back even if it was true that carnism is slightly more healthier than veganism it is not morally OK to eat meat.
 
-Roughly speaking $\frac{1}{4}$ chicken is needed per 1 meal per 1 person. Each week I ate 2 times chicken during the 4 years. So the total number of chickens that are killed because of me is $4\times 52 \times 2 \times \frac{1}{4}=104 \approx 100$ chickens. Let us assume that an average human life is roughly 100 times more worthy than a chickens life. In that case what I did is as bad as murdering a single human being. Of course these are not exact calculations. These are called <a href="https://en.wikipedia.org/wiki/Fermi_problem" target="_blank">Fermi problems</a> which only give an estimate of the order of magnitude. Also I can decrease the number of chickens I killed by like 15% percent because I only ate them when I was in hostel and when I went to home for vacation I didn't eat meat.
+Roughly speaking, $\frac{1}{4}$ chicken is needed per 1 meal per 1 person at my high school hostel. Each week I ate 2 times chicken during the 4 years in hostel. So the total number of chickens that are killed because of me is $4\times 52 \times 2 \times \frac{1}{4}=104 \approx 100$ chickens. Let us assume that an average human life is roughly 100 times more worthy than a chickens life. In that case what I did is as bad as murdering a single human being. Of course these are not exact calculations and if you say an average human is roughly 10 times more worthy than a chickens life then that would mean what I did is as bad as murdering 10 human beings. These are called <a href="https://en.wikipedia.org/wiki/Fermi_problem" target="_blank">Fermi problems</a> which only give an estimate of the order of magnitude. Also I can decrease the number of chickens I killed by like 15% percent because I only ate them when I was in hostel and when I went to home for vacation I didn't eat meat.
 
-Of course if you say an average human is roughly 10 times more worthy than a chickens life then that would mean what I did is as bad as murdering 10 human beings. These things do not have a clear cut answers. Some vegans say that saying human beings are superior to animals is <a href="https://en.wikipedia.org/wiki/Speciesism" target="_blank">Speciesism</a>, but this is a very vague and useless definition for speciesism, because by this definition every one is a speciesist (even if they don't realise). When you walk you kill many microorganisms, if you think their life is as worthy as yours then you need to stop moving forever etc. So a better defintion for antispeciesism is not the claim that “All Animals Are Equal”, or that all species are of equal value, or that a human or a pig is equivalent to a mosquito. Rather the antispeciesist claims that, other things being equal, equally strong interests should count equally. So it is not morally wrong if you have to kill microorganisms to walk since walking is a necessary thing for us to live. But consuming meat and dairy products is not necessary like walking and organisms like chicken, cow etc are many times more worthy than microorganisms. As a <a href="https://en.wikipedia.org/wiki/Negative_utilitarianism" target="_blank">Negative utilitarian</a>, I think it is not wrong to measure the worthiness of 1 animal compared to the other since it is needed to solve problems like the <a href="https://en.wikipedia.org/wiki/Trolley_problem" target="_blank">trolley problem</a>.
+**Edit**: The above para was written back when I was a negative utilitarian. This kind of comparison doesn't go well with rights theory.
 
-In early 2020, I found out (for the 1st time) what actually happens in the dairy industry by watching [this](https://fb.watch/cTX_VxvCv9/){:target="_blank"} and some other videos posted by [Arvind Animal Activist](https://www.facebook.com/ArvindAnimalActivist){:target="_blank"}. But I was not sure if it was healthy to go vegan. But after watching many videos of [Erin Janus](https://www.youtube.com/c/ErinJanus){:target="_blank"} (her [DAIRY IS SCARY!](https://youtu.be/UcN7SGGoCNI){:target="_blank"} video was the final video that made me realise that I can no longer support the dairy industry) and [Earthling Ed](https://www.youtube.com/c/EarthlingEdChannel){:target="_blank"} I decided to go vegan. But then covid lockdown happened. After covid started I became a lacto-vegetarian but not a vegan because of some stupid reasons (like my parents will be angry at me and won't allow etc.) which are definitely not good enough excuses to support the dairy industry for another 2 years.
+In early 2020, I found out (for the 1st time) what actually happens in the dairy industry by watching [this](https://fb.watch/cTX_VxvCv9/){:target="_blank"} and some other videos posted by [Arvind Animal Activist](https://www.facebook.com/ArvindAnimalActivist){:target="_blank"}. But I was not sure if it was healthy to go vegan. But after watching many videos of [Erin Janus](https://www.youtube.com/c/ErinJanus){:target="_blank"} (her [DAIRY IS SCARY!](https://youtu.be/UcN7SGGoCNI){:target="_blank"} video was the final video that made me realise that I can no longer support the dairy industry) and [Earthling Ed](https://www.youtube.com/c/EarthlingEdChannel){:target="_blank"} I decided to go vegan. But then covid lockdown happened. After covid started I became a lacto-vegetarian (just like I was in childhood.) but not a vegan because of some stupid reasons (like my parents will be angry at me and won't allow etc.) which are definitely not good enough excuses to support the cruel dairy industry for another 2 years.
 
-If I want to live as a responsible man, I must do something for the species of chicken, buffaloes, cows etc. to repent for my evil doings. May be one day when I have enough money I will start an animal sanctuary.
-<br>
-<br>
-<b id="f1">1)</b> In rare cases when there is no vegan option to consume, I might eat some food if only a small fraction of it is made from dairy products instead of fasting, but I still won't consume regular dairy products. For example, in the summer of 2022, when I was on a plane to Canada, there were veg and nonveg options. In the veg option, they included some dairy products in the vegetable pasta (milk powder), and I ate it but didn't eat yogurt, cheese, etc., which are direct dairy products. I think society is more responsible for this than me.<a href="#a1">↩</a>
+Until the middle of May 2022 I was a welfarist vegan or utlitarian vegan. Then I found Gary L. Francione's website [abolitionistapproach.com](https://www.abolitionistapproach.com/){:target="_blank"} (especially his [Six Principles](https://www.abolitionistapproach.com/about/the-six-principles-of-the-abolitionist-approach-to-animal-rights/){:target="_blank"})  which converted me into an abolishanist vegan.
 
-<h3 id="comments">{{ site.data.language.comments_headline }}</h3>
-<script src="https://giscus.app/client.js"
-        data-repo="iamsreeman/iamsreeman.github.io"
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNzQ2MTYxOTU="
-        data-category="Comments"
-        data-category-id="DIC_kwDOFlQwg84B-TtD"
-        data-mapping="pathname"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="bottom"
-        data-theme="dark_dimmed"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
-Please read my <a href="{{ site.baseurl }}/blog/comments#policy">comments policy</a>. There are also some <a href="{{ site.baseurl }}/blog/comments#tips">tips</a> given.
+If I want to live as a responsible man, I must do something in life to repent for participating economically for 20 years in the commodification of sentient animals.<br>
+
+* footnotes will be placed here
+{:footnotes}
+
+[^large]:
+    Read the following to know why I used the word "<span style="color:green">***large***</span>" above.
+
+    **"large N" negative utilitarianism limit**: In the standard [trolley problem](https://en.wikipedia.org/wiki/Trolley_problem){:target="_blank"} I think rights theory is the correct theory and we should not take away the right to live of one person to save 5 persons. But if we change the number $5$ to $N\to \infty$ (some large number like billion or trillion) then I think it is ok to kill one person to save that many people. So, in this "large N" approximation, we should use utilitarianism instead of rights theory. But what is the exact critical value of $N$ at which this transition happens? I don't know! So, I don't actually assume the rights theory as a dogma. Rights are ontologically dubious entities. I beleive in rights theory except in extreme cases like $N\to \infty$ in this example. This kind of ethics goes is often called **Threshold Deontology**. Similar logic works for the famous counterexample to utlitarianism: *"You have five patients who need organs. Two need one lung each, two need a kidney each, and the fifth needs a heart. If they do not get those organs today, they will all die; if you find organs for them today, you can transplant the organs and they will all live. There is a random person going on the road. Can you kidnap and sacrifice him for saving people?"*. In this case 5 is not a big number so rights theory should be accepted and you should not sacrifice him. But if for every single cell in his body you can save a person (average human has 30 trillion cells), then you should follow utilitarinism and sacrifice a single human to save 30 trillion humans even if it means you will violate that persons right to live.
+
+    When I say I am an abolitionist vegan, you have to understand that it is only a **practical approximation** of my position. Abolitionist veganism assumes the rights theory, but I only approximately believe in rights theory. In most practical cases, my position coincides with abolitionist veganism but unlike Gary Francione I don't believe in rights **exactly**. But in complicated situations I can't give proper answers. The trolley problem is actually a simple looking problem as we only have two options (we can either pull the lever or do nothing) and one parameter (ratio of the number of people on one track to the other). We can make more complex problems where we have many options that depend on many variables. The objective moral theory (lets call it M(oral)-theory or M-theory), that can answer every moral problem, is probably complicated and I am probably far too dumb to understand it. I only know about it in certain limits (like when all parameters are in specific limits like large $N$ in the previous example).
+
+    If 100 animals were experimented with medicines and if it saves 100 million humans I think it is justifiable. But if 100 animals were experimented with medicines and it only saves 1 human then it is not justifiable.
+
+    The amount of suffering caused by vivisection is currently negligible compared to meat industry and dairy industry. We can think about this problem after those industries are abolished.

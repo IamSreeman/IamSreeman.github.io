@@ -18,6 +18,8 @@ breadcrumbs: true
         src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
+Courses taken during undergrad.
+
 - [Physics](#physics)
 - [Mathematics](#mathematics)
 - [Other](#other)
