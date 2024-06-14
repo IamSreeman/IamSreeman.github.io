@@ -271,6 +271,7 @@ Example video:<br>
 <img src="{{site.baseurl}}/images/other/memes/v/37.jpg" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/38.png" width="300"/>
 <img src="{{site.baseurl}}/images/other/memes/v/39.png" width="300"/>
+<img src="{{site.baseurl}}/images/other/memes/v/40.png" width="300"/>
 
 #### My story
 
