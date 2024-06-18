@@ -48,14 +48,16 @@ I am currently interested in doing research in <a href="https://en.wikipedia.org
 [^name]:
     In Telugu script: కసిరెడ్డి శ్రీమాన్ రెడ్డి, in Devanagari: कसिरेड्डि श्रीमान रेड्डि and in International Phonetic Alphabet (IPA): /kasiɾeɖɖi ʃɾiːmaːn ɾeɖɖi/.
 
-    In this <a href="https://en.wikipedia.org/wiki/Telugu_names" target="_blank">Telugu name</a> *Sreeman* is the given name and *Kasireddy* is the family name and Telugu family names come at the beginning of the name and are almost always abbreviated.
+    In this <a href="https://en.wikipedia.org/wiki/Telugu_names" target="_blank">Telugu name</a> *Sreeman* is the given name and *Kasireddy* is the family name and Telugu family names come at the beginning of the name (unlike any other Indian culture) and are almost always abbreviated.
 
     ||Actual name| Legal name (typo)|
     |---|---|---|
-    |Telugu or Indian| Kasireddy Sreeman Reddy | Kasi Reddy Sreeman Reddy|
+    |State or Country| Kasireddy Sreeman Reddy | Kasi Reddy Sreeman Reddy|
     |International| Sreeman Reddy Kasireddy | Sreeman Reddy Kasi Reddy |
 
-    In all Indian official documents there is a wrong space and my name is written as *Kasi Reddy Sreeman Reddy*, and I am continuing that mistake in all official documents. For international official documents I am using *Sreeman Reddy Kasi Reddy* as my name.
+    In all Indian and Andhra Pradesh official documents, there is a wrong space and my name is written as *Kasi Reddy Sreeman Reddy*, and I am continuing that mistake in all official documents. For official international documents I am using *Sreeman Reddy Kasi Reddy* as my name.
+
+    Unfortunately, my name contains my former caste "<a href="https://en.wikipedia.org/wiki/Reddy" target="_blank">Reddy</a>" twice. But ever since I stopped believing in Hinduism at age 10 or 11, I do not identify with any caste. I am strongly against all forms of hierarchical discrimination, from casteism to speciesism, as explained in <a href="{{ site.baseurl }}/philosophy/#fn:Sentient">this page at footnote 2</a>. 
 
 [^theories]:
     From an empirical view point QFT (or more precisely the standard model which is a theory, but QFT itself is a framework) has much more predictive and explanatory power compared to general relativity. But the standard model requires 25 fundamental dimensionless constants which must come from experiments. General relativity needs no fundamental dimensionless constants and in principle (even in practice that was how it was discovered) can be completely guessed if one knows Newton's gravity and electromagnetism and is more elegant than QFT. General relativity has uniqueness that is not present in the standard model. Like GR, string theory is also a very unique theory. String theory has ***only 1 fundamental dimensionless constant*** the string length in the Planck units (the string coupling constant is itself not a fundamental dimensionless constant because it is dynamical and is related to the dilaton also in the limit of large string coupling it becomes a new dimension of the M-theory).<br><br>
