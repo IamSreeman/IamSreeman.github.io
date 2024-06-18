@@ -57,7 +57,6 @@ I am currently interested in doing research in <a href="https://en.wikipedia.org
 
     In all Indian and Andhra Pradesh official documents, there is a wrong space and my name is written as *Kasi Reddy Sreeman Reddy*, and I am continuing that mistake in all official documents. For official international documents I am using *Sreeman Reddy Kasi Reddy* as my name.
 
-    Unfortunately, my name contains my former caste "<a href="https://en.wikipedia.org/wiki/Reddy" target="_blank">Reddy</a>" twice. But ever since I stopped believing in Hinduism at age 10 or 11, I do not identify with any caste. I am strongly against all forms of hierarchical discrimination, from casteism to speciesism, as explained in <a href="{{ site.baseurl }}/philosophy/#fn:Sentient">this page at footnote 2</a>. 
     Unfortunately, my name contains my former caste "<a href="https://en.wikipedia.org/wiki/Reddy" target="_blank">Reddy</a>" twice. But ever since I stopped believing in Hinduism at age 10 or 11, I understood that the hereditary caste system is immoral and stopped identifying with my former caste. I am strongly against all forms of hierarchical discrimination, from casteism to speciesism, as explained in <a href="{{ site.baseurl }}/philosophy/#fn:Sentient">this page at footnote 2</a>. 
 
 [^theories]:
