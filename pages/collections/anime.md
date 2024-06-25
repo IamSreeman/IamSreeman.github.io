@@ -5,7 +5,7 @@ meta_title: "Anime | K. Sreeman Reddy"
 layout: page-fullwidth
 breadcrumbs: true
 ---
-You can see the list of anime I watched on <a href="https://myanimelist.net/animelist/iamnameers?status=7&order=3&order2=0" target="_blank">MyAnimeList here</a>. In this page[^DragonBall] you can find my favourite anime Openings, OSTs etc. You can find many quotes related to animanga <a href="{{site.baseurl}}/quotes/#animanga"  target="_blank">here</a>.
+You can see the list of anime I watched on <a href="https://myanimelist.net/animelist/iamnameers?status=7&order=3&order2=0" target="_blank">MyAnimeList here</a>. In this page[^DragonBall] you can find my favourite anime Openings, OSTs etc. You can find many quotes related to animanga <a href="{{site.baseurl}}/quotes/#animanga"  target="_blank">here</a>. Check <a href="https://tvtropes.org/pmwiki/pmwiki.php/MediaNotes/AnimeAndManga" target="_blank">tvtropes.org/Animanga</a> and <a href="https://tvtropes.org/pmwiki/pmwiki.php/SugarWiki/EssentialAnime" target="_blank">tvtropes.org/Essential Anime</a>.
 
 >#### Contents
 >

@@ -76,9 +76,9 @@ Notes made for JEE-Advanced 2019 exam.
 1. <a href='https://math.ucr.edu/home/baez/QG.html' target="_blank">Notes from the seminars of John Baez</a><br>
 1. <a href='https://math.ucr.edu/home/baez/advice.html' target="_blank">Advice for the Young Scientist by John Baez</a><br>
 1. <a href='https://terrytao.wordpress.com/career-advice/' target="_blank">Career advice by Terence Tao</a><br>
+1. <a href='https://goodtheorist.science/' target="_blank">How to become a GOOD Theoretical Physicist by ’t Hooft</a><br>
 1. <a href='https://docs.google.com/document/d/1KBovBeg_kl6nAk8fTBYQdHMo8o3o0IgunPE3R7_OEHM/edit' target="_blank">So You Want To Be A Physicist by ZapperZ</a><br>
 1. <a href='https://ugr.ue.ucsc.edu/email' target="_blank">How to Email a Research Professor</a><br>
-1. <a href='https://goodtheorist.science/' target="_blank">How to become a GOOD Theoretical Physicist by ’t Hooft</a><br>
 
 ##### Useful math links
 

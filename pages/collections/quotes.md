@@ -1218,6 +1218,8 @@ And share your pleasures with beggars.”
 
 >“Nationalism is merely Glorified Tribalism.” [<a href="https://www.youtube.com/watch?v=RRQgExLkYEk" target="_blank">YouTube</a>]
 
+>“It is no measure of health to be well adjusted to a profoundly sick society.”
+
 >“Superstition is another mighty evil, and has caused much terrible cruelty. **The man who is a slave to it despises others who are wiser, tries to force them to do as he does**. Think of the **awful slaughter** produced by the superstition that animals should be sacrificed, and by the still more cruel superstition that man needs flesh for food. Think of the treatment which superstition has meted out to the depressed classes in our beloved India, and see in that how this evil quality can breed heartless cruelty even among those who know the duty of brotherhood. Many crimes have men committed in the name of the God of Love, moved by this nightmare of superstition; be very careful therefore that no slightest trace of it remains in you.”
 
 ― <a href="https://en.wikipedia.org/wiki/Jiddu_Krishnamurti" target="_blank">Jiddu Krishnamurti</a>
@@ -1541,6 +1543,22 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/B._R._Ambedkar" target="_blank">B. R. Ambedkar</a>
 
+>“We have to eradicate the gods who are responsible for the institution which portrays us as sudras, people of low birth, and some others as brahmins of high birth… We have to break the idols of these gods. I start with Ganesha because it is he who is worshipped before undertaking any task.”
+
+>“If god is the root cause for our degradation destroy that god. If it is religion destroy it. If it is Manu Darma, Gita, or any other Mythology (Purana), burn them to ashes. If it is temple, tank, or festival, boycott them. Finally if it is our politics, come forward to declare it openly".”
+
+>“There is no use of simply acquiring titles or amassing wealth if one has no self-respect and scientific knowledge.”
+
+>“It is absurd to quote religion or God or religious doctrines to render the people as lowest castes.”
+
+>“You cannot expect any rational thought from a religious man. He is like a rocking log in water.”
+
+>“The word ‘Sudra’ which means ‘Son of prostitute’ should not find a place even in the history hereafter. We will not allow it to find a place in the dictionary or encyclopedia.”
+
+>“Man treats woman as his own property and not as being capable of feelings, like himself. The way man treats women is much worse than the way landlords treat servants and the high-caste treat the low-caste. These treat them so demeaningly only in situations mutually affecting them; but men treat cruelly and as slaves, from their birth till death.”
+
+― <a href="https://en.wikipedia.org/wiki/Periyar" target="_blank">Periyar</a>
+
 >“I saw that the writers on vegetarianism had examined the question very minutely, attacking it in its religious, scientific, practical and medical aspects. Ethically they had arrived at the conclusion that man's supremacy over the lower animals meant not that the former should prey upon the latter, but that **the higher should protect the lower**, and that there should be mutual aid between the two as between man and man.”
 
 ― <a href="https://en.wikipedia.org/wiki/Mahatma_Gandhi" target="_blank">Mohandas Karamchand Gandhi</a>
@@ -1656,6 +1674,10 @@ And share your pleasures with beggars.”
 >“If you can convince the lowest white man he's better than the best colored man, he won't notice you're picking his pocket. Hell, give him somebody to look down on, and he'll empty his pockets for you.”
 
 ― <a href="https://en.wikipedia.org/wiki/Lyndon_B._Johnson" target="_blank">Lyndon B. Johnson</a>
+
+>“The best time to plant a tree was 30 years ago, and the second best time to plant a tree is now.”
+
+― Anonymous
 
 >“A successful individual typically sets his next goal somewhat but not too much above his last achievement. In this way he steadily raises his level of aspiration.”
 
