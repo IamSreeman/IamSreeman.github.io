@@ -65,7 +65,7 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://www.youtube.com/watch?v=dM7x1PNZDo0&t=30s" target="_blank">「ONE PIECE」We Are op 1</a><br>
 <a href="https://www.youtube.com/watch?v=2FJlbPqka3M" target="_blank">「ONE PIECE」 Ending 1 - Memories</a><br>
 <a href="https://www.youtube.com/watch?v=ClnlNUOwRAg" target="_blank">「ONE PIECE」 Bink's no Sake</a><br>
-<a href="https://www.youtube.com/watch?v=SF_5E1wBsVk" target="_blank">「ONE PIECE」 Op 11 - Share the World</a><br>
+<a href="https://www.youtube.com/watch?v=LzC0HSOOauI" target="_blank">「ONE PIECE」 Op 11 - Share the World</a><br>
 <a href="https://www.youtube.com/watch?v=ToGv-rTBG0U" target="_blank">「ONE PIECE」 OP 5 - Kokoro no Chizu</a><br>
 <a href="https://www.youtube.com/watch?v=WPl10ZrhCtk" target="_blank">“Akuma no Ko” Attack on Titan ending</a><br>
 <a href="https://www.youtube.com/watch?v=34wlhlQpidc" target="_blank">「Ｄｒ．ＳＴＯＮＥ」2nd season OP</a><br>
@@ -121,6 +121,7 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://youtu.be/-1LpICPzC00" target="_blank">Rurouni Kenshin- Heart Of Sword</a><br>
 <a href="https://youtu.be/sI9jiFnCb2U" target="_blank">Rurouni Kenshin Op 2</a><br>
 <a href="https://youtu.be/LgYgY7xmzRM" target="_blank">Rurouni Kenshin Op 1</a><br>
+<a href="https://youtu.be/ZPBGoGg5EnY" target="_blank">Rurouni Kenshin Ed 6</a><br>
 <a href="https://youtu.be/BXQLrkW33f0" target="_blank">Full Metal Alchemist OST 1 - Brothers</a><br>
 <a href="https://youtu.be/KCgr3dj5mqY" target="_blank">NHK ni Youkoso! - Puzzle</a><br>
 <a href="https://youtu.be/Lv_hNkTlN5E" target="_blank">Welcome to NHK theme song - Odoru Akachan Ningen</a><br>
@@ -130,6 +131,7 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://youtu.be/sZ50D8khWb4" target="_blank">DGM Remember Lala's (Lala's Lullaby)</a><br>
 <a href="https://youtu.be/OjNpRbNdR7E" target="_blank">mao zedong propaganda music Red Sun in the Sky</a><br>
 <a href="https://youtu.be/NWl5glbSCY4" target="_blank">Hajime no Ippo: The Fighting - Opening 1 | Under Star</a><br>
+<a href="https://youtu.be/gV26zIE0130" target="_blank">Berserk - Sign (Full Version)</a><br>
 
 #### OSTs
 <br>
@@ -330,7 +332,7 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://www.youtube.com/watch?v=olZAaf1_m5E" target="_blank">Legendary Battle Hiko Seijuro vs Fuji Japanese with english sub</a><br>
 
 #### Recaps
-<a href="https://www.youtube.com/watch?v=hQagzXbyp9I" target="_blank">One Piece</a><br>
+<a href="https://www.youtube.com/watch?v=hQagzXbyp9I" target="_blank">One Piece</a> or <a href="https://youtu.be/GxUxTtdkW2E" target="_blank">this</a><br>
 <a href="https://www.youtube.com/watch?v=-Ynlz5zm9Yk" target="_blank">Dragon Ball</a> (also <a href="https://youtu.be/tuvSwb5KM6Q" target="_blank">1</a>, <a href="https://youtu.be/B7G8FIvVoj4" target="_blank">2</a>, <a href="https://youtu.be/UmUIXMvKQB4" target="_blank">3</a>, <a href="https://youtu.be/D6MDjzqnK1Y" target="_blank">4</a>, <a href="https://youtu.be/XPhv_Ll-BzA" target="_blank">5</a>, <a href="https://youtu.be/SRonj0xqOKI" target="_blank">6</a>, <a href="https://youtu.be/gTrUoA-v8-g" target="_blank">7</a>, <a href="https://youtu.be/6ynzzAm48x8" target="_blank">8</a>, <a href="https://youtu.be/PygGOMqqNPs" target="_blank">9</a>, <a href="https://youtu.be/Q79XxA9VAqQ" target="_blank">10</a>, <a href="https://youtube.com/playlist?list=PLueFzVcRrBTqJ5KJlx2Gwp7Ud6gfsK_8P" target="_blank">11</a>, <a href="https://youtube.com/playlist?list=PL4jsXKqrK9uW28Za56xlI8QeLCkfzqdP-" target="_blank">12</a> and <a href="https://youtu.be/OkkWC0aQk7c" target="_blank">13</a>)<br>
 <a href="https://www.youtube.com/watch?v=8roB4h4tDFo" target="_blank">Naruto</a><br>
 <a href="https://www.youtube.com/watch?v=W5gDiHnYVA4" target="_blank">BLEACH</a><br>
