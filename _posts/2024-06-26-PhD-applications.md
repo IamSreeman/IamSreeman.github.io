@@ -65,6 +65,10 @@ Many friends etc, were asking me why can't I just change my field and apply to a
 
 ― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
 
+>“The scientist does not study nature because it is useful to do so. He studies it because he takes pleasure in it, and he takes pleasure in it because it is beautiful. **If nature were not beautiful it would not be worth knowing, and life would not be worth living**. I am not speaking, of course, of the beauty which strikes the senses, of the beauty of qualities and appearances. I am far from despising this, but it has nothing to do with science. What I mean is that more intimate beauty which comes from the harmonious order of its parts, and which a pure intelligence can grasp.”
+
+― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
+
 I think it doesn't matter if these laws are elegant. It doesn't matter if I find these laws interesting. It doesn't matter if I am not good at that. These are secondary considerations. This is one of the few paths that I find meaningful. And reductionism is alone enough for me to find it meaningful. Below is a list of career options and comparing it to hep-th. There are things like becoming like [Goku](https://en.wikipedia.org/wiki/Goku){:target="_blank"} which are not realistic because our laws of physics will forbid such supernatural things. See the footnote for why I wrote ethical progress as unrealistic.
 
 | Job                                   | Meaningful | Interesting or Not boring | Realistic | Financial |

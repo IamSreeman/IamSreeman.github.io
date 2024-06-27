@@ -556,6 +556,12 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 ― <a href="https://www.google.co.in/books/edition/Princeton_Problems_in_Physics_with_Solut/R5Y3BwAAQBAJ?hl=en&gbpv=1&printsec=frontcover" target="_blank">M. Newman et al</a>
 
+>“The reader who has read the book but cannot do the exercises has learned nothing.”
+
+>“... we see a number of sophisticated, yet uneducated, theoreticians who are conversant in the LSZ formalism of the Heisenberg field operators, but do not know why an excited atom radiates, or are ignorant of the quantum theoretic derivation of Rayleigh's law that accounts for the blueness of the sky.”
+
+― <a href="https://en.wikipedia.org/wiki/J._J._Sakurai" target="_blank">J. J. Sakurai</a>
+
 >“If there should really exist in nature any bodies, whose density is not less than that of the sun, and whose diameters are more than 500 times the diameter of the sun, since their light could not arrive at us; or if there should exist any other bodies of a somewhat smaller size, which are not naturally luminous; of the existence of bodies under either of these circumstances, we could have no information from sight; yet, if any other luminous bodies should happen to revolve about them we might still perhaps from the motions of these revolving bodies infer the existence of the central ones with some degree of probability, as this might afford a clue to some of the apparent irregularities of the revolving bodies, which would not be easily explicable on any other hypothesis; but as the consequences of such a supposition are very obvious, and the consideration of them somewhat beside my present purpose, I shall not prosecute them any further.”[In 1784 he realized Newtonian black holes]
 
 ― <a href="https://en.wikipedia.org/wiki/John_Michell" target="_blank">John Michell</a>
@@ -1167,6 +1173,10 @@ And share your pleasures with beggars.”
 >“If God really existed, it would be **necessary to abolish him**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Mikhail_Bakunin" target="_blank">Mikhail Bakunin</a>
+
+>“We suffer more often in imagination than in reality.”
+
+― <a href="https://en.wikipedia.org/wiki/Seneca_the_Younger" target="_blank">Seneca the Younger</a>
 
 >“The philosopher has never killed any priests, whereas the priest has killed a great many philosophers.”
 
