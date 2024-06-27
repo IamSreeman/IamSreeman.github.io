@@ -82,7 +82,7 @@ My childhood aim was to do cosmology. I do want to research in cosmology at some
 
 ― <a href="https://twitter.com/StringSwamp" target="_blank">Swamp Thing</a>
 
-When you are feeling down, check the below scene from <a href="https://en.wikipedia.org/wiki/Berserk_(manga)" target="_blank">Berserk (manga)</a>. It means all the more when it comes from the guy who is "<a href="https://www.google.com/search?q=struggler&udm=2" target="_blank">the struggler</a>".<br>
+When you are feeling down, check the below scene from <a href="https://en.wikipedia.org/wiki/Berserk_(manga)" target="_blank">Berserk</a>. It means all the more when it comes from the guy who is "<a href="https://www.google.com/search?q=struggler&udm=2" target="_blank">the struggler</a>".<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-4PcHYCgXtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -92,7 +92,7 @@ Also these songs: 1) <a href="https://www.youtube.com/watch?v=hLMTfIZiIGA" targe
 
 I was afraid I will have to forever apply to hep-th PhDs. I didn't want to leave the field without even doing a PhD. So, I am happy[^selfish] that I finally got a PhD. That too, I got a place that is one of the best fits for me because I can do both string theory and It from Qubit toy models like DSSYK.
 
-The one thing I want to change from now on is that I want to stop being lazy and become productive. I am not exactly lazy; procrastinator will be a better word. But I procrastinate everything until the deadline is close, and even if I work hard at that point, the time won't be enough. One bad thing about procrastinating is that "<a href="https://en.wikipedia.org/wiki/Death" target="_blank">the final deadline</a>" will always come without telling you. So, I should stop procrastinating.
+The one thing I want to change from now on is that I want to stop being a procrastinator. I often procrastinate things until the deadline is close, and even if I work hard at that point, the time won't be enough. One bad thing about procrastinating is that "<a href="https://en.wikipedia.org/wiki/Death" target="_blank">the final deadline</a>" will always come without telling you. So, I should stop procrastinating.
 
 This summer (4 months left), I wanted to write these [FP notes](https://ksr.onl/files/FP.pdf) and mostly complete them and then write some parts of [QG notes](https://ksr.onl/files/QG.pdf). I am also continuing my masters research. I also kept reading Vagabond manga and watching Gintama anime on hold since 2022. I should go back and complete those. There are always too many things one can do and human lifespans are too tiny to do all the interesting things.
 
