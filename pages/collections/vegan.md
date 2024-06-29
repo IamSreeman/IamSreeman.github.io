@@ -128,8 +128,8 @@ This is not an important reason. I am mentioning it here because a lot of insecu
 
 - Vegans had higher testosterone levels than vegetarians and meat-eaters, but this was offset by higher sex hormone binding globulin, and there were no differences between diet groups in free testosterone, androstanediol glucuronide or luteinizing hormone. [Source](https://pubmed.ncbi.nlm.nih.gov/10883675/){:target="_blank"}
 
-<img src="{{site.baseurl}}/images/other/MilkHormones.png" width="500"/><br>
-<img src="{{site.baseurl}}/images/other/memes/v/40.png" width="500"/>
+<img src="{{site.baseurl}}/images/other/MilkHormones.png" width="500"/>
+<img src="{{site.baseurl}}/images/other/memes/v/40.png" width="500"/><br>
 
 #### Resources
 
