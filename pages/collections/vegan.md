@@ -33,6 +33,7 @@ This page contains reasons why I made this decision and also some resources if y
 >    - [Health](#health)
 >    - [Holocene extinction](#holocene-extinction)
 >    - [Antibiotic resistance](#antibiotic-resistance)
+>    - [Hormones](#hormones)
 > 
 >2. [Resources](#resources)
 >    - [Nutrition](#nutrition)
@@ -102,10 +103,13 @@ But I should add that there is a difference between suffering in vivisection and
 <img src="{{site.baseurl}}/images/other/PlantMilk.png" width="400"/>
 
 ##### Health
-- This comprehensive meta-analysis reports a significant protective effect of a vegetarian diet versus the incidence and/or mortality from ischemic heart disease (-25%) and incidence from total cancer (-8%). Vegan diet conferred a significant reduced risk (-15%) of incidence from total cancer. [Source](https://pubmed.ncbi.nlm.nih.gov/26853923/){:target="_blank"}
 - Processed meat and red meat cauce cancer. [Source: World Health Organization](https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat){:target="_blank"}
+- This comprehensive meta-analysis reports a significant protective effect of a vegetarian diet versus the incidence and/or mortality from ischemic heart disease (-25%) and incidence from total cancer (-8%). Vegan diet conferred a significant reduced risk (-15%) of incidence from total cancer. [Source](https://pubmed.ncbi.nlm.nih.gov/26853923/){:target="_blank"}
 - The World Health Organization has classified processed meats including ham, bacon, salami and frankfurts as a Group 1 carcinogen (known to cause cancer) which means that there's strong evidence that processed meats cause cancer. Eating processed meat increases your risk of bowel and stomach cancer. [Source](https://www.cancercouncil.com.au/1in3cancers/lifestyle-choices-and-cancer/red-meat-processed-meat-and-cancer/){:target="_blank"}
 - The Academy of Nutrition and Dietetics and Dietitians of Canada consider well-planned vegetarian and vegan diets "appropriate for individuals during all stages of the lifecycle, including pregnancy, lactation, infancy, childhood, and adolescence, and for athletes". [Source](https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=2985&context=pubs){:target="_blank"}
+
+<img src="{{site.baseurl}}/images/other/MilkHealth1.png" width="500"/>
+<img src="{{site.baseurl}}/images/other/MilkHealth2.png" width="500"/><br>
 
 ##### World hunger
 - One in nine people in the world today are undernourished, yet we feed around a third of our global crop production to animals. If we cut out the middleman and ate the crops ourselves, instead of feeding them to animals, we could feed an additional four billion people – more than enough for everyone, for many years to come! We all know how wasteful old gas-guzzling cars are – how long before livestock farming is viewed in the same way: As a shameful, inefficient waste of resources. [Source](https://viva.org.uk/planet/the-issues/world-hunger/){:target="_blank"}
@@ -115,6 +119,17 @@ But I should add that there is a difference between suffering in vivisection and
 
 ##### Antibiotic resistance
 - Worldwide an estimated 73% of antimicrobials (mainly antibiotics) are consumed by ***farm animals***. As resistance to antibiotics becomes more common there is greater need for alternative treatments. Calls for new antibiotic therapies have been issued, but new drug development is becoming rarer. [Source](https://en.wikipedia.org/wiki/Antimicrobial_resistance){:target="_blank"}
+
+##### Hormones
+
+This is not an important reason. I am mentioning it here because a lot of insecure conservative men believe in the conspiracy that vegans have less testosterone and are not manly.
+
+- **Results**: Obtained results showed that total sperm count (224.7 [117-369] vs. 119.7 [64.8-442.8]; P = 0.011) and the percentage of rapid progressively motile sperm were significantly higher in the vegan group compared with the non-vegan group (1 [0-7] vs. 17.5 [15-30]; P < 0.0001). Furthermore, the oxidation-reduction potential (0.4 [0.3-0.9] vs. 1.5 [0.6-2.8]; P < 0.0001) and the proportion of spermatozoon with DNA damage (14.7 [7-33.5] vs. 8.2 [3-19.5]; P = 0.05) were significantly higher in the non-vegan group in comparison to the vegan group.<br> **Conclusions**: Results obtained in this study provide additional evidence about the favourable effect of a plant-based diet on sperm parameters.  [Source](https://pubmed.ncbi.nlm.nih.gov/35197681/){:target="_blank"}
+
+- Vegans had higher testosterone levels than vegetarians and meat-eaters, but this was offset by higher sex hormone binding globulin, and there were no differences between diet groups in free testosterone, androstanediol glucuronide or luteinizing hormone. [Source](https://pubmed.ncbi.nlm.nih.gov/10883675/){:target="_blank"}
+
+<img src="{{site.baseurl}}/images/other/MilkHormones.png" width="500"/><br>
+<img src="{{site.baseurl}}/images/other/memes/v/40.png" width="500"/>
 
 #### Resources
 
