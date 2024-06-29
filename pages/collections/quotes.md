@@ -28,6 +28,7 @@ These are some interesting quotes. I removed the quotes which are given as misat
 - [Mathematicians](#mathematicians)
 - [Philosophers](#philosophers)
 - [Others](#others)
+  - [Veganism](#veganism)
   - [Animanga](#animanga)
 
 ### Physicists
@@ -1713,7 +1714,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Yuval_Noah_Harari" target="_blank">Yuval Noah Harari</a>
 
-#### Veganism<!-- omit in toc -->
+#### Veganism
 
 >“Our study [China–Cornell–Oxford Project: The Most Comprehensive Study of Nutrition Ever Conducted] suggests that **the closer one approaches a total plant food diet, the greater the health benefit**. … It turns out that animal protein, when consumed, exhibits a variety of undesirable health effects. Whether it is the immune system, various enzyme systems, the uptake of carcinogens into the cells, or hormonal activities, animal protein generally only causes mischief. High fat intake still can be a problem, and we ought not to be consuming such high-fat diets. But I suggest that animal protein is more problematic in this whole diet/disease relationship than is total fat.”
 
