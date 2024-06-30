@@ -217,6 +217,9 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“Despite the weakness of the early experimental evidence for general relativity, Einstein’s theory became the standard textbook theory of gravitation in the 1920s and retained that position from then on, even while the various eclipse expeditions of the 1920s and 1930s were reporting at best equivocal evidence for the theory. … Perhaps all of us were just gullible and lucky, but I do not think that is the real explanation. I believe that the general acceptance of general relativity was due in large part to the attractions of the theory itself—in short, to its **beauty**.”
 
+>“The other mistake that is widely attributed to Einstein is that he was on the wrong side in his famous debate with Niels Bohr over quantum mechanics, starting at the Solvay Congress of 1927 and continuing into the 1930s. In brief, Bohr had presided over the formulation of a “Copenhagen interpretation” of quantum mechanics, in which it is only possible to calculate the probabilities of the various possible outcomes of experiments. Einstein rejected the notion that the laws of physics could deal with probabilities, famously decreeing that God does not play dice with the cosmos. But history gave its verdict against Einstein—quantum mechanics went on from success to success, leaving Einstein on the sidelines.<br>
+All this familiar story is true, but it leaves out an irony. Bohr’s version of quantum mechanics was deeply flawed, but not for the reason Einstein thought. The Copenhagen interpretation describes what happens when an observer makes a measurement, but the observer and the act of measurement are themselves treated classically. This is surely wrong: Physicists and their apparatus must be governed by the same quantum mechanical rules that govern everything else in the universe.”
+
 >“Well, I think it's yielding very useful insights. And um, I think it's... it's been disappointing because the idea of string theory as a theory of fundamental forces has been around now for quite a while, uh, a number of decades, and it has not led to the kind of specific prediction. Well, it makes some qualitative predictions, like it explains why gravity has to exist, but it has not led to the kind of specific numerical predictions, which will say, well, okay, now you can take it to the bank. Um, But it's the **only game in town**. Um, there are alternatives for pictures of what happens at very short distances. There's one due to me called "<a href="https://en.wikipedia.org/wiki/Asymptotic_safety_in_quantum_gravity" target="_blank">asymptotic safety</a>" which I... I think is **a possibility worth taking seriously, but is much less attractive than the string theory and um, I hope string theory is right, but and I don't see anything else on the horizon that's remotely as attractive**. Andy, do you agree with that?” [<a href="https://www.youtube.com/watch?v=PFJ46G8BflQ&t=3108s" target="_blank">YouTube</a>][^Weinberg]
 
 ― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
@@ -586,6 +589,10 @@ Answer: Theoretical physics is done by physicists who lack the necessary skills 
 Mathematical physicists tend not to like this joke, but other physicists seem to. Nonphysicists, of course, are entirely immune to its charms.”
 
 ― <a href="https://en.wikipedia.org/wiki/David_Mermin" target="_blank">N. David Mermin</a>
+
+>“Bohr was inconsistent, unclear, willfully obscure and right. Einstein was consistent, clear, down-to-earth and wrong.”
+
+― <a href="https://en.wikipedia.org/wiki/John_Stewart_Bell" target="_blank">John Stewart Bell</a>
 
 >“No theorist in his right mind would have invented quantum mechanics unless forced to by data.”
 
@@ -1227,7 +1234,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/FM-2030" target="_blank">FM-2030</a>
 
->“Nationalism is merely Glorified Tribalism.” [<a href="https://www.youtube.com/watch?v=RRQgExLkYEk" target="_blank">YouTube</a>]
+>“I wonder why, human beings throughout the world don’t see this simple fact, that you cannot possibly have peace on earth if you are nationalistically divided. **Nationalism is merely the glorification of tribalism**, and every politician right throughout the world maintains this tribalism, this division. This has been the history of mankind, and nobody has applied his mind and said, 'Look, let's stop all this!'” [<a href="https://www.youtube.com/watch?v=RRQgExLkYEk" target="_blank">YouTube</a>]
 
 >“It is no measure of health to be well adjusted to a profoundly sick society.”
 
