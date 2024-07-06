@@ -14,6 +14,12 @@ Quantum mechanics:
   color: '#A4C639'
 Special relativity:
   color: '#A4C639'
+General relativity:
+  color: '#A4C639'
+Quantum field theory:
+  color: '#A4C639'
+String theory:
+  color: '#A4C639'
 Textbook:
   color: '#A4C639'
 History of physics:
@@ -26,5 +32,7 @@ Atheism:
   color: '#f44d27'
 Ethics:
   color: '#f44d27'
-Philosophy:
+Metaphysics:
+  color: '#f44d27'
+Epistemology:
   color: '#f44d27'

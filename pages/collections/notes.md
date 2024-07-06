@@ -29,7 +29,6 @@ You can find some of my old notes and useful links below.
 - Introduction to Condensed Matter Physics notes<br>
 <a href='{{ site.baseurl }}/files/CondMat.pdf' target="_blank">View PDF</a><br>
 
-I also did *Special topics in elementary particle physics* and *Elementary particle physics* courses this semester and they are among my favourite courses I did at IITB till now. Both courses deal with quantum field theory. I will upload the notes for both combined after I add several things to it.
 ##### Autumn 2021-2022
 - Quantum mechanics 2 notes<br>
 <a href='{{ site.baseurl }}/files/QM2.pdf' target="_blank">View PDF</a><br>
@@ -88,6 +87,7 @@ Notes made for JEE-Advanced 2019 exam.
 
 ##### Useful software
 
+1. <a href='https://zulip.com/for/research/' target="_blank">Zulip</a><br>
 1. <a href='https://cadabra.science/' target="_blank">cadabra.science</a><br>
 1. <a href='http://redberry.cc/' target="_blank">redberry.cc</a><br>
 1. <a href='https://www.sagemath.org/' target="_blank">sagemath.org</a> and <a href='https://sagemanifolds.obspm.fr/' target="_blank">SageManifolds</a><br>

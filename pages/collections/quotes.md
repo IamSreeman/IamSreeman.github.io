@@ -1022,6 +1022,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Dharmakirti" target="_blank">Dharmakīrti</a><span style="color:Chartreuse">(6th century Buddhist philosopher)</span>
 
+>“If a bodhisattva does not make a sincere, unwavering effort in thought, word, and deed **to stop all the present and future pain and suffering of all sentient beings, and to bring about all present and future pleasure and happiness**, or does not seek the collection of conditions for that, or does not strive to prevent what is opposed to that, or does not bring about small pain and suffering as a way of preventing great pain and suffering, or does not abandon a small benefit in order to accomplish a greater benefit, if he neglects to do these things even for a moment, he undergoes a downfall. (see SS-G: 17).”
+
+― <a href="https://en.wikipedia.org/wiki/Shantideva" target="_blank">Śāntideva</a><span style="color:Chartreuse">(8th-century Buddhist philosopher who was the first utilitarian)</span>
+
 >“<a href="https://en.wikipedia.org/wiki/Epicurus" target="_blank">Epicurus</a>’s old questions are yet unanswered. Is God willing to prevent evil, but not able? then is he impotent. Is he able, but not willing? then is he malevolent. Is he both able and willing? whence then is evil?”
 
 >“Ignorance is the mother of Devotion.”
@@ -1030,11 +1034,13 @@ And share your pleasures with beggars.”
 
 >“No testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that **its falsehood would be more miraculous**, than the fact which it endeavours to establish.”
 
+>“When anyone tells me, that he saw a dead man restored to life, I immediately consider with myself, whether it be more probable, that this person should either deceive or be deceived, or that the fact, which he relates, should really have happened…. If the falsehood of his testimony would be more miraculous, than the event which he relates; then, and not till then, can he pretend to command my belief or opinion.”
+
 >“I cannot forbear adding to these reasonings an observation, which may, perhaps, be found of some importance. In every system of morality, which I have hitherto met with, I have always remarked, that the author proceeds for some time in the ordinary way of reasoning, and establishes the being of a God, or makes observations concerning human affairs; when of a sudden I am surprized to find, that instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not. This change is imperceptible; but is, however, of the last consequence. For as this ought, or ought not, expresses some new relation or affirmation, it is necessary that it should be observed and explained; and at the same time that a reason should be given, for what seems altogether inconceivable, how this new relation can be a deduction from others, which are entirely different from it. But as authors do not commonly use this precaution, I shall presume to recommend it to the readers; and am persuaded, that this small attention would subvert all the vulgar systems of morality, and let us see, that the distinction of vice and virtue is not founded merely on the relations of objects, nor is perceived by reason.”[^Hume]
 
 ― <a href="https://en.wikipedia.org/wiki/David_Hume" target="_blank">David Hume</a>
 
->“Induction is the glory of science and the scandal of philosophy.” [<a href="https://en.wikipedia.org/wiki/Problem_of_induction" target="_blank">Problem of induction</a>]
+>“Induction is the glory of science and the scandal of philosophy.” [<a href="https://en.wikipedia.org/wiki/Problem_of_induction" target="_blank">Hume's problem of induction</a>]
 
 ― <a href="https://en.wikipedia.org/wiki/C._D._Broad" target="_blank">C. D. Broad</a>
 
@@ -1074,7 +1080,13 @@ And share your pleasures with beggars.”
 
 >“The absurd man will not commit suicide; he wants to live, without relinquishing any of his certainty, without a future, without hope, without illusions ... and without resignation either. He stares at death with passionate attention, and this fascination liberates him. He experiences the "divine irresponsibility" of the condemned man.”
 
+>“For if God is consciousness, he is integrated in the totality. And if by his nature he is a being beyond consciousness (that is, an in-itself which would be its own foundation) still the totality can appear to him only as object (in that case he lacks the totality’s internal integration as the subjective effort to reapprehend the self) or as subject (then since God is not this subject, he can only experience it without knowing it). Thus no point of view on the totality is conceivable; the totality has no ‘outside’ and the very question of the meaning of the ‘underside’ is stripped of meaning. We cannot go further.” [p. 302 of [Being and Nothingness](https://archive.org/details/beingn-and-nothingness/page/n27/mode/2up){:target="_blank"}. The translator Hazel E. Barnes explained in the preface that this para means "Again we can not without contradiction look on God as an intelligent being who both transcends and includes the totality."]
+
 ― <a href="https://en.wikipedia.org/wiki/Jean-Paul_Sartre" target="_blank">Jean-Paul Sartre</a>
+
+>“If existence precedes essence, it follows from the meaning of the term sentient that a sentient being cannot be complete or perfect. It is touched upon by JeanPaul Sartre in Being and Nothingness.”
+
+― <a href="https://books.google.co.in/books?id=n6JxEAAAQBAJ&pg=PT360&dq=it+follows+from+the+meaning+of+the+term+sentient+that+a+sentient+being+cannot+be+complete+or+perfect&hl=en&newbks=1&newbks_redir=0#v=onepage&q=it%20follows%20from%20the%20meaning%20of%20the%20term%20sentient%20that%20a%20sentient%20being%20cannot%20be%20complete%20or%20perfect&f=false" target="_blank">Tom Schneider</a>
 
 >“<a href="https://en.wikipedia.org/wiki/Here_is_one_hand" target="_blank">Here is one hand</a>,<br>And here is another.<br>There are at least two external objects in the world.<br>Therefore, an external world exists.”
 
@@ -1082,7 +1094,11 @@ And share your pleasures with beggars.”
 
 >“All of us, I believe, are fortunate to have been born.”
 
+>“There are elements which, if added to one's experience, make life better; there are other elements which if added to one's experience, make life worse. But what remains when these are set aside is not merely neutral: it is emphatically positive. ... The additional positive weight is supplied by experience itself, rather than by any of its consequences.”
+
 >“Our own experience provides the basic material for our imagination, whose range is therefore limited. It will not help to try to imagine that one has webbing on one's arms, which enables one to fly around at dusk and dawn catching insects in one's mouth; that one has very poor vision, and perceives the surrounding world by a system of reflected high-frequency sound signals; and that one spends the day hanging upside down by one's feet in an attic. **In so far as I can imagine this (which is not very far), it tells me only what it would be like for me to behave as a bat behaves.** But that is not the question. **I want to know what it is like for a bat to be a bat.** Yet if I try to imagine this, I am restricted to the resources of my own mind, and those resources are inadequate to the task. I cannot perform it either by imagining additions to my present experience, or by imagining segments gradually subtracted from it, or by imagining some combination of additions, subtractions, and modifications.” <a href="https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F" target="_blank">What Is It Like to Be a Bat?</a>
+
+>“I want atheism to be true and am made uneasy by the fact that some of the most intelligent and well-informed people I know are religious believers. It isn't just that I don't believe in God and, naturally, hope that I'm right in my belief. It’s that I hope there is no God! I don’t want there to be a God; I don’t want the universe to be like that.”
 
 ― <a href="https://en.wikipedia.org/wiki/Thomas_Nagel" target="_blank">Thomas Nagel</a>
 
@@ -1172,7 +1188,17 @@ And share your pleasures with beggars.”
 
 >“Beneficence is a duty. He who often practices this, and sees his beneficent purpose succeed, comes at last really to love him whom he has benefited.”
 
+>“Better the whole people perish than that injustice be done.”
+
 ― <a href="https://en.wikipedia.org/wiki/Immanuel_Kant" target="_blank">Immanuel Kant</a>
+
+>“I wonder why, human beings throughout the world don’t see this simple fact, that you cannot possibly have peace on earth if you are nationalistically divided. **Nationalism is merely the glorification of tribalism**, and every politician right throughout the world maintains this tribalism, this division. This has been the history of mankind, and nobody has applied his mind and said, 'Look, let's stop all this!'” [<a href="https://www.youtube.com/watch?v=RRQgExLkYEk" target="_blank">YouTube</a>]
+
+>“It is no measure of health to be well adjusted to a profoundly sick society.”
+
+>“Superstition is another mighty evil, and has caused much terrible cruelty. **The man who is a slave to it despises others who are wiser, tries to force them to do as he does**. Think of the **awful slaughter** produced by the superstition that animals should be sacrificed, and by the still more cruel superstition that man needs flesh for food. Think of the treatment which superstition has meted out to the depressed classes in our beloved India, and see in that how this evil quality can breed heartless cruelty even among those who know the duty of brotherhood. Many crimes have men committed in the name of the God of Love, moved by this nightmare of superstition; be very careful therefore that no slightest trace of it remains in you.”
+
+― <a href="https://en.wikipedia.org/wiki/Jiddu_Krishnamurti" target="_blank">Jiddu Krishnamurti</a>
 
 >“If God existed, only in one way could he serve human liberty — by ceasing to exist.”
 
@@ -1226,6 +1252,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/A._C._Grayling" target="_blank">A. C. Grayling</a>
 
+>“In philosophy, if you think the answer is obvious, you haven't understood the question.” [<a href="https://x.com/keithfrankish/status/462763402419777536" target="_blank">Twitter</a>]
+
+― <a href="https://en.wikipedia.org/wiki/Keith_Frankish" target="_blank">Keith Frankish</a>
+
 >“I am a 21st Century person who was accidentally launched in the 20th. I have a deep nostalgia for the future.”
 
 >“There are no illegal immigrants, only irrelevant borders.”
@@ -1234,13 +1264,9 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/FM-2030" target="_blank">FM-2030</a>
 
->“I wonder why, human beings throughout the world don’t see this simple fact, that you cannot possibly have peace on earth if you are nationalistically divided. **Nationalism is merely the glorification of tribalism**, and every politician right throughout the world maintains this tribalism, this division. This has been the history of mankind, and nobody has applied his mind and said, 'Look, let's stop all this!'” [<a href="https://www.youtube.com/watch?v=RRQgExLkYEk" target="_blank">YouTube</a>]
+>“You can’t help people that don’t want to be helped.”
 
->“It is no measure of health to be well adjusted to a profoundly sick society.”
-
->“Superstition is another mighty evil, and has caused much terrible cruelty. **The man who is a slave to it despises others who are wiser, tries to force them to do as he does**. Think of the **awful slaughter** produced by the superstition that animals should be sacrificed, and by the still more cruel superstition that man needs flesh for food. Think of the treatment which superstition has meted out to the depressed classes in our beloved India, and see in that how this evil quality can breed heartless cruelty even among those who know the duty of brotherhood. Many crimes have men committed in the name of the God of Love, moved by this nightmare of superstition; be very careful therefore that no slightest trace of it remains in you.”
-
-― <a href="https://en.wikipedia.org/wiki/Jiddu_Krishnamurti" target="_blank">Jiddu Krishnamurti</a>
+― <a href="https://en.wikipedia.org/wiki/John_Armstrong_(British_writer/philosopher)" target="_blank">John Armstrong</a>
 
 >“I have seen a great people starving to death before my eyes [in India], and I am convinced that this exhaustion and starvation are due not, as their beneficiaries claim, to over-population and superstition, but to the most sordid and criminal exploitation of one nation by another in all recorded history. I propose to show that England has year by year been bleeding India to the point of death, and that self-government of India by the Hindus could not, within any reasonable probability, have worse results than the present form of alien domination.”
 
@@ -1637,11 +1663,17 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Jean_Meslier" target="_blank">Jean Meslier</a>
 
+>“My practice as a scientist is atheistic. That is to say, when I set up an experiment I assume that no god, angel, or devil is going to interfere with its course; and this assumption has been justified by such success as I have achieved in my professional career. I should therefore be intellectually dishonest if I were not also atheistic in the affairs of the world.”
+
 >“Now, my own suspicion is that the universe is not only queerer than we suppose, but queerer than we can suppose.....I suspect that there are more things in heaven and earth than are dreamed of, or can be dreamed of, in any philosophy. That is the reason why I have no philosophy myself, and must be my excuse for dreaming.”
 
 >“I have no doubt that in reality the future will be vastly more surprising than anything I can imagine.”
 
->“My practice as a scientist is atheistic. That is to say, when I set up an experiment I assume that no god, angel, or devil is going to interfere with its course; and this assumption has been justified by such success as I have achieved in my professional career. I should therefore be intellectually dishonest if I were not also atheistic in the affairs of the world.”
+>“I suppose the process of acceptance will pass through the usual four stages:
+(i) this is worthless nonsense;
+(ii) this is an interesting, but perverse, point of view;
+(iii) this is true, but quite unimportant;
+(iv) I always said so.”
 
 ― <a href="https://en.wikipedia.org/wiki/J._B._S._Haldane" target="_blank">J. B. S. Haldane</a>
 
@@ -1723,9 +1755,14 @@ And share your pleasures with beggars.”
 
 #### Veganism
 
->“Our study [China–Cornell–Oxford Project: The Most Comprehensive Study of Nutrition Ever Conducted] suggests that **the closer one approaches a total plant food diet, the greater the health benefit**. … It turns out that animal protein, when consumed, exhibits a variety of undesirable health effects. Whether it is the immune system, various enzyme systems, the uptake of carcinogens into the cells, or hormonal activities, animal protein generally only causes mischief. High fat intake still can be a problem, and we ought not to be consuming such high-fat diets. But I suggest that animal protein is more problematic in this whole diet/disease relationship than is total fat.”
+>“Our study [<a href="https://en.wikipedia.org/wiki/China%E2%80%93Cornell%E2%80%93Oxford_Project" target="_blank">China–Cornell–Oxford Project</a>: The Most Comprehensive Study of Nutrition Ever Conducted] suggests that **the closer one approaches a total plant food diet, the greater the health benefit**. … It turns out that animal protein, when consumed, exhibits a variety of undesirable health effects. Whether it is the immune system, various enzyme systems, the uptake of carcinogens into the cells, or hormonal activities, animal protein generally only causes mischief. High fat intake still can be a problem, and we ought not to be consuming such high-fat diets. But I suggest that animal protein is more problematic in this whole diet/disease relationship than is total fat.”
 
 ― <a href="https://en.wikipedia.org/wiki/T._Colin_Campbell" target="_blank">T. Colin Campbell</a><span style="color:Chartreuse">(biochemist who specializes in the effect of nutrition on long-term health)</span>
+
+
+>“The day has been, I am sad to say in many places it is not yet past, in which the greater part of the species, under the denomination of slaves, have been treated by the law exactly upon the same footing, as, in England for example, the inferior races of animals are still. **The day may come when the rest of the animal creation may acquire those rights which never could have been witholden from them but by the hand of tyranny**. The French have already discovered that the blackness of the skin is no reason a human being should be abandoned without redress to the caprice of a tormentor. It may one day come to be recognised that the number of the legs, the villosity of the skin, or the termination of the os sacrum are reasons equally insufficient for abandoning a sensitive being to the same fate. What else is it that should trace the insuperable line? Is it the faculty of reason or perhaps the faculty of discourse? But a full-grown horse or dog, is beyond comparison a more rational, as well as a more conversable animal, than an infant of a day or a week or even a month, old. But suppose the case were otherwise, what would it avail? **The question is not, Can they reason? nor, Can they talk? but, Can they suffer?**”
+
+― <a href="https://en.wikipedia.org/wiki/Jeremy_Bentham" target="_blank">Jeremy Bentham</a><span style="color:Chartreuse">(founder of modern utilitarianism)</span>
 
 >“I credit my plant-based diet with giving me the energy and stamina to help carry my teams to four NBA championship wins. … Veganism has become a transformative part of my life and I have made it my mission to share the power of plant-based eating with the world. … Vegan eating is not just a slam dunk for human health; it’s also the most effective way to combat climate change, according to a 2010 report by the United Nations. … going vegan is one of the best things a person can do **for their health, for animals, and for the environment**.”
 
@@ -1739,11 +1776,21 @@ And share your pleasures with beggars.”
 
 >“So what is the alternative to traditional anthropocentric ethics? Antispeciesism is not the claim that "All Animals Are Equal", or that all species are of equal value, or that a human or a pig is equivalent to a mosquito. Rather the antispeciesist claims that, other things being equal, equally strong interests should count equally.”
 
+>“Unlike positive utilitarianism or so-called preference utilitarianism - neither of which can ever be wholly fulfilled - [negative utilitarianism] seems achievable in full.”
+
+>“By far my greatest dread in life […] is that (some variant of) the Everett interpretation of Quantum Mechanics is true.”
+
+>“Eventually, selection-pressure has given rise to complex minds as well, albeit as just one part of the throwaway host vehicles by which our genes leave copies of themselves. Conscious mind, on this proposal, is a triumph of organisation: our egocentric virtual worlds are warm and gappy QM-coherent states of consciousness. Contra materialist metaphysics, sentience of any kind is not the daily re-enactment of an ontological miracle. Moreover the idea that what-it's-like-ness is the fire in the equations is (at least) consistent with orthodox relativistic quantum field theory - because the theorists' key notions (e.g. that of a field, string, brane, etc) are defined purely mathematically. In other cases, they readily lend themselves to such a reconstruction. Using the word "physical" doesn't add anything of substance.” 
+
 ― <a href="https://en.wikipedia.org/wiki/David_Pearce_(transhumanist)" target="_blank">David Pearce</a><span style="color:Chartreuse">(transhumanist and philosopher)</span>
 
->“The day has been, I am sad to say in many places it is not yet past, in which the greater part of the species, under the denomination of slaves, have been treated by the law exactly upon the same footing, as, in England for example, the inferior races of animals are still. **The day may come when the rest of the animal creation may acquire those rights which never could have been witholden from them but by the hand of tyranny**. The French have already discovered that the blackness of the skin is no reason a human being should be abandoned without redress to the caprice of a tormentor. It may one day come to be recognised that the number of the legs, the villosity of the skin, or the termination of the os sacrum are reasons equally insufficient for abandoning a sensitive being to the same fate. What else is it that should trace the insuperable line? Is it the faculty of reason or perhaps the faculty of discourse? But a full-grown horse or dog, is beyond comparison a more rational, as well as a more conversable animal, than an infant of a day or a week or even a month, old. But suppose the case were otherwise, what would it avail? **The question is not, Can they reason? nor, Can they talk? but, Can they suffer?**”
+>“Poor countries sell their grain to the West for hard currency while their own children starve in their arms. And the West feeds it to livestock. . . So we can eat a steak? I bet I am not the only one in the room who sees this as a crime?”
 
-― <a href="https://en.wikipedia.org/wiki/Jeremy_Bentham" target="_blank">Jeremy Bentham</a><span style="color:Chartreuse">(founder of modern utilitarianism)</span>
+>“Every morsel of meat we eat is **slapping the tear-stained face of a starving child**. When I look into her eyes, do I remain silent?”
+
+>“If everyone ate a Western diet, we would need two Planet Earths to feed them. We only have one. And she is dying.”
+
+― <a href="https://en.wikipedia.org/wiki/Philip_Wollen" target="_blank">Philip Wollen</a><span style="color:Chartreuse">(philanthropist, environmentalist and animal rights activist)</span>
 
 >“The emancipation of men from cruelty and injustice will bring with it in due course the emancipation of animals also. The two reforms are inseparably connected, and neither can be fully realized alone.”
 
@@ -1773,15 +1820,15 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Henry_Stephens_Salt" target="_blank">Henry Stephens Salt</a><span style="color:Chartreuse">(Campaigner for social reform in the fields of prisons, schools, economic institutions, and the treatment of animals. Introduced Mohandas Gandhi to the influential works on animal rights)</span>
 
->“A commercial company enslaved a nation comprising two hundred millions. Tell this to a man free from superstition and he will fail to grasp what these words mean. What does it mean that thirty thousand men, not athletes but rather weak and ordinary people, have subdued two hundred million vigorous, clever, capable, and freedom-loving people? **Do not the figures make it clear that it is not the English who have enslaved the Indians, but the Indians who have enslaved themselves?**”
+>“As long as there are slaughterhouses there will be battlefields.”
+
+>“A man can live and be healthy without killing animals for food; therefore, if he eats meat, **he participates in taking animal life merely for the sake of his appetite**. And to act so is **immoral**.”
+
+>“A commercial company enslaved a nation comprising two hundred millions. Tell this to a man free from superstition and he will fail to grasp what these words mean. What does it mean that thirty thousand men, not athletes but rather weak and ordinary people, have subdued two hundred million vigorous, clever, capable, and freedom-loving people? **Do not the figures make it clear that it is not the English who have enslaved the Indians, but the Indians who have enslaved themselves?**” [<a href="https://en.wikipedia.org/wiki/A_Letter_to_a_Hindu" target="_blank">A Letter to a Hindu</a>]
 
 >“When the Indians complain that the English have enslaved them it is as if drunkards complained that the spirit-dealers who have settled among them have enslaved them. You tell them that they might give up drinking, but they reply that they are so accustomed to it that they cannot abstain, and that they must have alcohol to keep up their energy. Is it not the same thing with the millions of people who submit to thousands or even to hundreds, of others — of their own or other nations? If the people of India are enslaved by violence it is only because they themselves live and have lived by violence, and do not recognize the eternal law of love inherent in humanity.”
 
 >“As soon as men live entirely in accord with the law of love natural to their hearts and now revealed to them, which excludes all resistance by violence, and therefore hold aloof from all participation in violence — as soon as this happens, **not only will hundreds be unable to enslave millions, but not even millions will be able to enslave a single individual**.”
-
->“As long as there are slaughterhouses there will be battlefields.”
-
->“A man can live and be healthy without killing animals for food; therefore, if he eats meat, **he participates in taking animal life merely for the sake of his appetite**. And to act so is **immoral**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Leo_Tolstoy" target="_blank">Leo Tolstoy</a><span style="color:Chartreuse">(Russian writer who is regarded as one of the greatest authors of all time and pioneer of **Nonviolent resistance movement** that inspired **M.K. Gandhi**, **Martin Luther King Jr.**, **Nelson Mandela** and **Ludwig Wittgenstein**)</span>
 
@@ -1820,14 +1867,6 @@ And share your pleasures with beggars.”
 >“I was raised Vegan since birth. … I remember watching undercover investigation videos and reading the pamphlets that were mailed to the house when we were kids—I felt deeply for the animals at an early age. I remember how the other parents of my childhood friends would either get upset or interested when their kids would come home after sleepovers at my house—I felt it was my duty to show my friends what was happening to animals. … Veganism is the ultimate form of compassion. … I never considered my being Vegan was for health reasons—it was always for the love and respect I had for animals. And because of that love and respect I have for non-human animals my compassion flows over to all living beings, of all types. … I am encouraged by compassionate souls and the love I see in the eyes of those I've committed my life to stand up for.”
 
 ― <a href="https://en.wikipedia.org/wiki/Seba_Johnson" target="_blank">Seba Johnson</a><span style="color:Chartreuse">(Olympic athlete, actress, and vegan animal rights activist)</span>
-
->“Poor countries sell their grain to the West for hard currency while their own children starve in their arms. And the West feeds it to livestock. . . So we can eat a steak? I bet I am not the only one in the room who sees this as a crime?”
-
->“Every morsel of meat we eat is **slapping the tear-stained face of a starving child**. When I look into her eyes, do I remain silent?”
-
->“If everyone ate a Western diet, we would need two Planet Earths to feed them. We only have one. And she is dying.”
-
-― <a href="https://en.wikipedia.org/wiki/Philip_Wollen" target="_blank">Philip Wollen</a><span style="color:Chartreuse">(philanthropist, environmentalist and animal rights activist)</span>
 
 >“When I made the switch to a plant based diet, people, they were like, "I don't know how you're gonna lift that much weight." And, "You're not gonna be eating anything, you're just gonna eat grass. Like, how you gonna be strong?" I qualified for my third Olympic team, you know what I'm saying? I broke two American records. I won at the Pan-Am games. I was like, "Man." Like, "I think, I should've done this a long while ago." Like, "Why didn't I research this before?"”
 
@@ -2018,7 +2057,7 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 >“From my reading of Gandhi I had learned how some people in India regard eating cow as unspeakably repulsive. I realized I felt the same way about cats and dogs: I could never eat them. Were cows so different from cats and dogs that there were two moral standards, one that applies to cows, another that applies to cats and dogs? Were pigs so different? Were any of the animals I ate so different?”
 
->“Philosophers have written more about animal rights in the past twenty years than their predecessors wrote in the previous two thousand. Not surpris- ingly, disagreements abound. To begin with, among those who challenge attributing moral rights to animals are philosophers who operate within well- worn moral traditions in Western thought. Peter Singer (1975, 1999) and Carl Cohen (1986, 1996, 1997) are representative. Singer follows in the tra- dition of the nineteenth-century English utilitarian Jeremy Bentham, who ridicules moral rights as "nonsense upon stilts." For both Bentham and Singer, not only nonhuman animals but also humans lack moral rights. This is half-true, maintains Cohen. Animals, he argues, most certainly do not have moral rights, but Bentham and Singer err when they deny that humans have them. Nothing could be further from the truth. According to Cohen, not just some but all humans possess basic rights, including the rights to life and to bodily integrity.” [<a href="https://philpapers.org/rec/REGDAR" target="_blank"> Regan (2001), p. 67.</a> The reason for this increase is largely due to his <a href="https://en.wikipedia.org/wiki/The_Case_for_Animal_Rights" target="_blank">1983 book</a>.]
+>“Philosophers have written more about animal rights in the past twenty years than their predecessors wrote in the previous two thousand. Not surprisingly, disagreements abound. To begin with, among those who challenge attributing moral rights to animals are philosophers who operate within well- worn moral traditions in Western thought. Peter Singer (1975, 1999) and Carl Cohen (1986, 1996, 1997) are representative. Singer follows in the tradition of the nineteenth-century English utilitarian Jeremy Bentham, who ridicules moral rights as "nonsense upon stilts." For both Bentham and Singer, not only nonhuman animals but also humans lack moral rights. This is half-true, maintains Cohen. Animals, he argues, most certainly do not have moral rights, but Bentham and Singer err when they deny that humans have them. Nothing could be further from the truth. According to Cohen, not just some but all humans possess basic rights, including the rights to life and to bodily integrity.” [<a href="https://philpapers.org/rec/REGDAR" target="_blank"> Regan (2001), p. 67.</a> The reason for this increase is largely due to his <a href="https://en.wikipedia.org/wiki/The_Case_for_Animal_Rights" target="_blank">1983 book</a>.]
 
 ― <a href="https://en.wikipedia.org/wiki/Tom_Regan" target="_blank">Tom Regan</a><span style="color:Chartreuse">(Started the Abolitionist Approach shortly before Gary L. Francione, one of the first academics who argued that the real problem is not animal welfare but the commodity status of the animals)</span>
 
@@ -2030,7 +2069,7 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 ― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a>
 
->“You’re going to be all right. You just stumbled over a stone in the road. It means nothing. Your goal lies far beyond this. Doesn’t it? I’m sure you’ll overcome this. You’ll walk again… soon.”
+>“You’re going to be all right. You just stumbled over a stone in the road. It means nothing. Your goal lies far beyond this. Doesn’t it? I’m sure you’ll overcome this. You’ll walk again… soon.” [<a href="https://www.youtube.com/watch?v=-4PcHYCgXtc" target="_blank">YouTube</a>]
 
 ― <a href="https://berserk.fandom.com/wiki/Guts" target="_blank">Guts</a>
 
@@ -2197,7 +2236,7 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 
 [^HilbertSpace]: Even though Hilbert studied them first, he was not aware at that time during a talk by von Neumann that they named these spaces after him.
 
-[^suffering]: It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>.
+[^suffering]: It is second of the Four Noble Truths mentioned in the <a href="https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta" target="_blank">Dhammacakkappavattana Sutta</a>. I think it is somewhat of an exaggeration because there are things like natural disasters which are not caused by desires. But I still think this is an important argument.
 
 [^demand]: Gautama lived as an <a href="https://en.wikipedia.org/wiki/Asceticism" target="_blank">ascetic</a> beggar (bhikṣu) and he ate whatever people gave him including meat because it is leftover food. Here he is trying to explain that we should not increase demand for meat which will increase demand for unnecessary suffering. What is remarkable is that the <a href="https://en.wikipedia.org/wiki/Supply_and_demand#History" target="_blank">supply and demand</a> economic concept was first explained in <a href="https://en.wikipedia.org/wiki/Kural" target="_blank">Tirukkuṟaḷ</a> (300 BCE to 500 CE) few centuries after Gautama's death. Gautama intuitively understood this concept even before it was first stated. Looks like he was at least decently smart.
 
