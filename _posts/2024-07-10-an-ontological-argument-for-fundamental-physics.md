@@ -21,7 +21,7 @@ script:
 <script type="text/javascript"
         src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-In this post, I will argue that the ontological argument gives an explanation for the existence of the fundamental laws of physics, i.e., a Theory of Everything. So, this will be a reasonable solution to the fundamental question of metaphysics: [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F){:target="_blank"}
+In this post, I will argue that the ontological argument gives an explanation for the existence of the fundamental laws of physics, i.e., a Theory of Everything. So, this will be a reasonable solution to the fundamental question of metaphysics: [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F){:target="_blank"} Once we justify the fundamental laws of physics, all things physical will follow from it.
 <!--more-->
 
 - [The argument](#the-argument)
@@ -66,7 +66,7 @@ References:
 1. [Ontological argument - RationalWiki](https://rationalwiki.org/wiki/Ontological_argument){:target="_blank"}
 1. Graham Oppy's Ontological Arguments and Belief in God (1996) [amazon](https://www.amazon.in/Ontological-Arguments-Belief-Graham-Oppy/dp/0521481201){:target="_blank"} or [philpapers.org](https://philpapers.org/rec/OPPOAA-2){:target="_blank"}
 
-I only read the first 2. From 2021, I wanted to read Graham Oppy's ("the most formidable defender of atheism living today") book but never got time. From mid 2023, I started believing that the ontological argument works only for the laws of physics and not for the [Abrahamic god](https://en.wikipedia.org/wiki/God_in_Abrahamic_religions){:target="_blank"}.
+I only read the first 2. From 2021, I wanted to read [Graham Oppy](https://en.wikipedia.org/wiki/Graham_Oppy){:target="_blank"}'s ("the most formidable defender of atheism living today") book but never got time. From mid 2023, I started believing that the ontological argument works only for the laws of physics and not for the [Abrahamic god](https://en.wikipedia.org/wiki/God_in_Abrahamic_religions){:target="_blank"}.
 
 >“Superstring Theory and its non-perturbative completions (M- and F-theory) enjoy a unique status in the twin realms of physical theories and mathematical constructs. It may be argued that it is the universal entity in both realms. For this reason, Superstring Theory is also known as the Theory of Everything (TOE).
 >
@@ -92,7 +92,7 @@ Note that even before we know the existence of any physical entity, we know that
 1. "The greatest entity in the realm of Platonic Mathematics" must exist in both Platonic Mathematics and also in physical reality for it to be the "greatest" entity in the realm of Platonic Mathematics.
 1. Therefore 1 & 2 are inconsistent.
 1. Premise 1 cannot be true since 2 is just a definition (reductio ad absurdum).
-1. Therefore, the "ToE" exists in physical reality.
+1. Therefore, the ToE exists in physical reality.
 
 So, our conclusion is that the Theory of Everything (ToE) must exist in physical reality for purely logical reasons without any physical reason.
 
