@@ -9,6 +9,18 @@ image:
 script:
   foot: bookmarklet.js
 ---
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+    
+<script type="text/javascript"
+        src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 In this post, I will argue that the ontological argument gives an explanation for the existence of the fundamental laws of physics, i.e., a Theory of Everything. So, this will be a reasonable solution to the fundamental question of metaphysics: [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F){:target="_blank"}
 <!--more-->
 
