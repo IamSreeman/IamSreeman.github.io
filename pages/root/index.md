@@ -75,7 +75,7 @@ d_{L}
 u_{L}
 \end{array}\right)\right] &{\text{(up, charmed, top mass term)}}\\
 &+\overline{\left(D_{\mu} \phi\right)} D^{\mu} \phi-m_{h}^{2}\left[\bar{\phi} \phi-v^{2} / 2\right]^{2} / 2 v^{2} &\text{(Higgs dynamical and mass term)}\\
-& \color{red}{+\frac{1}{16 \pi G} R}&{\text{(}\color{red}{\text{Semiclassical Gravity}}\text{ :Not valid near the }\color{red}{\text{Planck scale}})}\\
+& \color{red}{+\frac{1}{16 \pi G} R}&{\text{(}\color{red}{\text{Semiclassical Gravity}}\text{:Not valid near the }\color{red}{\text{Planck scale}})}\\
 \end{aligned}
 }
 $$

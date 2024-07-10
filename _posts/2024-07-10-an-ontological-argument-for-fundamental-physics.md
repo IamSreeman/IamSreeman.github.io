@@ -27,7 +27,7 @@ In this post, I will argue that the ontological argument gives an explanation fo
 - [Problems](#problems)
 - [Conclusion](#conclusion)
 
-I will try to make a nonrigorous argument just like the original one by [Anselm of Canterbury](https://en.wikipedia.org/wiki/Ontological_argument#Anselm){:target="_blank"}. I will mention [at the end](#problems) about a possible rigorous version like [Gödel's ontological argument](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof).
+I will try to make a nonrigorous argument just like the original one by [Anselm of Canterbury](https://en.wikipedia.org/wiki/Ontological_argument#Anselm){:target="_blank"}. I will mention [at the end](#problems) about a possible rigorous version like [Gödel's ontological argument](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof){:target="_blank"}.
 
 Even though I am an atheist, I have always found ontological arguments very fascinating. It seems like the only possible explanation for "Why is there anything at all?"
 

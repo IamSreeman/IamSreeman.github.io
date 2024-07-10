@@ -84,7 +84,7 @@ The original [conflict thesis](https://en.wikipedia.org/wiki/Conflict_thesis){:t
 
 But I do think some historians over-exaggerate how much help religious institutions have given to the progress of science. Even though religion is becoming more watered down and its influence is waning, it is still a highly profitable business for religious organizations. In the US, the religion market is worth [\$1.2 trillion](https://www.forbesindia.com/article/iim-kozhikode/when-the-divine-meets-dollars-decoding-economics-of-faith/91755/1){:target="_blank"}, and Indian temples alone (not inlcuding Indian mosques and church properties) are estimated to have gold reserves worth [\$2 trillion](https://www.forbesindia.com/article/iim-kozhikode/when-the-divine-meets-dollars-decoding-economics-of-faith/91755/1){:target="_blank"}. How unfortunate that a poor country like India is wasting so much on religion when many people are not even getting food properly. Many centuries ago, religion was even more dominating humans, and the fraction of world resources given to religion was gigantic. They took all that by deceiving people by telling them that their religion answers questions related to the origin of the universe, ethical questions, etc. The fact that religion gave a very tiny fraction back to science and philosophy doesn't mean religions are generous.
 
-Religion makes scientific claims, ethical claims, historical claims, etc., so it competes with many different fields.
+Religions make scientific claims, ethical claims, historical claims, etc., so it competes with many different fields.
 
 ### Science
 
