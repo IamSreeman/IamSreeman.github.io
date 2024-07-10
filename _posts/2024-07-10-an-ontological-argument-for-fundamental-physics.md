@@ -69,6 +69,7 @@ References:
 I only read the first 2. From 2021, I wanted to read Graham Oppy's ("the most formidable defender of atheism living today") book but never got time. From mid 2023, I started believing that the ontological argument works only for the laws of physics and not for the [Abrahamic god](https://en.wikipedia.org/wiki/God_in_Abrahamic_religions){:target="_blank"}.
 
 >“Superstring Theory and its non-perturbative completions (M- and F-theory) enjoy a unique status in the twin realms of physical theories and mathematical constructs. It may be argued that it is the universal entity in both realms. For this reason, Superstring Theory is also known as the Theory of Everything (TOE).
+>
 >...
 >
 >“Rigidity” of Quantum Gravity, and the overdetermined nature of its consistency requirements, suggest that there are just a “few” distinct solutions to the conditions, that is, only a “few” consistent theories of Quantum Gravity each of which is rigid, i.e. without adjustable parameters. There is a widespread belief that only finitely many quantum gravities exist (albeit “phenomenologically” their number may look huge).
