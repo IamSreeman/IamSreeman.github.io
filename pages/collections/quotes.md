@@ -386,6 +386,18 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Feynman" target="_blank">Richard Feynman</a>
 
+>“While the finder of a new elementary particle used to be rewarded by receiving a Nobel Prize, one should now be punished by a $10,000 fine.”
+
+― <a href="https://en.wikipedia.org/wiki/Willis_Lamb" target="_blank">Willis Lamb</a>
+
+>“I might even have shared the Nobel Prize with Lamb.” [1991, he regretted that his insecurity about his mathematical abilities may have cost him a Nobel Prize when he did not publish results (which turned out to be correct) about what became known as the Lamb shift]
+
+>“Self-confidence is an important ingredient that makes for a successful physicist.”
+
+>“… conferences with open attendance are very important for the stimulation of young people or other people who are new in the field. … The field of high-energy physics is, as you know, very strongly in the hands of a clique and it is hard for an outsider to enter.”
+
+― <a href="https://en.wikipedia.org/wiki/Victor_Weisskopf" target="_blank">Victor Weisskopf</a>
+
 >“Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”
 
 >“Be less curious about people and more curious about ideas.”
@@ -1098,7 +1110,9 @@ And share your pleasures with beggars.”
 
 >“Our own experience provides the basic material for our imagination, whose range is therefore limited. It will not help to try to imagine that one has webbing on one's arms, which enables one to fly around at dusk and dawn catching insects in one's mouth; that one has very poor vision, and perceives the surrounding world by a system of reflected high-frequency sound signals; and that one spends the day hanging upside down by one's feet in an attic. **In so far as I can imagine this (which is not very far), it tells me only what it would be like for me to behave as a bat behaves.** But that is not the question. **I want to know what it is like for a bat to be a bat.** Yet if I try to imagine this, I am restricted to the resources of my own mind, and those resources are inadequate to the task. I cannot perform it either by imagining additions to my present experience, or by imagining segments gradually subtracted from it, or by imagining some combination of additions, subtractions, and modifications.” <a href="https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F" target="_blank">What Is It Like to Be a Bat?</a>
 
->“I want atheism to be true and am made uneasy by the fact that some of the most intelligent and well-informed people I know are religious believers. It isn't just that I don't believe in God and, naturally, hope that I'm right in my belief. It’s that I hope there is no God! I don’t want there to be a God; I don’t want the universe to be like that.”
+>“In speaking of the fear of religion, I don’t mean to refer to the entirely reasonable hostility toward certain established religions and religious institutions, in virtue of their objectionable moral doctrines, social policies, and political influence. Nor am I referring to the association of many religious beliefs with superstition and the acceptance of evident empirical falsehoods. I am talking about something much deeper—namely, the fear of religion itself. I speak from experience, being strongly subject to this fear myself: I want atheism to be true and am made uneasy by the fact that some of the most intelligent and well-informed people I know are religious believers. It isn’t just that I don’t believe in God and, naturally, hope that I’m right in my belief. It’s that I hope there is no God! I don’t want there to be a God; I don’t want the universe to be like that.”
+
+>“I agree with Dawkins that the issue of design versus purely physical causation is a scientific question. He is correct to dismiss Stephen Jay Gould’s position that science and religion are “non-overlapping magisteria.” The conflict is real. But although I am as much of an outsider to religion as he is, I believe it is much more difficult to settle the question than he thinks. I also suspect there are other possibilities besides these two that have not even been thought of yet. The fear of religion leads too many scientifically minded atheists to cling to a defensive, world-flattening reductionism. Dawkins, like many of his contemporaries, is hobbled by the assumption that the ***only alternative to religion is to insist that the ultimate explanation of everything must lie in particle physics, string theory, or whatever purely extensional laws*** govern the elements of which the material world is composed. This reductionist dream is nourished by the extraordinary success of the physical sciences in our time, not least in their recent application to the understanding of life through molecular biology. It is natural to try to take any successful intellectual method as far as it will go. Yet the impulse to find an explanation of everything in physics has over the last fifty years gotten out of control. The concepts of physical science provide a very special, and partial, description of the world that experience reveals to us. It is the world with all subjective consciousness, sensory appearances, thought, value, purpose, and will left out. What remains is the mathematically describable order of things and events in space and time.”
 
 ― <a href="https://en.wikipedia.org/wiki/Thomas_Nagel" target="_blank">Thomas Nagel</a>
 
@@ -1188,7 +1202,13 @@ And share your pleasures with beggars.”
 
 >“Beneficence is a duty. He who often practices this, and sees his beneficent purpose succeed, comes at last really to love him whom he has benefited.”
 
->“Better the whole people perish than that injustice be done.”
+>“For the natural use that one sex makes of the other’s sexual organs is enjoyment, for which one gives oneself up to the other. In this act a human being makes himself into a thing, which ***conflicts with the right of humanity in his own person***.” [Metaphysics of Morals, p. 62]
+
+>“Sexual love makes of the loved person an ***Object of appetite***; as soon as that appetite has been stilled, the person is cast aside as one casts away a lemon which has been sucked dry. Sexual love can, of course, be combined with human love and so carry with it the characteristics of the latter, but taken by itself and for itself, it is nothing more than appetite. Taken by itself it is a ***degradation of human nature***; for as soon as a person becomes an Object of appetite for another, all motives of moral relationship cease to function, because as an Object of appetite for another a person becomes a thing and can be treated and used as such by every one. This is the only case in which a human being is designed by nature as the Object of another's enjoyment. Sexual desire is at the root of it; and that is why ***we are ashamed of it***, and why all strict moralists, and those who had pretensions to be regarded as saints, sought to ***suppress and extirpate*** it. It is true that without it a man would be incomplete; he would rightly believe that he lacked the necessary organs, and this would make him imperfect as a human being; none the less men made pretence on this question and sought to ***suppress these inclinations because they degraded mankind***.” [Lectures on Ethics, p. 163]
+
+>“If then a man wishes to satisfy his desire, and a woman hers, they stimulate each other’s desire ; their inclinations meet, but their object is not human nature but sex, and each of them dishonours the human nature of the other. They make of humanity an instrument for the satisfaction of their lusts and inclinations, and dishonour it by placing it on a level with animal nature. Sexuality, therefore, exposes mankind to the danger of equality with the beasts.” [Lectures on Ethics, p. 164]
+
+>“~~Better the whole people perish than that injustice be done.~~”
 
 ― <a href="https://en.wikipedia.org/wiki/Immanuel_Kant" target="_blank">Immanuel Kant</a>
 

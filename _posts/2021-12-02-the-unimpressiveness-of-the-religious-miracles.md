@@ -4,6 +4,8 @@ date:   2021-12-02 23:17:00 +0530
 subheadline: ""
 category: non-physics
 tags:   [Atheism,Epistemology]
+image:
+    thumb: Buuhan.jpeg
 script:
   foot: bookmarklet.js
 ---

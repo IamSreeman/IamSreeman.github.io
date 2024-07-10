@@ -66,6 +66,7 @@ Notes made for JEE-Advanced 2019 exam.
 1. <a href='https://www.stringwiki.org/wiki/Conferences' target="_blank">String Theory Conferences</a><br>
 1. <a href='https://physics.stackexchange.com/questions/12175/book-recommendations' target="_blank">Book recommendations from PSE</a><br>
 1. <a href='https://physics.stackexchange.com/questions/101187/best-sets-of-physics-lecture-notes-and-articles' target="_blank">Notes recommendations from PSE</a><br>
+1. <a href='https://www.ams.org/open-math-notes' target="_blank">AMS Open Math Notes</a><br>
 1. <a href='https://math.ucr.edu/home/baez/physics/Administrivia/booklist.html' target="_blank">A Physics Book List: Recommendations from the Net</a><br>
 1. <a href='http://insti.physics.sunysb.edu/~siegel/' target="_blank">Warren Siegel notes and parodies</a><br>
 1. <a href='https://knzhou.github.io/#lectures' target="_blank">Short notes by Kevin Zhou</a><br>

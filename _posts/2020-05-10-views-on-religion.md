@@ -3,7 +3,7 @@ title: "My views on Religion"
 date:   2020-05-10 18:05:55 +0530
 subheadline: "As an atheist"
 category: non-physics
-tags:   [Atheism,Philosophy]
+tags:   [Atheism,Important]
 image:
     thumb: 2020-05-10-thumb.jpg
 script:

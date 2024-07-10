@@ -3,7 +3,7 @@ title: "PhD applications"
 date:   2024-06-26 23:00:00 +0530
 subheadline: ""
 category: physics
-tags:   [Academic life]
+tags:   [Academic life,Important]
 image:
     thumb: 2024-06-26-thumb.png
 script:
@@ -27,7 +27,7 @@ Around 2 AM Boston time on June 4th, I was frequently refreshing to see how many
 
 For the first time when I applied in Dec 2022, my experience in hep-th was low. In my undergrad university, <a href="https://en.wikipedia.org/wiki/IIT_Bombay" target="_blank">IITB</a>, there was no one working on quantum gravity. I did work with profs in other related areas, like cosmology. But since I wanted to apply to quantum gravity, I wanted to gain experience in that. So, I read like 60% of Horaƫiu Năstase's "<a href="https://books.google.co.in/books/about/Introduction_to_the_AdS_CFT_Corresponden.html?id=nfdfCgAAQBAJ&printsec=frontcover&hl=en&newbks=1&newbks_redir=0&redir_esc=y#v=onepage&q&f=false" target="_blank">Introduction to the AdS/CFT Correspondence</a>" in 2 months during my 7th semester (I already took QFT courses before. I was also doing 7 full semester courses during that semester. In India course load is much higher than in USA). And then in 2 weeks, I wrote something fast and posted it on arXiv (<a href="https://inspirehep.net/literature/2601353" target="_blank">arXiv:2211.14893</a>) because I thought it might help me in PhD applications. Even back then I knew it was a bad quality crackpot paper. But I was thinking something is better than nothing. Back then I still had not met anyone who knew AdS/CFT.
 
-All of my undergrad physics batchmates who applied for PhDs got good/famous US universities (my university is the most popular university for undergrad in India and so they all got good PhDs). I was the only one who applied for hep-th and I knew it was the most competitive, but still I felt like an imposter among them. I always used to attend classes properly, but after getting all PhD rejections, I stopped going to classes properly in my last semester and was mostly sitting in my room. I somewhat (but not fully) became a <a href="https://en.wikipedia.org/wiki/Hikikomori" target="_blank">hikkimori</a>. Just like Satō (from <a href="https://en.wikipedia.org/wiki/Welcome_to_the_N.H.K." target="_blank">Welcome to the N.H.K.</a>) in the below clip,  whenever I used to go out, I imagined people in silhouettes thinking this guy is a failure.<br>
+All of my undergrad physics batchmates who applied for PhDs got good/famous US universities (my university is the most popular university for undergrad in India and so they all got good PhDs). I was the only one who applied for hep-th and I knew it was the most competitive, but still I felt like an imposter among them. I always used to attend classes properly, but after getting all PhD rejections, I stopped going to classes properly in my last semester and was mostly sitting in my room. I somewhat (but not fully) became a <a href="https://en.wikipedia.org/wiki/Hikikomori" target="_blank">hikikomori</a>. Just like Satō (from <a href="https://en.wikipedia.org/wiki/Welcome_to_the_N.H.K." target="_blank">Welcome to the N.H.K.</a>) in the [below clip](https://ksr.onl/videos/Hikikomori.mp4){:target="_blank"},  whenever I used to go out, I imagined people in silhouettes thinking this guy is a failure.<br>
 
 <video width="480" height="320" controls="controls">
   <source src="https://ksr.onl/videos/Hikikomori.mp4" type="video/mp4">
@@ -90,7 +90,7 @@ When you are feeling down, check the below scene from <a href="https://en.wikipe
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-4PcHYCgXtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Also these songs: 1) <a href="https://www.youtube.com/watch?v=hLMTfIZiIGA" target="_blank">Hajime No Ippo - Ending 1 - Yuuzora No Kami Hikouki</a> 2) <a href="https://www.youtube.com/watch?v=NkYYYew8CUI" target="_blank">BERSERK ~Forces~ by Susumu Hirasawa</a> 3) <a href="https://www.youtube.com/watch?v=Y9Y0XkSvQSI" target="_blank">Great Teacher Onizuka Ending Season Last Piece</a>. For more music, you can check <a href="https://ksr.onl/OSTs" target="_blank">this</a> and <a href="https://ksr.onl/songs" target="_blank">this</a>.
+Also these songs: 1) <a href="https://www.youtube.com/watch?v=hLMTfIZiIGA" target="_blank">Hajime No Ippo - Ending 1 - Yuuzora No Kami Hikouki</a> 2) <a href="https://www.youtube.com/watch?v=NkYYYew8CUI" target="_blank">BERSERK ~Forces~ by Susumu Hirasawa</a> 3) <a href="https://www.youtube.com/watch?v=Y9Y0XkSvQSI" target="_blank">Great Teacher Onizuka Ending Season Last Piece</a> 4) <a href="https://www.youtube.com/watch?v=gV26zIE0130" target="_blank">Berserk - Sign</a> 5) <a href="https://www.youtube.com/watch?v=6kguaGI7aZg" target="_blank">The End Of Evangelion - Komm Süsser Tod</a>. For more music, you can check <a href="https://ksr.onl/OSTs" target="_blank">this</a> and <a href="https://ksr.onl/songs" target="_blank">this</a>.
 
 <img src="{{site.baseurl}}/images/posts/Forever.jpg" width="300"/>
 

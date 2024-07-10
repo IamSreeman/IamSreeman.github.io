@@ -17,7 +17,7 @@ title: "K. Sreeman Reddy"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Physics student"
+slogan: "A physics student"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -81,7 +81,7 @@ limit_posts: 0
 future:      true
 unpublished: false
 # Paginates all X entries
-paginate: 10
+paginate: 5
 # Pagination path › Important for blog page in /blog/ to work
 paginate_path: "/blog/page:num/"
 
