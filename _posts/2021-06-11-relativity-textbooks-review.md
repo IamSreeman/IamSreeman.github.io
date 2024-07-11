@@ -44,7 +44,11 @@ This book is at a similar level to Carroll's, but it doesn't discuss QFT in Curv
 
 This book is at a similar level to Carroll's. It is similar in style to Ryder's QFT book.
 
-4) D'Inverno, Ray (1992). *Introducing Einstein’s Relativity*. Oxford University Press.
+4) Zee , Anthony (2013). *Einstein Gravity in a Nutshell*. Princeton University Press.
+
+Like [Zee's QFT book](https://en.wikipedia.org/wiki/Quantum_Field_Theory_in_a_Nutshell){:target="_blank"}, this is very fun to read.
+
+5) D'Inverno, Ray (1992). *Introducing Einstein’s Relativity*. Oxford University Press.
 
 This book is slightly easier and at a lower level than to the above books. Still a good book.
 ## General relativity intermediate books
@@ -72,6 +76,10 @@ It is a very short textbook so explanations won't be good. It also doesn't discu
 3) HAWKING and ELLIS (1973). *The large scale structure of space-time*. CAMBRIDGE MONOGRAPHS ON MATHEMATICAL PHYSICS.
 
 It is slightly more rigorous than Wald. It doesn't discuss QFT in Curved Spacetime (Hawking and Ellis wrote this before Hawking found the Hawking radiation).
+
+4) Choquet-Bruhat, Yvonne (2023). *Introduction to General Relativity, Black Holes and Cosmology*. [oapen.org](https://library.oapen.org/handle/20.500.12657/85657){:target="_blank"}.
+
+This latest book covers **The Cauchy Problem** better than any other book.
 
 ## Historically influential books
 1) Einstein, Albert (1955). *The meaning of relativity: including the relativistic theory of the non-symmetric field*. Princeton: Princeton University Press. ISBN 9780691080079. OCLC 177301011.

@@ -187,7 +187,7 @@ Evil can be easily explained within naturalism. The ToE is neither moral nor imm
 
 ## Problems
 
-The biggest problem is that I haven't given a rigorous argument like [Gödel's ontological argument](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof). I think it will be impatient to try to make a rigorous argument already. It will be better to make a rigorous argument after the problem of quantum gravity is settled and fundamental physics is over. Unfortunately, it might take a very long time, like centuries, for that to happen. If I am still existing in some form at that time, I will try to write a sequel to this post.
+The biggest problem is that I haven't given a rigorous argument like [Gödel's ontological argument](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof){:target="_blank"}. I think it will be impatient to try to make a rigorous argument already. It will be better to make a rigorous argument after the problem of quantum gravity is settled and fundamental physics is over. Unfortunately, it might take a very long time, like centuries, for that to happen. If I am still existing in some form at that time, I will try to write a sequel to this post.
 
 ## Conclusion
 
