@@ -40,7 +40,7 @@ This was the second one that Canute mentioned. Even long ago, I thought that for
 
 Lookism is not the only discrimination that is involved in choosing a person's significant other. How wealthy, influential, politically powerful, etc., is also considered.
 
-Another discrimination is that Kant thinks sex inherently violates the right of a person to be not treated as property.
+Another discrimination is that Kant thinks sex inherently violates the right of the other person to be not treated as property. This is an even stronger objection that is valid even when lookism, wealthism, etc, are absent.
 
 >“For the natural use that one sex makes of the other’s sexual organs is enjoyment, for which one gives oneself up to the other. In this act a human being makes himself into a thing, which ***conflicts with the right of humanity in his own person***.” [Metaphysics of Morals, p. 62]
 
