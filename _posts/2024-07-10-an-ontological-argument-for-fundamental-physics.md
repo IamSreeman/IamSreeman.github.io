@@ -181,7 +181,7 @@ There is another different criticism from existentialism about why God shouldn't
 
 ## Problem of Evil
 
-Religions that claim an omnipotent and omnibenevolent will suffer from the [problem of evil](https://en.wikipedia.org/wiki/Problem_of_evil){:target="_blank"}. If you are as powerful as Superman or Goku, then when you see someone getting murdered with a gun, you have a moral obligation to stop because you have no danger with a mere gun. Similarly, God is obligated to help everyone and ensure no evil ever happens.
+Religions that claim an omnipotent and omnibenevolent God will suffer from the [problem of evil](https://en.wikipedia.org/wiki/Problem_of_evil){:target="_blank"}. If you are as powerful as Superman or Goku, then when you see someone getting murdered with a gun, you have a moral obligation to stop because you have no danger with a mere gun. Similarly, God is obligated to help everyone and ensure no evil ever happens.
 
 Evil can be easily explained within naturalism. The ToE is neither moral nor immoral. It is an [amoral](https://en.wikipedia.org/wiki/Amorality){:target="_blank"} entity. Therefore, there is no problem of evil.
 
