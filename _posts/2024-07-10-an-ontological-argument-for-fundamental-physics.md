@@ -62,11 +62,12 @@ Let me quote Sean M. Carroll's criticism of Wilczek, Hawking etc from his [1802.
 But in that paper Carroll was pessimistic that an explanation is possible and took the brute fact approach similar to Bertrand Russell.
 
 References:
+1. [Ontological arguments - plato.stanford.edu](https://plato.stanford.edu/entries/ontological-arguments/){:target="_blank"}
 1. [Ontological argument - Wikipedia](https://en.wikipedia.org/wiki/Ontological_argument){:target="_blank"}
 1. [Ontological argument - RationalWiki](https://rationalwiki.org/wiki/Ontological_argument){:target="_blank"}
 1. Graham Oppy's Ontological Arguments and Belief in God (1996) [amazon](https://www.amazon.in/Ontological-Arguments-Belief-Graham-Oppy/dp/0521481201){:target="_blank"} or [philpapers.org](https://philpapers.org/rec/OPPOAA-2){:target="_blank"}
 
-I only read the first 2. From 2021, I wanted to read [Graham Oppy](https://en.wikipedia.org/wiki/Graham_Oppy){:target="_blank"}'s ("the most formidable defender of atheism living today") book but never got time. From mid 2023, I started believing that the ontological argument works only for the laws of physics and not for the [Abrahamic god](https://en.wikipedia.org/wiki/God_in_Abrahamic_religions){:target="_blank"}.
+I only read the first 3. From 2021, I wanted to read [Graham Oppy](https://en.wikipedia.org/wiki/Graham_Oppy){:target="_blank"}'s ("the most formidable defender of atheism living today") book but never got time. From mid 2023, I started believing that the ontological argument works only for the laws of physics and not for the [Abrahamic god](https://en.wikipedia.org/wiki/God_in_Abrahamic_religions){:target="_blank"}.
 
 >“Superstring Theory and its non-perturbative completions (M- and F-theory) enjoy a unique status in the twin realms of physical theories and mathematical constructs. It may be argued that it is the universal entity in both realms. For this reason, Superstring Theory is also known as the Theory of Everything (TOE).
 >
