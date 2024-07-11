@@ -49,7 +49,7 @@ Many physicists, including Stephen Hawking, Lawrence Krauss, and Frank Wilczek, 
 
 ― <a href="https://en.wikipedia.org/wiki/Frank_Wilczek" target="_blank">Frank Wilczek</a>
 
-What they did is define the state with no particles in [semiclassical gravity](https://en.wikipedia.org/wiki/Semiclassical_gravity){:target="_blank"} as "nothing". Then, they try to argue that this "nothing" is a [false vacuum](https://en.wikipedia.org/wiki/False_vacuum){:target="_blank"} and that this "nothing" decays to a true vacuum that contains particles. But what philosophers call "nothing" is very different. We can't already assume the existence of these 2 things: 1) laws of physics (in their case, semiclassical gravity) and 2) spacetime. When philosophers say nothing, even these things are not allowed.
+What they did is define the state with no particles in [semiclassical gravity](https://en.wikipedia.org/wiki/Semiclassical_gravity){:target="_blank"} as "nothing". Then, they try to argue that this "nothing" is a [false vacuum](https://en.wikipedia.org/wiki/False_vacuum){:target="_blank"} and that this "nothing" decays to a true vacuum that contains particles. But what philosophers call "nothing" is very different. We can't already assume the existence of these 2 things: 1) laws of physics (in their case, semiclassical gravity) and 2) spacetime. When philosophers say nothing, even these things are not allowed. They also didn't work in quantum gravity but just in the semiclassical gravity approximation.
 
 Let me quote Sean M. Carroll's criticism of Wilczek, Hawking etc from his [1802.02231](https://arxiv.org/abs/1802.02231){:target="_blank"},
 
