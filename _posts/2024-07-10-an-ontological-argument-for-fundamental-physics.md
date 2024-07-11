@@ -137,9 +137,9 @@ String/M-theory is a more general theory than General Relativity, and unlike Hor
 
 We generally don't know any explanation for why [fundamental dimensionless constants](https://en.wikipedia.org/wiki/Dimensionless_physical_constant){:target="_blank"} are what they are. So, the less they are, the greater the theory.
 
-Again, let's compare General Relativity vs Horndeski's theory. The former has no fundamental dimensionless constants, and the latter has many arbitrary functions whose Talor expansion contains many fundamental dimensionless constants.
+Again, let's compare General Relativity vs Horndeski's theory. The former has no fundamental dimensionless constants, and the latter has many arbitrary functions whose Taylor expansion contains many fundamental dimensionless constants.
 
-Perturbative string theory has only 1 fundamental dimensionless constant, the string length in the Planck units (the string coupling constant is also a fundamental dimensionless constant, but it is not independent. One of these 2 will automatically give the other. When we say small coupling constant, it means the same as large string length in the Planck units). But M-theory (non-perturbative string theory) has no fundamental dimensionless constant, just like GR. The string coupling and the string length are given by 
+Perturbative string theory has only 1 fundamental dimensionless constant, the string length in the Planck units (the string coupling constant is also a fundamental dimensionless constant, but it is not independent. One of these 2 will automatically give the other. When we say small coupling constant, it means the same as large string length in the Planck units). But [M-theory](https://en.wikipedia.org/wiki/M-theory){:target="_blank"} (non-perturbative string theory) has ***no fundamental dimensionless constant***, just like GR. The string coupling and the string length are given by 
 $$g_{\mathrm{s}}=\left(\dfrac{R_{10}}{\ell_{P}}\right)^{3 / 2}\quad \text{and}\quad\ell_{s}=\ell_{P}\left(\dfrac{R_{10}}{\ell_{P}}\right)^{-1 / 2}$$
 where $\ell_{P}$ is the 11D Plack length and $R_{10}$ is the radius of the dimension that we compactify to get type IIA string theory.
 
@@ -147,7 +147,7 @@ where $\ell_{P}$ is the 11D Plack length and $R_{10}$ is the radius of the dimen
 
 One of the biggest problems of religions is the utter lack of any uniqueness. When a theist uses an argument like the ontological argument or the [Kalam cosmological argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument){:target="_blank"} etc, they merely argue for the existence of something. They don't even argue that this thing has consciousness. Even if we do agree with them that their argument implies a anthropomorphic conscious God, they will still have tens of thousands of Gods dreamed by humans. They never argue about picking the right one among them. They answer to this depends very ***illogically*** on the geography of a theist. A theist will say that these arguments point towards the existence of [Christian God](https://en.wikipedia.org/wiki/God_in_Christianity){:target="_blank"} or [Brahman](https://en.wikipedia.org/wiki/Brahman){:target="_blank"} or [Allah](https://en.wikipedia.org/wiki/Allah){:target="_blank"} based on whether they are born in the West or India or the middle east.
 
-But the laws of physics are highly unique. Theories like General Relativity are already unique if you demand the simplest classical theory of dynamical spacetime. String theory takes uniqueness to the next level. There are only 5 perturbative string theories. All of them are secretly dual to each other and are specific limits of the unique M-theory.
+But the laws of physics are highly unique. Theories like General Relativity are already unique if you demand the simplest classical theory of dynamical spacetime. String theory takes uniqueness to the next level. There are only 5 perturbative string theories. All of them are secretly dual to each other and are specific limits of the unique M-theory. Unlike in General Relativity, here we do not even need to demand the simplest theory to achieve uniqueness.
 
 ### Predictive power
 
