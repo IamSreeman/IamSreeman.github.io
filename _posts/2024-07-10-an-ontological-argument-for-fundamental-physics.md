@@ -135,7 +135,7 @@ String/M-theory is a more general theory than General Relativity, and unlike Hor
 
 ### Less number of fundamental dimensionless constants
 
-We generally don't know any explanation for why fundamental dimensionless constants are what they are. So, the less they are, the greater the theory.
+We generally don't know any explanation for why [fundamental dimensionless constants](https://en.wikipedia.org/wiki/Dimensionless_physical_constant){:target="_blank"} are what they are. So, the less they are, the greater the theory.
 
 Again, let's compare General Relativity vs Horndeski's theory. The former has no fundamental dimensionless constants, and the latter has many arbitrary functions whose Talor expansion contains many fundamental dimensionless constants.
 
