@@ -9,7 +9,7 @@ image:
 script:
   foot: bookmarklet.js
 ---
-People are not obliged to be intelligent or creative or rich or influential or attractive or muscular or tall or to do only legal things etc. But there is one thing that people are obliged to and it is being ethical. So, everyone has an obligation to think about ethics and choose a consistent ethical theory that they think is the best. In this post, I will try to explain what ethical theory I believe in. Towards the end, I will give a reductio ad absurdum argument called the "suffering monster" (inspired by "<a href="https://en.wikipedia.org/wiki/Utility_monster" target="_blank">utility monster</a>" but slightly different due to the asymmetry between pleasure and suffering) that explains why the theory I believe in is incomplete. But this theory is enough for practical purposes.<!--more-->
+People are not obliged to be intelligent or creative or rich or influential or attractive or muscular or tall or to do only legal things etc. But there is one thing that people are obliged to and it is being ethical. So, everyone has an obligation to think about ethics and choose a consistent ethical theory that they think is the best. In this post, I will try to explain why I believe in an ethical theory called "Threshold Deontology". Towards the end, I will give a reductio ad absurdum argument called the "suffering monster" (inspired by "<a href="https://en.wikipedia.org/wiki/Utility_monster" target="_blank">utility monster</a>" but slightly different due to the asymmetry between pleasure and suffering) that explains why the theory I believe in is incomplete. But this theory is enough for practical purposes.<!--more-->
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
