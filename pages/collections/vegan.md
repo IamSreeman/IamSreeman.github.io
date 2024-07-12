@@ -49,12 +49,12 @@ This page contains reasons why I made this decision and also some resources if y
 
 - Meat and Dairy products are not necessary for humans to live a **healthy life**, and the practise of consuming these is easily the biggest cause of suffering in our current times. Each year we are violating the rights of TRILLIONS of our fellow sentient beings.
 
-- The number of individual wild fish killed each year is estimated as 0.97-2.74 **trillions** (based on FAO tonnage statistics combined with estimated mean weights of fish species) [[Source](https://fishcount.org.uk/published/std/fishcountstudy.pdf)]. The FAO numbers do not include illegal, unreported and unregulated fishing, nor discarded fish. If these are included and over-reporting by China subtracted, the totals increase by about 16.6% to 33.3% [[Source](https://fishcount.org.uk/published/std/fishcountstudy.pdf)]. A similar estimate for the number of farmed fish slaughtered each year is 0.037 to 0.120 trillion [[Source](http://fishcount.org.uk/published/std/fishcountstudy2.pdf)]. Also check wikipedia's [Fish slaughter](https://en.wikipedia.org/wiki/Fish_slaughter){:target="_blank"}.
+- The number of individual wild fish killed each year is estimated as 0.97-2.74 **trillions** (based on FAO tonnage statistics combined with estimated mean weights of fish species) [[Source](https://fishcount.org.uk/published/std/fishcountstudy.pdf){:target="_blank"}]. The FAO numbers do not include illegal, unreported and unregulated fishing, nor discarded fish. If these are included and over-reporting by China subtracted, the totals increase by about 16.6% to 33.3% [[Source](https://fishcount.org.uk/published/std/fishcountstudy.pdf){:target="_blank"}]. A similar estimate for the number of farmed fish slaughtered each year is 0.037 to 0.120 trillion [[Source](http://fishcount.org.uk/published/std/fishcountstudy2.pdf){:target="_blank"}]. Also check wikipedia's [Fish slaughter](https://en.wikipedia.org/wiki/Fish_slaughter){:target="_blank"}.
 
 <img src="{{site.baseurl}}/images/other/wild-caught-fish.svg" width="500"/><br>
-[Source](https://ourworldindata.org/grapher/wild-caught-fish)
+[Source](https://ourworldindata.org/grapher/wild-caught-fish){:target="_blank"}
 
-- Currently each year 80 billion land animals are slaughtered for food. Sources: [1](https://en.wikipedia.org/wiki/Animal_slaughter), [2](https://www.fao.org/faostat/en/#data/QCL)<br>
+- Currently each year 80 billion land animals are slaughtered for food. Sources: [1](https://en.wikipedia.org/wiki/Animal_slaughter){:target="_blank"}, [2](https://www.fao.org/faostat/en/#data/QCL){:target="_blank"}<br>
 
 <img src="{{site.baseurl}}/images/other/Slaughter.png" width="400"/>
 
@@ -94,7 +94,7 @@ But I should add that there is a difference between suffering in vivisection and
 **Wildlife suffering**: From rights point of view we are not responsible for the suffering caused by non-herbivores. But from utilitarian pov we need to do something like [Herbivorize Predators](https://www.herbivorizepredators.org/){:target="_blank"} (they are already doing research in this direction). Now lets say we need to do cruel experiments on non-herbivores to force them to evolve into herbivores. Is it justifiable to take the rights away from non-herbivores for few generations until their future generations will be herbivores? I don't know. I generally follow rights only until a threashold after which I believe in negative utilitairansim<sup id="a1"><a href="#fn:large">1</a></sup>.
 
 ##### Environmental
-- Animal agriculture is responsible for 18% of all greenhouse gas emissions, which is more than ALL transportation emissions combined. [Source](https://skeptics.stackexchange.com/a/23925/63200) See this paper [PMC7929601](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7929601/){:target="_blank"} for a much more conservative estimate putting it equal with ALL transportation emissions combined. 
+- Animal agriculture is responsible for 18% of all greenhouse gas emissions, which is more than ALL transportation emissions combined. [[Source](https://skeptics.stackexchange.com/a/23925/63200){:target="_blank"}] See this paper [PMC7929601](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7929601/){:target="_blank"} for a much more conservative estimate putting it equal with ALL transportation emissions combined. 
 <img src="{{site.baseurl}}/images/other/land-use-kcal-poore.png" width="400"/>
 <img src="{{site.baseurl}}/images/other/share-cereal-human-food.png" width="400"/>
 <img src="{{site.baseurl}}/images/other/Land-use-of-different-diets-Poore-Nemecek.png" width="400"/>
@@ -102,7 +102,7 @@ But I should add that there is a difference between suffering in vivisection and
 <img src="{{site.baseurl}}/images/other/PlantMilk.png" width="400"/>
 
 ##### Health
-- Processed meat and red meat cauce cancer. [Source: World Health Organization](https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat){:target="_blank"}
+- Processed meat and red meat cauce cancer. [[Source: World Health Organization](https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat){:target="_blank"}]
 - This comprehensive meta-analysis reports a significant protective effect of a vegetarian diet versus the incidence and/or mortality from ischemic heart disease (-25%) and incidence from total cancer (-8%). Vegan diet conferred a significant reduced risk (-15%) of incidence from total cancer. [Source](https://pubmed.ncbi.nlm.nih.gov/26853923/){:target="_blank"}
 - The World Health Organization has classified processed meats including ham, bacon, salami and frankfurts as a Group 1 carcinogen (known to cause cancer) which means that there's strong evidence that processed meats cause cancer. Eating processed meat increases your risk of bowel and stomach cancer. [Source](https://www.cancercouncil.com.au/1in3cancers/lifestyle-choices-and-cancer/red-meat-processed-meat-and-cancer/){:target="_blank"}
 - The Academy of Nutrition and Dietetics and Dietitians of Canada consider well-planned vegetarian and vegan diets "appropriate for individuals during all stages of the lifecycle, including pregnancy, lactation, infancy, childhood, and adolescence, and for athletes". [Source](https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=2985&context=pubs){:target="_blank"}
