@@ -5,13 +5,14 @@
   url: /
   side: left
 
+- title: Notes
+  url: /notes
+  side: left
+
 - title: projects
   url: /projects
   side: left
 
-- title: Notes
-  url: /notes
-  side: left
 #    dropdown:
 #    - title: Programozás Alapjai
 #      url: /blog/notes/progalap/
