@@ -10,7 +10,7 @@ script:
   foot: bookmarklet.js
 ---
 
-I will try to argue that what most people call "love" is just discrimination. Years ago, I first saw this explained in <a href="https://vinlandsaga.fandom.com/wiki/Episode_18" target="_blank">Episode 18</a> of Vinland Saga. Back then, I found it very ridiculous. But after thinking about it for more time, I think it is a very logical argument. In this post, I will argue that "True Love" is ***unconditional compassion towards all sentient beings*** and that "True Love" is only possible if you are omnipotent.<!--more-->
+I will try to argue that what most people call "love" is just discrimination. Years ago, I first saw this explained in <a href="https://vinlandsaga.fandom.com/wiki/Episode_18" target="_blank">Episode 18</a> of Vinland Saga. Back then, I found it very ridiculous. But after thinking about it for more time, I think it is a very logical argument and I will elaborate on it. In this post, I will argue that "True Love" is ***unconditional compassion towards all sentient beings*** and that "True Love" is only possible if you are omnipotent.<!--more-->
 
 - [Parent-Child](#parent-child)
 - [Significant other](#significant-other)
@@ -32,7 +32,7 @@ You can either watch or read that scene below.<br>
 
 ## Parent-Child
 
-This is the first one that <a href="https://vinlandsaga.fandom.com/wiki/Canute" target="_blank">Canute</a> mentioned. In some sense, parental love is nothing but ***genetic discrimination***. Evolution programmed parental love in animals (including humans) for <a href="https://en.wikipedia.org/wiki/Parental_care" target="_blank">parental care</a>. Most people love their parents, siblings and offspring more than their grandparents, cousins, etc. This is, of course, because parents,  siblings, and offspring share 50% of their DNA, more than any other relatives.
+This is the first one that <a href="https://vinlandsaga.fandom.com/wiki/Canute" target="_blank">Canute</a> (based on the real <a href="https://en.wikipedia.org/wiki/Cnuts" target="_blank">Cnut</a>) mentioned. In some sense, parental love is nothing but ***genetic discrimination***. Evolution programmed parental love in animals (including humans) for <a href="https://en.wikipedia.org/wiki/Parental_care" target="_blank">parental care</a>. Most people love their parents, siblings and offspring more than their grandparents, cousins, etc. This is, of course, because parents,  siblings, and offspring share 50% of their DNA, more than any other relatives.
 
 ## Significant other
 
