@@ -30,7 +30,6 @@ This page contains reasons why I made this decision and also some resources if y
 >    - [Environmental](#environmental)
 >    - [Health](#health)
 >    - [World hunger](#world-hunger)
->    - [Health](#health)
 >    - [Holocene extinction](#holocene-extinction)
 >    - [Antibiotic resistance](#antibiotic-resistance)
 >    - [Hormones](#hormones)
