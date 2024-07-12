@@ -32,7 +32,7 @@ You can either watch or read that scene below.<br>
 
 ## Parent-Child
 
-This is the first one that <a href="https://vinlandsaga.fandom.com/wiki/Canute" target="_blank">Canute</a> (based on the real <a href="https://en.wikipedia.org/wiki/Cnuts" target="_blank">Cnut</a>) mentioned. In some sense, parental love is nothing but ***genetic discrimination***. Evolution programmed parental love in animals (including humans) for <a href="https://en.wikipedia.org/wiki/Parental_care" target="_blank">parental care</a>. Most people love their parents, siblings and offspring more than their grandparents, cousins, etc. This is, of course, because parents,  siblings, and offspring share 50% of their DNA, more than any other relatives.
+This is the first one that <a href="https://vinlandsaga.fandom.com/wiki/Canute" target="_blank">Canute</a> (based on the real <a href="https://en.wikipedia.org/wiki/Cnut" target="_blank">Cnut</a>) mentioned. In some sense, parental love is nothing but ***genetic discrimination***. Evolution programmed parental love in animals (including humans) for <a href="https://en.wikipedia.org/wiki/Parental_care" target="_blank">parental care</a>. Most people love their parents, siblings and offspring more than their grandparents, cousins, etc. This is, of course, because parents,  siblings, and offspring share 50% of their DNA, more than any other relatives.
 
 ## Significant other
 
