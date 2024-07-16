@@ -108,6 +108,26 @@ Also note that even if an omnipotent being exists, it is true love only from one
 
 Unfortunately, in our reality, the laws of physics do not allow any supernatural phenomena. So, something like omnipotence, which is the extreme example of a supernatural phenomenon, can not exist in our reality, and therefore True Love is impossible. Note that I am only hoping for the existence of a benevolent omnipotent being. Not like the [Abrahamic God](https://en.wikipedia.org/wiki/God_in_Abrahamic_religions){:target="_blank"}, who is a very malevolent being. I would never want such a malevolent omnipotent being to exist as it would make life much more meaningless than it already is. I am glad that the malevolent Abrahamic God doesn't exist.
 
+In [chapter 97](https://vinlandsaga.fandom.com/wiki/Chapter_97){:target="_blank"}, Canute shows the limitations of humans. He talks big how he is the King of England, Denmark and Norway. He united 3 kingdoms and was the strongest Viking. Then, he tries to [stop the waves](https://en.wikipedia.org/wiki/King_Canute_and_the_tide){:target="_blank"} of the sea and explains how weak he is and his political power means nothing. He wants to establish a perfect country. He explains that God is the person who is making that dream impossible. Then, he explains why he must rebel and fight against God to achieve his dream.
+
+<img src="{{site.baseurl}}/images/posts/Power1.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/Power2.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/Power3.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/Power4.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/Power5.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/Power6.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/Power7.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/Power8.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/Power9.jpg" width="300"/>
+
+I do not believe that a God exists. But if I assume the existence of a personal god, I had come to the same conclusion long before I read Vinland Saga. If I believed that a personal God existed, then it would be my moral duty to fight against him, for he is the reason for the [problem of evil](https://en.wikipedia.org/wiki/Problem_of_evil){:target="_blank"}.
+
+>“If God really existed, it would be **necessary to abolish him**.”
+
+>“The first revolt is against the **supreme tyranny of theology**, of the phantom of God. As long as we have a master in heaven, we will be slaves on earth.”
+
+― <a href="https://en.wikipedia.org/wiki/Mikhail_Bakunin" target="_blank">Mikhail Bakunin</a>
+
 ## Conclusion
 
 I hope you are convinced that love is almost always discrimination.

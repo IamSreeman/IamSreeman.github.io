@@ -129,6 +129,8 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“I have trouble with Dirac. This balancing on the dizzying path between genius and madness is awful.”
 
+>“It's not that I'm so smart, it's just that I stay with problems longer.” [Source not found]
+
 >“I have learned something else from the theory of gravitation: no collection of empirical facts however comprehensive can ever lead to the formulation of such complicated equations [...] Equations of such complexity as are the equations of the gravitational field can be found only through the discovery of a logically simple mathematical condition that determines the equations completely or [at least] almost completely. Once one has those sufficiently strong formal conditions, one requires only little knowledge of facts for thesetting up of a theory; in the case of the equations of gravitation it is the four- dimensionality and the symmetric tensor as expression for the structure of space which together with the invariance concerning the continuous transformation group, determine the equations almost completely.”
 
 >“The **supreme task** of the physicist is to arrive at those universal elementary laws from which the cosmos can be built up by pure deduction. There is no logical path to these laws; only intuition, resting on sympathetic understanding of experience, can reach them. In this methodological uncertainty, one might suppose that there were any number of possible systems of theoretical physics all equally well justified; and this opinion is no doubt correct, theoretically. But the development of physics has shown that at any given moment, out of all conceivable constructions, a **single one has always proved itself decidedly superior** to all the rest.”
@@ -210,6 +212,8 @@ These are some interesting quotes. I removed the quotes which are given as misat
 >“I have a friend — or had a friend, now dead — <a href="https://en.wikipedia.org/wiki/Abdus_Salam" target="_blank">Abdus Salam</a>, a very devout Muslim, who was trying to bring science into the universities in the Gulf states and he told me that he had a terrible time because, although they were very receptive to technology, they felt that science would be a corrosive to religious belief, and they were worried about it... and damn it, I think they were right. ***It is corrosive of religious belief, and it's a good thing too***.”
 
 >“The steady state theory is philosophically the most attractive theory because it least resembles the account given in Genesis.”
+
+>“I know atheists that have the highest moral standards, for instance myself!”
 
 >“The more the universe seems comprehensible, the more **it also seems pointless**.”
 
@@ -1031,6 +1035,10 @@ And share your pleasures with beggars.”
 ― <a href="https://en.wikipedia.org/wiki/Nagarjuna" target="_blank">Nāgārjuna</a><span style="color:Chartreuse">(2nd century Buddhist philosopher)</span>
 
 >“Accepting the authority of the Vedas, believing in individual agency, hoping for merit from bathing, **taking pride in caste**, undertaking rites for the removal of evils: these are the five signs of **stupidity**, the **destruction of intelligence**.”
+
+>“A fire has just been lit to roast some meat. The fire hasn’t started sending up any smoke, but the smell of the meat has attracted a cloud of insects. From a distance, an observer sees the dark swarm above the horizon and mistakes it for smoke. "There’s a fire burning at that spot," the distant observer says. Does the observer know that there is a fire burning in the distance?
+>
+>A desert traveller is searching for water. He sees, in the valley ahead, a shimmering blue expanse. Unfortunately, it’s a mirage. But fortunately, when he reaches the spot where there appeared to be water, there actually is water, hidden under a rock. Did the traveller know, as he stood on the hilltop hallucinating, that there was water ahead?” [See <a href="https://en.wikipedia.org/wiki/Gettier_problem" target="_blank">Gettier problem</a>]
 
 ― <a href="https://en.wikipedia.org/wiki/Dharmakirti" target="_blank">Dharmakīrti</a><span style="color:Chartreuse">(6th century Buddhist philosopher)</span>
 
