@@ -97,7 +97,11 @@ Note that even before we know the existence of any physical entity, we know that
 
 So, our conclusion is that the Theory of Everything (ToE) must exist in physical reality for purely logical reasons without any physical reason.
 
-This is very much in the spirit of [pantheism](https://en.wikipedia.org/wiki/Pantheism){:target="_blank"}, but it will be counterproductive to use the word "God" for an equation because, in religions, it is always used to mean a anthropomorphic god who thinks exactly like a tribalistic, immoral, primitive Stone Age man. Such a word will only tarnish the greatness of the laws of physics and should be considered pejorative. Einstein's biggest blunder was not the [cosmological constant incident](https://physics.stackexchange.com/a/696989/264772){:target="_blank"} but calling the laws of physics as God. Now, most people think he believed in a traditional anthropomorphic God instead of pantheism.
+<img src="{{site.baseurl}}/images/posts/Penrose.png" width="300"/><br>
+
+In the above pic from [The Road to Reality](https://en.wikipedia.org/wiki/The_Road_to_Reality){:target="_blank"}, Penrose talks about the "three worlds". What I believe is very similar except I removed the connection between the mental world and the Platonic mathematical world in his image. I believe that the physical world inherently depends on the Platonic mathematical world. Similarly, the mental world (which contains things like moral truths, colours, anger, love, etc) inherently depends on the physical world (and also the Platonic mathematical world). But the Platonic mathematical world ***doesn't*** depend on anything else.
+
+This post is very much in the spirit of [pantheism](https://en.wikipedia.org/wiki/Pantheism){:target="_blank"}, but it will be counterproductive to use the word "God" for an equation because, in religions, it is always used to mean a anthropomorphic god who thinks exactly like a tribalistic, immoral, primitive Stone Age man. Such a word will only tarnish the greatness of the laws of physics and should be considered pejorative. Einstein's biggest blunder was not the [cosmological constant incident](https://physics.stackexchange.com/a/696989/264772){:target="_blank"} but calling the laws of physics as God. Now, most people think he believed in a traditional anthropomorphic God instead of pantheism.
 
 ### Spacetime
 
