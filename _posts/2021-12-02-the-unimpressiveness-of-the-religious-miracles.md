@@ -9,7 +9,7 @@ image:
 script:
   foot: bookmarklet.js
 ---
-I will argue that the miracles claimed as evidence by many religions are too insignificant and unimpressive compared to the grandiose size and scale of the universe. The miracles needed to justify a religion should be at least  [3-A: Universe level](https://character-level.fandom.com/wiki/Tiering_System#3-A:_Universe_level){:target="_blank"} feats like destroying all galaxies instantly and then recreating them. So, even in the unlikely case that attributed miracles really happened, it is not rational to believe the claims made by those religions.<!--more-->
+I will argue that the miracles claimed as evidence by many religions are too insignificant and unimpressive compared to the grandiose size and scale of the universe. The miracles needed to justify a religion should be at least  [3-A: Universe level](https://character-level.fandom.com/wiki/Tiering_System#3-A:_Universe_level){:target="_blank"} feats like destroying all galaxies instantly and then recreating them. So, even in the unlikely case that the attributed miracles really happened, it is not rational to believe the claims made by those religions.<!--more-->
 
 >“No testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that **its falsehood would be more miraculous**, than the fact which it endeavours to establish.”
 
@@ -39,7 +39,7 @@ Also, just because a very powerful being says that he is omnipotent doesn't impl
 
 Conclusions:
 
-1. If Jesus' miracles are indeed historical facts (although it's highly unlikely), then **we can only conclude that [Naturalism](https://en.wikipedia.org/wiki/Naturalism_(philosophy)){:target="_blank"} is false** and our reality contains supernatural elements. In such a supernatural world if you work hard, probably you can also do similar insi
+1. If Jesus' miracles are indeed historical facts (although it's highly unlikely), then **we can only conclude that [Naturalism](https://en.wikipedia.org/wiki/Naturalism_(philosophy)){:target="_blank"} is false** and our reality contains supernatural elements. In such a supernatural world, if you work hard, you can probably also do similar insignificant miracles. These miracles are significant enough to make a rational person believe that these can only be done with the help of God.
 2. If a God is assumed to be intelligent, then he will not do miracles that can only impress primitive people of a specific time and instead, he will do miracles that are so impressive that any future people of that species will not doubt that he is God after confirming that his miracles are historical facts. That means these miracles should be impressive to humans even when they become advanced enough to do things like [Dyson sphere](https://en.wikipedia.org/wiki/Dyson_sphere){:target="_blank"}, [Dyson's eternal intelligence](https://en.wikipedia.org/wiki/Dyson%27s_eternal_intelligence){:target="_blank"} etc.
 3. Similarly, we can argue for miracles of other religions.
 
