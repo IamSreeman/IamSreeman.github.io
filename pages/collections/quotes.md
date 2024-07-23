@@ -318,6 +318,10 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 >“Every sentence I utter must be understood not as an affirmation, but as a question.”
 
+>“Truth and clarity are complementary.”
+
+>“Never express yourself more clearly than you are able to think.”
+
 >“I am absolutely prepared to talk about the spiritual life of an electronic computer: to state that it is reflecting or is in a bad mood... The question whether the machine really feels or ponders, or whether it merely looks as though it did, is of course absolutely meaningingless.”
 
 >“For those who are not shocked when they first come across quantum theory cannot possibly have understood it.”
@@ -549,6 +553,10 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 >“The question of the origin of the matter in the universe is no longer thought to be beyond the range of science — everything can be created from nothing…it is fair to say that the universe is the ultimate free lunch.”
 
 ― <a href="https://en.wikipedia.org/wiki/Alan_Guth" target="_blank">Alan Guth</a>
+
+>“Physics isn’t a religion. If it were, we’d have a much easier time raising money.”
+
+― <a href="https://en.wikipedia.org/wiki/Leon_M._Lederman" target="_blank">Leon M. Lederman</a>
 
 >“This is the best few tens of billions years in the history of the universe to do cosmology.”
 
@@ -1284,6 +1292,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Keith_Frankish" target="_blank">Keith Frankish</a>
 
+>“Some say that consciousness is an "illusion," but I have little idea what this could even mean. It seems to me that we are surer of the existence of conscious experience than we are of anything else in the world.”
+
+― <a href="https://en.wikipedia.org/wiki/David_Chalmers" target="_blank">David Chalmers</a>
+
 >“I am a 21st Century person who was accidentally launched in the 20th. I have a deep nostalgia for the future.”
 
 >“There are no illegal immigrants, only irrelevant borders.”
@@ -1634,6 +1646,20 @@ And share your pleasures with beggars.”
 >“I saw that the writers on vegetarianism had examined the question very minutely, attacking it in its religious, scientific, practical and medical aspects. Ethically they had arrived at the conclusion that man's supremacy over the lower animals meant not that the former should prey upon the latter, but that **the higher should protect the lower**, and that there should be mutual aid between the two as between man and man.”
 
 ― <a href="https://en.wikipedia.org/wiki/Mahatma_Gandhi" target="_blank">Mohandas Karamchand Gandhi</a>
+
+>“Religions have been basis of the tyranny of kings and sultans.”
+
+>“I do not leave any verses, dogmas, nor any moulded standard principles as moral heritage. ***My moral heritage is science and reason***. What I have done and intended to do for the Turkish nation lies in that. Anyone willing to appropriate my ideas for themselves after me will be my moral inheritors provided they would approve the guidance of science and reason on this axis.”
+
+>“Science is the most real guide for civilisation, for life, for success in the world. To search for a guide other than science is absurdity, ignorance and heresy.”
+
+>“In human life, you will find players of religion until the knowledge and proficiency in religion will be cleansed from all superstitions, and will be purified and perfected by the enlightenment of real science.”
+
+>“We did not win the war with prayers, but with the blood of our soldiers.”
+
+>“Unless a nation's life faces peril, war is murder.”
+
+― <a href="https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk" target="_blank">Mustafa Kemal Atatürk</a>
 
 >“The greatness of a nation and its moral progress can be judged by the way its animals are treated.”
 

@@ -7,7 +7,7 @@ breadcrumbs: true
 ---
 This page contains donations I made to charities.
 
-The purpose of this page is to show that I am trying to abide by my moral obligations. Ever since I first read the "drowning child" thought experiment by Peter Singer during the COVID lockdown, I understood that donating money beyond our basic necessities is a **moral obligation** and not an optional good we can do.
+The purpose of this page is to show that I am trying to abide by my moral obligations. Ever since I first read the "[drowning child](https://www.philosophyexperiments.com/singer/){:target="_blank"}" thought experiment by Peter Singer during the COVID lockdown, I understood that donating money beyond our basic necessities is a **moral obligation** and not an optional good we can do.
 
 [Masters years](#masters)<br>
 [Undergrad years](#undergrad)<br>
