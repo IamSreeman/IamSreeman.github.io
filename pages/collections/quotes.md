@@ -867,6 +867,10 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://adebray.github.io/" target="_blank">Arun Debray</a>
 
+>“In madness, I thought I was the most important person in the world.”
+
+― <a href="https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr." target="_blank">John Forbes Nash Jr.</a>
+
 ### Philosophers
 
 >“All breathing, existing, living, **sentient** creatures should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away.”
@@ -1787,6 +1791,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Kurt_Lewin" target="_blank">Kurt Lewin</a>
 
+>“Consciousness is a much smaller part of our mental life than we are conscious of, because we cannot be conscious of what we are not conscious of. How simple that is to say; how difficult to appreciate!”
+
+― <a href="https://en.wikipedia.org/wiki/Julian_Jaynes" target="_blank">Julian Jaynes</a>
+
 >“Doubts about the existence of free will and individuals are nothing new, of course. More than 2,000 years ago thinkers in India, China and Greece argued that ‘the individual self is an illusion’. Yet such doubts don’t really change history much unless they have a practical impact on economics, politics and day-to-day life. **Humans are masters of cognitive dissonance**, and we allow ourselves to believe one thing in the laboratory and an altogether different thing in the courthouse or in parliament. Just as Christianity didn’t disappear the day Darwin published On the Origin of Species, so liberalism won’t vanish just because scientists have reached the conclusion that there are no free individuals.”
 
 >“Buddha agreed with modern biology and New Age movements that happiness is independent of external conditions. Yet his more important and far more profound insight was that true happiness is also independent of our inner feelings. Indeed, the more significance we give our feelings, the more we crave them, and the more we suffer. Buddha’s recommendation was to stop not only the pursuit of external achievements, but also the pursuit of inner feelings.”
@@ -2050,7 +2058,7 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 >“My students often ask me if I think their parents did wrong to pay the <span>$</span>44,000 per year that it costs to send them to Princeton. I respond that paying that much for a place at an elite university is not justified unless it is seen as an investment in the future that will benefit not only one’s child, but others as well. An outstanding education provides students with the skills, qualifications, and understanding to do more for the world than would otherwise be the case. It is good for the world as a whole if there are more people with these qualities. Even if going to Princeton does no more than open doors to jobs with higher salaries, that, too, is a benefit that can be spread to others, as long as after graduating you remain firm in the resolve to contribute a percentage of that salary to organizations working for the poor, and spread this idea among your highly paid colleagues. The danger, of course, is that your colleagues will instead persuade you that you can’t possibly drive anything less expensive than a BMW and that you absolutely must live in an impressively large apartment in one of the most expensive parts of town.”
 
->“September 11, 2001, was just another day for most of the world’s desperately poor people, so presumably close to 30,000 children under five died from these causes on that day—about ten times the number of victims of the terrorist attacks. The publication of these figures did not lead to an avalanche of money for UNICEF or other aid agencies helping to reduce infant mortality. In the year 2000 Americans made private donations for foreign aid of all kinds totalling about <span>$</span>4 per person in extreme poverty, or roughly <span>$</span>20 per family. New Yorkers who were living in lower Manhattan on September 11, 2001, whether wealthy or not, were able to receive an average of <span>$</span>5,300 per family. The distance between these amounts encapsulates the way in which, for many people, the circle of concern for others stops at the boundaries of their own country—if it extends even that far.”
+>“September 11, 2001, was just another day for most of the world’s desperately poor people, so presumably close to 30,000 children under five died from these causes on that day—about ten times the number of victims of the terrorist attacks. The publication of these figures did not lead to an avalanche of money for UNICEF or other aid agencies helping to reduce infant mortality. In the year 2000 Americans made private donations for foreign aid of all kinds totalling about <span>$</span>4 per person in extreme poverty, or roughly <span>$</span>20 per family. New Yorkers who were living in lower Manhattan on September 11, 2001, whether wealthy or not, were able to receive an average of <span>$</span>5,300 per family. The distance between these amounts encapsulates the way in which, for many people, the circle of concern for others stops at the boundaries of their own country—if it extends even that far.” [The "[drowning child](https://www.philosophyexperiments.com/singer/){:target="_blank"}" thought experiment]
 
 ― <a href="https://en.wikipedia.org/wiki/Peter_Singer" target="_blank">Peter Singer</a><span style="color:Chartreuse">(Utilitarian moral philosopher, most influential proponent of animal welfare but is incorrectly called the father of animal rights even though he doesn't accept animal rights)</span>
 ><img src="{{site.baseurl}}/images/other/AbolitionistApproach.jpg" width="500"/>
