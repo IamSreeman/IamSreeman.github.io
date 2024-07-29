@@ -36,7 +36,7 @@ In this post, I will argue that the ontological argument explains the existence 
    * [Reductionism](#reductionism)
 - [Consciousness](#consciousness)
 - [Problem of Evil](#problem-of-evil)
-- [Problems](#problems)
+- [Rigour](#rigour)
 - [Conclusion](#conclusion)
 
 I will try to make a nonrigorous argument just like the original one by [Anselm of Canterbury](https://en.wikipedia.org/wiki/Ontological_argument#Anselm){:target="_blank"}. I will mention [at the end](#problems) about a possible rigorous version like [Gödel's ontological argument](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof){:target="_blank"}.
@@ -189,7 +189,7 @@ Religions that claim an omnipotent and omnibenevolent God will suffer from the [
 
 Evil can be easily explained within naturalism. The ToE is neither moral nor immoral. It is an [amoral](https://en.wikipedia.org/wiki/Amorality){:target="_blank"} entity. Therefore, there is no problem of evil.
 
-## Problems
+## Rigour
 
 The biggest problem with my argument is that I haven't given a rigorous argument like [Gödel's ontological argument](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof){:target="_blank"}. I think it will be impatient to try to make a rigorous argument already. It will be better to make a rigorous argument after the problem of quantum gravity is settled and fundamental physics is over. Unfortunately, it might take a very long time, like centuries, for that to happen. If I am still existing in some form (like [digitally](https://en.wikipedia.org/wiki/Digital_immortality){:target="_blank"}) at that time, I will try to write a sequel to this post.
 
