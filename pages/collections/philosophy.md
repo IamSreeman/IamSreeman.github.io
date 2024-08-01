@@ -33,6 +33,7 @@ My philosophical beliefs
     - [On Denoting (1905) Bertrand Russell](https://en.wikipedia.org/wiki/On_Denoting){:target="_blank"}
     - [Two Dogmas of Empiricism (1951) Willard Van Orman Quine](https://en.wikipedia.org/wiki/Two_Dogmas_of_Empiricism){:target="_blank"}
     - [What Is It Like to Be a Bat? (1974) Thomas Nagel](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F){:target="_blank"}
+    - [A Defense of Abortion (1971) Judith Jarvis Thomson](https://en.wikipedia.org/wiki/A_Defense_of_Abortion){:target="_blank"}
     - [ Is It Bad to Prefer Attractive Partners? (2022) William D'Alessandro](https://philarchive.org/rec/DALIIB){:target="_blank"}
     - [A landscape of consciousness (2023) Robert Lawrence Kuhn](https://doi.org/10.1016/j.pbiomolbio.2023.12.003){:target="_blank"}
 ##### Random links
@@ -46,7 +47,7 @@ My philosophical beliefs
 [^Sentient]:
     Our <a href="https://en.wikipedia.org/wiki/Moral_circle_expansion" target="_blank">moral circle expanded</a> from originally consisting of only the males of the same tribe to later include males of the same ethnicity, race, nationality etc and also eventually all humans of all countries, including non males. The last step in our moral evolution will be to include all sentient beings in our moral circle and this is called Sentiocentrism. Plants are not sentient. Most animals except <a href="https://en.wikipedia.org/wiki/Sponge" target="_blank">sponges</a>, <a href="https://en.wikipedia.org/wiki/Coral" target="_blank">corals</a> etc are sentient and can suffer. Casteism, linguicism, ethnocentrism, nationalism, religionism, racism, sexism, speciesism etc are all tribalistic compared to Sentiocentrism. People very often think their caste or ethnicity or race or species is superior to others and therefore they can oppress others. That is, of course, immoral.
 
-    Sapiocentrism/Sapientism gives moral weight to all sapient (i.e. capable of abstract thinking) beings. Since we Homo sapiens have never met another sapient (alien) species, in practice, Sapiocentrism=Anthropocentrism, and both are part of Speciesism. Speciesism can be manifest in many different forms, for example, giving some rights to dogs but not giving the same rights to pigs, cows, etc.
+    Sapiocentrism/Sapientism gives moral weight to all sapient (i.e. capable of abstract thinking) beings. Since we Homo sapiens have never met another sapient (alien) species, in practice, Sapiocentrism=Anthropocentrism, and both are part of Speciesism. Speciesism can be manifest in many different forms, for example, giving some rights to dogs but not giving the same rights to pigs, cows, etc. Check <a href="https://doi.org/10.1093/9780191966729.001.0001" target="_blank">The Edge of Sentience</a> book.
 
 [^MeaningOfLife]:
     By this, I mean this is the meaning of life for any sapient species. For non sapient species I think there is no meaning of life. On this planet, we Homo sapiens are the only sapient species. Nonsapient species are not moral agents, so you can not morally judge them.
