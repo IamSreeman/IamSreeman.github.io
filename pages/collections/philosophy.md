@@ -34,6 +34,7 @@ My philosophical beliefs
     - [Two Dogmas of Empiricism (1951) Willard Van Orman Quine](https://en.wikipedia.org/wiki/Two_Dogmas_of_Empiricism){:target="_blank"}
     - [What Is It Like to Be a Bat? (1974) Thomas Nagel](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F){:target="_blank"}
     - [A Defense of Abortion (1971) Judith Jarvis Thomson](https://en.wikipedia.org/wiki/A_Defense_of_Abortion){:target="_blank"}
+    - [The impossibility of moral responsibility (1994) Galen Strawson](https://philpapers.org/rec/STRTIO){:target="_blank"} (also [this](https://plato.stanford.edu/entries/skepticism-moral-responsibility/){:target="_blank"})
     - [ Is It Bad to Prefer Attractive Partners? (2022) William D'Alessandro](https://philarchive.org/rec/DALIIB){:target="_blank"}
     - [A landscape of consciousness (2023) Robert Lawrence Kuhn](https://doi.org/10.1016/j.pbiomolbio.2023.12.003){:target="_blank"}
 ##### Random links
