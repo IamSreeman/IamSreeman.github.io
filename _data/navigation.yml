@@ -87,8 +87,6 @@
   url: #!
   side: left
   dropdown:
-  - title: Vegan
-    url: /vegan
   - title: CV (PDF)
     icon: icon-graduation-cap
     url: https://ksr.onl/files/CV.pdf
@@ -113,6 +111,8 @@
         url: /404
       - title: Anime
         url: /anime
+      - title: Vegan
+        url: /vegan
       - title: Philosophy
         url: /philosophy
 
