@@ -1204,9 +1204,33 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Socrates" target="_blank">Socrates</a>
 
+>“Reason is immortal; all else mortal.”
+
+>“As long as Man continues to be the ruthless destroyer of lower living beings, he will never know health or peace. For as long as men massacre animals, they will kill each other. Indeed, he who sows the seed of murder and pain cannot reap joy and love.”
+
+>“Number is the ruler of forms and ideas, and the cause of gods and daemons.”
+
+>“Do not even think of doing what ought not to be done.”
+
+>“Anger begins in folly, and ends in repentance.”
+
+― <a href="https://en.wikipedia.org/wiki/Pythagoras" target="_blank">Pythagoras</a>
+
 >“Does it not shame you to mingle murder and blood with their beneficent fruits? Other carnivora you call savage and ferocious - lions and tigers and serpents - while yourselves come behind them in no species of barbarity. And yet for them murder is the only means of sustenance; whereas to you it is a superfluous luxury and **crime**!”
 
 ― <a href="https://en.wikipedia.org/wiki/Plutarch" target="_blank">Plutarch</a>
+
+>“What altar of refuge can a man find for himself when he commits treason against the majesty of reason?”
+
+>“I have laboured carefully, not to mock, lament, or execrate human actions, but to understand them.”
+
+>“I do not presume that I have found the best philosophy, I know that I understand the true philosophy.”
+
+>“Nature is satisfied with little; and if she is, I am also.”
+
+>“Peace is not mere absence of war, but is a virtue that springs from force of character.”
+
+― <a href="https://en.wikipedia.org/wiki/Baruch_Spinoza" target="_blank">Baruch Spinoza</a>
 
 >“For if the moral law commands that we ought to be better human beings now, it inescapably follows that we must be capable of being better human beings.”[<a href="https://en.wikipedia.org/wiki/Ought_implies_can" target="_blank">Ought implies can</a>]
 
