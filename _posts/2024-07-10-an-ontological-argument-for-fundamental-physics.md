@@ -3,7 +3,7 @@ title: "An ontological argument for fundamental physics"
 date:   2024-07-10 10:15:00 +0530
 subheadline: ""
 category: non-physics
-tags:   [Metaphysics,Important,Atheism,String theory]
+tags:   [Metaphysics,Important,Atheism,Epistemology,String theory]
 image:
     thumb: 2024-07-10-thumb4.png
 script:
@@ -24,6 +24,7 @@ script:
 In this post, I will argue that the ontological argument explains the existence of the fundamental law of physics, i.e., a Theory of Everything. So, this will be a reasonable solution to the fundamental question of metaphysics: [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F){:target="_blank"} I will argue that the fundamental law of physics is a ***logically necessary entity***, and after its existence is justified, all things physical will follow from it.
 <!--more-->
 
+- [Introduction](#introduction)
 - [The argument](#the-argument)
    * [Spacetime](#spacetime)
    * [The only assumption](#the-only-assumption)
@@ -36,14 +37,18 @@ In this post, I will argue that the ontological argument explains the existence 
    * [Reductionism](#reductionism)
 - [Consciousness](#consciousness)
 - [Problem of Evil](#problem-of-evil)
+- [Modal realism](#modal-realism)
 - [Rigour](#rigour)
+- [Criticism by Graham Oppy and my reply](#criticism-by-graham-oppy-and-my-reply)
 - [Conclusion](#conclusion)
+
+## Introduction
 
 I will try to make a nonrigorous argument just like the original one by [Anselm of Canterbury](https://en.wikipedia.org/wiki/Ontological_argument#Anselm){:target="_blank"}. I will mention [at the end](#rigour) about a possible rigorous version like [Gödel's ontological argument](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof){:target="_blank"}.
 
 Even though I am an atheist, I have always found ontological arguments very fascinating. It seems like the only possible explanation for "Why is there anything at all?"
 
-Many physicists, including Stephen Hawking, Lawrence Krauss, and Frank Wilczek, have moved the goalposts and answered a different question.
+Many physicists, including Stephen Hawking, Lawrence Krauss, and Frank Wilczek, have moved the goalposts and answered a different (but still important) question.
 
 >“The answer to the ancient question "Why is there something rather than nothing?" would then be that ‘nothing’ is unstable.”
 
@@ -60,6 +65,12 @@ Let me quote Sean M. Carroll's criticism of Wilczek, Hawking etc from his [1802.
 ― <a href="https://en.wikipedia.org/wiki/Sean_M._Carroll" target="_blank">Sean M. Carroll</a>
 
 But in that paper Carroll was pessimistic that an explanation is possible and took the brute fact approach similar to Bertrand Russell.
+
+But what those physicists have tried to answer is also an important question. They tried to explain all physics given the existence of laws of physics and spacetime. The only caveat is that gravity is classical in their approach. Some people like David Albert think these vacuum states are just as particular as a giraffe. This is nonsense. A giraffe has a biological structure: its body shape, digestive track shape, skeleton, DNA, etc. If you zoom in more, you will see a giraffe's chemical structure containing many organic materials. If you zoom further, you will reach a point where classical mechanics describes it. If you keep zooming, you will see scales where quantum mechanics and then QFT are applicable. Finally, when the giraffe is zoomed to near the Planck scale, you will see quantum spacetime where quantum gravity is applicable. All physical phenomena [supervene](https://en.wikipedia.org/wiki/Supervenience){:target="_blank"} on the fundamental laws of physics. So, a giraffe is much more complicated than a fundamental physics theory.
+
+>"Relativistic-quantum-field-theoretical vacuum states—no less than giraffes or refrigerators or solar systems—are particular arrangements of elementary physical stuff. The true relativistic-quantum-field-theoretical equivalent to there not being any physical stuff at all isn't this or that particular arrangement of the fields—what it is (obviously, and ineluctably, and on the contrary) is the simple absence of the fields."
+
+― <a href="https://en.wikipedia.org/wiki/David_Albert" target="_blank">David Albert</a>
 
 References:
 1. [Ontological arguments - plato.stanford.edu](https://plato.stanford.edu/entries/ontological-arguments/){:target="_blank"}
@@ -83,7 +94,7 @@ I only read the first 3. From 2021, I wanted to read [Graham Oppy](https://en.wi
 
 The below argument from 1. to 9. argues there is an entity whose ***physical*** existence is logically necessary without using any information about physical reality. That means you cannot imagine a consistent physical reality where this entity doesn't exist and it must physically exist [a priori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori){:target="_blank"} without any physical reason. This entity is the [Theory of Everything (ToE)](https://en.wikipedia.org/wiki/Theory_of_everything){:target="_blank"} that governs all physical phenomena. It is most likely string/M-theory but I will just use ToE as a placeholder name.
 
-Note that even before we know the existence of any physical entity, we know that mathematics exists in the Platonic sense. This is called [Mathematical Platonism](https://iep.utm.edu/mathplat/){:target="_blank"}. There are critics of Mathematical Platonism who think mathematics only exists inside the imaginations of humans, but I think when you look into a [zoom video](https://www.youtube.com/watch?v=VNnXuQimWgc){:target="_blank"} of the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set){:target="_blank"} it should convince you that mathematics is not man-made.
+Note that even before we know the existence of any physical entity, we know that mathematics exists in the Platonic sense. This is called [Mathematical Platonism](https://iep.utm.edu/mathplat/){:target="_blank"}. There are critics of Mathematical Platonism who think mathematics only exists inside the imaginations of humans, but I think when you look into a [zoom video](https://www.youtube.com/watch?v=VNnXuQimWgc){:target="_blank"} of the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set){:target="_blank"} it should convince you that mathematics is not man-made. Furthermore, once the existence of the physical world is known, we can use the Quine–Putnam indispensability argument ([1](https://plato.stanford.edu/entries/mathphil-indis/){:target="_blank"},[2](https://iep.utm.edu/indimath/){:target="_blank"},[3](https://en.wikipedia.org/wiki/Quine%E2%80%93Putnam_indispensability_argument){:target="_blank"}) to go back and argue for the existence of the Mathematical Platonic realm, but I can't use that because I am using the existence of the Mathematical Platonic realm to explain the existence of the physical world.
 
 1. Assume ToE does not exist physically.
 1. "ToE" is defined as "the greatest entity in the realm of Platonic Mathematics". (<span style="color:green">definition</span>)
@@ -189,10 +200,46 @@ Religions that claim an omnipotent and omnibenevolent God will suffer from the [
 
 Evil can be easily explained within naturalism. The ToE is neither moral nor immoral. It is an [amoral](https://en.wikipedia.org/wiki/Amorality){:target="_blank"} entity. Therefore, there is no problem of evil.
 
+## Modal realism
+
+My main argument says that the ToE must exist in physical reality. Now, it follows that all ***possible worlds*** are governed by the ToE. For example, if string theory is the ToE, then all possible worlds are governed by it and there is no possible world which is governed by a different theory.
+
+[Modal realism](https://en.wikipedia.org/wiki/Modal_realism#Main_tenets){:target="_blank"} is an argument that the idea of possible worlds is indispensable for philosophy and therefore the possible worlds must exist. This is very much like the [
+Quine–Putnam indispensability argument
+](https://en.wikipedia.org/wiki/Quine%E2%80%93Putnam_indispensability_argument){:target="_blank"} which argues for the existence of the mathematical Platonic realm based on its indispensability to science. In our context since only worlds governed by string/M-theory are possible worlds it means that the set of possible worlds and the set of actual worlds both coincide with the [string theory landscape](https://en.wikipedia.org/wiki/String_theory_landscape){:target="_blank"}.
+
 ## Rigour
 
 The biggest problem with my argument is that I haven't given a rigorous argument like [Gödel's ontological argument](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof){:target="_blank"}. I think it will be impatient to try to make a rigorous argument already. It will be better to make a rigorous argument after the problem of quantum gravity is settled and fundamental physics is over. Unfortunately, it might take a very long time, like centuries, for that to happen. If I am still existing in some form (like [digitally](https://en.wikipedia.org/wiki/Digital_immortality){:target="_blank"}) at that time, I will try to write a sequel to this post.
 
+## Criticism by Graham Oppy and my reply
+
+I asked Graham Oppy, who is the biggest authority when it comes to ontological arguments, to provide any constructive criticism on this post so that I can improve it. He has kindly shared his criticism in an [email](https://ksr.onl/files/Oppy.pdf){:target="_blank"}.
+
+1) ***Mathematical Platonism***: He was skeptical about Mathematical Platonism. I already argued that mathematical beauty is evidence for Mathematical Platonism because this pure form of beauty is not man-made. Example: [zoom video](https://www.youtube.com/watch?v=VNnXuQimWgc){:target="_blank"} of the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set){:target="_blank"}. As this argument doesn't use any empirical data, within [rationalism](https://en.wikipedia.org/wiki/Rationalism){:target="_blank"}, you can use this argument for the existence of Mathematical Platonic realm and then deduce the physical world using the ontological argument and then predict scientific phenomena. So, everything can be reduced to logic. But I am neither a rationalist nor an empiricist. I am an [anti-foundationalist](https://en.wikipedia.org/wiki/Anti-foundationalism){:target="_blank"}. I think epistemology will be more powerful if we use reason, empirical data, etc, together as the foundation. See [Neurath's boat](https://en.wikipedia.org/wiki/Neurath%27s_boat){:target="_blank"}; you can't just make the boat from scratch by swimming because [philosophical skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism) is like a shark that will eat you if you enter the water. So, it's better not to have a single foundation. The mathematical beauty alone is not a powerful enough argument for Mathematical Platonism, but when we couple it with the even stronger Quine–Putnam indispensability argument ([1](https://plato.stanford.edu/entries/mathphil-indis/){:target="_blank"},[2](https://iep.utm.edu/indimath/){:target="_blank"},[3](https://en.wikipedia.org/wiki/Quine%E2%80%93Putnam_indispensability_argument){:target="_blank"}) I think it is more than enough justification for Mathematical Platonism. The main difference is that, unlike the previous argument, the Quine–Putnam indispensability argument assumes the physical world's existence.
+
+2) ***Defining greatness***: He was telling me I haven't defined greatness precisely. I agree that this is unsatisfactory. But, I have given many examples for comparing theories to give a rough picture. It would be nice if there is a precise algorithm that compares any given arbitrary theories and tells which is greater or if they both are euqally great.
+
+3) ***Impossibility of physical existence of a mathematical entity***: He said, "it is plausible that, if there are platonic entities, it is simply impossible for them to exist in physical reality." In my opinion, we already ***know*** that laws of physics exist at each point in spacetime and "govern" all physical phenomena. So, the laws of physics is a unique example where it is both a mathematical entity but still exists in the physical world.
+
+4) ***Causality***: He thought it is "odd" to say that laws of physics "govern" the physical phenomena and "we might think that physical laws are just summaries of regularities". He was telling laws of physics can't cause anything. That is true, but [causality](https://en.wikipedia.org/wiki/Causality_(physics)){:target="_blank"} itself is less fundamental than laws of physics. Whether an [event](https://en.wikipedia.org/wiki/Event_(relativity)){:target="_blank"} can be caused by another event is dictated by the laws of physics. An event (point in spacetime) can only be caused by events in its past light cone, and it can only cause events in its future light cone ("can" but these causal relations are not necessary). When gravity is weak, the causal structure is trivial (i.e., light cones are always at 45 degrees). But near black holes, they bend significantly, and inside the event horizon, the time direction and radial direction both switch. It is the laws of physics that makes causality to be trivial when gravity is weak but weird near black holes.
+
+<img src="{{site.baseurl}}/images/posts/Light_cones_near_black_hole.png" width="300"/><br>
+
+This is all in (the empirically established) general relativity. Quantum gravity is not yet understood, but the causal structure of quantum gravity will be even weirder. The below picture from  [The Road to Reality](https://en.wikipedia.org/wiki/The_Road_to_Reality){:target="_blank"} compares the causal structure of quantum gravity theories. Many proposed quantum gravity theories have fuzzy light cones like (a), but Penrose's Twistor theory has (b). So, since causality itself depends on a specific quantum gravity theory, I think it is ***appropritate*** to say that the laws of physics "govern" physical phenomena.
+
+<img src="{{site.baseurl}}/images/posts/Twistor.png" width="300"/><br>
+
+***Random note***: For W. L. Craig's [Kalam cosmological argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument){:target="_blank"}, an objection that I have never seen is that he is applying a version of causality that is invalid at the [initial singularity](https://en.wikipedia.org/wiki/Initial_singularity){:target="_blank"}. When we are somewhat far from singularities, the quantum gravity fluctuations in light cones will be small and are described by the effective field theory approaximation of quantum gravity ([arXiv:2106.05912](https://arxiv.org/abs/2106.05912){:target="_blank"}). But, as we go near singularities (order of Planck length ($1.6\times 10^{-35}m$) from black hole singularities or order of Planck time ($5.4\times 10^{-44}s$) from initial singularities), these fluctuations increase and depend on a particlaur quantum gravity theory. Calculations near the singularities have not yet been done in any of the proposed theories. The causal structure at the Planck scale might be much weirder than we currently expect. So, Craig’s premises are unfounded.
+
 ## Conclusion
 
 I hope you are convinced that the ontological argument is not talking about some supernatural conscious entity, but it is actually telling us that the necessary entity is nothing but the fundamental law of physics.
+
+Of course, for every philosophical claim, there will be reasonable, rational people who will object to it. So, I know many people might not be convinced by this blog post.
+
+>“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
+
+>“Is there any knowledge in the world which is so certain that no reasonable man could doubt it?” [The first line from [The Problems of Philosophy](https://books.google.co.in/books?id=F3CABBiwm6wC&newbks=0&pg=PA9#v=onepage&q&f=false){:target="_blank"}. The answer is <span style="color:red">***most probably***</span> no. If I haven’t included <span style="color:red">***most probably***</span>, that sentence itself will become some knowledge.]
+
+― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>

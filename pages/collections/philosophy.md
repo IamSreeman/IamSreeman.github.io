@@ -54,7 +54,7 @@ My philosophical beliefs
 [^MeaningOfLife]:
     By this, I mean this is the meaning of life for any sapient species. For non sapient species I think there is no meaning of life. On this planet, we Homo sapiens are the only sapient species. Nonsapient species are not moral agents, so you can not morally judge them.
 
-[^Antifoundationalism]: After going back and forth between <a href="https://plato.stanford.edu/entries/rationalism-empiricism/" target="_blank">Rationalism vs. Empiricism</a>, I became an antifoundationalist. In the <a href="https://en.wikipedia.org/wiki/Neurath%27s_boat" target="_blank">Neurath's boat</a> simile, I think the situation is even worse because of philosophical skepticism which is like an everpresent water tornado making it harder to gain knowledge. Even if you know swimming, you can't build the boat from scratch because of the tornado.
+[^Antifoundationalism]: After going back and forth between <a href="https://plato.stanford.edu/entries/rationalism-empiricism/" target="_blank">Rationalism vs. Empiricism</a>, I became an antifoundationalist. In the <a href="https://en.wikipedia.org/wiki/Neurath%27s_boat" target="_blank">Neurath's boat</a> simile, I think the situation is even worse because of philosophical skepticism which is like a shark making it harder to gain knowledge. Even if you know swimming, you can't build the boat from scratch because the shark will eat you. So, you can't have a single foundation and must use a mixture of reason, empirical data etc.
 
 [^Abolitionist]: I stopped being a welfarist and became an abolitionist after reading Gary L. Francione's <a href="https://www.abolitionistapproach.com/about/the-six-principles-of-the-abolitionist-approach-to-animal-rights/" target="_blank">six principles</a>.
 

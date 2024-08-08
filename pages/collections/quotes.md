@@ -290,7 +290,9 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 ― <a href="https://en.wikipedia.org/wiki/Stephen_Hawking" target="_blank">Stephen Hawking</a>
 
->“General relativity is certainly a very **beautiful theory**, but how does one judge the elegance of physical theories generally? 
+>“General relativity is certainly a very **beautiful theory**, but how does one judge the elegance of physical theories generally?”
+
+>“Two people pass each other on the street; and according to one of the two people, an Andromedean space fleet has already set off on its journey, while to the other, the decision as to whether or not the journey will actually take place has not yet been made. How can there still be some uncertainty as to the outcome of that decision? If to either person the decision has already been made, then surely there cannot be any uncertainty. The launching of the space fleet is an inevitability. In fact neither of the people can yet know of the launching of the space fleet. They can know only later, when telescopic observations from Earth reveal that the fleet is indeed on its way. Then they can hark back to that chance encounter, and come to the conclusion that at that time, according to one of them, the decision lay in the uncertain future, while to the other, it lay in the certain past. Was there then any uncertainty about that future? Or was the future of both people already "fixed"?”
 
 >“One is left with the uneasy feeling that even if supersymmetry is actually false, as a feature of nature, and that accordingly no supersymmetry partners are ever found by the LHC or by any later more powerful accelerator, then the conclusion that some supersymmetry proponents might come to would not be that supersymmetry is false for the actual particles of nature, but merely that the level of supersymmetry breaking must be greater even that the level reached at that moment, and that a new even more powerful machine would be required to observe it!”
 
@@ -338,7 +340,7 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 >“Einstein's conception [on God] is closer to mine. His God is somehow involved in the immutable laws of nature. Einstein has a feeling for the central order of things. He can detect it in the simplicity of natural laws. We may take it that he felt this simplicity very strongly and directly during his discovery of the theory of relativity. Admittedly, this is a far cry from the contents of religion. I don't believe Einstein is tied to any religious tradition, and I rather think the idea of a personal God is entirely foreign to him. But as far as he is concerned there is no split between science and religion: the central order is part of the subjective as well as the objective realm, and this strikes me as being a far better starting point.”
 
-― <a href="https://en.wikipedia.org/wiki/Wolfgang_Pauli" target="_blank">Wolfgang Pauli</a>
+― <a href="https://en.wikipedia.org/wiki/Wolfgang_Pauli" target="_blank">Wolfgang Pauli</a> ("The Scourge of God")
 
 >“General relativity is the **greatest feat of human thinking** about nature, the most amazing combination of philosophical penetration, physical intuition, and mathematical skill.”
 
@@ -956,7 +958,7 @@ Perceived my way before my hair went gray!”<br>
 
 >“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
 
->“Is there any knowledge in the world which is so certain that no reasonable man could doubt it?” 
+>“Is there any knowledge in the world which is so certain that no reasonable man could doubt it?”[^Skepticism]
 
 >“Love is wise, hatred is foolish.”
 
@@ -1299,6 +1301,10 @@ And share your pleasures with beggars.”
 >“Some say that consciousness is an "illusion," but I have little idea what this could even mean. It seems to me that we are surer of the existence of conscious experience than we are of anything else in the world.”
 
 ― <a href="https://en.wikipedia.org/wiki/David_Chalmers" target="_blank">David Chalmers</a>
+
+>“Everything is interesting; but perhaps nothing is more interesting than nothing.”
+
+― <a href="https://www.politybooks.com/blog-detail/everything-and-nothing" target="_blank">Markus Gabriel and Graham Priest (2022) p38 Everything and Nothing, Polity Press.</a>
 
 >“I am a 21st Century person who was accidentally launched in the 20th. I have a deep nostalgia for the future.”
 
@@ -1782,6 +1788,22 @@ And share your pleasures with beggars.”
 >“If you can convince the lowest white man he's better than the best colored man, he won't notice you're picking his pocket. Hell, give him somebody to look down on, and he'll empty his pockets for you.”
 
 ― <a href="https://en.wikipedia.org/wiki/Lyndon_B._Johnson" target="_blank">Lyndon B. Johnson</a>
+
+>“Work expands so as to fill the time available for its completion.”
+
+― <a href="https://en.wikipedia.org/wiki/Parkinson%27s_law" target="_blank">Parkinson's law</a>
+
+>“Anything that can go wrong will go wrong, and at the worst possible time.”
+
+― <a href="https://en.wikipedia.org/wiki/Murphy%27s_law" target="_blank">Murphy's law</a>
+
+>“Never attribute to malice that which is adequately explained by stupidity.”
+
+― <a href="https://en.wikipedia.org/wiki/Hanlon%27s_razor" target="_blank">Hanlon's razor</a>
+
+>“Power tends to corrupt, and absolute power corrupts absolutely. Great men are almost always bad men [...]”
+
+― <a href="https://en.wikipedia.org/wiki/Acton%27s_dictum" target="_blank">Acton's dictum</a>
 
 >“The best time to plant a tree was 30 years ago, and the second best time to plant a tree is now.”
 
@@ -2320,9 +2342,11 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 
 [^Hume]: Hume here found the <a href="https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem" target="_blank">Is–ought problem</a>. One of the deepest ethical problems.
 
-[^Neurath]: <a href="https://en.wikipedia.org/wiki/Neurath%27s_boat" target="_blank">Neurath's boat</a>: a simile used in anti-foundational philosophy
+[^Neurath]: <a href="https://en.wikipedia.org/wiki/Neurath%27s_boat" target="_blank">Neurath's boat</a>: a simile used in anti-foundational philosophy. You can't just make the boat from scratch by swimming because [philosophical skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism) is like a shark that will eat you if you enter the water. Even if you know swimming, you can't build the boat from scratch because the shark will eat you. So, you can't have a single foundation and must use a mixture of reason, empirical data etc.
 
 [^Weinberg]: You should believe when Weinberg says this. He is not a string theorist. He didn't devote his life to string theory. He has his own theory called <a href="https://en.wikipedia.org/wiki/Asymptotic_safety_in_quantum_gravity" target="_blank">asymptotic safety</a>. Yet he is telling string theory is the "only game in town". Compare this to <a href="https://www.math.columbia.edu/~woit/wordpress/" target="_blank">bloggers</a>/<a href="https://www.youtube.com/@SabineHossenfelder" target="_blank">social media influencers</a> who never studied string theory properly but spread their unfounded criticism.
+
+[^Skepticism]: The first line from [The Problems of Philosophy](https://books.google.co.in/books?id=F3CABBiwm6wC&newbks=0&pg=PA9#v=onepage&q&f=false){:target="_blank"}. The answer is <span style="color:red">***most probably***</span> no. If I haven’t included <span style="color:red">***most probably***</span>, that sentence itself will become some knowledge.
 
 <script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
 
