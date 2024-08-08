@@ -122,7 +122,7 @@ Once we have the reason for the physical existence of the ToE, then the existenc
 
 ### The only assumption
 
-The only assumption is 4. To me, it seems very obvious that an equation would become greater by existing in physical reality.
+The only assumption is 4. To me, it seems very obvious that an equation would become greater by existing in physical reality. Also, the ToE is the only mathematical entity that exists in physical reality. I mean, such a unique chance to exist physically among the infinite mathematical entities should obviously increase an entity's greatness.
 
 >“In philosophy, if you think the answer is obvious, you haven't understood the question.” [<a href="https://x.com/keithfrankish/status/462763402419777536" target="_blank">Twitter</a>]
 
