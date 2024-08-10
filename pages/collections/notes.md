@@ -89,6 +89,7 @@ Notes made for JEE-Advanced 2019 exam.
 ##### Useful software
 
 1. <a href='https://zulip.com/for/research/' target="_blank">Zulip</a><br>
+1. <a href='https://github.com/breezedeus/pix2text' target="_blank">Pix2Text</a><br>
 1. <a href='https://cadabra.science/' target="_blank">cadabra.science</a><br>
 1. <a href='http://redberry.cc/' target="_blank">redberry.cc</a><br>
 1. <a href='https://www.sagemath.org/' target="_blank">sagemath.org</a> and <a href='https://sagemanifolds.obspm.fr/' target="_blank">SageManifolds</a><br>
