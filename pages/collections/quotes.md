@@ -2175,15 +2175,15 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 #### Animanga
 
+>“You’re going to be all right. You just stumbled over a stone in the road. It means nothing. Your goal lies far beyond this. Doesn’t it? I’m sure you’ll overcome this. You’ll walk again… soon.” [<a href="https://www.youtube.com/watch?v=-4PcHYCgXtc" target="_blank">YouTube</a>]
+
+― <a href="https://berserk.fandom.com/wiki/Guts" target="_blank">Guts</a>
+
 >“Sometimes life's too **uncertain** to have regrets.”
 
 >“Even a low class warrior can surpass an elite, with enough hard work.”
 
 ― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a>
-
->“You’re going to be all right. You just stumbled over a stone in the road. It means nothing. Your goal lies far beyond this. Doesn’t it? I’m sure you’ll overcome this. You’ll walk again… soon.” [<a href="https://www.youtube.com/watch?v=-4PcHYCgXtc" target="_blank">YouTube</a>]
-
-― <a href="https://berserk.fandom.com/wiki/Guts" target="_blank">Guts</a>
 
 >“Shinichi, upon researching the concept of demons, I believe that, among all life, humans are the closest thing to it. Although humans kill and eat a wide variety of life forms, my kind eat merely one or two kinds at most. We are quite frugal in comparison.”
 
