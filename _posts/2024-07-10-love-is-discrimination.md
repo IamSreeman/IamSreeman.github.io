@@ -78,6 +78,8 @@ Some people consider their companion animals as property, which violates the [ri
 
 Another routine discrimination in companion animals (even among those who consider their companion animal as family and not property) is [speciesism](https://en.wikipedia.org/wiki/Speciesism){:target="_blank"}. They think some species, like dogs, cats, etc, deserve to be companion animals and deserve freedom, but other species, like chickens and cows, don’t deserve to be companion animals and deserve no freedom. This arbitrary divide between species is not morally justifiable.
 
+Lookism is also rampant in our treatment of animals. For example, people would rather have a beautiful-looking dog as a companion animal than another dog that is ugly and not aesthetically pleasing. Many people would help a butterfly that is suffering, but not only do they never help ugly insects like cockroaches, but they even kill them when they see such aesthetically unpleasant creatures.
+
 ## Self-love
 
 This should be obvious; it is just selfishness. It is just a fancier word for egotism, narcissism, etc.
