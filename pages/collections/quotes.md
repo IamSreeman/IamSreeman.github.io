@@ -705,7 +705,7 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 >“If I were to awaken after having slept for a thousand years, my first question would be: Has the Riemann hypothesis been proven?”
 
->“We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the [ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus). For us there is no ignorabimus, and in my opinion none whatever in natural science. In opposition to the foolish ignorabimus our slogan shall be:
+>“We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the [ignorabimus](https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus){:target="_blank"}. For us there is no ignorabimus, and in my opinion none whatever in natural science. In opposition to the foolish ignorabimus our slogan shall be:
 >
 >We must know — we will know!”[^HilbertIgnorabimus]
 
@@ -934,27 +934,6 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”[<a href="ht
 >“And so it would seem that the **denial of the reality of time** is not so very paradoxical after all. It was called paradoxical because it seemed to contradict our experience so violently-to compel us to treat so much as illusion which appears *prima facie* to give knowledge of reality. But we now see that our experience of time-centring as it does about the specious present-would be no less illusory if there were a real time in which the realities we experience existed. The specious present of our observations-varying as it does from you to me-cannot correspond to the present of the events, observed. And consequently the past and future of our observations could not correspond to the past and future of the events observed. On either hypothesis-whether we take time as real or as unreal-everything is observed in a specious present, but nothing, not even the observations themselves, can ever be in a specious present. And in that case I do not see that we treat experience as much more illusory when we say that nothing is ever in a present at all, than when we say that everything passes through some entirely different present.”[From the <a href="https://en.wikipedia.org/wiki/The_Unreality_of_Time" target="_blank">The Unreality of Time</a> (1908) paper.]
 
 ― <a href="https://en.wikipedia.org/wiki/J._M._E._McTaggart" target="_blank">J. M. E. McTaggart</a>
-
->“Do not unjustly eat fish the water has given up,<br>
->    And do not desire as food the flesh of slaughtered animals,<br>
-Or the white milk of mothers who intended its pure draught<br>
-for their young, not noble ladies.<br>
-And do not grieve the unsuspecting birds by taking eggs;<br>
-for injustice is the worst of crimes.<br>
-And spare the honey which the bees get industriously
-from the flowers of fragrant plants;<br>
-For they did not store it that it might belong to others,<br>
-Nor did they gather it for bounty and gifts.<br>
-I washed my hands of all this; and wish that I<br>
-Perceived my way before my hair went gray!”<br>
-
->“To let go from my hand a flea that I have caught is a kinder act than to bestow a dirhem on a man in need. There is no difference between the black earless creature which I release and the Black Prince of Kinda who bound the tiara (on his head). Both of them take precaution (against death); and life is dear to it (the flea), and it passionately desires the means of living.”
-
->“The world holds two classes of men; intelligent men without religion, and religious men without intelligence.”
-
->“Do not suppose the statements of the prophets to be true; they are all fabrications. Men lived comfortably till they came and spoiled life. The sacred books are only such a set of idle tales as any age could have and indeed did actually produce.”
-
-― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(973-1057, 1st recorded vegan in history, Arab philosopher, poet, and writer and is regarded as one of the greatest classical Arabic poets)</span>
 
 >“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
 
@@ -1841,6 +1820,18 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Julian_Jaynes" target="_blank">Julian Jaynes</a>
 
+>“My body will not be a tomb for other animals, an inn of the dead… a container of corruption.”
+
+>“I have from an early age abjured the use of meat, and the time will come when men such as I will look upon the murder of animals as they now look upon the murder of men.”
+
+>“Truly man is the king of beasts, for his brutality exceeds them. We live by the death of others. We are burial places.”
+
+>“King of the animals — as thou hast described him — I should rather say king of the beasts, thou being the greatest — because thou hast spared slaying them, in order that they may give thee their children for the benefit of the gullet, of which thou hast attempted to make a sepulchre for all animals; and I would say still more, if it were allowed me to speak the entire truth.”
+
+>“Men and the animals are merely a passage and channel for food, a tomb for other animals, a haven for the dead, giving life by the death of others, a coffer full of corruption.”
+
+― <a href="https://en.wikipedia.org/wiki/Leonardo_da_Vinci" target="_blank">Leonardo da Vinci</a>
+
 >“Doubts about the existence of free will and individuals are nothing new, of course. More than 2,000 years ago thinkers in India, China and Greece argued that ‘the individual self is an illusion’. Yet such doubts don’t really change history much unless they have a practical impact on economics, politics and day-to-day life. **Humans are masters of cognitive dissonance**, and we allow ourselves to believe one thing in the laboratory and an altogether different thing in the courthouse or in parliament. Just as Christianity didn’t disappear the day Darwin published On the Origin of Species, so liberalism won’t vanish just because scientists have reached the conclusion that there are no free individuals.”
 
 >“Buddha agreed with modern biology and New Age movements that happiness is independent of external conditions. Yet his more important and far more profound insight was that true happiness is also independent of our inner feelings. Indeed, the more significance we give our feelings, the more we crave them, and the more we suffer. Buddha’s recommendation was to stop not only the pursuit of external achievements, but also the pursuit of inner feelings.”
@@ -1863,6 +1854,8 @@ And share your pleasures with beggars.”
 
 #### Veganism
 
+These are some quotes related to veganism. Veganism is an ethical philosophy that rejects the [commodity status of animals](https://www.abolitionistapproach.com/about/the-six-principles-of-the-abolitionist-approach-to-animal-rights/){:target="_blank"}. The gravity of the situation can not be overstated because each year, [trillions](https://ourworldindata.org/grapher/wild-caught-fish){:target="_blank"} of sentient animals are needlessly tortured and killed.
+
 >“Our study [<a href="https://en.wikipedia.org/wiki/China%E2%80%93Cornell%E2%80%93Oxford_Project" target="_blank">China–Cornell–Oxford Project</a>: The Most Comprehensive Study of Nutrition Ever Conducted] suggests that **the closer one approaches a total plant food diet, the greater the health benefit**. … It turns out that animal protein, when consumed, exhibits a variety of undesirable health effects. Whether it is the immune system, various enzyme systems, the uptake of carcinogens into the cells, or hormonal activities, animal protein generally only causes mischief. High fat intake still can be a problem, and we ought not to be consuming such high-fat diets. But I suggest that animal protein is more problematic in this whole diet/disease relationship than is total fat.”
 
 ― <a href="https://en.wikipedia.org/wiki/T._Colin_Campbell" target="_blank">T. Colin Campbell</a><span style="color:Chartreuse">(biochemist who specializes in the effect of nutrition on long-term health)</span>
@@ -1871,6 +1864,55 @@ And share your pleasures with beggars.”
 >“The day has been, I am sad to say in many places it is not yet past, in which the greater part of the species, under the denomination of slaves, have been treated by the law exactly upon the same footing, as, in England for example, the inferior races of animals are still. **The day may come when the rest of the animal creation may acquire those rights which never could have been witholden from them but by the hand of tyranny**. The French have already discovered that the blackness of the skin is no reason a human being should be abandoned without redress to the caprice of a tormentor. It may one day come to be recognised that the number of the legs, the villosity of the skin, or the termination of the os sacrum are reasons equally insufficient for abandoning a sensitive being to the same fate. What else is it that should trace the insuperable line? Is it the faculty of reason or perhaps the faculty of discourse? But a full-grown horse or dog, is beyond comparison a more rational, as well as a more conversable animal, than an infant of a day or a week or even a month, old. But suppose the case were otherwise, what would it avail? **The question is not, Can they reason? nor, Can they talk? but, Can they suffer?**” [1780]
 
 ― <a href="https://en.wikipedia.org/wiki/Jeremy_Bentham" target="_blank">Jeremy Bentham</a><span style="color:Chartreuse">(founder of modern utilitarianism)</span>
+
+>“The emancipation of men from cruelty and injustice will bring with it in due course the emancipation of animals also. The two reforms are inseparably connected, and neither can be fully realized alone.” [1897]
+
+>“If "rights" exist at all—and both feeling and usage indubitably prove that they do exist—they cannot be consistently awarded to men and denied to animals, since the same sense of justice and compassion apply in both cases.”[1894]
+
+>“Have the lower animals "rights?" Undoubtedly—if men have.”[1894]
+
+>“[The] notion of the life of an animal having 'no moral purpose,' belongs to a class of ideas which cannot possibly be accepted by the advanced humanitarian thought of the present day [1894] —it is a purely arbitrary assumption, at variance with our best instincts, at variance with our best science, and absolutely fatal (if the subject be clearly thought out) to any full realization of animals' rights. If we are ever going to do justice to the lower races, we must get rid of the antiquated notion of a 'great gulf' fixed between them and mankind, and must recognize the common bond of humanity that unites **all living beings in one universal brotherhood**.”
+
+>“We have to decide, not whether the practice of fox-hunting, for example, is more, or less, cruel than vivisection, but whether all practices which inflict unnecessary pain on sentient beings are not incompatible with the higher instincts of humanity.”
+
+>“Oppression and cruelty are invariably founded on a lack of imaginative sympathy; the tyrant or tormentor can have no true sense of kinship with the victim of his injustice. When once the sense of affinity is awakened, the knell of tyranny is sounded, and the ultimate concession of "rights" is simply a matter of time.”
+
+>“I say ethical principle, because it is beyond doubt that the chief motive of Vegetarianism is the humane one. Questions of hygiene and of economy both play their part, and an important part, in a full discussion of food reform; but the feeling which underlies and animates the whole movement is the instinctive horror of butchery, especially the butchery of the more highly organized animals, so human, so near akin to man.”
+
+>“It is often said, as an excuse for the slaughter of animals, that it is better for them to live and to be butchered than not to live at all. … In fact, if we once admit that it is an advantage to an animal to be brought into the world, there is hardly any treatment that cannot be justified by the supposed terms of such a contract. Also, the argument must apply to mankind. It has, in fact, been the plea of the **slave-breeder**; and it is logically just as good an excuse for slave-holding as for flesh-eating. It would justify parents in almost any treatment of their children, who owe them, for the great boon of life, a debt of gratitude which no subsequent services can repay. We could hardly deny the same merit to cannibals, if they were to breed their human victims for the table, as the early Peruvians are said to have done.”
+
+>“I shall die ... as I have lived, rationalist, socialist, pacifist, and humanitarian.”
+
+>“Religion has never befriended the cause of humaneness. Its monstrous doctrine of eternal punishment and the torture of the damned underlies **much of the barbarity with which man has treated man**; and the deep division imagined by the Church between the human being, with his immortal soul, and the soulless "beasts", has been responsible for an incalculable sum of cruelty.”
+
+>“In the writings of such "pagan" philosophers as Plutarch and Porphyry we find a humanitarian ethic of the most exalted kind, which, after undergoing a long repression during medieval churchdom, reappeared, albeit but weakly and fitfully at first, in the literature of the Renaissance, to be traced more definitely in the eighteenth century school of "sensibility." But it was not until after the age of Rousseau, from which must be dated the great humanitarian movement of the past century, that Vegetarianism began to assert itself as a system, a reasoned plea for the disuse of flesh-food.”
+
+>“The ignorance, carelessness, and brutality are not only in the rough-handed slaughtermen, **but in the polite ladies and gentlemen whose dietetic habits render the slaughtermen necessary**.”
+
+>“Before passing on, I will merely add this, that in some ways the **evils attendant on slaughtering grow worse, and not better**, as civilisation advances, because of the more complex conditions of town life, and the increasingly long journeys to which animals are subjected in their transit from the grazier to the slaughterman.”[^Salt][1897]
+
+― <a href="https://en.wikipedia.org/wiki/Henry_Stephens_Salt" target="_blank">Henry Stephens Salt</a><span style="color:Chartreuse">(Campaigner for social reform in the fields of prisons, schools, economic institutions, and the treatment of animals. Introduced Mohandas Gandhi to the influential works on animal rights)</span>
+
+>“Do not unjustly eat fish the water has given up,<br>
+>    And do not desire as food the flesh of slaughtered animals,<br>
+Or the white milk of mothers who intended its pure draught<br>
+for their young, not noble ladies.<br>
+And do not grieve the unsuspecting birds by taking eggs;<br>
+for injustice is the worst of crimes.<br>
+And spare the honey which the bees get industriously
+from the flowers of fragrant plants;<br>
+For they did not store it that it might belong to others,<br>
+Nor did they gather it for bounty and gifts.<br>
+I washed my hands of all this; and wish that I<br>
+Perceived my way before my hair went gray!”<br>
+
+>“To let go from my hand a flea that I have caught is a kinder act than to bestow a dirhem on a man in need. There is no difference between the black earless creature which I release and the Black Prince of Kinda who bound the tiara (on his head). Both of them take precaution (against death); and life is dear to it (the flea), and it passionately desires the means of living.”
+
+>“The world holds two classes of men; intelligent men without religion, and religious men without intelligence.”
+
+>“Do not suppose the statements of the prophets to be true; they are all fabrications. Men lived comfortably till they came and spoiled life. The sacred books are only such a set of idle tales as any age could have and indeed did actually produce.”
+
+― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(973-1057, 1st recorded vegan in history, Arab philosopher, poet, and writer and is regarded as one of the greatest classical Arabic poets)</span>
 
 >“I credit my plant-based diet with giving me the energy and stamina to help carry my teams to four NBA championship wins. … Veganism has become a transformative part of my life and I have made it my mission to share the power of plant-based eating with the world. … Vegan eating is not just a slam dunk for human health; it’s also the most effective way to combat climate change, according to a 2010 report by the United Nations. … going vegan is one of the best things a person can do **for their health, for animals, and for the environment**.”
 
@@ -1899,34 +1941,6 @@ And share your pleasures with beggars.”
 >“If everyone ate a Western diet, we would need two Planet Earths to feed them. We only have one. And she is dying.”
 
 ― <a href="https://en.wikipedia.org/wiki/Philip_Wollen" target="_blank">Philip Wollen</a><span style="color:Chartreuse">(philanthropist, environmentalist and animal rights activist)</span>
-
->“The emancipation of men from cruelty and injustice will bring with it in due course the emancipation of animals also. The two reforms are inseparably connected, and neither can be fully realized alone.”
-
->“If "rights" exist at all—and both feeling and usage indubitably prove that they do exist—they cannot be consistently awarded to men and denied to animals, since the same sense of justice and compassion apply in both cases.”
-
->“Have the lower animals "rights?" Undoubtedly—if men have.”
-
->“[The] notion of the life of an animal having 'no moral purpose,' belongs to a class of ideas which cannot possibly be accepted by the advanced humanitarian thought of the present day [1894] —it is a purely arbitrary assumption, at variance with our best instincts, at variance with our best science, and absolutely fatal (if the subject be clearly thought out) to any full realization of animals' rights. If we are ever going to do justice to the lower races, we must get rid of the antiquated notion of a 'great gulf' fixed between them and mankind, and must recognize the common bond of humanity that unites **all living beings in one universal brotherhood**.”
-
->“We have to decide, not whether the practice of fox-hunting, for example, is more, or less, cruel than vivisection, but whether all practices which inflict unnecessary pain on sentient beings are not incompatible with the higher instincts of humanity.”
-
->“Oppression and cruelty are invariably founded on a lack of imaginative sympathy; the tyrant or tormentor can have no true sense of kinship with the victim of his injustice. When once the sense of affinity is awakened, the knell of tyranny is sounded, and the ultimate concession of "rights" is simply a matter of time.”
-
->“I shall die ... as I have lived, rationalist, socialist, pacifist, and humanitarian.”
-
->“Religion has never befriended the cause of humaneness. Its monstrous doctrine of eternal punishment and the torture of the damned underlies **much of the barbarity with which man has treated man**; and the deep division imagined by the Church between the human being, with his immortal soul, and the soulless "beasts", has been responsible for an incalculable sum of cruelty.”
-
->“In the writings of such "pagan" philosophers as Plutarch and Porphyry we find a humanitarian ethic of the most exalted kind, which, after undergoing a long repression during medieval churchdom, reappeared, albeit but weakly and fitfully at first, in the literature of the Renaissance, to be traced more definitely in the eighteenth century school of "sensibility." But it was not until after the age of Rousseau, from which must be dated the great humanitarian movement of the past century, that Vegetarianism began to assert itself as a system, a reasoned plea for the disuse of flesh-food.”
-
->“I say ethical principle, because it is beyond doubt that the chief motive of Vegetarianism is the humane one. Questions of hygiene and of economy both play their part, and an important part, in a full discussion of food reform; but the feeling which underlies and animates the whole movement is the instinctive horror of butchery, especially the butchery of the more highly organized animals, so human, so near akin to man.”
-
->“The ignorance, carelessness, and brutality are not only in the rough-handed slaughtermen, **but in the polite ladies and gentlemen whose dietetic habits render the slaughtermen necessary**.”
-
->“It is often said, as an excuse for the slaughter of animals, that it is better for them to live and to be butchered than not to live at all. … In fact, if we once admit that it is an advantage to an animal to be brought into the world, there is hardly any treatment that cannot be justified by the supposed terms of such a contract. Also, the argument must apply to mankind. It has, in fact, been the plea of the **slave-breeder**; and it is logically just as good an excuse for slave-holding as for flesh-eating. It would justify parents in almost any treatment of their children, who owe them, for the great boon of life, a debt of gratitude which no subsequent services can repay. We could hardly deny the same merit to cannibals, if they were to breed their human victims for the table, as the early Peruvians are said to have done.”
-
->“Before passing on, I will merely add this, that in some ways the **evils attendant on slaughtering grow worse, and not better**, as civilisation advances, because of the more complex conditions of town life, and the increasingly long journeys to which animals are subjected in their transit from the grazier to the slaughterman. [1897]”
-
-― <a href="https://en.wikipedia.org/wiki/Henry_Stephens_Salt" target="_blank">Henry Stephens Salt</a><span style="color:Chartreuse">(Campaigner for social reform in the fields of prisons, schools, economic institutions, and the treatment of animals. Introduced Mohandas Gandhi to the influential works on animal rights)</span>
 
 >“As long as there are slaughterhouses there will be battlefields.”
 
@@ -2371,6 +2385,8 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 [^Weinberg]: You should believe when Weinberg says this. He is not a string theorist. He didn't devote his life to string theory. He has his own theory called <a href="https://en.wikipedia.org/wiki/Asymptotic_safety_in_quantum_gravity" target="_blank">asymptotic safety</a>. Yet he is telling string theory is the "only game in town". Compare this to <a href="https://www.math.columbia.edu/~woit/wordpress/" target="_blank">bloggers</a>/<a href="https://www.youtube.com/@SabineHossenfelder" target="_blank">social media influencers</a> who never studied string theory properly but spread their unfounded criticism.
 
 [^Skepticism]: The first line from [The Problems of Philosophy](https://books.google.co.in/books?id=F3CABBiwm6wC&newbks=0&pg=PA9#v=onepage&q&f=false){:target="_blank"}. The answer is <span style="color:red">***most probably***</span> no. If I haven’t included <span style="color:red">***most probably***</span>, that sentence itself will become some knowledge.
+
+[^Salt]: Salt correctly predicted this in 1897. Mankind is using the advances in technology to breed even more sentient animals and enslave them and do even more cruel things instead of using that technology to make it so that we will never again have to enslave other sentient animals, which is not hard to achieve with our current technology.
 
 <script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
 
