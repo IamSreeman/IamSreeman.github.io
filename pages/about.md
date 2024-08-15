@@ -41,7 +41,7 @@ I am currently interested in doing research in <a href="https://en.wikipedia.org
 <!-- 1. Waking people from their deep dogmatic slumber.<br>-->
 
 [^name]:
-    In Telugu script: కసిరెడ్డి శ్రీమాన్ రెడ్డి, in Devanagari: कसिरेड्डि श्रीमान रेड्डि and in International Phonetic Alphabet (IPA): /kasiɾeɖɖi ʃɾiːmaːn ɾeɖɖi/.
+    In Telugu script: కసిరెడ్డి శ్రీమాన్ రెడ్డి, in Devanāgarī: कसिरेड्डि श्रीमान रेड्डि and in International Phonetic Alphabet (IPA): /kasiɾeɖɖi ʃɾiːmaːn ɾeɖɖi/.
 
     In this <a href="https://en.wikipedia.org/wiki/Telugu_names" target="_blank">Telugu name</a>, *Sreeman* is the given name and *Kasireddy* is the family name and Telugu family names come at the beginning of the name (unlike any other Indian culture) and are almost always abbreviated.
 

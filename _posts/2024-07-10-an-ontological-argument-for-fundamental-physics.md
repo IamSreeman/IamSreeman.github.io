@@ -245,3 +245,5 @@ Of course, for every philosophical claim, there will be reasonable, rational peo
 >“Is there any knowledge in the world which is so certain that no reasonable man could doubt it?” [The first line from [The Problems of Philosophy](https://books.google.co.in/books?id=F3CABBiwm6wC&newbks=0&pg=PA9#v=onepage&q&f=false){:target="_blank"}. The answer is <span style="color:red">***most probably***</span> no. If I haven’t included <span style="color:red">***most probably***</span>, that sentence itself will become some knowledge.]
 
 ― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
+
+<img src="{{site.baseurl}}/images/posts/Thank.png" width="500"/><br>

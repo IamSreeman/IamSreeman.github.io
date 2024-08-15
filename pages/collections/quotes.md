@@ -1357,7 +1357,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Edmond_de_Goncourt" target="_blank">Edmond de Goncourt</a>
 
->“While science as a process only requires methodological naturalism, the practice or adoption of methodological naturalism entails a logical and moral belief in philosophical naturalism, so they are not logically decoupled.”
+>“While science as a process only requires <a href="https://rationalwiki.org/wiki/Methodological_naturalism" target="_blank">methodological naturalism</a>, the practice or adoption of methodological naturalism entails a logical and moral belief in philosophical naturalism, so they are not logically decoupled.”
 
 ― <a href="https://en.wikipedia.org/wiki/Steven_Schafersman" target="_blank">Steven Schafersman</a>
 
@@ -1792,6 +1792,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Lyndon_B._Johnson" target="_blank">Lyndon B. Johnson</a>
 
+>“Subjecting yourself to self imposed discipline is the surest way to increase the quality of your existence.”
+
+― <a href="https://www.youtube.com/watch?v=dR1FCJS8DoM" target="_blank">Nun S. Amen Ra</a>
+
 >“Work expands so as to fill the time available for its completion.”
 
 ― <a href="https://en.wikipedia.org/wiki/Parkinson%27s_law" target="_blank">Parkinson's law</a>
@@ -1891,7 +1895,7 @@ These are some quotes related to veganism. Veganism is an ethical philosophy tha
 
 >“Before passing on, I will merely add this, that in some ways the **evils attendant on slaughtering grow worse, and not better**, as civilisation advances, because of the more complex conditions of town life, and the increasingly long journeys to which animals are subjected in their transit from the grazier to the slaughterman.”[^Salt][1897]
 
-― <a href="https://en.wikipedia.org/wiki/Henry_Stephens_Salt" target="_blank">Henry Stephens Salt</a><span style="color:Chartreuse">(Campaigner for social reform in the fields of prisons, schools, economic institutions, and the treatment of animals. Introduced Mohandas Gandhi to the influential works on animal rights)</span>
+― <a href="https://en.wikipedia.org/wiki/Henry_Stephens_Salt" target="_blank">Henry Stephens Salt</a><span style="color:Chartreuse">( "father of animal rights", campaigner for social reform in the fields of prisons, schools, economic institutions, and the treatment of animals. Introduced Mohandas Gandhi to the influential works on animal rights)</span>
 
 >“Do not unjustly eat fish the water has given up,<br>
 >    And do not desire as food the flesh of slaughtered animals,<br>
