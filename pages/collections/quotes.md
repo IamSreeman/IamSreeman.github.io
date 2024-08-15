@@ -2203,6 +2203,10 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 ― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a>
 
+>“<img src="{{site.baseurl}}/images/other/Berserk.jpg" alt="Berserk" width="400"/>”
+
+― <a href="https://en.wikipedia.org/wiki/Kentaro_Miura" target="_blank">Kentaro Miura</a> [Berserk episode 1]
+
 >“Shinichi, upon researching the concept of demons, I believe that, among all life, humans are the closest thing to it. Although humans kill and eat a wide variety of life forms, my kind eat merely one or two kinds at most. We are quite frugal in comparison.”
 
 ― <a href="https://kiseijuu.fandom.com/wiki/Migi" target="_blank">Migi</a>
@@ -2217,25 +2221,19 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 >“Attention entire world, hear my proclamation!
 >
-I am Lelouch vi Britannia, Emperor of The Holy Britannian Empire and your only Ruler…
+>I am Lelouch vi Britannia, Emperor of The Holy Britannian Empire and your only Ruler…
 >
 >Schneizel has surrendered to me, and as a result of this I am now in control of both the Damocles and the F.L.E.I.J.A. weapons, and even the Black Knights no longer possess the strength to oppose me now.
 >
 >If anyone dares to resist my supreme authority, The shall know the devastating power of the F.L.E.I.J.A.s. Those who could challenge my military rule no longer exist. Yes, from this day, from this moment forward, the world belongs to me!
 >
->Lelouch vi Britannia commands you, obey me subjects! obey me world.”
+>Lelouch vi Britannia commands you, obey me subjects! obey me world.”[<a href="https://youtu.be/sjgUXY4U3JI" target="_blank">YouTube</a>]
 
 ― <a href="https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia" target="_blank">Lelouch vi Britannia</a>
 
->“There’s no signs that the evils of this world are disappearing. That hasn’t changed since before I became a superhero. So, I guess that means I haven’t really made any difference. I’m not necessarily sad about that. But there has been something bothering me lately. As the days pass, my emotions become more distant. Fear, tension, joy, anger. I feel none of them anymore. **In exchange for power, maybe I’ve lost something that’s essential for being human.**”
-
->“Before I’d have all kinds of emotions boiling inside me when I fought. Dread. Panic. But now all I need is one punch to end it. Every day I come home uninjured and wash my gloves. Whenever I’m out fighting monsters, I never feel like my heart’s really in it anymore.”
-
-― <a href="https://onepunchman.fandom.com/wiki/Saitama" target="_blank">Saitama</a>
-
 >“In any age, in any society, when people are small, they look up at the stars and stretch out their hands as if to grasp them. Then at last,they learn that their own arms aren't long enough to reach the stars. They call that becoming an adult. But I don't think so. **Without fail, those stars will be in this hand**!”
 
->“Kircheis, do you think what was possible for Rudolf is impossible for me?”
+>“Kircheis, do you think what was possible for <a href="https://gineipaedia.com/wiki/Rudolf" target="_blank">Rudolf</a> is impossible for me?”
 
 >“The man who succeeds me must have talent equal to, or greater than my own.”
 
@@ -2243,13 +2241,19 @@ I am Lelouch vi Britannia, Emperor of The Holy Britannian Empire and your only R
 
 ― <a href="https://gineipaedia.com/wiki/Reinhard_von_Lohengramm" target="_blank">Reinhard von Lohengramm</a>
 
->“<img src="{{site.baseurl}}/images/other/Berserk.jpg" alt="Berserk" width="400"/>”
+>“There’s no signs that the evils of this world are disappearing. That hasn’t changed since before I became a superhero. So, I guess that means I haven’t really made any difference. I’m not necessarily sad about that. But there has been something bothering me lately. As the days pass, my emotions become more distant. Fear, tension, joy, anger. I feel none of them anymore. **In exchange for power, maybe I’ve lost something that’s essential for being human.**”
 
-― <a href="https://en.wikipedia.org/wiki/Kentaro_Miura" target="_blank">Kentaro Miura</a> [Berserk episode 1]
+>“Before I’d have all kinds of emotions boiling inside me when I fought. Dread. Panic. But now all I need is one punch to end it. Every day I come home uninjured and wash my gloves. Whenever I’m out fighting monsters, I never feel like my heart’s really in it anymore.”
+
+― <a href="https://onepunchman.fandom.com/wiki/Saitama" target="_blank">Saitama</a>
 
 >“I am crying. I'm not sad that I'm dying. I am finally sad that my child died. You can’t just erase people’s feelings. It’s as if my emotions just wandered around in an unknown place somewhere hundreds of miles away. It’s as if they were sent long ago, in a letter that was always intended for me. **So this is what true sadness feels like. It feels a lot like...happiness**.”
 
 ― <a href="https://obluda.fandom.com/wiki/Wolfgang_Grimmer" target="_blank">Wolfgang Grimmer</a>
+
+>“The opposite of boredom is not pleasure...but excitement. People will gladly seek out any kind of excitement, even pain.”
+
+― <a href="https://psychopass.fandom.com/wiki/Shogo_Makishima" target="_blank">Shogo Makishima</a>
 
 >“And there you go. You heard her, Iri. <a href="https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)" target="_blank">Our Heroic Spirit</a> thinks a battlefield to be something better than Hell. What a joke. It’s Hell itself. There is no hope on a battlefield. There is nothing but unspeakable despair. Just a crime we call victory, paid for by the pain of the defeated. But humanity has never recognized this truth. And the reason is that, in every era, a dazzling hero has blinded the people with their legends, and kept them from seeing the evil of bloodshed. True human nature has not advanced a step beyond the Stone Age.”
 
