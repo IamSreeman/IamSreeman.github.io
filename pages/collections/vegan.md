@@ -47,21 +47,27 @@ This page contains reasons why I made this decision and also some resources if y
 
 ##### Moral
 
-- Meat and Dairy products are not necessary for humans to live a **healthy life**, and the practise of consuming these is easily the biggest cause of suffering in our current times. Each year we are violating the rights of TRILLIONS of our fellow sentient beings.
+- Meat and Dairy products are not necessary for humans to live a **healthy life**, and the practise of consuming these is easily the biggest cause of suffering in our current times. Each year we are violating the rights of <span style="color:red">TRILLIONS</span> of our fellow sentient beings.
 
-- The number of individual wild fish killed each year is estimated as 0.97-2.74 **trillions** (based on FAO tonnage statistics combined with estimated mean weights of fish species) [[Source](https://fishcount.org.uk/published/std/fishcountstudy.pdf){:target="_blank"}]. The FAO numbers do not include illegal, unreported and unregulated fishing, nor discarded fish. If these are included and over-reporting by China subtracted, the totals increase by about 16.6% to 33.3% [[Source](https://fishcount.org.uk/published/std/fishcountstudy.pdf){:target="_blank"}]. A similar estimate for the number of farmed fish slaughtered each year is 0.037 to 0.120 trillion [[Source](http://fishcount.org.uk/published/std/fishcountstudy2.pdf){:target="_blank"}]. Also check wikipedia's [Fish slaughter](https://en.wikipedia.org/wiki/Fish_slaughter){:target="_blank"}.
+- The number of individual wild fish killed each year is estimated as <span style="color:red">0.97-2.74 trillions</span> (based on FAO tonnage statistics combined with estimated mean weights of fish species) [[Source](https://fishcount.org.uk/published/std/fishcountstudy.pdf){:target="_blank"}]. The FAO numbers do not include illegal, unreported and unregulated fishing, nor discarded fish. If these are included and over-reporting by China subtracted, the totals increase by about 16.6% to 33.3% [[Source](https://fishcount.org.uk/published/std/fishcountstudy.pdf){:target="_blank"}]. A similar estimate for the number of farmed fish slaughtered each year is 0.037 to 0.120 trillion [[Source](http://fishcount.org.uk/published/std/fishcountstudy2.pdf){:target="_blank"}]. Also check wikipedia's [Fish slaughter](https://en.wikipedia.org/wiki/Fish_slaughter){:target="_blank"}.
 
 <img src="{{site.baseurl}}/images/other/wild-caught-fish.svg" width="500"/><br>
 [Source](https://ourworldindata.org/grapher/wild-caught-fish){:target="_blank"}
 
-- Currently each year 80 billion land animals are slaughtered for food. Sources: [1](https://en.wikipedia.org/wiki/Animal_slaughter){:target="_blank"}, [2](https://www.fao.org/faostat/en/#data/QCL){:target="_blank"}<br>
+- Currently each year <span style="color:red">80 billion</span> land animals are slaughtered for food. Sources: [1](https://en.wikipedia.org/wiki/Animal_slaughter){:target="_blank"}, [2](https://www.fao.org/faostat/en/#data/QCL){:target="_blank"}<br>
 
 <img src="{{site.baseurl}}/images/other/Slaughter.png" width="400"/>
+
+- The average number of wild-caught shrimps slaughtered for food each year (<span style="color:red">25 trillion</span>) dwarfs the combined total number of all other vertebrate and invertebrate animals slaughtered by humans for consumption worldwide. Sources: [1](https://faunalytics.org/how-many-shrimps-are-killed-for-food/){:target="_blank"}, [2](https://rethinkpriorities.org/publications/shrimp-the-animals-most-commonly-used-and-killed-for-food-production){:target="_blank"}
+
+<img src="{{site.baseurl}}/images/other/Shrimp.png" width="400"/>
+
+See the below important pamphlet.
 
 <img src="{{site.baseurl}}/images/other/AbolitionistApproach.jpg" width="500"/>
 <br>
 
-This is the most important and compelling argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their corpses without causing pollution, cancer, heart diseases etc. **But even then** it is not morally OK to not be a vegan because of the ethical issues since it is totally unnecessary.
+The moral argument is the most important and compelling argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their corpses without causing pollution, cancer, heart diseases etc. **But even then** it is not morally OK to not be a vegan because of the ethical issues since it is totally unnecessary.
 
 >“Today more than ninety per cent of all large animals are domesticated. Consider the chicken, for example. Ten thousand years ago it was a rare bird confined to small niches of South Asia. Today billions of chickens live on almost every continent and island, bar Antarctica. The domesticated chicken is probably the most widespread bird in the annals of planet Earth. If you measure success in terms of numbers, chickens, cows and pigs are the most successful animals ever. Alas, domesticated species paid for their unparalleled collective success with unprecedented individual suffering.”
 
