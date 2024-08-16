@@ -1387,6 +1387,21 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Asimov" target="_blank">Isaac Asimov</a>
 
+>“There is a theory which states that if ever anyone discovers exactly ~~what the Universe is for and why it is here~~ how to quantize gravity, it will instantly disappear and be replaced by ~~something even more bizarre and inexplicable~~ a universe in which quantizing gravity is even harder. There is another theory which states that this has already happened.” [The original is strickenthrough and edited]
+
+>“In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.”
+
+>“Imagine a puddle waking up one morning and thinking, "This is an interesting world I find myself in — an interesting hole I find myself in — fits me rather neatly, doesn't it? In fact it fits me staggeringly well, may have been made to have me in it!" This is such a powerful idea that as the sun rises in the sky and the air heats up and as, gradually, the puddle gets smaller and smaller, it's still frantically hanging on to the notion that everything's going to be alright, because this world was meant to have him in it, was built to have him in it; so the moment he disappears catches him rather by surprise. I think this may be something we need to be on the watch out for. We all know that at some point in the future the Universe will come to an end and at some other point, considerably in advance from that but still not immediately pressing, the sun will explode. We feel there's plenty of time to worry about that, but on the other hand that's a very dangerous thing to say.”
+
+>“"Sir Isaac Newton, renowned inventor of the milled-edge coin and the catflap!"<br>
+"The what?" said Richard.<br>
+"The catflap! A device of the utmost cunning, perspicuity and invention. It is a door within a door, you see, a ..."<br>
+"Yes," said Richard, "there was also the small matter of gravity."<br>
+"Gravity," said Dirk with a slightly dismissive shrug, "yes, there was that as well, I suppose. Though that, of course, was merely a discovery. It was there to be discovered." …<br>
+"You see?" he said dropping his cigarette butt, "**They even keep it on at weekends. Someone was bound to notice sooner or later**. But the catflap … ah, there is a very different matter. Invention, pure creative invention. It is a door within a door, you see."”
+
+― <a href="https://en.wikipedia.org/wiki/Douglas_Adams" target="_blank">Douglas Adams</a>
+
 >“Time, is what keeps everything from happening at once.”
 
 ― <a href="https://en.wikipedia.org/wiki/Ray_Cummings" target="_blank">Ray Cummings</a>
@@ -1438,21 +1453,6 @@ And share your pleasures with beggars.”
 >“So git is my second big project which is only created to maintain my first big project.”
 
 ― <a href="https://en.wikipedia.org/wiki/Linus_Torvalds" target="_blank">Linus Torvalds</a>
-
->“There is a theory which states that if ever anyone discovers exactly ~~what the Universe is for and why it is here~~ how to quantize gravity, it will instantly disappear and be replaced by ~~something even more bizarre and inexplicable~~ a universe in which quantizing gravity is even harder. There is another theory which states that this has already happened.” [The original is strickenthrough and edited]
-
->“In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.”
-
->“Imagine a puddle waking up one morning and thinking, "This is an interesting world I find myself in — an interesting hole I find myself in — fits me rather neatly, doesn't it? In fact it fits me staggeringly well, may have been made to have me in it!" This is such a powerful idea that as the sun rises in the sky and the air heats up and as, gradually, the puddle gets smaller and smaller, it's still frantically hanging on to the notion that everything's going to be alright, because this world was meant to have him in it, was built to have him in it; so the moment he disappears catches him rather by surprise. I think this may be something we need to be on the watch out for. We all know that at some point in the future the Universe will come to an end and at some other point, considerably in advance from that but still not immediately pressing, the sun will explode. We feel there's plenty of time to worry about that, but on the other hand that's a very dangerous thing to say.”
-
->“"Sir Isaac Newton, renowned inventor of the milled-edge coin and the catflap!"<br>
-"The what?" said Richard.<br>
-"The catflap! A device of the utmost cunning, perspicuity and invention. It is a door within a door, you see, a ..."<br>
-"Yes," said Richard, "there was also the small matter of gravity."<br>
-"Gravity," said Dirk with a slightly dismissive shrug, "yes, there was that as well, I suppose. Though that, of course, was merely a discovery. It was there to be discovered." …<br>
-"You see?" he said dropping his cigarette butt, "**They even keep it on at weekends. Someone was bound to notice sooner or later**. But the catflap … ah, there is a very different matter. Invention, pure creative invention. It is a door within a door, you see."”
-
-― <a href="https://en.wikipedia.org/wiki/Douglas_Adams" target="_blank">Douglas Adams</a>
 
 >“In a way, it feels like the cruelest joke in existence has been played on us. We became self-aware only to realize this story is not about us. While it is great to know about electrons and the powerhouse of the cell, science doesn't do a lot to make this less depressing.” [<a href="https://www.youtube.com/watch?v=MBRqu0YOH14&t=208s" target="_blank">YouTube</a>]
 
@@ -2197,15 +2197,38 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 ― <a href="https://berserk.fandom.com/wiki/Guts" target="_blank">Guts</a>
 
+>“<img src="{{site.baseurl}}/images/other/Kind.jpg" alt="Kind" width="400"/>”
+
+― <a href="https://vagabond.fandom.com/wiki/Soho_Takuan" target="_blank">Soho Takuan</a> [Vagabond chapter 224]
+
 >“Sometimes life's too **uncertain** to have regrets.”
 
 >“Even a low class warrior can surpass an elite, with enough hard work.”
 
 ― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a>
 
+>“<img src="{{site.baseurl}}/images/other/HardWork.jpg" alt="Genji_Kamogawa" width="400"/>”
+
+― <a href="https://ippo.fandom.com/wiki/Genji_Kamogawa" target="_blank">Genji Kamogawa</a> [Hajime no Ippo chapter 378]
+
+>“<img src="{{site.baseurl}}/images/other/Thors.jpg" alt="Thors" width="400"/>”
+
+― <a href="https://vinlandsaga.fandom.com/wiki/Thors_Snorresson" target="_blank">Thors Snorresson</a> [Vinland Saga chapter 7]
+
+>“<img src="{{site.baseurl}}/images/other/Thorfinn1.jpeg" alt="Thorfinn1" width="400"/>”
+
+>“<img src="{{site.baseurl}}/images/other/Thorfinn2.jpeg" alt="Thorfinn2" width="400"/>”
+
+― <a href="https://vinlandsaga.fandom.com/wiki/Thorfinn" target="_blank">Thorfinn</a> [Vinland Saga chapter 96 and 59 respectively]
+
 >“<img src="{{site.baseurl}}/images/other/Berserk.jpg" alt="Berserk" width="400"/>”
 
 ― <a href="https://en.wikipedia.org/wiki/Kentaro_Miura" target="_blank">Kentaro Miura</a> [Berserk episode 1]
+
+>“<img src="{{site.baseurl}}/images/other/Vagabond1.jpg" alt="Vagabond1" width="400"/><br>
+<img src="{{site.baseurl}}/images/other/Vagabond2.jpg" alt="Vagabond2" width="400"/>”
+
+― <a href="https://vagabond.fandom.com/wiki/Soho_Takuan" target="_blank">Soho Takuan</a> [Vagabond chapter 35]
 
 >“Shinichi, upon researching the concept of demons, I believe that, among all life, humans are the closest thing to it. Although humans kill and eat a wide variety of life forms, my kind eat merely one or two kinds at most. We are quite frugal in comparison.”
 
@@ -2216,6 +2239,12 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >“...People live their lives bound by what they accept as correct and true… that is how they define reality. But what does it mean to be correct or true? Merely vague concepts… their reality may all be an illusion.”
 
 ― <a href="https://naruto.fandom.com/wiki/Itachi_Uchiha" target="_blank">Itachi Uchiha</a>
+
+>“<img src="{{site.baseurl}}/images/posts/Discrimination1.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/Discrimination2.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/Discrimination3.jpg" width="300"/>”
+
+― <a href="https://vinlandsaga.fandom.com/wiki/Willibald" target="_blank">Willibald</a> to <a href="https://vinlandsaga.fandom.com/wiki/Canute" target="_blank">Canute</a> [Vinland Saga chapter 37]
 
 >“What do you do when there is an evil you cannot defeat by just means? Do you stain your hands with evil to destroy evil? Or do you remain steadfastly just and righteous even if it means surrendering to evil?”
 
@@ -2272,11 +2301,6 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >“One day you’ll see how important it was to save the Strawhats and let them set sail.”
 
 ― <a href="https://onepiece.fandom.com/wiki/Pedro" target="_blank">Pedro</a>
-
->“<img src="{{site.baseurl}}/images/other/Vagabond1.jpg" alt="Vagabond1" width="400"/><br>
-<img src="{{site.baseurl}}/images/other/Vagabond2.jpg" alt="Vagabond2" width="400"/>”
-
-― <a href="https://en.wikipedia.org/wiki/Takehiko_Inoue" target="_blank">Takehiko Inoue</a> or <a href="https://vagabond.fandom.com/wiki/Soho_Takuan" target="_blank">Soho Takuan</a> [Vagabond chapter 35]
 
 >“Even if you kill me, even if you kill anyone, even if you reset science… There’s always an idiot who will try anything and the shiny monkeys will inevitably create a technological civilization.”
 
@@ -2336,10 +2360,6 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 >“The first to apologize, is the bravest. The first to forgive, is the strongest. And the first to forget, is the happiest. Forgive others, not because they deserve forgiveness but because you, deserve peace.”[<a href="https://www.youtube.com/watch?v=kpK2ftFzw7o" target="_blank">YouTube</a>] (Inspired from <a href="https://knowyourmeme.com/memes/i-have-no-enemies" target="_blank">I Have No Enemies</a>)
 
 ― <a href="https://www.youtube.com/@TheAnimeMen" target="_blank">TheAnimeMen</a>
-
->“<img src="{{site.baseurl}}/images/other/HardWork.jpg" alt="Genji_Kamogawa" width="400"/>”
-
-― <a href="https://ippo.fandom.com/wiki/Genji_Kamogawa" target="_blank">Genji Kamogawa</a>
 
 [^EinsteinNotLazy]: I used to think he was a lazy guy in my childhood. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published the correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of General Relativity (GR) or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.
 
