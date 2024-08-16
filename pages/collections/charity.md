@@ -43,6 +43,7 @@ Organizations
 - [Allied Scholars for Animal Protection](https://www.alliedscholars.org/donate){:target="_blank"}
 - [Direct Action Everywhere](https://www.directactioneverywhere.com/donate){:target="_blank"}
 - [Anonymous for the Voiceless](https://www.anonymousforthevoiceless.org/make-a-donation){:target="_blank"}
+- [Faunalytics](https://faunalytics.org/donate/){:target="_blank"}
 - [surgeactivism.org](https://www.surgeactivism.org/donate){:target="_blank"}
 - [Southwestern Ohio Animal Rights Network](https://swoarn.org/){:target="_blank"}
 - [Animal Justice Project](https://donate.animaljusticeproject.com/page/143764/donate/1){:target="_blank"}
