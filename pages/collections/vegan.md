@@ -69,6 +69,13 @@ See the below important pamphlet.
 
 The moral argument is the most important and compelling argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their corpses without causing pollution, cancer, heart diseases etc. **But even then** it is not morally OK to not be a vegan because of the ethical issues since it is totally unnecessary.
 
+<img src="{{site.baseurl}}/images/other/Flag.png" width="500"/>
+<br>
+
+>“**Here (in my domain) no living beings are to be slaughtered or offered in sacrifice**.”
+
+― <a href="https://en.wikipedia.org/wiki/Ashoka" target="_blank">Aśoka</a> (304 BCE-232 BCE, ruled most of the Indian subcontinent and popularized Buddhism)
+
 >“Today more than ninety per cent of all large animals are domesticated. Consider the chicken, for example. Ten thousand years ago it was a rare bird confined to small niches of South Asia. Today billions of chickens live on almost every continent and island, bar Antarctica. The domesticated chicken is probably the most widespread bird in the annals of planet Earth. If you measure success in terms of numbers, chickens, cows and pigs are the most successful animals ever. Alas, domesticated species paid for their unparalleled collective success with unprecedented individual suffering.”
 
 >“Yet from the viewpoint of the herd, rather than that of the shepherd, it’s hard to avoid the impression that for the vast majority of domesticated animals, the Agricultural Revolution was a terrible catastrophe. Their evolutionary ‘success’ is meaningless. A rare wild rhinoceros on the brink of extinction is probably more satisfied than a calf who spends its short life inside a tiny box, fattened to produce juicy steaks. The contented rhinoceros is no less content for being among the last of its kind. The numerical success of the calf’s species is little consolation for the suffering the individual endures.”

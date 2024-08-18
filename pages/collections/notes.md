@@ -93,6 +93,7 @@ Notes made for JEE-Advanced 2019 exam.
 1. <a href='https://cadabra.science/' target="_blank">cadabra.science</a><br>
 1. <a href='http://redberry.cc/' target="_blank">redberry.cc</a><br>
 1. <a href='https://www.sagemath.org/' target="_blank">sagemath.org</a> and <a href='https://sagemanifolds.obspm.fr/' target="_blank">SageManifolds</a><br>
+1. <a href='https://lean-lang.org/documentation/' target="_blank">Lean</a><br>
 1. <a href='http://wxmaxima-developers.github.io/wxmaxima/' target="_blank">wxMaxima</a><br>
 1. <a href='https://github.com/grtensor/grtensor' target="_blank">GRTensorIII package for Maple</a><br>
 1. <a href='https://www.maplesoft.com/products/maple/compare/HowMapleComparestoMathematica.pdf' target="_blank">Maple vs Mathematica</a><br>

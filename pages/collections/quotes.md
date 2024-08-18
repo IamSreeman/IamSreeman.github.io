@@ -95,7 +95,7 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“One reason why mathematics enjoys special esteem, above all other sciences, is that its laws are absolutely certain and indisputable, while those of other sciences are to some extent debatable and in constant danger of being overthrown by newly discovered facts.”
 
->“A theory is the more impressive the greater the simplicity of its premises, the more different kinds of things it relates, and the more extended its area of applicability. Therefore the deep impression that classical thermodynamics made upon me. It is the only physical theory of universal content which I am convinced will never be overthrown, within the framework of applicability of its basic concepts.”
+>“A theory is the more impressive the greater the simplicity of its premises, the more different kinds of things it relates, and the more extended its area of applicability. Therefore the deep impression that classical thermodynamics made upon me. **It is the only physical theory of universal content which I am convinced will never be overthrown**, within the framework of applicability of its basic concepts.”
 
 >“The world needs new moral impulses which, I'm afraid, won't come from the churches, heavily compromised as they have been throughout the centuries. Perhaps those impulses must come from scientists in the tradition of Galileo, Kepler and Newton. In spite of failures and persecutions, these men devoted their lives to proving that the universe is a single entity, in which, I believe, a humanized God has no place. The genuine scientist is not moved by praise or blame, nor does he preach. He unveils the universe and people come eagerly, without being pushed, to behold a new revelation: the order, the harmony, the magnificence of creation! And as man becomes conscious of the stupendous laws that govern the universe in perfect harmony, **he begins to realize how small he is**. He sees the pettiness of human existence, with its ambitions and intrigues, its "I am better than thou" creed. This is the beginning of cosmic religion within him; fellowship and human service become his moral code. And without such moral foundations, we are hopelessly doomed.”
 
@@ -126,6 +126,12 @@ These are some interesting quotes. I removed the quotes which are given as misat
 >“I do not intend to be quiet about it [racism].”
 
 >“I should much rather see reasonable agreement with the Arabs on the basis of living together in peace than the creation of a Jewish state.”
+
+>“This is the seventh anniversary of the establishment of the State of Israel. The establishment of this State was internationally approved and recognised largely for the purpose of rescuing the remnant of the Jewish people from unspeakable horrors of persecution and oppression.
+>
+>Thus, the establishment of Israel is an event which actively engages the conscience of this generation. It is, therefore, a bitter paradox to find that a State which was destined to be a shelter for a martyred people is itself threatened by grave dangers to its own security. The universal conscience cannot be indifferent to such peril.
+>
+>It is anomalous that world opinion should only criticize Israel’s response to hostility and should not actively seek to bring an end to the Arab hostility which is the root cause of the tension.” [Einstein died shortly before giving this speech.]
 
 >“I have trouble with Dirac. This balancing on the dizzying path between genius and madness is awful.”
 
@@ -1331,6 +1337,16 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Will_Durant" target="_blank">Will Durant</a>
 
+>“**Here (in my domain) no living beings are to be slaughtered or offered in sacrifice**. Formerly, in the kitchen of Beloved-of-the-Gods, King Piyadasi, hundreds of thousands of animals were killed every day to make curry. But now with the writing of this Dhamma edict only three creatures, two peacocks and a deer are killed, and the deer not always. And in time, not even these three creatures will be killed.”
+
+>“All men are my children. What I desire for my own children, and I desire their welfare and happiness both in this world and the next, that I desire for all men. You do not understand to what extent I desire this, and if some of you do understand, you do not understand the full extent of my desire.”
+
+>“Wherever medical herbs suitable for humans or animals are not available, I have had them imported and grown. Wherever medical roots or fruits are not available I have had them imported and grown. Along roads I have had wells dug and trees planted for the benefit of humans and animals.”
+
+>“Whoever praises his own religion, due to excessive devotion, and condemns others with the thought "Let me glorify my own religion," only harms his own religion.”
+
+― <a href="https://en.wikipedia.org/wiki/Ashoka" target="_blank">Aśoka</a> (304 BCE-232 BCE, ruled most of the Indian subcontinent and popularized Buddhism, also known as "Ashoka the Great", he is an example of Plato's <a href="https://en.wikipedia.org/wiki/Philosopher_king" target="_blank">Philosopher King</a>)
+
 ### Others
 
 >“Napoleon, and other great men of his type, they were makers of empire. But there is an order of men that get beyond that: They are not makers of empire, but they are makers of universe. And when they have made those universes, **their hands are unstained by the blood of any human being on earth**. ... Ptolemy made a universe, which lasted 1400 years. Newton also made a universe, which has lasted 300 years. Einstein has made a universe, and I can't tell you how long that will last.” [<a href="https://www.youtube.com/watch?v=1TIt0ITM_RM" target="_blank">YouTube</a>]
@@ -1858,7 +1874,7 @@ And share your pleasures with beggars.”
 
 #### Veganism
 
-These are some quotes related to veganism. Veganism is an ethical philosophy that rejects the [commodity status of animals](https://www.abolitionistapproach.com/about/the-six-principles-of-the-abolitionist-approach-to-animal-rights/){:target="_blank"}. The gravity of the situation can not be overstated because each year, trillions ([1](https://faunalytics.org/how-many-shrimps-are-killed-for-food/){:target="_blank"},[2](https://ourworldindata.org/grapher/wild-caught-fish){:target="_blank"},[3](https://ourworldindata.org/grapher/farmed-crustaceans){:target="_blank"},[4](https://ourworldindata.org/grapher/farmed-fish-killed){:target="_blank"}) of sentient animals are needlessly tortured and killed.
+These are some quotes related to veganism. Veganism is an ethical philosophy that rejects the [commodity status of animals](https://www.abolitionistapproach.com/about/the-six-principles-of-the-abolitionist-approach-to-animal-rights/){:target="_blank"}. The gravity of the situation can not be overstated because each year, trillions ([1](https://ourworldindata.org/grapher/wild-caught-fish){:target="_blank"},[2](https://rethinkpriorities.org/publications/shrimp-the-animals-most-commonly-used-and-killed-for-food-production){:target="_blank"},[3](https://ourworldindata.org/grapher/farmed-crustaceans){:target="_blank"},[4](https://ourworldindata.org/grapher/farmed-fish-killed){:target="_blank"}) of sentient animals are needlessly tortured and killed.
 
 >“Our study [<a href="https://en.wikipedia.org/wiki/China%E2%80%93Cornell%E2%80%93Oxford_Project" target="_blank">China–Cornell–Oxford Project</a>: The Most Comprehensive Study of Nutrition Ever Conducted] suggests that **the closer one approaches a total plant food diet, the greater the health benefit**. … It turns out that animal protein, when consumed, exhibits a variety of undesirable health effects. Whether it is the immune system, various enzyme systems, the uptake of carcinogens into the cells, or hormonal activities, animal protein generally only causes mischief. High fat intake still can be a problem, and we ought not to be consuming such high-fat diets. But I suggest that animal protein is more problematic in this whole diet/disease relationship than is total fat.”
 
