@@ -91,6 +91,8 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“I believe in Spinoza's God, Who reveals Himself in the lawful harmony of the world, not in a God Who concerns Himself with the fate and the doings of mankind.”
 
+>“My views are near those of Spinoza: admiration for the beauty of and belief in the logical simplicity of the order which we can grasp humbly and only imperfectly. I believe that we have to content ourselves with our imperfect knowledge and understanding and treat values and moral obligations as a purely human problem—the most important of all human problems.”
+
 >“At this point an enigma presents itself which in all ages has agitated inquiring minds. How can it be that **mathematics**, being, after all, a product of human thought which is independent of experience, is **so admirably appropriate to the objects of reality?** Is human reason, then, without experience, merely by taking thought, able to fathom the properties of real things?”
 
 >“One reason why mathematics enjoys special esteem, above all other sciences, is that its laws are absolutely certain and indisputable, while those of other sciences are to some extent debatable and in constant danger of being overthrown by newly discovered facts.”
@@ -1289,6 +1291,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Georgia_Harkness" target="_blank">Georgia Harkness</a>
 
+>“You either have a God who sends child rapists to rape children or you have a God who simply watches it and says, ‘When you’re done, I’m going to punish you.’ If I could stop a person from raping a child, I would. That’s the difference between me and your God.”
+
+― <a href="https://www.imdb.com/name/nm6249678/" target="_blank">Tracie Harris</a>
+
 >“The Hiddenness Argument: philosophy's new challenge to belief in god: You’re still a small child, and an amnesiac, but this time you’re in the middle of a vast rain forest, dripping with dangers of various kinds.  You’ve been stuck there for days, trying to figure out who you are and where you came from.  You don’t remember having a mother who accompanied you into this jungle, but in your moments of deepest pain and misery you call for her anyway, ‘Mooooommmmmmm!’  Over and over again.  For days and days … the last time when a jaguar comes at you out of nowhere … but with no response.  What should you think in this situation?  In your dying moments, what should cross your mind?  Would the thought that you have a mother who cares about you and hears your cry and could come to you but chooses not to even make it onto the list?”
 
 ― <a href="https://en.wikipedia.org/wiki/J._L._Schellenberg" target="_blank">J. L. Schellenberg</a>
@@ -2183,11 +2189,11 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 >“Vegetarianism is a morally incoherent position. There is no morally coherent distinction between meat and other animal foods. They all involve suffering, death, and injustice. If you care morally about animals, veganism is the only rational response.”
 
->“The idea that we have the right to inflict suffering and death on other sentient beings for the trivial reasons of palate pleasure and fashion is, without doubt, one of the most arrogant and morally repugnant notions in the history of human thought.”
-
 >“There is really is no escaping that, if you are not vegan, you are treating animals as things without moral value. This means that your claim to take animals seriously and regard them as beings with moral value is bullshit (apologies to bulls). So stop already. Go vegan. Today. Now.”
 
 >“Veganism is about nonviolence. It is about refusing to participate in inflicting completely unjustifiable harm on the vulnerable. Please go vegan.”
+
+>“The idea that we have the right to inflict suffering and death on other sentient beings for the trivial reasons of palate pleasure and fashion is, without doubt, one of the most arrogant and morally repugnant notions in the history of human thought.”
 
 ― <a href="https://en.wikipedia.org/wiki/Gary_L._Francione" target="_blank">Gary L. Francione</a><span style="color:Chartreuse">(Started the Abolitionist Approach independently shortly after Tom Regan, ethics philosopher, first academic to teach animal rights theory in an American law school)</span>
 
@@ -2377,6 +2383,10 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 
 ― <a href="https://www.youtube.com/@TheAnimeMen" target="_blank">TheAnimeMen</a>
 
+>“A sword is a weapon, the art of swordsmanship is learning how to kill. What Miss Kaoru says is sweet and innocent talk that only those whose hands have never been stained with the blood of man can believe. But to tell you the truth, I much prefer Miss Kaoru’s sweet and innocent talk. Yes indeed I do…”
+
+― <a href="https://kenshin.fandom.com/wiki/Himura_Kenshin" target="_blank">Himura Kenshin</a>
+
 [^EinsteinNotLazy]: I used to think he was a lazy guy in my childhood. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published the correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of General Relativity (GR) or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.
 
 [^Gandhi]: Einstein severely overestimated Gandhi. I think Nehru is far greater political leader than Gandhi.
@@ -2424,13 +2434,13 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 
 [^Hume]: Hume here found the <a href="https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem" target="_blank">Is–ought problem</a>. One of the deepest ethical problems.
 
-[^Neurath]: <a href="https://en.wikipedia.org/wiki/Neurath%27s_boat" target="_blank">Neurath's boat</a>: a simile used in anti-foundational philosophy. You can't just make the boat from scratch by swimming because [philosophical skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism) is like a shark that will eat you if you enter the water. Even if you know swimming, you can't build the boat from scratch because the shark will eat you. So, you can't have a single foundation and must use a mixture of reason, empirical data etc.
+[^Neurath]: <a href="https://en.wikipedia.org/wiki/Neurath%27s_boat" target="_blank">Neurath's boat</a>: a simile used in anti-foundational philosophy. You can't just make the boat from scratch by swimming because [philosophical skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism){:target="_blank"} is like a shark that will eat you if you enter the water. Even if you know swimming, you can't build the boat from scratch because the shark will eat you. So, you can't have a single foundation and must use a mixture of reason, empirical data etc.
 
 [^Weinberg]: You should believe when Weinberg says this. He is not a string theorist. He didn't devote his life to string theory. He has his own theory called <a href="https://en.wikipedia.org/wiki/Asymptotic_safety_in_quantum_gravity" target="_blank">asymptotic safety</a>. Yet he is telling string theory is the "only game in town". Compare this to <a href="https://www.math.columbia.edu/~woit/wordpress/" target="_blank">bloggers</a>/<a href="https://www.youtube.com/@SabineHossenfelder" target="_blank">social media influencers</a> who never studied string theory properly but spread their unfounded criticism.
 
 [^Skepticism]: The first line from [The Problems of Philosophy](https://books.google.co.in/books?id=F3CABBiwm6wC&newbks=0&pg=PA9#v=onepage&q&f=false){:target="_blank"}. The answer is <span style="color:red">***most probably***</span> no. If I haven’t included <span style="color:red">***most probably***</span>, that sentence itself will become some knowledge.
 
-[^Salt]: Salt correctly predicted this in 1897. Mankind is using the advances in technology to breed even more sentient animals and enslave them and do even more cruel things instead of using that technology to make it so that we will never again have to enslave other sentient animals, which is not hard to achieve with our current technology.
+[^Salt]: Salt correctly predicted this in 1897. Mankind is using the advances in technology to breed even more sentient animals and enslave them and do even more cruel things instead of using that technology to make it so that we will never again have to enslave other sentient animals, which is not hard to achieve with our current technology. To become an honorable species, abolishing animal agriculture is not enough and we should try to do whatever we can to solve the problem of [wild animal suffering](https://en.wikipedia.org/wiki/Wild_animal_suffering){:target="_blank"}.
 
 <script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
 
