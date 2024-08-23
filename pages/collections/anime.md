@@ -132,6 +132,7 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://youtu.be/OjNpRbNdR7E" target="_blank">mao zedong propaganda music Red Sun in the Sky</a><br>
 <a href="https://youtu.be/NWl5glbSCY4" target="_blank">Hajime no Ippo: The Fighting - Opening 1 | Under Star</a><br>
 <a href="https://youtu.be/gV26zIE0130" target="_blank">Berserk - Sign (Full Version)</a><br>
+<a href="https://youtu.be/5yb2N3pnztU" target="_blank">Jujutsu Kaisen SPECIALZ</a><br>
 
 #### OSTs
 <br>
@@ -285,8 +286,10 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://youtu.be/Sr22duiUVNY" target="_blank">D.Gray-man - Tamashii no Iyashi (Healing the Spirit)</a><br>
 <a href="https://youtu.be/kjGhdH9SfPY" target="_blank">D.Gray-man - Kanashimi no tamashii</a><br>
 <a href="https://youtu.be/4cZGNKsbo-U" target="_blank">D.Gray-man OST 3 - Good News</a><br>
+<a href="https://youtu.be/RKvnlIsRMwA" target="_blank">D.Gray-man OST1- 18.In his memory</a><br>
 <a href="https://youtu.be/ZlbxNeOmjEE" target="_blank">Mushishi OST 1 - Mushishi no Theme</a><br>
 <a href="https://youtu.be/6WhsWzJWp7I" target="_blank">Houseki no kuni ost - sunspot</a><br>
+<a href="https://youtu.be/nwxBV0g5X40" target="_blank">Demon Slayer Title Card Sound Effect</a><br>
 
 #### Scenes
 

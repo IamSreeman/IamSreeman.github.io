@@ -582,6 +582,8 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 >“Perhaps I may claim as evidence for progress in religion the fact that we no longer burn heretics.”
 
+>“Einstein was not only skeptical, he was actively hostile, to the idea of black holes. He thought the black hole solution was a blemish to be removed from the theory by a better mathematical formulation, not a consequence to be tested by observation. He never expressed the slightest enthusiasm for black holes, either as a concept or a physical possibility.”
+
 ― <a href="https://en.wikipedia.org/wiki/Freeman_Dyson" target="_blank">Freeman Dyson</a>
 
 >“I must have been 8 or 9 when my father, a man of letters but well-read in every discipline and with a curious mind, told me this story: “A great scientist named Albert Einstein discovered that any object with a mass can't travel faster than the speed of light”. To my bewilderment I replied, boldly: “This can't be true, if I run almost at that speed and then accelerate a little, surely I will run faster than light, right?” My father was adamant: “No, it's impossible to do what you say, it's a known physics fact”. After a while I added: “That bloke, Einstein, must've checked this thing many times … how do you say, he did many experiments?” The answer I got was utterly unexpected: “Not even one I believe. He used maths!”
@@ -688,8 +690,8 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 >“In science it often happens that scientists say, "You know that's a really good argument; my position is mistaken," and then they would actually change their minds and you never hear that old view from them again. They really do it. It doesn't happen as often as it should, because scientists are human and change is sometimes painful. But it happens every day. I cannot recall the last time something like that happened in politics or religion.”
 
-![alt text]({{site.baseurl}}/images/posts/pbdot.jpeg "Pale blue dot")
->“Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of **confident religions**, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there-on a mote of dust suspended in a sunbeam.
+>![alt text]({{site.baseurl}}/images/posts/pbdot.jpeg "Pale blue dot")<br>
+“Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of **confident religions**, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there-on a mote of dust suspended in a sunbeam.
 >
 >The Earth is a very small stage in a vast cosmic arena. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a **fraction of a dot**.
 >
@@ -1842,6 +1844,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Kurt_Lewin" target="_blank">Kurt Lewin</a>
 
+>“I am, somehow, less interested in the weight and convolutions of Einstein's brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops.”
+
+― <a href="https://en.wikipedia.org/wiki/Stephen_Jay_Gould" target="_blank">Stephen Jay Gould</a>
+
 >“Consciousness is a much smaller part of our mental life than we are conscious of, because we cannot be conscious of what we are not conscious of. How simple that is to say; how difficult to appreciate!”
 
 ― <a href="https://en.wikipedia.org/wiki/Julian_Jaynes" target="_blank">Julian Jaynes</a>
@@ -2219,38 +2225,26 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 ― <a href="https://berserk.fandom.com/wiki/Guts" target="_blank">Guts</a>
 
->“<img src="{{site.baseurl}}/images/other/Kind.jpg" alt="Kind" width="400"/>”
-
-― <a href="https://vagabond.fandom.com/wiki/Soho_Takuan" target="_blank">Soho Takuan</a> [Vagabond chapter 224]
-
 >“Sometimes life's too **uncertain** to have regrets.”
 
 >“Even a low class warrior can surpass an elite, with enough hard work.”
 
 ― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a>
 
->“<img src="{{site.baseurl}}/images/other/HardWork.jpg" alt="Genji_Kamogawa" width="400"/>”
+><img src="{{site.baseurl}}/images/other/Kind.jpg" alt="Kind" width="400"/><br>[Vagabond chapter 224]
 
-― <a href="https://ippo.fandom.com/wiki/Genji_Kamogawa" target="_blank">Genji Kamogawa</a> [Hajime no Ippo chapter 378]
+><img src="{{site.baseurl}}/images/other/Vagabond1.jpg" alt="Vagabond1" width="400"/><br>
+<img src="{{site.baseurl}}/images/other/Vagabond2.jpg" alt="Vagabond2" width="400"/><br>[Vagabond chapter 35]
 
->“<img src="{{site.baseurl}}/images/other/Thors.jpg" alt="Thors" width="400"/>”
+― <a href="https://vagabond.fandom.com/wiki/Soho_Takuan" target="_blank">Soho Takuan</a> 
 
-― <a href="https://vinlandsaga.fandom.com/wiki/Thors_Snorresson" target="_blank">Thors Snorresson</a> [Vinland Saga chapter 7]
+><img src="{{site.baseurl}}/images/other/HardWork.jpg" alt="Genji_Kamogawa" width="400"/><br>[Hajime no Ippo chapter 378]
 
->“<img src="{{site.baseurl}}/images/other/Thorfinn1.jpeg" alt="Thorfinn1" width="400"/>”
+― <a href="https://ippo.fandom.com/wiki/Genji_Kamogawa" target="_blank">Genji Kamogawa</a>
 
->“<img src="{{site.baseurl}}/images/other/Thorfinn2.jpeg" alt="Thorfinn2" width="400"/>”
+><img src="{{site.baseurl}}/images/other/Berserk.jpg" alt="Berserk" width="400"/><br>[Berserk episode 1]
 
-― <a href="https://vinlandsaga.fandom.com/wiki/Thorfinn" target="_blank">Thorfinn</a> [Vinland Saga chapter 96 and 59 respectively]
-
->“<img src="{{site.baseurl}}/images/other/Berserk.jpg" alt="Berserk" width="400"/>”
-
-― <a href="https://en.wikipedia.org/wiki/Kentaro_Miura" target="_blank">Kentaro Miura</a> [Berserk episode 1]
-
->“<img src="{{site.baseurl}}/images/other/Vagabond1.jpg" alt="Vagabond1" width="400"/><br>
-<img src="{{site.baseurl}}/images/other/Vagabond2.jpg" alt="Vagabond2" width="400"/>”
-
-― <a href="https://vagabond.fandom.com/wiki/Soho_Takuan" target="_blank">Soho Takuan</a> [Vagabond chapter 35]
+― <a href="https://en.wikipedia.org/wiki/Kentaro_Miura" target="_blank">Kentaro Miura</a> 
 
 >“Shinichi, upon researching the concept of demons, I believe that, among all life, humans are the closest thing to it. Although humans kill and eat a wide variety of life forms, my kind eat merely one or two kinds at most. We are quite frugal in comparison.”
 
@@ -2262,11 +2256,17 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 ― <a href="https://naruto.fandom.com/wiki/Itachi_Uchiha" target="_blank">Itachi Uchiha</a>
 
->“<img src="{{site.baseurl}}/images/posts/Discrimination1.jpg" width="300"/><br>
+><img src="{{site.baseurl}}/images/posts/Discrimination1.jpg" width="300"/><br>
 <img src="{{site.baseurl}}/images/posts/Discrimination2.jpg" width="300"/><br>
-<img src="{{site.baseurl}}/images/posts/Discrimination3.jpg" width="300"/>”
+<img src="{{site.baseurl}}/images/posts/Discrimination3.jpg" width="300"/><br>[Vinland Saga chapter 37]
 
-― <a href="https://vinlandsaga.fandom.com/wiki/Willibald" target="_blank">Willibald</a> to <a href="https://vinlandsaga.fandom.com/wiki/Canute" target="_blank">Canute</a> [Vinland Saga chapter 37]
+― <a href="https://vinlandsaga.fandom.com/wiki/Willibald" target="_blank">Willibald</a> to <a href="https://vinlandsaga.fandom.com/wiki/Canute" target="_blank">Canute</a>
+
+><img src="{{site.baseurl}}/images/other/Canute1.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/other/Canute2.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/other/Canute3.jpg" width="300"/><br>[Vinland Saga chapter 97]
+
+― <a href="https://vinlandsaga.fandom.com/wiki/Canute" target="_blank">Canute</a>
 
 >“What do you do when there is an evil you cannot defeat by just means? Do you stain your hands with evil to destroy evil? Or do you remain steadfastly just and righteous even if it means surrendering to evil?”
 
@@ -2352,7 +2352,7 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >
 >For about that time, I thought, ''Wow, that's amazing.'' Up until that point, I had seen him as a racer with a myriad of competitors, but one afternoon in my first year of junior high school, I realized that he had already become completely unstoppable.
 >
->My basic way of thinking [about Osamu Tezuka] has not changed since that day. **So much so that I want to make that day my coming-of-age ceremony**.”
+>My basic way of thinking [about Osamu Tezuka] has not changed since that day. **So much so that I want to make that day my coming-of-age ceremony**.”[<a href="https://tezukaosamu.net/jp/mushi/201412/special2.html" target="_blank">Source</a>]
 
 ― <a href="https://en.wikipedia.org/wiki/Naoki_Urasawa" target="_blank">Naoki Urasawa</a>
 
@@ -2379,13 +2379,27 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 
 ― <a href="https://en.wikipedia.org/wiki/Eiichiro_Oda" target="_blank">Eiichiro Oda</a>
 
+>“A sword is a weapon, the art of swordsmanship is learning how to kill. What Miss Kaoru says is sweet and innocent talk that only those whose hands have never been stained with the blood of man can believe. But to tell you the truth, I much prefer Miss Kaoru’s sweet and innocent talk. Yes indeed I do…”
+
+― <a href="https://kenshin.fandom.com/wiki/Himura_Kenshin" target="_blank">Himura Kenshin</a>
+
 >“The first to apologize, is the bravest. The first to forgive, is the strongest. And the first to forget, is the happiest. Forgive others, not because they deserve forgiveness but because you, deserve peace.”[<a href="https://www.youtube.com/watch?v=kpK2ftFzw7o" target="_blank">YouTube</a>] (Inspired from <a href="https://knowyourmeme.com/memes/i-have-no-enemies" target="_blank">I Have No Enemies</a>)
 
 ― <a href="https://www.youtube.com/@TheAnimeMen" target="_blank">TheAnimeMen</a>
 
->“A sword is a weapon, the art of swordsmanship is learning how to kill. What Miss Kaoru says is sweet and innocent talk that only those whose hands have never been stained with the blood of man can believe. But to tell you the truth, I much prefer Miss Kaoru’s sweet and innocent talk. Yes indeed I do…”
+><img src="{{site.baseurl}}/images/other/Thors.jpg" alt="Thors" width="400"/><br>[Vinland Saga chapter 7]
 
-― <a href="https://kenshin.fandom.com/wiki/Himura_Kenshin" target="_blank">Himura Kenshin</a>
+― <a href="https://vinlandsaga.fandom.com/wiki/Thors_Snorresson" target="_blank">Thors Snorresson</a>
+
+><img src="{{site.baseurl}}/images/other/Thorfinn1.jpeg" alt="Thorfinn1" width="400"/><br>[Vinland Saga chapter 96]
+
+><img src="{{site.baseurl}}/images/other/Thorfinn2.jpeg" alt="Thorfinn2" width="400"/><br>[Vinland Saga chapter 59]
+
+><img src="{{site.baseurl}}/images/other/ThorfinnA.jpg" alt="Thorfinn" width="400"/><br>
+<img src="{{site.baseurl}}/images/other/ThorfinnB.jpg" alt="Thorfinn" width="400"/><br>
+<img src="{{site.baseurl}}/images/other/ThorfinnC.jpg" alt="Thorfinn" width="400"/><br>[Vinland Saga chapter 131]
+
+― <a href="https://vinlandsaga.fandom.com/wiki/Thorfinn" target="_blank">Thorfinn</a>
 
 [^EinsteinNotLazy]: I used to think he was a lazy guy in my childhood. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published the correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of General Relativity (GR) or EFE</a>. At that point of time he was very afraid that GR will be formulated by someone before him. Indeed it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.
 
