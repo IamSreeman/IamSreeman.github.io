@@ -1434,6 +1434,35 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Robert_A._Heinlein" target="_blank">Robert A. Heinlein</a>
 
+>“No reputable theologian, or rational believer for that matter, adheres strictly to Biblical morality. As everyone knows, believers pick and choose their morality from a smorgasbord of divine commands, both good and bad, in scripture. And doing that shows that you have a sense of right and wrong that doesn’t come from the Bible or God. Ergo, it comes from evolution and culture.”
+
+>“Anybody who claims that people don’t cherry-pick their morality from the Bible, choosing that which comports with their extra-Biblical notions of what’s good and bad, is simply blind.”
+
+>“When something in science is disproven it get tossed on the junkpile of bad ideas. When something in religion gets disproven it becomes a metaphor.”
+
+>“Science and religion, then, are competitors in the business of finding out what is true about our universe. In this goal religion has failed miserably, for its tools for discerning “truth” are useless. These areas are incompatible in precisely the same way, and in the same sense, that rationality is incompatible with irrationality.”
+
+>“Although this book deals with the conflict between religion and science, I see this as only one battle in a wider war—a war between rationality and superstition. Religion is but a single brand of superstition (others include beliefs in astrology, paranormal phenomena, homeopathy, and spiritual healing), but it is the most widespread and harmful form of superstition. And science is but one form of rationality (philosophy and mathematics are others), but it is a highly developed form, and the only one capable of describing and understanding reality.”
+
+>“I could go on, but the point is clear: religions make explicit claims about reality—about what exists and happens in the universe. These claims involve the existence of gods, the number of such gods (polytheism or monotheism), their character and behavior (usually loving and beneficent, but, in the case of Hindu and ancient Greek gods, sometimes mischievous or malevolent), how they interact with the world, whether or not there are souls or life after death, and, above all, how the deities wish us to behave—their moral code.<br>
+These are empirical claims, and although some may be hard to test, they must, like all claims about reality, be defended with a combination of evidence and reason. If we find no credible evidence, no good reasons to believe, then those claims should be disregarded, just as most of us ignore claims about ESP, astrology, and alien abduction. After all, beliefs important enough to affect you for eternity surely deserve the closest scrutiny.”
+
+>“Why, exactly, are scientists supposed to accord “respect” to a bunch of ancient fables that are not only ludicrous on their face, but motivate so much opposition to science?”
+
+>“Religion claims to help us understand things about the universe, but, unlike science has no way to test or verify its claims. Both science and religion compete to understand reality, but only science has the method to verify its findings, while religion merely buttresses emotional and epistemic commitments made in advance, commitments impervious to evidence.”
+
+>“Theology is the post hoc rationalization of what you want to believe.”
+
+>“I am SO tired of this trope. It may indeed be the case that we can’t justify a priori via philosophical lucubrations that we arrive at the truth about nature only by using the methods of science. My answer to that is increasingly becoming, “So bloody what?” The use of science is justified because it works, not because we can justify it philosophically. If we are interested in finding out what causes malaria, no amount of appeal to a deity, philosophical rumination, listening to music, reading novels, or waiting for a revelation will answer that question. We have to use scientific methods, which, of course, is how causes of disease are found.”
+
+>“The justification for naturalism is that it works: we have never understood anything about the universe by assuming the supernatural, while assuming naturalism as a working hypothesis has moved our understanding ever forward.”
+
+>“My claim is this: science and religion are incompatible because they have different methods for getting knowledge about reality, have different ways of assessing the reliability of that knowledge, and, in the end, arrive at conflicting conclusions about the universe. “Knowledge” acquired by religion is at odds not only with scientific knowledge, but also with knowledge professed by other religions. In the end, religion’s methods, unlike those of science, are useless for understanding reality.”
+
+>“In the end theologians are jealous of science, for they are aware that it has greater authority than do their own ways of finding “truth”: dogma, authority, and revelation. Science does find truth, faith does not.”
+
+― <a href="https://en.wikipedia.org/wiki/Jerry_Coyne" target="_blank">Jerry Coyne</a>
+
 >“I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidæ with the express intention of their feeding within the living bodies of caterpillars, or that a cat should play with mice.”
 
 >“**Animals whom we have made our slaves** we do not like to consider our equals. — Do not slave holders wish to make the black man other kind? — animals with affections, imitation, fear of death, pain, sorrow for the dead. — respect.”
