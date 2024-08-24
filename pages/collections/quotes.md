@@ -300,7 +300,7 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 >“General relativity is certainly a very **beautiful theory**, but how does one judge the elegance of physical theories generally?”
 
->“Two people pass each other on the street; and according to one of the two people, an Andromedean space fleet has already set off on its journey, while to the other, the decision as to whether or not the journey will actually take place has not yet been made. How can there still be some uncertainty as to the outcome of that decision? If to either person the decision has already been made, then surely there cannot be any uncertainty. The launching of the space fleet is an inevitability. In fact neither of the people can yet know of the launching of the space fleet. They can know only later, when telescopic observations from Earth reveal that the fleet is indeed on its way. Then they can hark back to that chance encounter, and come to the conclusion that at that time, according to one of them, the decision lay in the uncertain future, while to the other, it lay in the certain past. Was there then any uncertainty about that future? Or was the future of both people already "fixed"?”
+>“Two people pass each other on the street; and according to one of the two people, an Andromedean space fleet has already set off on its journey, while to the other, the decision as to whether or not the journey will actually take place has not yet been made. How can there still be some uncertainty as to the outcome of that decision? If to either person the decision has already been made, then surely there cannot be any uncertainty. The launching of the space fleet is an inevitability. In fact neither of the people can yet know of the launching of the space fleet. They can know only later, when telescopic observations from Earth reveal that the fleet is indeed on its way. Then they can hark back to that chance encounter, and come to the conclusion that at that time, according to one of them, the decision lay in the uncertain future, while to the other, it lay in the certain past. Was there then any uncertainty about that future? Or was the future of both people already "fixed"?” [<a href="https://en.wikipedia.org/wiki/Rietdijk%E2%80%93Putnam_argument#Andromeda_paradox" target="_blank">Andromeda argument</a>]
 
 >“One is left with the uneasy feeling that even if supersymmetry is actually false, as a feature of nature, and that accordingly no supersymmetry partners are ever found by the LHC or by any later more powerful accelerator, then the conclusion that some supersymmetry proponents might come to would not be that supersymmetry is false for the actual particles of nature, but merely that the level of supersymmetry breaking must be greater even that the level reached at that moment, and that a new even more powerful machine would be required to observe it!”
 
@@ -885,6 +885,16 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ### Philosophers
 
+>“And so it would seem that the **denial of the reality of time** is not so very paradoxical after all. It was called paradoxical because it seemed to contradict our experience so violently-to compel us to treat so much as illusion which appears *prima facie* to give knowledge of reality. But we now see that our experience of time-centring as it does about the specious present-would be no less illusory if there were a real time in which the realities we experience existed. The specious present of our observations - varying as it does from you to me-cannot correspond to the present of the events, observed. And consequently the past and future of our observations could not correspond to the past and future of the events observed. On either hypothesis - whether we take time as real or as unreal-everything is observed in a specious present, but nothing, not even the observations themselves, can ever be in a specious present. And in that case I do not see that we treat experience as much more illusory when we say that nothing is ever in a present at all, than when we say that everything passes through some entirely different present.
+>
+>Our conclusion, then, is that neither time as a whole, nor the [A series and B series](https://en.wikipedia.org/wiki/A_series_and_B_series){:target="_blank"}, really exist. But this leaves it possible that the C series does really exist. The A series was rejected for its inconsistency. And its rejection involved the rejection of the B series. But we have found no such contradiction in the C series, and its invalidity does not follow from the invalidity of the A series.
+>
+>It is, therefore, possible that the realities which we perceive as events in a time-series do really form a non-temporal series.<br>
+>...<br>
+>But the question whether such an objective C series does,exist, must remain for future discussion.”
+
+― <a href="https://en.wikipedia.org/wiki/J._M._E._McTaggart" target="_blank">J. M. E. McTaggart</a> [From the <a href="https://en.wikipedia.org/wiki/The_Unreality_of_Time" target="_blank">The Unreality of Time</a> (1908) paper][[PDF](https://www.jstor.org/stable/2248314){:target="_blank"}]
+
 >“All breathing, existing, living, **sentient** creatures should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away.”
 
 >“Kill not, cause no pain. Nonviolence (ahiṃsā) is the greatest religion.”
@@ -940,10 +950,6 @@ Ahimsa is the greatest friend, Ahimsa is the greatest happiness,<br>
 Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”[<a href="https://sacred-texts.com/hin/mbs/mbs13117.htm" target="_blank">13.117.37–38</a>]
 
 ― <a href="https://en.wikipedia.org/wiki/Mahabharata" target="_blank">Mahābhārata</a> 
-
->“And so it would seem that the **denial of the reality of time** is not so very paradoxical after all. It was called paradoxical because it seemed to contradict our experience so violently-to compel us to treat so much as illusion which appears *prima facie* to give knowledge of reality. But we now see that our experience of time-centring as it does about the specious present-would be no less illusory if there were a real time in which the realities we experience existed. The specious present of our observations-varying as it does from you to me-cannot correspond to the present of the events, observed. And consequently the past and future of our observations could not correspond to the past and future of the events observed. On either hypothesis-whether we take time as real or as unreal-everything is observed in a specious present, but nothing, not even the observations themselves, can ever be in a specious present. And in that case I do not see that we treat experience as much more illusory when we say that nothing is ever in a present at all, than when we say that everything passes through some entirely different present.”[From the <a href="https://en.wikipedia.org/wiki/The_Unreality_of_Time" target="_blank">The Unreality of Time</a> (1908) paper.]
-
-― <a href="https://en.wikipedia.org/wiki/J._M._E._McTaggart" target="_blank">J. M. E. McTaggart</a>
 
 >“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
 
