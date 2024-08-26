@@ -3,7 +3,7 @@ title: "An ontological argument for fundamental physics"
 date:   2024-07-10 10:15:00 +0530
 subheadline: ""
 category: non-physics
-tags:   [Metaphysics,Atheism,Epistemology,String theory,Important]
+tags:   [Metaphysics,Pantheism,Atheism,Epistemology,String theory,Important]
 image:
     thumb: 2024-07-10-thumb4.png
 script:
@@ -112,7 +112,7 @@ So, our conclusion is that the Theory of Everything (ToE) must exist in physical
 
 In the above pic from [The Road to Reality](https://en.wikipedia.org/wiki/The_Road_to_Reality){:target="_blank"}, Penrose talks about the "three worlds". What I believe is very similar except I removed the connection between the mental world and the Platonic mathematical world in his image. I believe that the physical world inherently depends on the Platonic mathematical world. Similarly, the mental world (which contains things like moral truths, colours, anger, love, etc) inherently depends on the physical world (and also the Platonic mathematical world). But the Platonic mathematical world ***doesn't*** depend on anything else.
 
-This post is very much in the spirit of [pantheism](https://en.wikipedia.org/wiki/Pantheism){:target="_blank"}, but it will be counterproductive to use the word "God" for an equation because, in religions, it is always used to mean a anthropomorphic god who thinks exactly like a tribalistic, immoral, primitive Stone Age man. Such a word will only tarnish the greatness of the laws of physics and should be considered pejorative. Einstein's biggest blunder was not the [cosmological constant incident](https://physics.stackexchange.com/a/696989/264772){:target="_blank"} but calling the laws of physics as God. Now, most people think he believed in a traditional anthropomorphic God instead of pantheism.
+This post is very much in the spirit of [pantheism](https://en.wikipedia.org/wiki/Pantheism){:target="_blank"}, but it will be counterproductive to use the word "God" for an equation because, in religions, it is always used to mean a anthropomorphic god who thinks exactly like a tribalistic, immoral, primitive Bronze Age man. Such a word will only tarnish the greatness of the laws of physics and should be considered pejorative. Einstein's biggest blunder was not the [cosmological constant incident](https://physics.stackexchange.com/a/696989/264772){:target="_blank"} but calling the laws of physics as God. Now, most people think he believed in a traditional anthropomorphic God instead of pantheism.
 
 ### Spacetime
 
@@ -246,4 +246,9 @@ Of course, for every philosophical claim, there will be reasonable, rational peo
 
 ― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
 
-<img src="{{site.baseurl}}/images/posts/Thank.png" width="500"/><br>
+>“The chief objection I have to Pantheism is that it says nothing. To call the world "God" is not to explain it; it is only to enrich our language with a superfluous synonym for the word "world".”
+
+― <a href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Arthur Schopenhauer</a>
+
+Years ago, like Schopenhauer, I thought Pantheism was nonsense, just like religions. As I said above, using the word "God" for the laws of physics will only tarnish the greatness of the laws of physics. In 2022, I understood that this semantic preference is not an argument against Pantheism and became a Pantheist. In the below [Another Day of Thanking God](https://knowyourmeme.com/memes/another-day-of-thanking-god){:target="_blank"} meme, I replaced the G-word.<br>
+<img src="{{site.baseurl}}/images/posts/Thank.png" width="500"/>
