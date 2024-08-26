@@ -895,14 +895,6 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/J._M._E._McTaggart" target="_blank">J. M. E. McTaggart</a> [From the <a href="https://en.wikipedia.org/wiki/The_Unreality_of_Time" target="_blank">The Unreality of Time</a> (1908) paper][[PDF](https://www.jstor.org/stable/2248314){:target="_blank"}]
 
->“All breathing, existing, living, **sentient** creatures should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away.”
-
->“Kill not, cause no pain. Nonviolence (ahiṃsā) is the greatest religion.”
-
->“Non-violence and kindness to living sentient beings is kindness to oneself.”
-
-― <a href="https://en.wikipedia.org/wiki/Mahavira" target="_blank">Mahāvīra</a> (599–527 BCE)
-
 >“**Desires** are the root cause of **suffering**.”[^suffering]
 
 >“I say that there are three instances in which meat should not be consumed: when it is seen, heard, or suspected [that the animal was killed for one’s sake]. These are the three instances in which I say that meat should not be consumed.”[^demand]
@@ -934,6 +926,14 @@ nor upon the consideration, The monk is our teacher (samaṇo no garū).<br>
 Kalamas, when you yourselves know: "These things are good; these things are not blamable; these things are praised by the wise; undertaken and observed, these things lead to benefit and happiness," enter on and abide in them.”[^logic]
 
 ― <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Siddhārtha Gautama</a>[^Gautama]
+
+>“All breathing, existing, living, **sentient** creatures should not be slain, nor treated with violence, nor abused, nor tormented, nor driven away.”
+
+>“Kill not, cause no pain. Nonviolence (ahiṃsā) is the greatest religion.”
+
+>“Non-violence and kindness to living sentient beings is kindness to oneself.”
+
+― <a href="https://en.wikipedia.org/wiki/Mahavira" target="_blank">Mahāvīra</a> (599–527 BCE)
 
 >“अहिंसा परमॊ धर्मः तथाहिंसा परॊ दमः।<br>
 अहिंसा परमं दानम् अहिंसा परमस तपः।<br>
@@ -2471,7 +2471,7 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 
 [^logic]: Taken from <a href="https://en.wikipedia.org/wiki/Kesamutti_Sutta" target="_blank">Kesamutti Sutta</a>. Often times some people people misinterpret this quote to portray Buddhism as a religion based on logic, even though Gautama stated that one should not determine the validity of a statement "by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought". Its certianly better than most religions, but protraying it as religion based on logic/rationality is disingenuous.
 
-[^Gautama]: His title "Buddha" (awakened one) was given two centuries after his death. His lived between 563–483 BCE. I am an atheist. I do not support the ***unscientific*** Buddhism. But I still think Siddhārtha Gautama was a good philosopher. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.
+[^Gautama]: His title "Buddha" (awakened one) was given two centuries after his death. He lived between 563–483 BCE. I am an atheist. I do not support the ***unscientific*** Buddhism. But I still think Siddhārtha Gautama was a good philosopher. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.
 
 [^Voltaire]: This statement is obviously wrong. The most precious gift is the Indian numeral system. It is often wrongly called as Arabic numeral system. Vedas are useless in comparison to the Indian numeral system.
 
