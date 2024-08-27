@@ -9,7 +9,7 @@ image:
 script:
   foot: bookmarklet.js
 ---
-I will argue that the miracles claimed as evidence by many religions are too insignificant and unimpressive compared to the grandiose size and scale of the universe. The miracles needed to justify a religion should be at least  [3-A: Universe level](https://character-level.fandom.com/wiki/Tiering_System#3-A:_Universe_level){:target="_blank"} feats like destroying all galaxies instantly and then recreating them. So, even in the unlikely case that the attributed miracles really happened, it is not rational to believe the claims made by those religions.<!--more-->
+I will argue that the miracles claimed as evidence by many religions are too insignificant and unimpressive compared to the grandiose size and scale of the universe. The miracles needed to justify a religion should be at least  [3-A: Universe level](https://vsbattles.fandom.com/wiki/Tiering_System#3-A:_Universe_level){:target="_blank"} feats like destroying all galaxies instantly and then recreating them. So, even in the unlikely case that the attributed miracles really happened, it is not rational to believe the claims made by those religions.<!--more-->
 
 >“No testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that **its falsehood would be more miraculous**, than the fact which it endeavours to establish.”
 
