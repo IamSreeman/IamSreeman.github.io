@@ -1855,6 +1855,10 @@ These are empirical claims, and although some may be hard to test, they must, li
 
 ― <a href="https://www.youtube.com/watch?v=dR1FCJS8DoM" target="_blank">Nun S. Amen Ra</a>
 
+>“There are more things in Heaven and Earth, Horatio, than are dreamt of in your philosophy.”
+
+― <a href="https://en.wikipedia.org/wiki/Prince_Hamlet" target="_blank">Hamlet</a>
+
 >“Work expands so as to fill the time available for its completion.”
 
 ― <a href="https://en.wikipedia.org/wiki/Parkinson%27s_law" target="_blank">Parkinson's law</a>
@@ -2277,7 +2281,11 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 ― <a href="https://ippo.fandom.com/wiki/Genji_Kamogawa" target="_blank">Genji Kamogawa</a>
 
-><img src="{{site.baseurl}}/images/other/Berserk.jpg" alt="Berserk" width="400"/><br>[Berserk episode 1]
+><img src="{{site.baseurl}}/images/other/Netero.jpg" alt="Isaac Netero" width="400"/><br>[Hunter × Hunter chapter 298]
+
+― <a href="https://hunterxhunter.fandom.com/wiki/Isaac_Netero" target="_blank">Isaac Netero</a>
+
+><img src="{{site.baseurl}}/images/other/Berserk.jpg" alt="Berserk" width="400"/><br>[[Berserk episode 1](https://berserk.fandom.com/wiki/Episode_1_(Manga)){:target="_blank"}]
 
 ― <a href="https://en.wikipedia.org/wiki/Kentaro_Miura" target="_blank">Kentaro Miura</a> 
 
