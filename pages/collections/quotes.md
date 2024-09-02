@@ -1341,9 +1341,11 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/John_Armstrong_(British_writer/philosopher)" target="_blank">John Armstrong</a>
 
->“I have seen a great people starving to death before my eyes [in India], and I am convinced that this exhaustion and starvation are due not, as their beneficiaries claim, to over-population and superstition, but to the most sordid and criminal exploitation of one nation by another in all recorded history. I propose to show that England has year by year been bleeding India to the point of death, and that self-government of India by the Hindus could not, within any reasonable probability, have worse results than the present form of alien domination.”
+>“I have seen a great people starving to death before my eyes [in India], and I am convinced that this exhaustion and starvation are due not, as their beneficiaries claim, to over-population and superstition, but to the **most sordid and criminal exploitation of one nation by another in all recorded history**. I propose to show that England has year by year been bleeding India to the point of death, and that self-government of India by the Hindus could not, within any reasonable probability, have worse results than the present form of alien domination.”
 
->“The British conquest of India was the **invasion and destruction of a high civilization by a trading company** (the British East India Company) utterly without scruple or principle, careless of art and greedy of gain, over-running with fire and sword a country temporarily disordered and helpless, bribing and murdering, annexing and stealing, and beginning that career of illegal and 'legal' plunder which has now (1930) gone on ruthlessly for one hundred and seventy-three years.”
+>“This, evidently was not a minor civilization, produced by inferior people. It ranks with the highest civilizations of history, and some, like Keyserling, would place it at the head and summit of all. The British conquest of India was the **invasion and destruction of a high civilization by a trading company** (the British East India Company) utterly without scruple or principle, careless of art and greedy of gain, over-running with fire and sword a country temporarily disordered and helpless, bribing and murdering, annexing and stealing, and beginning that career of illegal and 'legal' plunder which has now gone on ruthlessly for one hundred and seventy-three years.”[1930]
+
+>“India will teach us the tolerance and gentleness of mature mind, understanding spirit and a unifying, pacifying love for all human beings.”
 
 >“The Islamic conquest of India is probably the bloodiest story in history. It is a discouraging tale, for its evident moral is that civilization is a precious good, whose delicate complex of order and freedom, culture and peace, can at any moment be overthrown by barbarians invading from without or multiplying within.”
 
@@ -1351,11 +1353,19 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Will_Durant" target="_blank">Will Durant</a>
 
->“**Here (in my domain) no living beings are to be slaughtered or offered in sacrifice**. Formerly, in the kitchen of Beloved-of-the-Gods, King Piyadasi, hundreds of thousands of animals were killed every day to make curry. But now with the writing of this Dhamma edict only three creatures, two peacocks and a deer are killed, and the deer not always. And in time, not even these three creatures will be killed.”
+>“Ashoka, one of the great monarchs of history, whose dominions extended from Afghanistan to Madras... is the only military monarch on record who abandoned warfare after victory. He had invaded Kalinga (255 B.C.), a country along the east coast of Madras, perhaps with some intention of completing the conquest of the tip of the Indian peninsula. The expedition was successful, but he was disgusted by what be saw of the cruelties and horrors of war. He declared, in certain inscriptions that still exist, that he would no longer seek conquest by war, but by religion, and the rest of his life was devoted to the spreading of Buddhism throughout the world. He seems to have ruled his vast empire in peace and with great ability. **He was no mere religious fanatic. For eight and twenty years Asoka worked sanely for the real needs of men.** Amidst the tens of thousands of names of monarchs that crowd the columns of history, their majesties and graciousnesses and serenities and royal highnesses and the like, the name of Asoka shines, and shines, almost alone, a star. From the Volga to Japan his name is still honoured. China, Tibet, and even India, though it has left his doctrine, preserve the tradition of his greatness. More living men cherish his memory to-day than have ever heard the names of Constantine or Charlemagne.”
+
+>“In the history of the world there have been thousands of kings and emperors who called themselves "their highnesses," "their majesties," and "their exalted majesties" and so on. They shone for a brief moment, and as quickly disappeared. But Ashoka shines and shines brightly like a bright star, even unto this day.”
+
+― <a href="https://en.wikipedia.org/wiki/H._G._Wells" target="_blank">H. G. Wells</a> (He is not a philosopher but this quote is related to below quotes so given here)
+
+>“**Here (in my domain) no living beings are to be slaughtered or offered in sacrifice**. Formerly, in the kitchen of Beloved-of-the-Gods, King Piyadasi, hundreds of thousands of animals were killed every day to make curry. But now with the writing of this Dhamma edict only three creatures, two peacocks and a deer are killed, and the deer not always. And in time, not even these three creatures will be killed.”[[Major Rock Edict No.1](https://en.wikipedia.org/wiki/Edicts_of_Ashoka#Content_of_the_Edicts){:target="_blank"}]
+
+>“Wherever medical herbs suitable for humans or animals are not available, I have had them imported and grown. Wherever medical roots or fruits are not available I have had them imported and grown. Along roads I have had wells dug and trees planted for the benefit of humans and animals.”
 
 >“All men are my children. What I desire for my own children, and I desire their welfare and happiness both in this world and the next, that I desire for all men. You do not understand to what extent I desire this, and if some of you do understand, you do not understand the full extent of my desire.”
 
->“Wherever medical herbs suitable for humans or animals are not available, I have had them imported and grown. Wherever medical roots or fruits are not available I have had them imported and grown. Along roads I have had wells dug and trees planted for the benefit of humans and animals.”
+>“Beloved-of-the-Gods (I) thinks that even those who do wrong should be forgiven where forgiveness is possible.”
 
 >“Whoever praises his own religion, due to excessive devotion, and condemns others with the thought "Let me glorify my own religion," only harms his own religion.”
 
@@ -1838,10 +1848,6 @@ These are empirical claims, and although some may be hard to test, they must, li
 >
 >^ *Translates to* “There should be fear in life, but whole life should not become fear.”
 ― <a href="https://en.wikipedia.org/wiki/Rajinikanth" target="_blank">Rajinikanth</a>(From Basha movie)
-
->“Ashoka, one of the great monarchs of history, whose dominions extended from Afghanistan to Madras... is the only military monarch on record who abandoned warfare after victory. He had invaded Kalinga (255 B.C.), a country along the east coast of Madras, perhaps with some intention of completing the conquest of the tip of the Indian peninsula. The expedition was successful, but he was disgusted by what be saw of the cruelties and horrors of war. He declared, in certain inscriptions that still exist, that he would no longer seek conquest by war, but by religion, and the rest of his life was devoted to the spreading of Buddhism throughout the world. He seems to have ruled his vast empire in peace and with great ability. **He was no mere religious fanatic. For eight and twenty years Asoka worked sanely for the real needs of men.** In the history of the world there have been thousands of kings and emperors who called themselves "their highnesses," "their majesties," and "their exalted majesties" and so on. They shone for a brief moment, and as quickly disappeared. But Ashoka shines and shines brightly like a bright star, even unto this day.”
-
-― <a href="https://en.wikipedia.org/wiki/H._G._Wells" target="_blank">H. G. Wells</a>
 
 >“God only exists in people’s minds. Especially in Japan, God's always has been a kind of flexible concept. Look at what happened to the war. **Douglas MacArthur ordered the divine emperor to quit being a God, and he did**, making a speech saying he was just an ordinary person.”
 

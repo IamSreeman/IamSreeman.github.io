@@ -333,6 +333,7 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://www.youtube.com/watch?v=ctjzErxRkFQ" target="_blank">Ichigo vs Kenpachi</a><br>
 <a href="https://www.youtube.com/watch?v=fnQA-1qlgI4" target="_blank">The Nameless Monster</a><br>
 <a href="https://www.youtube.com/watch?v=olZAaf1_m5E" target="_blank">Legendary Battle Hiko Seijuro vs Fuji Japanese with english sub</a><br>
+<a href="https://www.youtube.com/watch?v=EEUGcVGNbXA" target="_blank">Lucy VS Nana - Elfen Lied</a><br>
 
 #### Recaps
 <a href="https://www.youtube.com/watch?v=hQagzXbyp9I" target="_blank">One Piece</a> or <a href="https://youtu.be/GxUxTtdkW2E" target="_blank">this</a><br>
