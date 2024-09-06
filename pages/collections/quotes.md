@@ -380,7 +380,7 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 >“I was born not knowing and have had only a **little time** to change that here and there.”
 
->“What one fool could understand, another can.”
+>“The power of mathematics is terrifying – and too many physicists finding they have the correct equations without understanding them have been so terrified they give up trying to understand them. I want to go back & try to understand them. What do I mean by understanding? Nothing deep or accurate — just to be able to see some of the qualitative consequences of the equations by some method other than solving them in detail.”
 
 >“From a long view of the history of mankind — seen from, say, ten thousand years from now — there can be little doubt that the most significant event of the 19th century will be judged as Maxwell's discovery of the laws of electrodynamics. The American Civil War will **pale** into provincial insignificance in comparison with this important scientific event of the same decade.”
 
@@ -1228,6 +1228,8 @@ And share your pleasures with beggars.”
 ― <a href="https://en.wikipedia.org/wiki/Baruch_Spinoza" target="_blank">Baruch Spinoza</a>
 
 >“For if the moral law commands that we ought to be better human beings now, it inescapably follows that we must be capable of being better human beings.”[<a href="https://en.wikipedia.org/wiki/Ought_implies_can" target="_blank">Ought implies can</a>]
+
+>“I freely confess: it was the objection of David Hume that first, many years ago, interrupted my **dogmatic slumber**.”
 
 >“Religion is too important a matter to its devotees to be a **subject of ridicule**. If they indulge in absurdities, they are to be **pitied** rather than ridiculed.”
 
