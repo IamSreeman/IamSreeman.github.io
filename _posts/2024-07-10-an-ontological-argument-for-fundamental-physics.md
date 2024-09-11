@@ -42,6 +42,8 @@ In this post, I will argue that the ontological argument explains the existence 
 - [Criticism by Graham Oppy and my reply](#criticism-by-graham-oppy-and-my-reply)
 - [Conclusion](#conclusion)
 
+**Note**: I thought I had recently proposed this argument. But on [4th October 2021](http://www.wall.org/~aron/blog/comparing-religions-v-historical-accounts/#comment-2651147){:target="_blank"}, I already posted this as a comment in a blog post by Aron Wall.
+
 ## Introduction
 
 I will try to make a nonrigorous argument just like the original one by [Anselm of Canterbury](https://en.wikipedia.org/wiki/Ontological_argument#Anselm){:target="_blank"}. I will mention [at the end](#rigour) about a possible rigorous version like [Gödel's ontological argument](https://en.wikipedia.org/wiki/G%C3%B6del%27s_ontological_proof){:target="_blank"}.
@@ -78,7 +80,7 @@ References:
 1. [Ontological argument - RationalWiki](https://rationalwiki.org/wiki/Ontological_argument){:target="_blank"}
 1. Graham Oppy's Ontological Arguments and Belief in God (1996 book) [amazon](https://www.amazon.in/Ontological-Arguments-Belief-Graham-Oppy/dp/0521481201){:target="_blank"} or [philpapers.org](https://philpapers.org/rec/OPPOAA-2){:target="_blank"}
 
-I only read the first 3. From 2021, I wanted to read [Graham Oppy](https://en.wikipedia.org/wiki/Graham_Oppy){:target="_blank"}'s ("the most formidable defender of atheism living today") book but never got time. From mid 2023, I started believing that the ontological argument works only for the laws of physics and not for the [Abrahamic god](https://en.wikipedia.org/wiki/God_in_Abrahamic_religions){:target="_blank"}.
+I only read the first 3. From 2021, I wanted to read [Graham Oppy](https://en.wikipedia.org/wiki/Graham_Oppy){:target="_blank"}'s ("the most formidable defender of atheism living today") book but never got time.
 
 >“Superstring Theory and its non-perturbative completions (M- and F-theory) enjoy a unique status in the twin realms of physical theories and mathematical constructs. It may be argued that it is the universal entity in both realms. For this reason, Superstring Theory is also known as the Theory of Everything (TOE).
 >
@@ -99,7 +101,7 @@ Note that even before we know the existence of any physical entity, we know that
 1. Assume ToE does not exist physically.
 1. "ToE" is defined as "the greatest entity in the Mathematical Platonic Realm". (<span style="color:green">definition</span>)
 1. "The greatest entity in the Mathematical Platonic Realm" must, therefore, not exist physically and exist only Platonically. (from 1 & 2).
-1. If "the greatest entity in the Mathematical Platonic Realm" were to exist in physical reality as well as in Platonic Mathematics, it would be even "greater". (<span style="color:red">assumption</span>)
+1. If "the greatest entity in the Mathematical Platonic Realm" were to exist in physical reality as well as in Platonic Mathematics, it would be even "greater". (<span style="color:red">assumption</span> or <span style="color:red">premise</span>)
 1. But that would mean "the greatest entity in the Mathematical Platonic Realm" is not actually the "greatest" entity in the Mathematical Platonic Realm since it could be even "greater". (from 3 & 4).
 1. "The greatest entity in the Mathematical Platonic Realm" must exist in both Platonic Mathematics and also in physical reality for it to be the "greatest" entity in the Mathematical Platonic Realm.
 1. Therefore 1 & 2 are inconsistent.
@@ -208,7 +210,7 @@ My main argument says that the ToE must exist in physical reality. Now, it follo
 Quine–Putnam indispensability argument
 ](https://en.wikipedia.org/wiki/Quine%E2%80%93Putnam_indispensability_argument){:target="_blank"} which argues for the existence of the mathematical Platonic realm based on its indispensability to science. In our context since only worlds governed by string/M-theory are possible worlds it means that the set of possible worlds and the set of actual worlds both coincide with the [string theory landscape](https://en.wikipedia.org/wiki/String_theory_landscape){:target="_blank"}.
 
-[Swampland (physics)](https://en.wikipedia.org/wiki/Swampland_(physics)){:target="_blank"} is the set of (apparently) consistent effective field theories that cannot be UV completed into quantum gravity. Similarly, we can define ***Swampland (philosophy)*** as the set of (naively) consistent-looking [possible worlds](https://en.wikipedia.org/wiki/Possible_world){:target="_blank"} that are not actually consistent. The former Swampland is contained in the latter. Everything outside of the string theory landscape is contained in Swampland (philosophy), including theism, non-theistic supernatural religions that are compatible with atheism like Buddhism, pseudoscience, nonreligious supernatural beliefs, etc.
+[Swampland (physics)](https://en.wikipedia.org/wiki/Swampland_(physics)){:target="_blank"} is the set of (apparently) consistent effective field theories that cannot be UV completed into quantum gravity. Similarly, we can define ***Swampland (philosophy)*** as the set of (naively) consistent-looking [possible worlds](https://en.wikipedia.org/wiki/Possible_world){:target="_blank"} that are not actually consistent. The former Swampland is contained in the latter. Everything outside of the string theory landscape is contained in Swampland (philosophy), including theism, non-theistic supernatural religions that are compatible with atheism like Buddhism & Jainism, pseudoscience, nonreligious supernatural beliefs, etc.
 
 ## Rigour
 
