@@ -144,8 +144,9 @@ This is not an important reason. I am mentioning it here because a lot of insecu
 <img src="{{site.baseurl}}/images/other/memes/v/40.png" width="500"/><br>
 
 #### Resources
-
-- [3movies](https://3movies.org/social){:target="_blank"}
+- [3minutes.wtf](https://3minutes.wtf/){:target="_blank"}
+- [3movies.org](https://3movies.org/social){:target="_blank"}
+- [3movies.wtf](https://3movies.wtf/){:target="_blank"}
 - [Vegan Cheat Sheet](https://vegancheatsheet.org){:target="_blank"}
 - [Vegan Starter Kit](https://www.vegankit.com/){:target="_blank"}
 - [Abolitionist Approach](https://www.abolitionistapproach.com/){:target="_blank"}

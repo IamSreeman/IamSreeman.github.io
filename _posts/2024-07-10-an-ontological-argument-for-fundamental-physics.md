@@ -157,8 +157,8 @@ We generally don't know any explanation for why [fundamental dimensionless const
 Again, let's compare General Relativity vs Horndeski's theory. The former has no fundamental dimensionless constants, and the latter has many arbitrary functions whose Taylor expansion contains many fundamental dimensionless constants.
 
 Perturbative string theory has only 1 fundamental dimensionless constant, the string length in the Planck units (the string coupling constant is also a fundamental dimensionless constant, but it is not independent. One of these 2 will automatically give the other. When we say small coupling constant, it means the same as large string length in the Planck units). But [M-theory](https://en.wikipedia.org/wiki/M-theory){:target="_blank"} (non-perturbative string theory) has ***no fundamental dimensionless constant***, just like GR. The string coupling and the string length are given by 
-$$g_{\mathrm{s}}=\left(\dfrac{R_{10}}{\ell_{P}}\right)^{3 / 2}\quad \text{and}\quad\ell_{s}=\ell_{P}\left(\dfrac{R_{10}}{\ell_{P}}\right)^{-1 / 2}$$
-where $\ell_{P}$ is the 11D Plack length and $R_{10}$ is the radius of the dimension that we compactify to get type IIA string theory.
+$$g_{\mathrm{s}}=\left(\dfrac{R_{11}}{\ell_{P}}\right)^{3 / 2}\quad \text{and}\quad\ell_{s}=\ell_{P}\left(\dfrac{R_{11}}{\ell_{P}}\right)^{-1 / 2}$$
+where $\ell_{P}$ is the 11D Plack length and $R_{11}$ is the radius of the dimension that we compactify to get type IIA string theory.
 
 ### Uniqueness
 
@@ -239,6 +239,10 @@ This is all in (the empirically established) general relativity. Quantum gravity
 ***Random note***: For W. L. Craig's [Kalam cosmological argument](https://en.wikipedia.org/wiki/Kalam_cosmological_argument){:target="_blank"}, an objection that I have never seen is that he is applying a version of causality that is invalid at the [initial singularity](https://en.wikipedia.org/wiki/Initial_singularity){:target="_blank"}. When we are somewhat far from singularities, the quantum gravity fluctuations in light cones will be small and are described by the effective field theory approaximation of quantum gravity ([arXiv:2106.05912](https://arxiv.org/abs/2106.05912){:target="_blank"}). But, as we go near singularities (order of Planck length ($1.6\times 10^{-35}m$) from black hole singularities or order of Planck time ($5.4\times 10^{-44}s$) from initial singularities), these fluctuations increase and depend on a particlaur quantum gravity theory. Calculations near the singularities have not yet been done in any of the proposed theories. The causal structure at the Planck scale might be much weirder than we currently expect. So, Craig’s premises are unfounded.
 
 ## Conclusion
+
+>“There is greater mathematics in Nature, Horatio, than is dreamt of in your Mathematics department.”
+
+― Pantheist <a href="https://en.wikipedia.org/wiki/Prince_Hamlet" target="_blank">Hamlet</a>
 
 I hope you are convinced that the ontological argument is not talking about some supernatural conscious entity, but it is actually telling us that the necessary entity is nothing but the fundamental law of physics. In the previous section, I even explained that this argument works without Mathematical Platonism.
 
