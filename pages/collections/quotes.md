@@ -775,6 +775,8 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 >“Whether ... there are any odd perfect numbers is a most difficult question.”
 
+>“Now I will have less distraction.” [Upon losing the use of his right eye]
+
 ― <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" target="_blank">Leonhard Euler</a>
 
 >“I had no need of that hypothesis.” [When <a href="https://en.wikipedia.org/wiki/Napoleon" target="_blank">Napoleon</a> said “Laplace, they tell me you have written this large book on the system of the universe, and have never even mentioned its Creator”]
@@ -1258,6 +1260,8 @@ And share your pleasures with beggars.”
 >“I wonder why, human beings throughout the world don’t see this simple fact, that you cannot possibly have peace on earth if you are nationalistically divided. **Nationalism is merely the glorification of tribalism**, and every politician right throughout the world maintains this tribalism, this division. This has been the history of mankind, and nobody has applied his mind and said, 'Look, let's stop all this!'” [<a href="https://www.youtube.com/watch?v=RRQgExLkYEk" target="_blank">YouTube</a>]
 
 >“It is no measure of health to be well adjusted to a profoundly sick society.”
+
+>“As long as there is this central entity with its self-centred activity, which is desire, attachment, greed, you will always have fear.”
 
 >“Superstition is another mighty evil, and has caused much terrible cruelty. **The man who is a slave to it despises others who are wiser, tries to force them to do as he does**. Think of the **awful slaughter** produced by the superstition that animals should be sacrificed, and by the still more cruel superstition that man needs flesh for food. Think of the treatment which superstition has meted out to the depressed classes in our beloved India, and see in that how this evil quality can breed heartless cruelty even among those who know the duty of brotherhood. Many crimes have men committed in the name of the God of Love, moved by this nightmare of superstition; be very careful therefore that no slightest trace of it remains in you.”
 

@@ -314,6 +314,7 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://www.youtube.com/watch?v=6CPJMrj2f30" target="_blank">Luffy Declares War on the World</a><br>
 <a href="https://www.youtube.com/watch?v=64r8jZ6rOmQ" target="_blank">Ace is saved by luffy</a><br>
 <a href="https://www.youtube.com/watch?v=dzLMD-iYkaY" target="_blank">Whitebeard vs Akainu</a><br>
+<a href="https://www.youtube.com/watch?v=km2OPUctni4" target="_blank">Saitama vs Genos</a><br>
 <a href="https://www.youtube.com/watch?v=85Jl0OZ5ENI" target="_blank">Saitama vs Deep Sea King</a><br>
 <a href="https://www.youtube.com/watch?v=afB7UHyn4ik" target="_blank">Ergo Proxy - Vincent jumps off the ledge...</a><br>
 <a href="https://www.youtube.com/watch?v=pQLNFpLcqH0" target="_blank">Senku accidentally found his father's recording CD</a><br>
