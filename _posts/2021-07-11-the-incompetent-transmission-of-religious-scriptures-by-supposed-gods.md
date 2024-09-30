@@ -16,8 +16,6 @@ Assuming that the gods of monotheism and polytheism are competent, I will argue 
 - [Abrahamic  religions](#abrahamic-religions)
 - [Nontheistic religions](#nontheistic-religions)
 
-**Note**: The crux of this argument was made by me on [11th July 2021](http://www.wall.org/~aron/blog/comparing-religions-v-historical-accounts/#comment-2650665){:target="_blank"} as a comment on a post by Aron Wall. But this post is written in 2024.
-
 ## Introduction
 
 The problem of evil is a very powerful argument against monotheism. Abrahamic theologians' least absurd solution for this is Plantinga’s free will defense. But there are many [natural evils](https://en.wikipedia.org/wiki/Problem_of_evil#Natural_evil){:target="_blank"}, like tornados, floods, etc, that are not caused by any person's free will. Plantinga claims that even these are caused by Satan's free will. It is very absurd to make such *ad hoc* claims with no evidence. Why a god respects the free will of Satan more than all the natural suffering endured by sentient beings remains unanswered.
@@ -72,3 +70,5 @@ Buddhism and Jainism consider the gods of Hinduism as mere people with supernatu
 In these religions, people like [Siddhārtha Gautama](https://en.wikipedia.org/wiki/Gautama_Buddha), [Mahāvīra](https://en.wikipedia.org/wiki/Mahavira), etc are not considered gods. The message of Siddhārtha is very different from the message of the Abrahamic god. The Abrahamic god will torture anyone who doesn't believe in his message for infinite time and yet he irresponsibly sent this message in an extremely incompetent way. The message of Siddhārtha was a method for people to escape the cycle of rebirth and suffering. Siddhārtha didn't claim to be an omnipotent being so his inability to share this information in a way that everyone on earth can find it is not his mistake.
 
 So, my argument doesn't work for nontheistic religions. But it does seem to work for all theistic religions, at least in this sense it is better than the problem of evil which only explains the nonexistence of the Abhrahimc god but can't explain the nonexistence of the other theistic gods.
+
+**Note**: The crux of this argument was made by me on [11th July 2021](http://www.wall.org/~aron/blog/comparing-religions-v-historical-accounts/#comment-2650665){:target="_blank"} as a comment on a post by Aron Wall. But this post is written in 2024.
