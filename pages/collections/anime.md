@@ -296,6 +296,7 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://www.youtube.com/watch?v=-4PcHYCgXtc&t=4s" target="_blank">Guts tells you that you’re gonna be alright</a><br>
 <a href="https://www.youtube.com/watch?v=5vWqnKhQhUM" target="_blank">Goku goes Super Saiyan 3</a><br>
 <a href="https://www.youtube.com/watch?v=StcXp_hP0Ss" target="_blank">Code Geass Finale</a><br>
+<a href="https://www.youtube.com/watch?v=0rxN2iYYCPU" target="_blank">Legend of the Galactic Heroes - Westerland</a>[^WesterlandMassacre]<br>
 <a href="https://www.youtube.com/watch?v=Y83dmIBMRp4" target="_blank">Hollow Ichigo vs Byakuya Kuichki</a><br>
 <a href="https://www.youtube.com/watch?v=KMJEmCqMcYE" target="_blank">Itachi</a><br>
 <a href="https://www.youtube.com/watch?v=8TFAGAyLzcg" target="_blank">All-Might vs. Noumu</a><br>
@@ -303,7 +304,6 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://www.youtube.com/watch?v=9PTzJ9EveMs" target="_blank">Death Note - Naomi Misora's Death</a><br>
 <a href="https://www.youtube.com/watch?v=vvpD71TX4Eo" target="_blank">Hashirama Senju Sage Art 1000 Armed Kan'on</a><br>
 <a href="https://www.youtube.com/watch?v=aCFXvoJKEPM" target="_blank">Jotaro vs Kira</a><br>
-<a href="https://www.youtube.com/watch?v=0rxN2iYYCPU" target="_blank">Legend of the Galactic Heroes - Westerland</a><br>
 <a href="https://www.youtube.com/watch?v=OldVocgLbEs" target="_blank">Johann's Death?</a><br>
 <a href="https://www.youtube.com/watch?v=8Z3E1pSYQKM" target="_blank">Tanjiro meets Muzan</a><br>
 <a href="https://www.youtube.com/watch?v=AOliV8yiaOg" target="_blank">Fate Zero - Kiritsugu destroys plane</a><br>
@@ -352,4 +352,6 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://www.youtube.com/watch?v=isM-r6B1wz4" target="_blank">When People Take Anime Too Far</a><br>
 <a href="https://www.youtube.com/watch?v=yhAeVfpy_Mo" target="_blank">every anime</a><br>
 
-[^DragonBall]: I thought of making this page a long time ago. Today(26-Feb-21) I felt like making this. And I found out just before making this page that, exactly 35 years ago on this day Dragon Ball 1st episode was aired. Irrespective of that coincidence the opening of the 1st Dragon Ball episode would have been the 1st one on this list.
+[^DragonBall]: I thought of making this page a long time ago. Today (26-Feb-21), I felt like making this. And I found out just before making this page that, exactly 35 years ago, Dragon Ball's 1st episode was aired on this day. Irrespective of that coincidence, the opening of the 1st Dragon Ball episode would have been the 1st one on this list. By age 7, I was already a big fan of Dragon Ball.
+
+[^WesterlandMassacre]: My most common daydream is similar to the [Westerland Massacre](https://gineipaedia.com/wiki/Westerland_Massacre){:target="_blank"}. If I were a galactic dictator like Reinhard von Lohengramm and if I had to sacrifice a few million people to save a few billion people, would that be justified? Unlike staunch deontologists like Kant, I think deontology is nonsense after a threshold, and we must use utilitarianism.

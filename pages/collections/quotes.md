@@ -1123,6 +1123,12 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/G._E._Moore" target="_blank">G. E. Moore</a>
 
+>“It is within science itself, and not in some prior philosophy, that reality is to be identified and described.”
+
+>“Possibly, but my concern is that there not be more things in my philosophy than are in heaven and earth.”
+
+― <a href="https://en.wikipedia.org/wiki/Willard_Van_Orman_Quine" target="_blank">Willard Van Orman Quine</a>
+
 >“All of us, I believe, are fortunate to have been born.”
 
 >“There are elements which, if added to one's experience, make life better; there are other elements which if added to one's experience, make life worse. But what remains when these are set aside is not merely neutral: it is emphatically positive. ... The additional positive weight is supplied by experience itself, rather than by any of its consequences.”
