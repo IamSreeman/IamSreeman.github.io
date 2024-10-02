@@ -200,6 +200,8 @@ There is another different criticism from existentialism about why God shouldn't
 
 Religions that claim an omnipotent and omnibenevolent God will suffer from the [problem of evil](https://en.wikipedia.org/wiki/Problem_of_evil){:target="_blank"}. If you are as powerful as Superman or Goku, then when you see someone getting murdered with a gun, you have a moral obligation to stop because you have no danger with a mere gun. Similarly, God is obligated to help everyone and ensure no evil ever happens.
 
+**Moral Agents**: Only sapient beings (i.e., able to think abstractly) are moral agents. Nonsapient beings cannot be morally judged. Sentient nonhuman animals are, therefore, not moral agents. Similarly, the theory of everything is not a moral agent as it not only lacks sapience but also sentience and consciousness.
+
 Evil can be easily explained within naturalism. The ToE is neither moral nor immoral. It is an [amoral](https://en.wikipedia.org/wiki/Amorality){:target="_blank"} entity. Therefore, there is no problem of evil.
 
 ## Modal realism
@@ -232,7 +234,7 @@ I asked [Graham Oppy](https://en.wikipedia.org/wiki/Graham_Oppy){:target="_blank
 
 <img src="{{site.baseurl}}/images/posts/Light_cones_near_black_hole.png" width="300"/><br>
 
-This is all in (the empirically established) general relativity. Quantum gravity is not yet understood, but the causal structure of quantum gravity will be even weirder. I wouldn't be surprised if weird things like [Retrocausality](https://en.wikipedia.org/wiki/Retrocausality){:target="_blank"} happen at the Planck scale. The below picture from [The Road to Reality](https://en.wikipedia.org/wiki/The_Road_to_Reality){:target="_blank"} compares the causal structure of quantum gravity theories. Many proposed quantum gravity theories have fuzzy light cones like (a), but Penrose's Twistor theory has (b). So, since causality itself depends on a specific quantum gravity theory, I think it is ***appropritate*** to say that the laws of physics "govern" physical phenomena.
+This is all in (the empirically established) general relativity. Quantum gravity is not yet understood, but the causal structure of quantum gravity will be even weirder. I wouldn't be surprised if weird things like [Retrocausality](https://en.wikipedia.org/wiki/Retrocausality){:target="_blank"} happen at the Planck scale. The below picture from [The Road to Reality](https://en.wikipedia.org/wiki/The_Road_to_Reality){:target="_blank"} compares the causal structure of quantum gravity theories. Many proposed quantum gravity theories have fuzzy light cones like (a), but Penrose's Twistor theory has (b). So, since causality itself depends on a specific quantum gravity theory, I think it is ***appropriate*** to say that the laws of physics "govern" physical phenomena.
 
 <img src="{{site.baseurl}}/images/posts/Twistor.png" width="300"/><br>
 
