@@ -41,6 +41,7 @@ My philosophical beliefs
     - [The Unreasonable Effectiveness of Mathematics in the Natural Sciences (1960) Eugene Wigner](https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences){:target="_blank"}
     - [On Denoting (1905) Bertrand Russell](https://en.wikipedia.org/wiki/On_Denoting){:target="_blank"} (also [this](https://plato.stanford.edu/entries/descriptions/){:target="_blank"})
     - [Two Dogmas of Empiricism (1951) Willard Van Orman Quine](https://en.wikipedia.org/wiki/Two_Dogmas_of_Empiricism){:target="_blank"}
+    - [Famine, Affluence, and Morality (1971) Peter Singer](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality){:target="_blank"}
     - [What Is It Like to Be a Bat? (1974) Thomas Nagel](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F){:target="_blank"}
     - [Quine–Putnam indispensability argument](https://en.wikipedia.org/wiki/Quine%E2%80%93Putnam_indispensability_argument){:target="_blank"}  (also [1](https://iep.utm.edu/indimath/){:target="_blank"}, [2](https://plato.stanford.edu/entries/mathphil-indis/){:target="_blank"})
     - [Newcomb's paradox](https://en.wikipedia.org/wiki/Newcomb%27s_paradox){:target="_blank"}
