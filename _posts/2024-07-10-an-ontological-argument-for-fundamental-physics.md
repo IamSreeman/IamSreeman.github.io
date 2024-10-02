@@ -21,7 +21,7 @@ script:
 <script type="text/javascript"
         src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-In this post, I will argue that the ontological argument explains the existence of the fundamental law of physics, i.e., a Theory of Everything. So, this will be a reasonably satisfying solution to the fundamental question of metaphysics: [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F){:target="_blank"} I will argue that the fundamental law of physics is a ***logically necessary entity***, and after its existence is justified, all things physical will follow from it.
+In this post, I will argue that the ontological argument explains the existence of the fundamental law of physics, i.e., a Theory of Everything. So, this will be a reasonably satisfying solution to the fundamental question of metaphysics: [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F){:target="_blank"} I will argue that the fundamental law of physics is a ***logically necessary entity***, and after its existence is justified, all things physical will follow from it. The Theory of Everything is the only mathematical entity whose existence is uplifted into the physical reality.
 <!--more-->
 
 - [Introduction](#introduction)
