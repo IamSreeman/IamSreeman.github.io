@@ -232,7 +232,7 @@ I asked [Graham Oppy](https://en.wikipedia.org/wiki/Graham_Oppy){:target="_blank
 
 <img src="{{site.baseurl}}/images/posts/Light_cones_near_black_hole.png" width="300"/><br>
 
-This is all in (the empirically established) general relativity. Quantum gravity is not yet understood, but the causal structure of quantum gravity will be even weirder. The below picture from  [The Road to Reality](https://en.wikipedia.org/wiki/The_Road_to_Reality){:target="_blank"} compares the causal structure of quantum gravity theories. Many proposed quantum gravity theories have fuzzy light cones like (a), but Penrose's Twistor theory has (b). So, since causality itself depends on a specific quantum gravity theory, I think it is ***appropritate*** to say that the laws of physics "govern" physical phenomena.
+This is all in (the empirically established) general relativity. Quantum gravity is not yet understood, but the causal structure of quantum gravity will be even weirder. I wouldn't be surprised if weird things like [Retrocausality](https://en.wikipedia.org/wiki/Retrocausality){:target="_blank"} happen at the Planck scale. The below picture from [The Road to Reality](https://en.wikipedia.org/wiki/The_Road_to_Reality){:target="_blank"} compares the causal structure of quantum gravity theories. Many proposed quantum gravity theories have fuzzy light cones like (a), but Penrose's Twistor theory has (b). So, since causality itself depends on a specific quantum gravity theory, I think it is ***appropritate*** to say that the laws of physics "govern" physical phenomena.
 
 <img src="{{site.baseurl}}/images/posts/Twistor.png" width="300"/><br>
 
