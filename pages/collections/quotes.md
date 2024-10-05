@@ -500,6 +500,8 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 ― <a href="https://en.wikipedia.org/wiki/Michael_Peskin" target="_blank">Michael Peskin</a>
 
+>“To me, it's implausible that humans stumbled by accident on such an incredible structure that sheds so much light on established physical theories, and also on so many different branches of mathematics, and that it's all an accident and it has nothing to do with real world.”
+
 >“I don't think that any physicist would have been clever enough to have invented string theory on purpose... Luckily, it was invented by accident.”
 
 >“String theory is extremely attractive because gravity is forced upon us. All known consistent string theories include gravity, so while gravity is impossible in quantum field theory as we have known it, it is obligatory in string theory.”

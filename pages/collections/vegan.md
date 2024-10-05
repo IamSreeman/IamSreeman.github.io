@@ -32,6 +32,7 @@ This page contains reasons why I made this decision and also some resources if y
 >    - [World hunger](#world-hunger)
 >    - [Holocene extinction](#holocene-extinction)
 >    - [Antibiotic resistance](#antibiotic-resistance)
+>    - [Sexism](#sexism)
 >    - [Hormones](#hormones)
 > 
 >2. [Resources](#resources)
@@ -133,6 +134,22 @@ But I should add that there is a difference between suffering in vivisection and
 ##### Antibiotic resistance
 - Worldwide an estimated 73% of antimicrobials (mainly antibiotics) are consumed by ***farm animals***. As resistance to antibiotics becomes more common there is greater need for alternative treatments. Calls for new antibiotic therapies have been issued, but new drug development is becoming rarer. [Source](https://en.wikipedia.org/wiki/Antimicrobial_resistance){:target="_blank"}
 
+##### Sexism
+
+Apart from the rampant speciesism, animal agriculture is also an institutionalized form of sexism where different sexes are tortured differently.
+
+- Both the dairy industry and the egg industry sell products that are the direct result of the abuse of female reproductive organs. The dairy industry keeps forcefully (artificially) impregnating the cows. The egg industry artificially makes chickens lay eggs daily instead of the natural monthly.
+- This sexism is not exclusive to female sentient beings. Male chicks are grinded alive in the egg industry. Male calves are killed for veal as they cannot be forcefully (artificially) impregnated.
+
+<img src="{{site.baseurl}}/images/other/EggsPerYear.jpg" width="500"/>
+<img src="{{site.baseurl}}/images/other/ChickCulling.jpg" width="500"/>
+<br>
+
+
+>“I coined the term **feminized protein** for eggs and dairy products: plant protein **produced through the abuse of the reproductive cycle of female animals**. Feminized protein is taken from living female animals, whose reproductive capacity is manipulated for human needs. The unique situation of domesticated female animals required its own term: a ***sexual slavery*** with chickens in battery cages and dairy cows hooked up to milking machines. … The radical truth is that people can be perfectly happy as vegans, but the dominant culture can’t or won’t acknowledge this. …”
+
+― <a href="https://en.wikipedia.org/wiki/Carol_J._Adams" target="_blank">Carol J. Adams</a><span style="color:Chartreuse">(feminist and animal rights advocate)</span>
+
 ##### Hormones
 
 This is not an important reason. I am mentioning it here because a lot of insecure conservative men believe in the conspiracy that vegans have less testosterone and are not manly.
@@ -231,6 +248,7 @@ Example video:<br>
 ##### Videos
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSpglxHTJVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UcN7SGGoCNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/utPkDP3T7R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LQRAfJyEsko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nV04zyfLyN4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Jf44vLndiRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -238,7 +256,6 @@ Example video:<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gnQL-brI-9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/roIWg4ntj9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/es6U00LMmC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/utPkDP3T7R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Other
 - [Vegan sidekick](http://tinyurl.com/vegansidekick)
