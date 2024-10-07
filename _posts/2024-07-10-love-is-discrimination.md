@@ -36,7 +36,7 @@ This is the first one that <a href="https://vinlandsaga.fandom.com/wiki/Canute" 
 
 ## Significant other
 
-This was the second one that Canute mentioned. Even long ago, I thought that for most people, the top criteria for selecting their significant other is how they look, and that felt discriminatory. I couldn't articulate what type of discrimination it is until I first read [Is It Bad to Prefer Attractive Partners? by William D'Alessandro](https://philarchive.org/rec/DALIIB){:target="_blank"} more than a year ago. I understood that this discrimination is called [lookism](https://en.wikipedia.org/wiki/Lookism){:target="_blank"}. I strongly recommend you to read that paper. But in short, the criterion that that a person's face looks aesthetically attractive is a very arbitrary form of discrimination. Recall that we humans can only see a small fraction of the electromagnetic spectrum. What we see is an approximation but not the [thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself){:target="_blank"}, as Kant would call it. How one looks is really irrelevant. How one looks is also largely determined by one's genetics and how rich they are so that one can afford luxuries like makeup. How compassionate or how intelligent a person is is more important.
+This was the second one that Canute mentioned. Even long ago, I thought that for most people, the top criteria for selecting their significant other is how they look, and that felt discriminatory. I couldn't articulate what type of discrimination it is until I first read [Is It Bad to Prefer Attractive Partners? by William D'Alessandro](https://philarchive.org/rec/DALIIB){:target="_blank"} more than a year ago. I understood that this discrimination is called [lookism](https://en.wikipedia.org/wiki/Lookism){:target="_blank"}. It seems everyone that is not blind has this prejudice. I strongly recommend you to read that paper. But in short, the criterion that that a person's face looks aesthetically attractive is a very arbitrary form of discrimination. Recall that we humans can only see a small fraction of the electromagnetic spectrum. What we see is an approximation but not the [thing-in-itself](https://en.wikipedia.org/wiki/Thing-in-itself){:target="_blank"}, as Kant would call it. How one looks is really irrelevant. How one looks is also largely determined by one's genetics and how rich they are so that one can afford luxuries like makeup. How compassionate or how intelligent a person is is more important.
 
 Lookism is not the only discrimination that is involved in choosing a person's significant other. How wealthy, influential, politically powerful, etc., is also considered.
 
@@ -78,7 +78,7 @@ Some people consider their companion animals as property, which violates the [ri
 
 Another routine discrimination in companion animals (even among those who consider their companion animal as family and not property) is [speciesism](https://en.wikipedia.org/wiki/Speciesism){:target="_blank"}. They think some species, like dogs, cats, etc, deserve to be companion animals and deserve freedom, but other species, like chickens and cows, don’t deserve to be companion animals and deserve no freedom. This arbitrary divide between species is not morally justifiable.
 
-Lookism is also rampant in our treatment of animals. For example, people would rather have a beautiful-looking dog as a companion animal than another dog that is ugly and not aesthetically pleasing. Many people would help a butterfly that is suffering, but not only do they never help ugly insects like cockroaches, but they even kill them when they see such aesthetically unpleasant creatures.
+Lookism is also rampant in our treatment of animals. For example, people would rather have a beautiful-looking dog as a companion animal than another dog that is ugly and not aesthetically pleasing. People breed dogs that look more "cute" and this causes many breeds of "cute" dogs to have breathing problems. Many people would help a butterfly that is suffering, but not only do they never help ugly insects like cockroaches, but they even kill them when they see such aesthetically unpleasant creatures.
 
 ## Self-love
 
@@ -122,7 +122,7 @@ In [chapter 97](https://vinlandsaga.fandom.com/wiki/Chapter_97){:target="_blank"
 <img src="{{site.baseurl}}/images/posts/Power8.jpg" width="300"/><br>
 <img src="{{site.baseurl}}/images/posts/Power9.jpg" width="300"/>
 
-I do not believe that a God exists. But if I assume the existence of a personal god, I had come to the same conclusion long before I read Vinland Saga. If I believed that a personal God existed, then it would be my moral duty to fight against him, for he is the reason for the [problem of evil](https://en.wikipedia.org/wiki/Problem_of_evil){:target="_blank"}.
+I do not believe that a God exists. But if I assume the existence of a personal god, I had come to the same conclusion as Canute long before I read Vinland Saga. If I believed that a personal God existed, then it would be my moral duty to fight against him, for he is the reason for the [problem of evil](https://en.wikipedia.org/wiki/Problem_of_evil){:target="_blank"}. It is unforgivable if there is a God who can solve all these problems and yet chooses not to solve them.
 
 >“If God really existed, it would be **necessary to abolish him**.”
 

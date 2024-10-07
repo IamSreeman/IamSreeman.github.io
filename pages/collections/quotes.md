@@ -2339,7 +2339,7 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >
 >Schneizel has surrendered to me, and as a result of this I am now in control of both the Damocles and the F.L.E.I.J.A. weapons, and even the Black Knights no longer possess the strength to oppose me now.
 >
->If anyone dares to resist my supreme authority, The shall know the devastating power of the F.L.E.I.J.A.s. Those who could challenge my military rule no longer exist. Yes, from this day, from this moment forward, the world belongs to me!
+>If anyone dares to resist my supreme authority, They shall know the devastating power of the F.L.E.I.J.A.s. Those who could challenge my military rule no longer exist. Yes, from this day, from this moment forward, the world belongs to me!
 >
 >Lelouch vi Britannia commands you, obey me subjects! obey me world.”[<a href="https://youtu.be/sjgUXY4U3JI" target="_blank">YouTube</a>]
 
