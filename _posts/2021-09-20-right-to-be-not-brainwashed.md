@@ -7,7 +7,14 @@ tags:   [Atheism,Ethics,Epistemology]
 script:
   foot: bookmarklet.js
 ---
-Many things which were considered to be morally acceptable centuries ago are now considered to be crimes like, for example, slavery. One such morally bad thing which is currently considered as acceptable throughout the world is brainwashing innocent children in the name of religion.<!--more--> As is evident from the above statements I am against <a href="https://en.wikipedia.org/wiki/Cultural_relativism" target="_blank">cultural relativism</a>. In my opinion, <a href="https://en.wikipedia.org/wiki/Negative_utilitarianism#Combining_negative_utilitarianism_with_rights" target="_blank">combining negative utilitarianism with rights</a> is the best among current ethical theories.
+In this post, I will argue that no parent has the right to brainwash/indoctrinate their children into a religion, and it is the duty of the state to do everything to make sure that no child is brainwashed. If they become adult, then they can read all religions and believe in whatever nonsense they want, as everyone has the right to freedom of religion. But children must be protected as they are easy to brainwash.
+<!--more-->
+
+If this is achieved, all religions will disappear in a few generations.
+
+Many things which were considered to be morally acceptable centuries ago are now considered to be crimes like, for example, slavery. One such morally bad thing which is currently considered as acceptable throughout the world is brainwashing innocent children in the name of religion.
+
+As is evident from the above statements I am against <a href="https://en.wikipedia.org/wiki/Cultural_relativism" target="_blank">cultural relativism</a>. In my opinion, <a href="https://en.wikipedia.org/wiki/Negative_utilitarianism#Combining_negative_utilitarianism_with_rights" target="_blank">combining negative utilitarianism with rights</a> is the best among current ethical theories.
 
 It is quite obvious that the reason why the majority of people in the world believe in religion is **childhood indoctrination**. Once children are brainwashed it will be hard for them to come out of those delusions compared to those who are brainwashed after they became adults. If an average human had never heard about religions until he became a grown man, he would see how silly, immoral, and unscientific religions are. The same person will probably believe in it sincerely if he was brainwashed from his childhood that it is true.<br>
 - [Responsibility of family](#responsibility-of-family)<br>
