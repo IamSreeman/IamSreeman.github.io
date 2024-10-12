@@ -1460,6 +1460,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Ray_Cummings" target="_blank">Ray Cummings</a>
 
+>“Five score years ago, a great American, in whose symbolic shadow we stand, signed the <a href="https://en.wikipedia.org/wiki/Emancipation_Proclamation" target="_blank">Emancipation Proclamation</a>. This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the long night of their captivity. But one hundred years later, we must face the tragic fact that the Negro still is not free. One hundred years later, the life of the Negro is still sadly crippled by the manacles of segregation and the chains of discrimination.”
+
+― <a href="https://en.wikipedia.org/wiki/Martin_Luther_King_Jr." target="_blank">Martin Luther King Jr.</a>
+
 >“Men rarely (if ever) manage to dream up a god superior to themselves. **Most gods have the manners and morals of a spoiled child**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Robert_A._Heinlein" target="_blank">Robert A. Heinlein</a>
@@ -2284,7 +2288,7 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 ― <a href="https://berserk.fandom.com/wiki/Guts" target="_blank">Guts</a>
 
->“Sometimes life's too **uncertain** to have regrets.”
+>“Sometimes life's too **uncertain** to have regrets.” [<a href="https://www.youtube.com/watch?v=xYZvEDJfrIM&t=101s" target="_blank">YouTube</a>]
 
 >“Even a low class warrior can surpass an elite, with enough hard work.”
 
