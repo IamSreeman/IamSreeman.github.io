@@ -26,11 +26,11 @@ script:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZnihGeRjG3U?si=Fviovkj8J2isqM0n&amp;start=54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-If you take any modern battle shōnen manga or anime, it will be highly influenced by Dragon Ball. Goku is the Trope Codifier for the [Stock Shōnen Hero](https://tvtropes.org/pmwiki/pmwiki.php/Main/StockShonenHero){:target="_blank"} and Vegeta for the [Stock Shōnen Rival](https://tvtropes.org/pmwiki/pmwiki.php/Main/StockShonenRival){:target="_blank"}. Even nonbattle shōnen manga are very influenced by Dragon Ball. For example, in Slam Dunk, [Hanamichi Sakuragi](https://slamdunk.fandom.com/wiki/Hanamichi_Sakuragi){:target="_blank"} is the Goku-like goofy protagonist and [Kaede Rukawa](https://slamdunk.fandom.com/wiki/Kaede_Rukawa){:target="_blank"} is the Vegeta-like serious, selfish, introverted rival. Super Eyepatch Wolf has made this great video about the impact of Dragon Ball Z.
+If you take any modern battle shōnen manga or anime, it will be highly influenced by Dragon Ball. Goku is the Trope Codifier for the [Stock Shōnen Hero](https://tvtropes.org/pmwiki/pmwiki.php/Main/StockShonenHero){:target="_blank"} and Vegeta for the [Stock Shōnen Rival](https://tvtropes.org/pmwiki/pmwiki.php/Main/StockShonenRival){:target="_blank"}. Even nonbattle shōnen manga are very influenced by Dragon Ball. For example, in Slam Dunk, [Hanamichi Sakuragi](https://slamdunk.fandom.com/wiki/Hanamichi_Sakuragi){:target="_blank"} is the Goku-like goofy protagonist and [Kaede Rukawa](https://slamdunk.fandom.com/wiki/Kaede_Rukawa){:target="_blank"} is the Vegeta-like serious, selfish, introverted rival. Super Eyepatch Wolf has made this great video about the impact of Dragon Ball Z.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tuvSwb5KM6Q?si=jP5erOyRRpInMg2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-There is no series that gives me more nostalgia than Dragon Ball. So, obviously, I am probably biased and think it is a greater story than it is. See the below ad for a dose of nostalgia.
+There is no series that gives me more nostalgia than Dragon Ball. So, obviously, I am probably biased and think it is a greater story than it is. See the below ad for a dose of nostalgia.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D6MDjzqnK1Y?si=-ZbP6-iQg9wAAtT3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -64,7 +64,7 @@ The first few episodes are heavily [inspired by](https://dragonball.fandom.com/w
 
 As Super Eyepatch Wolf explained in the above video, the previous generations before Dragon Ball were episodic in nature and followed the repetivve villain of the week story like in the [Fist of the North Star](https://en.wikipedia.org/wiki/Fist_of_the_North_Star){:target="_blank"}. Dragon Ball started out as an adventure comedy story. But slowly, it became more serious, and we got great villains like Piccolo, Vegeta, Frieza, Cell, and Majin Buu. Each of these villains looked like an undefeatable god. They were so powerful like Frieza killed entire planets with a single finger. It looked like the protagonists had no chance. But yet, Goku never gave up and kept defeating and forgiving these villains. Even the most powerful god of the universe [Supreme Kai](https://dragonball.fandom.com/wiki/Supreme_Kai_(position)){:target="_blank"} was constantly surprised how weak he is compared to Goku. I mean, Dragon Ball Super did retcon this and introduced a multiverse, gods of destruction, etc. But it was not created by Toriyama.
 
-These days, it has become common to say Dragon Ball, and especially Goku, lacks depth and creativity compared to modern shōnen. This is mostly due to people not understanding DB properly.
+These days, it has become common to say Dragon Ball, and especially Goku, lacks depth and creativity compared to modern shōnen. This is mostly due to people not understanding DB properly.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ns2GvGSBsok?si=RHiW4Owl8KFwz9iY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -88,7 +88,7 @@ The [Big 3](https://otaku.fandom.com/wiki/Big_Three){:target="_blank"} series ar
 
 The next 2 series are also heavily inspired by Dragon Ball. Apart from that Naruto [took](https://www.reddit.com/r/HunterXHunter/comments/5hyjc1/hunter_x_hunter_vs_naruto_similarities/){:target="_blank"} inspiration from Hunter X Hunter and Bleach [took](https://www.reddit.com/r/bleach/comments/zqrz25/bleach_is_a_jojo_i_mean_yuyu_hakusho_reference/){:target="_blank"} inspiration from YuYu Hakusho. Both of these were written by [Yoshihiro Togashi](https://en.wikipedia.org/wiki/Yoshihiro_Togashi){:target="_blank"}, who was the bridge between Toriyama and the mangakas of Big 3.
 
-2) **Naruto**: Naruto has the best looking fight scenes among Big 3, and in this aspect, it became the successor of Dragon Ball. In One Piece, the story itself is great, but the fight scenes don't look that great, and at the end, Luffy just ends it with a big punch. Naruto also has the best villain backstories. Most villains of Naruto were once very good people. One Piece is the best for backstories of side characters. Naruto has the best OSTs among the Big 3, but I don't think it reached the level of Dragon Ball Z OST by Shunsuke Kikuchi. Naruto also has best villain back stories.
+2) **Naruto**: Naruto has the best looking fight scenes among Big 3, and in this aspect, it became the successor of Dragon Ball. In One Piece, the story itself is great, but the fight scenes don't look that great, and at the end, Luffy just ends it with a big punch. Naruto also has the best villain backstories. Most villains of Naruto were once very good people. One Piece is the best for backstories of side characters. Naruto has the best OSTs among the Big 3, but I don't think it reached the level of Dragon Ball Z OST by Shunsuke Kikuchi. Naruto also has best villain back stories.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/218ELDhIiGY?si=1SEu8eSnQZ9Hnjvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -100,15 +100,13 @@ The next 2 series are also heavily inspired by Dragon Ball. Apart from that Naru
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gTrUoA-v8-g?si=FvLwZ7cnENgwWOD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Also, all Big 3 made several references to Dragon Ball in their manga. Apart from mnaga, their anime also has several connections. Toei created both Dragon Ball and One Piece anime, and because Krillin and Luffy's voice actors are the same, they kept the One Piece We Are ringtone for Krillin in DBS. Bleach spin off Burn the Witch shows that the [protaganist's ringtone](https://www.reddit.com/r/dbz/comments/18yr8ex/the_iconic_dragon_ball_z_recap_music_is_featured/){:target="_blank"} is "DBZ Prologue & Subtitle by Shunsuke Kikuchi" which is also my own ringtone, LoL.
+Also, all Big 3 made several references to Dragon Ball in their manga. Apart from mnaga, their anime also has several connections. Toei created both Dragon Ball and One Piece anime, and because Krillin and Luffy's voice actors are the same, they kept the One Piece We Are ringtone for Krillin in DBS. Bleach spin off Burn the Witch shows that the [protaganist's ringtone](https://www.reddit.com/r/dbz/comments/18yr8ex/the_iconic_dragon_ball_z_recap_music_is_featured/){:target="_blank"} is "DBZ Prologue & Subtitle by Shunsuke Kikuchi" which is also my own ringtone, LoL.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k8ispA1JRsw?si=yQBisolPbk1xlveb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ge5p8rnDseE?si=WdtfsEbhv8-PkpeV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Recaps
 
-1) By Carthus Dojo
+1) By Carthus Dojo<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B7G8FIvVoj4?si=_Ktn0qV7jJg6hbzJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -117,12 +115,12 @@ Also, all Big 3 made several references to Dragon Ball in their manga. Apart fro
 2) [Dragon Ball Z: The Ultimate Review
 by Totally Not Mark](https://www.youtube.com/playlist?list=PLueFzVcRrBTqJ5KJlx2Gwp7Ud6gfsK_8P){:target="_blank"}
 
-He also reviewed the original DB.
+He also reviewed the original DB.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q_TZ2jFYwas?si=0nHHctGNteM5hmF9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-I especially recommend his Buu Saga (Pt. 2). He talks about Goku teaching Goten & Trunks about Fusion. This scene explains how well Toriyama understood the character compared to what we see in Toyotaro in Dragon Ball Super.
+I especially recommend his Buu Saga (Pt. 2). He talks about Goku teaching Goten & Trunks about Fusion. This scene explains how well Toriyama understood the character compared to what we see in Toyotaro in Dragon Ball Super.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ju2W0Snbm8Y?si=AlAOtCWLf8Y-6vCj&amp;start=255" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -130,7 +128,7 @@ I especially recommend his Buu Saga (Pt. 2). He talks about Goku teaching Goten 
 
 This one recaps the manga.
 
-4) Also see these scenes
+4) Also see these scenes<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QbTZ5wFZ6ZE?si=DWNyKYcR96BVrQ2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -223,27 +221,27 @@ Thank you, Toriyama-sensei.”
 
 ― <a href="https://en.wikipedia.org/wiki/Takehiko_Inoue" target="_blank">Takehiko Inoue</a> (Slam Dunk and Vagabond mangaka)
 
-Mother's Basement made a tribute by focusing on Toriyama's things other than Dragon Ball. Even before Dragon Ball, he was a big name in the manga industry due to Dr. Slump. He talks about Toriyama's huge impact on the gaming industry, emojis, etc.
+Mother's Basement made a tribute by focusing on Toriyama's things other than Dragon Ball. Even before Dragon Ball, he was a big name in the manga industry due to Dr. Slump. He talks about Toriyama's huge impact on the gaming industry, emojis, etc.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L-YE8RtsYTs?si=F30k7RSXxac5F1dZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Carthus Dojo got many people from the Dragon Ball YouTube community to talk about the history of Dragon Ball.
+Carthus Dojo got many people from the Dragon Ball YouTube community to talk about the history of Dragon Ball.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OkkWC0aQk7c?si=2lx_zT-uhwdJyZT_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Here is one from Internet Pitstop, his videos always have the highest dose of nostalgia.
+Here is one from Internet Pitstop, his videos always have the highest dose of nostalgia.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8ZDlnt43x34?si=J9klFVfgWsvz3Jad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Tekking101 always makes very lengthy videos, but this time, he thankfully didn't.
+Tekking101 always makes very lengthy videos, but this time, he thankfully didn't.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5QU9LYJaXKM?si=ad6fwXz1uq4zJS5u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-By Geekdom101.
+By Geekdom101.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7idJzEPZq1I?si=oBfU6WfroIVqgajI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-By NinjaScale.
+By NinjaScale.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e-hu1t-Eztg?si=PLwwnqwePitgM0SH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -259,7 +257,7 @@ I watched the first episode and liked the Majin Buu Saga recap in the first 10 m
 
 Apart from Toriyama, many original people came back for this anime.
 
-At the age of 87, Masako Nozawa is again voicing Goku, probably for the last time, as she might retire soon. Also unrelated: today it was announced that [Doraemon voice actress died at age 90](https://edition.cnn.com/2024/10/11/asia/nobuyo-oyama-doraemon-actor-dies-intl-hnk/index.html).
+At the age of 87, Masako Nozawa is again voicing Goku, probably for the last time, as she might retire soon. Also unrelated: today it was announced that [Doraemon voice actress died at age 90](https://edition.cnn.com/2024/10/11/asia/nobuyo-oyama-doraemon-actor-dies-intl-hnk/index.html){:target="_blank"}.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zPgo9rkb-VA?si=LifYABsKZ8UPWwzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
