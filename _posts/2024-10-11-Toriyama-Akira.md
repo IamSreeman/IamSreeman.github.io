@@ -252,12 +252,12 @@ If you are wondering why mangakas die early, see below.
 
 ## Past Dragon Ball anime
 
-In the manga, Toriyama didn't divide the story into Dragon Ball and Dragon Ball Z. It was just a continuous story called Dragon Ball. In the anime, chapters 195–519 were aired under the separate title "Dragon Ball Z" because the story was an adventure comedy series before that, but it has now become an action series. Of course, even towards the end of Dragon Ball anime, you can already see the seriousness increasing when Tao Pai Pai and Piccolo show up. Tao Pai Pai throwing a pillar and traveling on it is one of the memorable Dragon Ball things from my childhood.
+In the manga, Toriyama didn't divide the story into Dragon Ball and Dragon Ball Z. It was just a continuous story called Dragon Ball. In the anime, chapters 195–519 were aired under the separate title "Dragon Ball Z" because the story was an adventure comedy series before that, but it has now become an action series. Of course, even towards the end of Dragon Ball anime, you can already see the seriousness increasing when Tao Pai Pai and Piccolo show up. Tao Pai Pai throwing a pillar and traveling on it is one of the memorable Dragon Ball things from my childhood.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RxkfwXX46HY?si=1HX3Q4FdTDptlND9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-Both Dragon Ball Super and Dragon Ball GT are very bad compared to the original 2 animes based on the manga. Dragon Ball GT is the worst of all 4 anime. But it does have great music, like Dan Dan Kokoro Hikareteku.
+Both Dragon Ball Super and Dragon Ball GT are very bad compared to the original 2 animes based on the manga. Dragon Ball GT is the worst of all 4 anime. But it does have great music, like Dan Dan Kokoro Hikareteku.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uC8sc0cQa9M?si=h_Sk819x_RZ0S5dK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
