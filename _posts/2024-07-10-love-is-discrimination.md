@@ -3,7 +3,7 @@ title: "Love is discrimination"
 date:   2024-07-10 10:05:00 +0530
 subheadline: ""
 category: non-physics
-tags:   [Ethics]
+tags:   [Ethics,Anime]
 image:
     thumb: Discrimination1.jpg
 script:

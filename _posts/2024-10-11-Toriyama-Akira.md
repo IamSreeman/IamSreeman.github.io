@@ -17,6 +17,7 @@ script:
 - [Big 3](#big-3)
 - [Recaps](#recaps)
 - [Tributes from other people](#tributes-from-other-people)
+- [Past Dragon Ball anime](#past-dragon-ball-anime)
 - [Dragon Ball DAIMA](#dragon-ball-daima)
 - [Conclusion](#conclusion)
 
@@ -206,7 +207,7 @@ And I believe that being able to properly get used to this feeling is proof of t
 That's all.<br>
 From the next post, I will continue with my usual enthusiasm.”
 
-― <a href="https://en.wikipedia.org/wiki/Tite_Kubo" target="_blank">Tite Kubo</a>
+― <a href="https://en.wikipedia.org/wiki/Tite_Kubo" target="_blank">Tite Kubo</a> (Bleach mangaka)
 
 >“DragonBall, Dragon Quest, Crono Trigger. The worlds that I forsaked my homework for and became so engrossed in that I didn't sleep properly were all born from your pen, weren't they, sensei? And it's because I admired your pen, your drawings, I tried to imitate you. Not well, as the pile of eraser shavings prove, but I've somehow spawned from the wastebin as an kneeded eraser mangaka artist.<br>
 Toriyama-sensei, thank you for introducing me to so many worlds including the world of manga.<br>
@@ -247,13 +248,33 @@ By NinjaScale.<br>
 
 If you are wondering why mangakas die early, see below.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The average mangaka lives only 63 years. Whereas the average Japanese lives till 85. That is a 22-year difference. <a href="https://t.co/b2unTKrNsc">https://t.co/b2unTKrNsc</a><br><br>The job of a mangaka demands more hard work than any other job I know.<br><br>Some are extreme even by mangaka standards. Eiichiro Oda (mangaka of…</p>&mdash; Sreeman Reddy Kasireddy 🐔🐄🐟 ≮🐕🐈 (@IamSreeman) <a href="https://twitter.com/IamSreeman/status/1806214194855063724?ref_src=twsrc%5Etfw">June 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The average mangaka lives only 63 years. Whereas the average Japanese lives till 85. That is a 22-year difference. <a href="https://t.co/b2unTKrNsc">https://t.co/b2unTKrNsc</a><br><br>The job of a mangaka demands more hard work than any other job I know.<br><br>Some are extreme even by mangaka standards. Eiichiro Oda (mangaka of…</p>&mdash; Sreeman Reddy Kasireddy 🐔🐄🐟 ≮🐕🐈 (@IamSreeman) <a href="https://twitter.com/IamSreeman/status/1806214194855063724?ref_src=twsrc%5Etfw">June 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Past Dragon Ball anime
+
+In the manga, Toriyama didn't divide the story into Dragon Ball and Dragon Ball Z. It was just a continuous story called Dragon Ball. In the anime, chapters 195–519 were aired under the separate title "Dragon Ball Z" because the story was an adventure comedy series before that, but it has now become an action series. Of course, even towards the end of Dragon Ball anime, you can already see the seriousness increasing when Tao Pai Pai and Piccolo show up. Tao Pai Pai throwing a pillar and traveling on it is one of the memorable Dragon Ball things from my childhood.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RxkfwXX46HY?si=1HX3Q4FdTDptlND9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+Both Dragon Ball Super and Dragon Ball GT are very bad compared to the original 2 animes based on the manga. Dragon Ball GT is the worst of all 4 anime. But it does have great music, like Dan Dan Kokoro Hikareteku.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uC8sc0cQa9M?si=h_Sk819x_RZ0S5dK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Also, the Super Saiyan 4 transformation looks cool even though it's not by Toriyama. The last episode of Dragon Ball GT was also great, and that is exactly how a Dragon Ball anime should end. But the fights in DBGT were not great. Dragon Ball GT reminds me of the original Dragon Ball anime. Dragon Ball Super, on the other hand, reminds me of Dragon Ball Z. Apart from Toyotarou dumbifying, Goku Super doesn't have any big problems. Back when I was a power scaler, I liked Dragon Ball Super a lot.
+
+All in all, I would say Dragon Ball Z> Dragon Ball >> Dragon Ball Super > Dragon Ball GT.
 
 ## Dragon Ball DAIMA
 
 Like Dragon Ball Super, I am afraid they might again dumb Goku down. But this time, Toriyama is heavily involved. Also, like in GT, they turned Goku into a child again, so even if he is made into a dumb guy, it doesn't look bad if he looks like a kid.
 
 I watched the first episode and liked the Majin Buu Saga recap in the first 10 minutes.
+
+So far, it seems Goku wasn't made dumb like in Dragon Ball Super.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Y&#39;all have no idea how cathartic it feels to see Goku and Vegeta acting 100% in character. <a href="https://t.co/p1FLGRxFxW">pic.twitter.com/p1FLGRxFxW</a></p>&mdash; truggler (@RealTruggler) <a href="https://twitter.com/RealTruggler/status/1845128770807537916?ref_src=twsrc%5Etfw">October 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally, no more stupid Goku.<br><br>No more tsundere Vegeta.</p>&mdash; truggler (@RealTruggler) <a href="https://twitter.com/RealTruggler/status/1845153617109508284?ref_src=twsrc%5Etfw">October 12, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Apart from Toriyama, many original people came back for this anime.
 
