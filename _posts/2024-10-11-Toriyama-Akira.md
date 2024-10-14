@@ -93,7 +93,7 @@ The next 2 series are also heavily inspired by Dragon Ball. Apart from that Naru
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/218ELDhIiGY?si=1SEu8eSnQZ9Hnjvd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-3) **Bleach**: Arguably, the biggest flaw of Dragon Ball is that the protagonist is oftentimes an idiot. The other 2 series followed this for comedic purposes, but Bleach instead made [Ichigo Kurosaki](https://bleach.fandom.com/wiki/Ichigo_Kurosaki){:target="_blank"} as an intelligent guy. For comedic purposes, Kubo introduced [Kon](https://bleach.fandom.com/wiki/Kon){:target="_blank"} etc. But in my opinion in DBZ, Goku wasnt an idiot, he was just naive. But in Dragon Ball Super, they made him dumb. [Dragon Ball Super](https://dragonball.fandom.com/wiki/Dragon_Ball_Super_(manga)){:target="_blank"} is written by Toyotarou. He was once writing DB fan fiction. For Dragon Ball Super, Toriyama did some character design, etc, but Toyotarou was largely the guy behind it. Like Dragon Ball GT, Dragon Ball Super did not live up to the great series that Toriyama created. I consider neither of these 2 as canon.
+3) **Bleach**: Arguably, the biggest flaw of Dragon Ball is that the protagonist is oftentimes an idiot. The other 2 series followed this for comedic purposes, but Bleach instead made [Ichigo Kurosaki](https://bleach.fandom.com/wiki/Ichigo_Kurosaki){:target="_blank"} as an intelligent guy. For comedic purposes, Kubo introduced [Kon](https://bleach.fandom.com/wiki/Kon){:target="_blank"} etc. But in my opinion in DBZ, Goku wasnt an idiot, he was just naive. But in Dragon Ball Super, they made him dumb. [Dragon Ball Super](https://dragonball.fandom.com/wiki/Dragon_Ball_Super_(manga)){:target="_blank"} is written by Toyotarou. He was once writing DB fan fiction. For Dragon Ball Super, Toriyama did some character design, etc, but Toyotarou was largely the guy behind it. Like Dragon Ball GT, Dragon Ball Super did not live up to the great series that Toriyama created. I consider neither of these 2 as canon. Bleach is also the spiritual successor of the drip in Dragon Ball and YuYu Hakusho. Jujutsu Kaisen is arguably the current successor for the drip. All these 4 series have stylish character designs.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6ynzzAm48x8?si=uYAiQfemPtOCU2rd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -256,7 +256,6 @@ In the manga, Toriyama didn't divide the story into Dragon Ball and Dragon Ball 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RxkfwXX46HY?si=1HX3Q4FdTDptlND9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 Both Dragon Ball Super and Dragon Ball GT are very bad compared to the original 2 animes based on the manga. Dragon Ball GT is the worst of all 4 anime. But it does have great music, like Dan Dan Kokoro Hikareteku.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/uC8sc0cQa9M?si=h_Sk819x_RZ0S5dK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -269,7 +268,7 @@ All in all, I would say Dragon Ball Z> Dragon Ball >> Dragon Ball Super > Dragon
 
 Like Dragon Ball Super, I am afraid they might again dumb Goku down. But this time, Toriyama is heavily involved. Also, like in GT, they turned Goku into a child again, so even if he is made into a dumb guy, it doesn't look bad if he looks like a kid.
 
-I watched the first episode and liked the Majin Buu Saga recap in the first 10 minutes.
+I watched the first episode and liked the Majin Buu Saga recap in the first 10 minutes. There was also a lot of lore.
 
 So far, it seems Goku wasn't made dumb like in Dragon Ball Super.
 
