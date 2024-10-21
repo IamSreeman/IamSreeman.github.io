@@ -59,11 +59,13 @@ But for Toriyama, I was genuinely sad because Dragon Ball was a big thing in my 
 
 If you directly compare Dragon Ball with either the [Big 3](https://otaku.fandom.com/wiki/Big_Three){:target="_blank"} or new generation anime like Demon Slayer, Jujutsu Kaisen, Chainsaw Man, etc, of course, they will look better. But that is an unfair comparison; an average high-energy theorist today works with much more complicated theories than Newton. But Newton is still the GOAT. We need to see not the final product but how much improvement Toriyama made compared to what he learnt from his predecessors.
 
+<img src="{{site.baseurl}}/images/posts/SunWukong.jpg" height="400"/><img src="{{site.baseurl}}/images/posts/Goku.jpg" height="400"/><br>
+
 We can go much further back than Tezuka. [Hanuman](https://en.wikipedia.org/wiki/Hanuman){:target="_blank"}, the monkey god, is my favorite Indian **fictional**[^fictional] character, and he himself was based on the earlier Vedic fictional character called Vrisakapi. Several historians think [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King){:target="_blank"} from [Journey to the West](https://en.wikipedia.org/wiki/Journey_to_the_West){:target="_blank"} (published in 1592) was based on Hanuman. It seems my favorite Indian fictional character influenced my favorite Chinese character, who influenced my favorite Japanese character. Journey to the West was one of the most influential stories of all time, and it has given rise to the modern genre of [xianxia (immortal heroes)](https://en.wikipedia.org/wiki/Xianxia){:target="_blank"}. In this genre they pretend like achiveing immortality is barely an inconvenience. Check out the xianxia donghua [Mo Dao Zu Shi (Grandmaster of Demonic Cultivation)](https://en.wikipedia.org/wiki/Mo_Dao_Zu_Shi){:target="_blank"}, which is one of the best series I ever watched. [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King){:target="_blank"} is immortal in [7 different ways](https://www.reddit.com/r/deathbattle/comments/vbiwr1/what_does_7_times_immortality_mean/){:target="_blank"}.
 
-The first few episodes are heavily [inspired by](https://dragonball.fandom.com/wiki/Dragon_Ball_(manga)#Relation_to_Journey_to_the_West){:target="_blank"} Journey to the West. It starts as a Journey to the West set in a sci-fi universe but soon diverges from it.
+The first few episodes of Dragon Ball are heavily [inspired by](https://dragonball.fandom.com/wiki/Dragon_Ball_(manga)#Relation_to_Journey_to_the_West){:target="_blank"} Journey to the West. It starts as a Journey to the West set in a sci-fi universe but soon diverges from it.
 
-As Super Eyepatch Wolf explained in the above video, the previous generations before Dragon Ball were episodic in nature and followed the repetivve villain of the week story like in the [Fist of the North Star](https://en.wikipedia.org/wiki/Fist_of_the_North_Star){:target="_blank"}. Dragon Ball started out as an adventure comedy story. But slowly, it became more serious, and we got great villains like Piccolo, Vegeta, Frieza, Cell, and Majin Buu. Each of these villains looked like an undefeatable god. They were so powerful like Frieza killed entire planets with a single finger. It looked like the protagonists had no chance. But yet, Goku never gave up and kept defeating and forgiving these villains. Even the most powerful god of the universe [Supreme Kai](https://dragonball.fandom.com/wiki/Supreme_Kai_(position)){:target="_blank"} was constantly surprised how weak he is compared to Goku. I mean, Dragon Ball Super did retcon this and introduced a multiverse, gods of destruction, etc. But it was not created by Toriyama.
+As Super Eyepatch Wolf explained in the above video, the previous generation shōnen series before Dragon Ball were episodic in nature and followed the repetitive villain of the week story like in the [Fist of the North Star](https://en.wikipedia.org/wiki/Fist_of_the_North_Star){:target="_blank"}. Dragon Ball started out as an adventure comedy story. But slowly, it became more serious, and we got great villains like Piccolo, Vegeta, Frieza, Cell, and Majin Buu. Each of these villains looked like an undefeatable god. They were so powerful like Frieza killed entire planets with a single finger. It looked like the protagonists had no chance. But yet, Goku never gave up and kept defeating and forgiving these villains. Even the most powerful god of the universe [Supreme Kai](https://dragonball.fandom.com/wiki/Supreme_Kai_(position)){:target="_blank"} was constantly surprised how weak he is compared to Goku. I mean, Dragon Ball Super did retcon this and introduced a multiverse, gods of destruction, etc. But it was not created by Toriyama.
 
 These days, it has become common to say Dragon Ball, and especially Goku, lacks depth and creativity compared to modern shōnen. This is mostly due to people not understanding DB properly.<br>
 
@@ -101,11 +103,16 @@ The next 2 series are also heavily inspired by Dragon Ball. Apart from that Naru
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gTrUoA-v8-g?si=FvLwZ7cnENgwWOD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<img src="{{site.baseurl}}/images/posts/GokuNotBadFather.jpg" width="300"/><br>
+
 Also, all Big 3 made several references to Dragon Ball in their manga. Apart from mnaga, their anime also has several connections. Toei created both Dragon Ball and One Piece anime, and because Krillin and Luffy's voice actors are the same, they kept the One Piece We Are ringtone for Krillin in DBS. Bleach spin off Burn the Witch shows that the [protaganist's ringtone](https://www.reddit.com/r/dbz/comments/18yr8ex/the_iconic_dragon_ball_z_recap_music_is_featured/){:target="_blank"} is "DBZ Prologue & Subtitle by Shunsuke Kikuchi" which is also my own ringtone, LoL.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k8ispA1JRsw?si=yQBisolPbk1xlveb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 If we compare the Big 3, I think the ranking will be: One Piece > Naruto > Bleach. Ironically, if you just watch the first 50 episodes, the ranking will be the exact opposite. But both Naruto and Bleach fell off as they went, whereas One Piece continued to get better. Dragon Ball also starts off slowly as a comedy series like One Piece, with no serious villains, and gradually gets better and more serious. Naruto peaked at the [Pain](https://naruto.fandom.com/wiki/Nagato){:target="_blank"} Arc and then fell off. In the final arc, if Madara was kept as the final villain, it would have been fine, but Kishimoto introduced [Kaguya Ōtsutsuki](https://naruto.fandom.com/wiki/Kaguya_%C5%8Ctsutsuki){:target="_blank"} and messed up the story.
+
+<img src="{{site.baseurl}}/images/posts/Big3.jpeg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/Big_3.jpg" width="300"/><br>
 
 ## Recaps
 
@@ -219,6 +226,8 @@ Toriyama-sensei, thank you for everything. I'll always love you.”
 
 ― <a href="https://en.wikipedia.org/wiki/Hideaki_Sorachi" target="_blank">Hideaki Sorachi</a> (Gintama mangaka)
 
+<img src="{{site.baseurl}}/images/posts/Storyline.jpg" width="300"/><br>
+
 >“I can't quite accept it.<br>
 Thank you, Toriyama-sensei.”
 
@@ -289,6 +298,10 @@ At the age of 87, Masako Nozawa is again voicing Goku, probably for the last tim
 
 In my opinion, the take-home message of Dragon Ball is that: **There should be no limit to your ambition**. In One Piece, Luffy dreams of becoming the King of the Pirates. In Naruto, Naruto's dream was to become a Hokage. But in Dragon Ball, Goku wants to improve forever. When he becomes the strongest on planet Earth, he is not satisfied. When he becomes the strongest in the universe, he is not satisfied. Goku's dream is to become stronger and stronger forever with no limit to his ambition, and he is always eagerly waiting for new challenges. This is what we should learn from Goku.
 
+<img src="{{site.baseurl}}/images/posts/GokuCollage.jpg" width="600"/><br>
 <img src="{{site.baseurl}}/images/posts/TurtleSchool.png" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/NeverForget.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/Best.jpg" width="300"/><br>
+<img src="{{site.baseurl}}/images/posts/SnakeWay.jpg" width="300"/><br>
 
 [^fictional]: As a child, I believed he was real, not fictional. In fact, one of the main reasons why I left Hinduism around 2012 was because I was thinking, since Hanuman is a [ciranjīvi](https://en.wikipedia.org/wiki/Chiranjivi){:target="_blank"}, why isn't he doing anything to stop all the injustice in the world if he is still alive?
