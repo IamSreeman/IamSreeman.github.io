@@ -270,10 +270,6 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 ― <a href="https://en.wikipedia.org/wiki/Yang_Chen-Ning" target="_blank">Yang Chen-Ning</a>
 
->“I was lucky enough to attend a few lectures of S. S. Chern just before he retired from Berkeley in which he said that the cotangent bundle (differential forms) is the feminine side of analysis on manifolds, and the tangent bundle (vector fields) is the masculine side. From this perspective, Hamiltonian mechanics is the feminine side of classical physics, [and] its masculine side is Lagrangian mechanics.”
-
-― <a href="https://people.ucsc.edu/~rmont/" target="_blank">Richard Montgomery</a>
-
 >“Black holes ain't as black as they are painted. They are not the eternal prisons they were once thought. Things can get out of a black hole, both to the outside, and possibly to another universe. So if you feel you are in a black hole, don't give up. There's a way out.”
 
 >“We are just an advanced breed of monkeys on a minor planet of a very average star. But we can **understand the Universe**. That makes us something very special.”
@@ -568,6 +564,8 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 >“Physics isn’t a religion. If it were, we’d have a much easier time raising money.”
 
+>“The physicists defer only to the mathematicians, and the mathematicians defer only to God.”
+
 ― <a href="https://en.wikipedia.org/wiki/Leon_M._Lederman" target="_blank">Leon M. Lederman</a>
 
 >“This is the best few tens of billions years in the history of the universe to do cosmology.”
@@ -729,7 +727,7 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/David_Hilbert" target="_blank">David Hilbert</a>
 
->“I was over the moon when I proved the moonshine conjecture. I sometimes wonder if this is the feeling you get when you take certain drugs. I don't actually know, as I have not tested this theory of mine.”
+>“I was over the moon when I proved the <a href="https://en.wikipedia.org/wiki/Monstrous_moonshine" target="_blank">moonshine conjecture</a>. I sometimes wonder if this is the feeling you get when you take certain drugs. I don't actually know, as I have not tested this theory of mine.”
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Borcherds" target="_blank">Richard Borcherds</a>
 
@@ -768,6 +766,10 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“Taking mathematicians from the beginning of the world to the time when Sir Isaac lived, what he had done was much the better half.”
 
 ― <a href="https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz" target="_blank">Gottfried Wilhelm Leibniz</a>
+
+>“I was lucky enough to attend a few lectures of S. S. Chern just before he retired from Berkeley in which he said that the cotangent bundle (differential forms) is the feminine side of analysis on manifolds, and the tangent bundle (vector fields) is the masculine side. From this perspective, Hamiltonian mechanics is the feminine side of classical physics, [and] its masculine side is Lagrangian mechanics.”
+
+― <a href="https://people.ucsc.edu/~rmont/" target="_blank">Richard Montgomery</a>
 
 >“That, if a straight line falling on two straight lines make the interior angles on the same side less than two right angles, the two straight lines, if produced indefinitely, meet on that side on which are the angles less than the two right angles.”[<a href="https://en.wikipedia.org/wiki/Parallel_postulate" target="_blank">Parallel postulate</a>]
 
@@ -1530,6 +1532,13 @@ These are empirical claims, and although some may be hard to test, they must, li
 >“Whenever we read the obscene stories, the voluptuous debaucheries, the cruel and tortuous executions, the unrelenting vindictiveness with which more than half the Bible is filled, it would be more consistent that we call it the **word of a demon** than the word of God. It is a history of wickedness that has served to corrupt and brutalize mankind; and, for my part, I sincerely detest it, as I detest everything that is cruel.”
 
 ― <a href="https://en.wikipedia.org/wiki/Thomas_Paine" target="_blank">Thomas Paine</a>
+
+>“Ctesias, the son of Ctesiochus, the Cnidian, wrote of the region of the Indians and the state of those countries, matters which he neither saw himself, nor ever heard come from the mouth of any man. Iambulus also wrote many strange miracles of the great sea, which all men knew to be lies and fictions, yet so composed that they want not their delight: and many others have made choice of the like argument, of which some have published their own travels and peregrinations, wherein they have described the greatness of beasts, the fierce condition of men, with their strange and uncouth manner of life: but the first father and founder of all this foolery was Homer's Ulysses, who tells a long tale to Alcinous of the servitude of the winds, and of wild men with one eye in their foreheads that fed upon raw flesh, of beasts with many heads, and the transformation of his friends by enchanted potions, all which he made the silly Phæakes believe for great sooth.
+>
+>This coming to my perusal, I could not condemn ordinary men for lying, when I saw it in request amongst them that would be counted philosophical persons: yet could not but wonder at them, that, writing so manifest lies, they should not think to be taken with the manner; and this made me also ambitious to leave some monument of myself behind me, that I might not be the only man exempted from this liberty of lying: and because I had no matter of verity to employ my pen in (for nothing hath befallen me worth the writing), ***I turned my style to publish untruths, but with an honester mind than others have done: for this one thing I confidently pronounce for a truth, that I lie: and this, I hope, may be an excuse for all the rest, when I confess what I am faulty in: for I write of
+matters which I neither saw nor suffered, nor heard by report from others, which are in no being, nor possible ever to have a beginning***. Let no man therefore in any case give any credit to them.”[^Fiction]
+
+― <a href="https://en.wikipedia.org/wiki/Lucian" target="_blank">Lucian of Samosata</a>
 
 >“You cannot insult a man more atrociously than by refusing to believe he is suffering.”
 
@@ -2505,7 +2514,7 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 
 [^Gautama]: His title "Buddha" (awakened one) was given two centuries after his death. He lived between 563–483 BCE. I am an atheist. I do not support the ***unscientific*** Buddhism. But I still think Siddhārtha Gautama was a good philosopher. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.
 
-[^Voltaire]: This statement is obviously wrong. The most precious gift is the Indian numeral system. It is often wrongly called as Arabic numeral system. Vedas are useless in comparison to the Indian numeral system.
+[^Voltaire]: This statement is obviously wrong. The most precious gift is the [Indian numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system){:target="_blank"}. It is often wrongly called as Arabic numeral system. Vedas are useless in comparison to the Indian numeral system.
 
 [^COVID]: Stated on 2015, before COVID-19 pandemic.
 
@@ -2522,6 +2531,8 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 [^Skepticism]: The first line from [The Problems of Philosophy](https://books.google.co.in/books?id=F3CABBiwm6wC&newbks=0&pg=PA9#v=onepage&q&f=false){:target="_blank"}. The answer is <span style="color:red">***most probably***</span> no. If I haven’t included <span style="color:red">***most probably***</span>, that sentence itself will become some knowledge.
 
 [^Salt]: Salt correctly predicted this in 1897. Mankind is using the advances in technology to breed even more sentient animals and enslave them and do even more cruel things instead of using that technology to make it so that we will never again have to enslave other sentient animals, which is not hard to achieve with our current technology. To become an honorable species, abolishing animal agriculture is not enough and we should try to do whatever we can to solve the problem of [wild animal suffering](https://en.wikipedia.org/wiki/Wild_animal_suffering){:target="_blank"}.
+
+[^Fiction]: From <a href="https://en.wikipedia.org/wiki/A_True_Story" target="_blank">A True Story</a> (2nd century AD) the first sci-fi story and also the first fictional story where it was explicitly stated as fiction. Before this the concept of fiction was not there. He explictly mentioned that the story is lies and not true just in case it might become mythology.
 
 <script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
 

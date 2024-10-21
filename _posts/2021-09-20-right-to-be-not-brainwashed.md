@@ -10,16 +10,30 @@ script:
 In this post, I will argue that no parent has the right to brainwash/indoctrinate their children into a religion, and it is the duty of the state to do everything to make sure that no child is brainwashed. If they become adult, then they can read all religions and believe in whatever nonsense they want, as everyone has the right to freedom of religion. But children must be protected as they are easy to brainwash.
 <!--more-->
 
-If this is achieved, all religions will disappear in a few generations.
+If this right is adopted worldwide, all religions will disappear in a few generations.
+
+- [Introduction](#introduction)
+- [Responsibility of family](#responsibility-of-family)
+- [Responsibility of government](#responsibility-of-government)
+   * [Example of government's failure](#example-of-governments-failure)
+
+## Introduction
 
 Many things which were considered to be morally acceptable centuries ago are now considered to be crimes like, for example, slavery. One such morally bad thing which is currently considered as acceptable throughout the world is brainwashing innocent children in the name of religion.
 
 As is evident from the above statements I am against <a href="https://en.wikipedia.org/wiki/Cultural_relativism" target="_blank">cultural relativism</a>. In my opinion, <a href="https://en.wikipedia.org/wiki/Negative_utilitarianism#Combining_negative_utilitarianism_with_rights" target="_blank">combining negative utilitarianism with rights</a> is the best among current ethical theories.
 
-It is quite obvious that the reason why the majority of people in the world believe in religion is **childhood indoctrination**. Once children are brainwashed it will be hard for them to come out of those delusions compared to those who are brainwashed after they became adults. If an average human had never heard about religions until he became a grown man, he would see how silly, immoral, and unscientific religions are. The same person will probably believe in it sincerely if he was brainwashed from his childhood that it is true.<br>
-- [Responsibility of family](#responsibility-of-family)<br>
-- [Responsibility of government](#responsibility-of-government)
-    - [Example of government's failure](#example-of-governments-failure)
+It is quite obvious that the reason why the majority of people in the world believe in religion is **childhood indoctrination**. Once children are brainwashed it will be hard for them to come out of those delusions compared to those who are brainwashed after they became adults. If an average human had never heard about religions until he became a grown man, he would see how silly, immoral, and unscientific religions are. The same person will probably believe in it sincerely if he was brainwashed from his childhood that it is true.
+
+This is why you can easily guess a person's religion from their geographical location.
+
+\> 99.99 % of religious people do not know any good arguments for why they belive the metaphysical claims of their religion. They use circular arguments like my god is real because my book says and my book is true because my god says it. These people are not proper religious people but merely victims of brainwashing. Lets call them ***Improper Believers***. Sure, there are people like <a href="https://en.wikipedia.org/wiki/William_Lane_Craig" target="_blank">William Lane Craig</a>, <a href="https://en.wikipedia.org/wiki/Alvin_Plantinga" target="_blank">Alvin Plantinga</a>, etc., who have ***decent*** philosophical justifications for why they believe in Christianity, and they are certainly not ***Improper Believers***. But even these people were brainwashed into believing in Christianity from their childhood. So, I can only consider them as ***Decent Believers*** and not as ***Rational Belivers***. Because if they were not brainwashed from childhood, I think they wouldn't have done this "post hoc rationalization" of what they want to believe. Sure, Craig might say he wasn't very religious in his childhood and rarely went to Church, but he was still raised in a Christian family, and his mind was tainted with the indoctrination, even if the indoctrination in the West wasn't as high as it is done in poor countries like India and [MENA](https://en.wikipedia.org/wiki/Middle_East_and_North_Africa){:target="_blank"}, etc.
+
+>“Theology is the post hoc rationalization of what you want to believe.”
+
+― <a href="https://en.wikipedia.org/wiki/Jerry_Coyne" target="_blank">Jerry Coyne</a>
+
+When it comes to Hinduism and Islam, the situation is even worse. At least, Christianity has many ***Decent Believers*** who are mostly philosophers like <a href="https://en.wikipedia.org/wiki/William_Lane_Craig" target="_blank">William Lane Craig</a>, <a href="https://en.wikipedia.org/wiki/Alvin_Plantinga" target="_blank">Alvin Plantinga</a>, etc, even if there are no ***Rational Believers***. I watched many debates by atheists with Hindus and Muslims and I have not even found any ***Decent Believers***. They merely repeat the arguments made by Christian philosophers without even properly adapting them to their religion.
 
 ## Responsibility of family
 
