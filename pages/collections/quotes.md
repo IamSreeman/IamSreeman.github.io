@@ -1053,6 +1053,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Nagarjuna" target="_blank">Nāgārjuna</a><span style="color:Chartreuse">(2nd century Buddhist philosopher)</span>
 
+>“Holding on to anger is like grasping a hot coal with the intent of harming another; you end up getting burned.”[<a href="https://fakebuddhaquotes.com/holding-on-to-anger-is-like-grasping-a-hot-coal-with-the-intent-of-harming-another-you-end-up-getting-burned/" target="_blank">Paraphrased</a>]
+
+― <a href="https://en.wikipedia.org/wiki/Buddhaghosa" target="_blank">Buddhaghosa</a><span style="color:Chartreuse">(4th century Buddhist philosopher)</span>
+
 >“Accepting the authority of the Vedas, believing in individual agency, hoping for merit from bathing, **taking pride in caste**, undertaking rites for the removal of evils: these are the five signs of **stupidity**, the **destruction of intelligence**.”
 
 >“A fire has just been lit to roast some meat. The fire hasn’t started sending up any smoke, but the smell of the meat has attracted a cloud of insects. From a distance, an observer sees the dark swarm above the horizon and mistakes it for smoke. "There’s a fire burning at that spot," the distant observer says. Does the observer know that there is a fire burning in the distance?
@@ -2020,12 +2024,12 @@ These are some quotes related to veganism. Veganism is an ethical philosophy tha
 ― <a href="https://en.wikipedia.org/wiki/Henry_Stephens_Salt" target="_blank">Henry Stephens Salt</a><span style="color:Chartreuse">( "father of animal rights", campaigner for social reform in the fields of prisons, schools, economic institutions, and the treatment of animals. Introduced Mohandas Gandhi to the influential works on animal rights)</span>
 
 >“Do not unjustly eat fish the water has given up,<br>
->    And do not desire as food the flesh of slaughtered animals,<br>
+And do not desire as food the flesh of slaughtered animals,<br>
 Or the white milk of mothers who intended its pure draught<br>
 for their young, not noble ladies.<br>
 And do not grieve the unsuspecting birds by taking eggs;<br>
 for injustice is the worst of crimes.<br>
-And spare the honey which the bees get industriously
+And spare the honey which the bees get industriously<br>
 from the flowers of fragrant plants;<br>
 For they did not store it that it might belong to others,<br>
 Nor did they gather it for bounty and gifts.<br>
@@ -2038,7 +2042,7 @@ Perceived my way before my hair went gray!”<br>
 
 >“Do not suppose the statements of the prophets to be true; they are all fabrications. Men lived comfortably till they came and spoiled life. The sacred books are only such a set of idle tales as any age could have and indeed did actually produce.”
 
-― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(973-1057, 1st recorded vegan in history, Arab philosopher, poet, and writer and is regarded as one of the greatest classical Arabic poets)</span>
+― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(973-1057, 1st recorded vegan in history, Arab philosopher, poet, and writer and is regarded as one of the greatest classical Arabic poets. Unlike most people who use tiny inconveniences as excuses, he was blind since childhood and still did all these.)</span>
 
 >“I credit my plant-based diet with giving me the energy and stamina to help carry my teams to four NBA championship wins. … Veganism has become a transformative part of my life and I have made it my mission to share the power of plant-based eating with the world. … Vegan eating is not just a slam dunk for human health; it’s also the most effective way to combat climate change, according to a 2010 report by the United Nations. … going vegan is one of the best things a person can do **for their health, for animals, and for the environment**.”
 
