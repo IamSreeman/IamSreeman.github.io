@@ -369,3 +369,5 @@ Doing these 5 things will be very hard. It might be slightly easier for India th
     If 100 animals were experimented with medicines and if it saves 100 million humans I think it is justifiable. But if 100 animals were experimented with medicines and it only saves 1 human then it is not justifiable.
 
     The amount of suffering caused by vivisection is currently negligible compared to meat industry and dairy industry. We can think about this problem after those industries are abolished.
+
+    Also, check my [blog post on my ethics](https://ksr.onl/blog/2024/07/my-ethical-beliefs-and-the-suffering-monster.html){:target="_blank"}.

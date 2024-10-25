@@ -7,7 +7,7 @@ tags:   [Atheism,Ethics,Epistemology]
 script:
   foot: bookmarklet.js
 ---
-In this post, I will argue that no parent has the right to brainwash/indoctrinate their children into a religion, and it is the duty of the state to do everything to make sure that no child is brainwashed. If they become adult, then they can read all religions and believe in whatever nonsense they want, as everyone has the right to freedom of religion. But children must be protected as they are easy to brainwash.
+In this post, I will argue that no parent has the right to brainwash/indoctrinate their children into a religion, and it is the duty of the government to do everything to make sure that no child is brainwashed. When they become adult, then they can read all religions and believe in whatever nonsense they want, as everyone has the right to freedom of religion. But children must be protected as they are easy to brainwash.
 <!--more-->
 
 If this right is adopted worldwide, all religions will disappear in a few generations.
@@ -15,7 +15,8 @@ If this right is adopted worldwide, all religions will disappear in a few genera
 - [Introduction](#introduction)
 - [Responsibility of family](#responsibility-of-family)
 - [Responsibility of government](#responsibility-of-government)
-   * [Example of government's failure](#example-of-governments-failure)
+   * [Example of government's failure in my childhood](#example-of-governments-failure-in-my-childhood)
+- [Example of Heisenberg & Ramanujan](#example-of-heisenberg--ramanujan)
 
 ## Introduction
 
@@ -49,10 +50,36 @@ Government should be careful when it is creating textbooks for children. They sh
 
 Government should consider the **Right to be not brainwashed** as a basic human right and it should change the education system such that even the people who were brainwashed by their family will become normal.
 
-### Example of government's failure
+### Example of government's failure in my childhood
 
 When I was in 10th class we had an abridged version of Ramayana in our Telugu textbook divided into 10 chapters. The last paragraph of Ramayana in the 10th textbook says that Rama ruled Ayodhya for 11000 years. The same thing is there in the original Sanskrit version also (Source:<a href="https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga1/balasans1.htm#Verse97" target="_blank">Balakanda sarga 1 shloka 97</a>). It also says that Rama's father Dasharatha lived for 60000 years (Source:<a href="https://sanskritdocuments.org/sites/valmikiramayan/baala/sarga20/balasans20.htm#Verse10" target="_blank">Balakanda sarga 20 shloka 10</a>). This is **utter nonsense** but I had to write them in the exams. Our teachers taught as if they really lived that many years. Recently I remembered it after seeing my younger brother reading that.
 
 When I was in 11th and 12th classes we had similar nonsense in our Sanskrit textbook, like how [Bhagiratha](https://en.wikipedia.org/wiki/Bhagiratha#Bhag%C4%ABrathaprayatnam){:target="_blank"} meditated for 1001 years without eating and drinking, how Krishna magically made [Kuchela or Sudama](https://en.wikipedia.org/wiki/Sudama#Legend){:target="_blank"} a wealthy man because he was a devotee (their relation ship is very weird how can you be a big devotee of your childhood friend even if he is the supreme being of that fictional universe? In friendship there should not be any superiory or inferiority complex).
 
 These types of **ridiculously false lies** should be removed from the mandatory curriculum. Religion should not have any role in education or politics.
+
+## Example of Heisenberg & Ramanujan
+
+There are many people who are way too smart to believe in religion, but they still believed in it anyway. I can't think of any reason why they were religious except that they were brainwashed in their childhood. This brainwashing probably forever impaired some part of their rational capacity. They are still rational people in their own field, but when it comes to theology, they are very irrational.
+
+For example, Heisenberg was a devout Christian. He rediscovered matrices to discover matrix mechanics because he didn't know that mathematicians had already studied them until Max Born told him. His [matrix mechanics](https://en.wikipedia.org/wiki/Matrix_mechanics){:target="_blank"} was the first proper formulation of quantum mechanics. He is definitely smart in physics. But in theology, he was very irrational. Christianity is wrong, but was he at least a proper, consistent Christian? No. He met with many Hindus and was simping for Hindu philosophy. This is something against the [Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments){:target="_blank"}.
+
+>“In 1929, Heisenberg spent some time in India as the guest of the celebrated Indian poet Rabindranath Tagore, with whom he had long conversations about science and Indian philosophy. This introduction to Indian thought brought Heisenberg great comfort, he told me. He began to see that the recognition of relativity, interconnectedness, and impermanence as fundamental aspects of physical reality, which had been so difficult for himself and his fellow physicists, was the very basis of the Indian spiritual traditions. “After these conversations with Tagore,” he said, “some of the ideas that had seemed so crazy suddenly made much more sense. That was a great help for me.””
+
+― <a href="https://en.wikipedia.org/wiki/Fritjof_Capra" target="_blank">Fritjof Capra</a>
+
+[Srinivasa Ramanujan](https://en.wikipedia.org/wiki/Srinivasa_Ramanujan){:target="_blank"} was a mathematician who had no formal training in pure maths but had discovered many things, several of which had already been discovered, and he rediscovered them. G. H. Hardy recognized his research that he did in isolation, and between 1914-1919, Ramanujan went to Cambridge to study and do research. He died in 1920. So, only for 5 years, he was not isolated from mathematicians.
+
+>“Paul Erdős has passed on to us Hardy's personal ratings of mathematicians. Suppose that we rate mathematicians on the basis of pure talent on a scale from 0 to 100. Hardy gave himself a score of 25, J. E. Littlewood 30, David Hilbert 80 and Ramanujan 100.”
+
+― <a href="https://en.wikipedia.org/wiki/Bruce_C._Berndt" target="_blank">Bruce C. Berndt</a>
+
+He was definitely a very highly intelligent guy. According to Hardy, he was the most talented mathematician of their generation with 100 score, and Hilbert was the second with 80 score.
+
+I can't fathom that he was genuinely a devout Hindu. He discovered stuff and deluded himself into thinking that the minor local Namagiri goddess had revealed mathematical results to him. She is not even the relevant goddess; she is an avatar of [Lakṣmī](https://en.wikipedia.org/wiki/Lakshmi){:target="_blank"} (goddess of wealth) and not related to [Sarasvatī](https://en.wikipedia.org/wiki/Saraswati){:target="_blank"} (goddess of knowledge). If he hadn't been brainwashed into believing in Hinduism in his childhood, then he would have never believed in this nonsense. Why didn't this goddess make Ramanujan's family rich in his childhood, which would have solved his medical issues for which he suffered lifelong and died young in 1920? Is that goddess stupid? Her literal duty was to give wealth as the goddess of wealth, and she didn't do that and instead gave him mathematical equations in his dream.
+
+>“While asleep, I had an unusual experience. There was a red screen formed by flowing blood, as it were. I was observing it. Suddenly a hand began to write on the screen. I became all attention. That hand wrote a number of elliptic integrals. They stuck to my mind. As soon as I woke up, I committed them to writing.”
+
+― <a href="https://en.wikipedia.org/wiki/Srinivasa_Ramanujan" target="_blank">Srinivasa Ramanujan</a>
+
+Neither of these 2 great people would have been religious were they not brainwashed from their childhood.

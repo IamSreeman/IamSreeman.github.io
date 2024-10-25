@@ -17,7 +17,7 @@ breadcrumbs: true
     }
   });
 </script>
-    
+
 <script type="text/javascript"
         src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
@@ -447,6 +447,10 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 >But Einstein's understanding was deeper even than von Neumann's. His mind was both more penetrating and more original than von Neumann's. And that is a very remarkable statement. Einstein took an extraordinary pleasure in invention. Two of his greatest inventions are the Special and General Theories of Relativity; and for all of Jancsi's brilliance, he never produced anything as original.” 
 
 ― <a href="https://en.wikipedia.org/wiki/Eugene_Wigner" target="_blank">Eugene Wigner</a>
+
+>“I think that modern physics has definitely decided in favor of Plato. In fact the smallest units of matter are not physical objects in the ordinary sense; they are forms, ideas which can be expressed unambiguously only in mathematical language.”
+
+>“If nature leads us to mathematical forms of great simplicity and beauty—by forms I am referring to coherent systems of hypothesis, axioms, etc.—to forms that no one has previously encountered, we cannot help thinking that they are "true," that they reveal a genuine feature of nature.”
 
 >“When I meet God, I am going to ask him two questions: Why relativity? And why turbulence? I really believe he will have an answer for the first.”
 
@@ -1880,6 +1884,24 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 ― <a href="https://en.wikipedia.org/wiki/Shin%27ichi_Hisamatsu" target="_blank">Shin'ichi Hisamatsu</a>
 
+>“Had Mao died in 1956, his achievements would have been immortal. Had he died in 1966, he would still have been a great man but flawed. But he died in 1976. Alas, what can one say?”
+
+― <a href="https://en.wikipedia.org/wiki/Chen_Yun" target="_blank">Chen Yun</a>
+
+>“It could hardly have been anticipated, for example, that a long-time follower of Mao Zedong, at five feet in height barely visible beside him, would use the power of the Chinese Communist Party to give his country a market economy: "It doesn't matter if the cat is white or black," Deng Xiaoping liked to say, "so long as it catches mice." Deng's views on cats—by which he meant ideologies—got him into trouble with Mao during the Cultural Revolution, and at the time of Nixon's 1972 visit to Beijing, Deng was in exile with his family growing vegetables, chopping wood, working in a tractor repair plant, and nursing his son, whom Red Guards had thrown from the roof of a building, permanently paralyzing him. Mao called Deng back to Beijing the following year, acknowledging that he had "done good deeds seventy percent of the time and bad deeds thirty percent"—only to purge him again in 1976. Always resilient, Deng fled to southern China, hid out, and patiently awaited yet another rehabilitation. It came shortly after Mao's death in September of that year, and by the end of  1978 Deng had outmaneuvered all of his rivals to become China's "paramount" leader. He had already by then turned the tables on his predecessor by claiming that Mao had been right seventy percent of the time and wrong thirty percent: this now became party doctrine. Among the "right" things Mao had done were reviving China as a great power, maintaining the Communist Party's political monopoly, and opening relations with the United States as a way of countering the Soviet Union. Among the "wrong" things was Mao's embrace of a disastrously administered command economy. With this pronouncement on percentages, Deng won himself room to pursue a very different path.”
+
+― <a href="https://en.wikipedia.org/wiki/John_Lewis_Gaddis" target="_blank">John Lewis Gaddis</a>
+
+>“It was no longer possible to say that only the Western world could become rich through capitalism, so a new narrative took hold: although a few developing countries might be able to enter global markets from the periphery, it is only because they are very small, almost insignificant. Strangely enough, today you sometimes hear the opposite: that developing countries might make it, but only if they are very large. This is due to the transformation of two giants, China and India, which for decades were held back by, in one case, a communist despot, and in the other a democratic but strictly protectionist command economy. Therefore, people said that Chinese and Indians will be successful all over the world – except in China and India. But then, in 1976, China’s dictator Mao Zedong, as the US economist Steven Radelet put it, ‘single-handedly and dramatically changed the direction of global poverty with one single act: he died’. His successor, Deng Xiaoping, began to accept the private enterprise that peasants and villagers secretly engaged in and extended it to the entire economy. All the restrained creativity and ambition was finally let loose and China grew at record speed. Ironically, intellectuals around the world – modern-day Max Webers – soon explained that this is itself not that strange, as Confucianism made it easy to modernize the economy.”
+
+― <a href="https://en.wikipedia.org/wiki/Johan_Norberg" target="_blank">Johan Norberg</a>
+
+>“Deng is remembered primarily for the economic reforms he initiated while paramount leader of the People's Republic of China, which pivoted China towards a market economy, led to high economic growth, increased standards of living of hundreds of millions, expanded personal and cultural freedoms, and substantially integrated the country into the world economy. More people were lifted out of poverty during his leadership than during any other time in human history, attributed largely to his reforms. For this reason, some have suggested that Deng should have been awarded the Nobel Peace Prize. Deng is also credited with reducing the cult of Mao Zedong and with bringing an end to the chaotic era of the Cultural Revolution. Furthermore, his strong-handed tactics have been credited with keeping the People's Republic of China unified, in contrast to the other major Communist power of the time, the Soviet Union, which collapsed in 1991.
+>
+>However, Deng is also remembered for human rights violations and for numerous instances of political violence. As paramount leader, he oversaw the Tiananmen Square massacre; afterwards, he was influential in the Communist Party's domestic cover-up of the event. Furthermore, he is associated with some of the worst purges during Mao Zedong's rule; for instance, he ordered an army crackdown on a Muslim village in Yunnan which resulted in the deaths of 1,600 people, including 300 children.”
+
+― <a href="https://en.wikipedia.org/wiki/Deng_Xiaoping#Legacy" target="_blank">Deng Xiaoping Legacy from wiki</a>
+
 >“If you can convince the lowest white man he's better than the best colored man, he won't notice you're picking his pocket. Hell, give him somebody to look down on, and he'll empty his pockets for you.”
 
 ― <a href="https://en.wikipedia.org/wiki/Lyndon_B._Johnson" target="_blank">Lyndon B. Johnson</a>
@@ -2399,6 +2421,12 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >“One day you’ll see how important it was to save the Strawhats and let them set sail.”
 
 ― <a href="https://onepiece.fandom.com/wiki/Pedro" target="_blank">Pedro</a>
+
+><img src="{{site.baseurl}}/images/other/Yhwach1.jpg" alt="Yhwach1" width="400"/><br>
+<img src="{{site.baseurl}}/images/other/Yhwach2.jpg" alt="Yhwach2" width="400"/><br>
+<img src="{{site.baseurl}}/images/other/Yhwach3.jpg" alt="Yhwach3" width="400"/><br>[Bleach chapter 546]
+
+― <a href="https://bleach.fandom.com/wiki/Yhwach" target="_blank">Yhwach</a>
 
 >“Even if you kill me, even if you kill anyone, even if you reset science… There’s always an idiot who will try anything and the shiny monkeys will inevitably create a technological civilization.”
 
