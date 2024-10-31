@@ -9,7 +9,7 @@ image:
 script:
   foot: bookmarklet.js
 ---
-[Toriyama Akira](https://dragonball.fandom.com/wiki/Akira_Toriyama){:target="_blank"} is not just the most GOATed mangaka but arguably one of the most GOATed fictional authors of all time. Today, [Dragon Ball DAIMA](https://dragonball.fandom.com/wiki/Dragon_Ball_Daima){:target="_blank"}, his last work, started airing. This post is a tribute to Toriyama.
+[Toriyama Akira](https://dragonball.fandom.com/wiki/Akira_Toriyama){:target="_blank"} (1955-2024) is not just the most GOATed mangaka but arguably one of the most GOATed fictional authors of all time. Today, [Dragon Ball DAIMA](https://dragonball.fandom.com/wiki/Dragon_Ball_Daima){:target="_blank"}, his last work, started airing. This post is a tribute to Toriyama.
 <!--more-->
 
 - [Intro](#intro)
@@ -39,7 +39,7 @@ By age 7, I was already a big fan of Dragon Ball and Dragon Ball Z. I probably s
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/R4vjJrGeh1c?si=ZnSoKZJ16GKoeXWh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The Americans changed it from the original [Cha-La Head-Cha-La](https://www.youtube.com/watch?v=pYnLO7MVKno){:target="_blank"}. Actually, I watched the [Telugu Dub of Rock the Dragon](https://www.youtube.com/watch?v=bHT4isRQh_M){:target="_blank"}.
+The Americans changed it from the original [Cha-La Head-Cha-La](https://www.youtube.com/watch?v=pYnLO7MVKno){:target="_blank"}. Actually, I watched the [Telugu Dub of Rock the Dragon](https://www.youtube.com/watch?v=bHT4isRQh_M){:target="_blank"}. Luckily, unlike the Americans who removed the Shunsuke Kikuchi's original soundtrack and made their own background music, the [Telugu Dub](https://dragonball.fandom.com/wiki/Telugu_dub){:target="_blank"} followed the original background music, which is far superior.
 
 This immediately looked like it was much more serious than the cartoons that I used to watch at that time, like Ben 10, Scooby-Doo, Richie Rich, etc. The scenes in this opening are mostly from non-canon DBZ movies. I was just excited to see beings who can easily destroy planets fight. Even in the early Dragon Ball, before Piccolo arrives, Kid Goku and Master Roshi are powerful enough to destroy the moon. Everything looked so epic. I have watched many epic series now, like The [Big 3](https://otaku.fandom.com/wiki/Big_Three){:target="_blank"}, Legend of the Galactic Heroes, Gurren Lagann, etc, but I still think Dragon Ball is the most epic fiction. Everything is grandiose in DB. We see Goku as a kid, as a father, and then as a grandfather. We even see him interacting with his long descendent [Goku Jr.](https://dragonball.fandom.com/wiki/Goku_Jr.){:target="_blank"}.
 

@@ -2388,11 +2388,23 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 >“Kircheis, do you think what was possible for <a href="https://gineipaedia.com/wiki/Rudolf" target="_blank">Rudolf</a> is impossible for me?”
 
->“The man who succeeds me must have talent equal to, or greater than my own.”
+>“These idiots. What do they think of others? They think they are born with the right to rule. They think they have the right to hurt others. These people are too evil. And this empire is too corrupted.”
 
 >“Genes determine everything? What nonsense. Hereditary physical qualities have no effect on people, that's for individuals. Heredity concerns family background, not personal abilities. Those who blindly believe in such theories generally having nothing in their own lives to be proud of... they are the people I despise the most.”
 
+>“The man who succeeds me must have talent equal to, or greater than my own.”
+
 ― <a href="https://gineipaedia.com/wiki/Reinhard_von_Lohengramm" target="_blank">Reinhard von Lohengramm</a>
+
+>“It is a known historical fact that when the state starts using its reinforced military forces and armaments to suppress its own populace and invade the nearby nations, neglecting to right the social injustices within itself, it is on its way to unpreventable downfall.”
+
+>“Dictatorship itself is not absolutely evil. It is just another form of government. The point is how you run it for the benefit of society.”
+
+>“In reality, it is dictatorship rather than democracy that drastically advances government reforms. But I think humanity ought to avoid being united by a dictatorship. For example, while it is true that Duke Lohengramm might have that talent, what about his descendants? His successor? Rulers are not necessarily wise through generations... I do not think that the entire human race should be ruled by a system where everything depends on one person's character.”
+
+>“Reinhard von Lohengramm's rule is not by the people, but for the people.”
+
+― <a href="https://gineipaedia.com/wiki/Yang_Wen-li" target="_blank">Yang Wen-li</a>
 
 >“There’s no signs that the evils of this world are disappearing. That hasn’t changed since before I became a superhero. So, I guess that means I haven’t really made any difference. I’m not necessarily sad about that. But there has been something bothering me lately. As the days pass, my emotions become more distant. Fear, tension, joy, anger. I feel none of them anymore. **In exchange for power, maybe I’ve lost something that’s essential for being human.**”
 
