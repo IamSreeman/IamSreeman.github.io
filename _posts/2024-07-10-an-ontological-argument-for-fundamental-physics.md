@@ -244,7 +244,7 @@ This is all in (the empirically established) general relativity. Quantum gravity
 
 >“There is greater mathematics in Nature, Horatio, than is dreamt of in your Mathematics department.”
 
-― Pantheist <a href="https://en.wikipedia.org/wiki/Prince_Hamlet" target="_blank">Hamlet</a>
+― <a href="https://en.wikipedia.org/wiki/Prince_Hamlet" target="_blank">Hamlet</a> (if he was a pantheist)
 
 I hope you are convinced that the ontological argument is not talking about some supernatural conscious entity, but it is actually telling us that the necessary entity is nothing but the fundamental law of physics. In the previous section, I even explained that this argument works without Mathematical Platonism.
 
@@ -261,7 +261,7 @@ Of course, for every philosophical claim, there will be reasonable, rational peo
 ― <a href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Arthur Schopenhauer</a>
 
 Years ago, like Schopenhauer, I thought Pantheism was nonsense, just like religions. As I said above, using the word "God" for the laws of physics will only tarnish the greatness of the laws of physics. In 2022, I understood that this semantic preference is not an argument against Pantheism and became a Pantheist. In the below [Another Day of Thanking God](https://knowyourmeme.com/memes/another-day-of-thanking-god){:target="_blank"} meme, I replaced the G-word.<br>
-<img src="{{site.baseurl}}/images/posts/Thank.png" width="500"/>
+<img src="{{site.baseurl}}/images/posts/2024-07-10-thumb4.png" width="500"/>
 
 I used to think that fundamental physics was the most important because it is the most fundamental. But mathematics and philosophy are even more fundamental. And [metaphilosophy](https://en.wikipedia.org/wiki/Metaphilosophy){:target="_blank"} and [metamathematics](https://en.wikipedia.org/wiki/Metamathematics){:target="_blank"} are even more fundamental. And there are also [meta-meta-mathematics](metamathematics){:target="_blank"} and so on with more "meta"s. But this recognition did not decrease the importance of fundamental physics for me because now I think (like the G-word, I don't like to use the exact religious terminology) doing fundamental physics is something akin to a rational form of "worship".
 
