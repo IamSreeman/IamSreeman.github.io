@@ -172,11 +172,15 @@ Apart from the rampant speciesism, animal agriculture is also an institutionaliz
 
 ##### Hormones
 
-This is not an important reason. I am mentioning it here because a lot of insecure conservative men believe in the conspiracy that vegans have less testosterone and are not manly.
+This is not an important reason. I am mentioning it here because a lot of insecure conservative men believe in the conspiracy that vegans have less testosterone and are not manly. The dairy propaganda is that soy products contain estrogen. But soybeans only contain phytoestrogen that cannot affect mammals. But dairy products contain literal mammalian estrogen that is making men less "manly" and women more "womanly". Women are hitting puberty at earlier ages.
 
-- **Results**: Obtained results showed that total sperm count (224.7 [117-369] vs. 119.7 [64.8-442.8]; P = 0.011) and the percentage of rapid progressively motile sperm were significantly higher in the vegan group compared with the non-vegan group (1 [0-7] vs. 17.5 [15-30]; P < 0.0001). Furthermore, the oxidation-reduction potential (0.4 [0.3-0.9] vs. 1.5 [0.6-2.8]; P < 0.0001) and the proportion of spermatozoon with DNA damage (14.7 [7-33.5] vs. 8.2 [3-19.5]; P = 0.05) were significantly higher in the non-vegan group in comparison to the vegan group.<br> **Conclusions**: Results obtained in this study provide additional evidence about the favourable effect of a plant-based diet on sperm parameters.  [Source](https://pubmed.ncbi.nlm.nih.gov/35197681/){:target="_blank"}
+- **Results**: Obtained results showed that total sperm count (224.7 [117-369] vs. 119.7 [64.8-442.8]; P = 0.011) and the percentage of rapid progressively motile sperm were significantly higher in the vegan group compared with the non-vegan group (1 [0-7] vs. 17.5 [15-30]; P < 0.0001). Furthermore, the oxidation-reduction potential (0.4 [0.3-0.9] vs. 1.5 [0.6-2.8]; P < 0.0001) and the proportion of spermatozoon with DNA damage (14.7 [7-33.5] vs. 8.2 [3-19.5]; P = 0.05) were significantly higher in the non-vegan group in comparison to the vegan group.<br> **Conclusions**: Results obtained in this study provide additional evidence about the favourable effect of a plant-based diet on sperm parameters.  [Source: pubmed 35197681](https://pubmed.ncbi.nlm.nih.gov/35197681/){:target="_blank"}
 
-- Vegans had higher testosterone levels than vegetarians and meat-eaters, but this was offset by higher sex hormone binding globulin, and there were no differences between diet groups in free testosterone, androstanediol glucuronide or luteinizing hormone. [Source](https://pubmed.ncbi.nlm.nih.gov/10883675/){:target="_blank"}
+- Vegans had higher testosterone levels than vegetarians and meat-eaters, but this was offset by higher sex hormone binding globulin, and there were no differences between diet groups in free testosterone, androstanediol glucuronide or luteinizing hormone. [Source: pubmed 10883675](https://pubmed.ncbi.nlm.nih.gov/10883675/){:target="_blank"}
+
+For women, the consumption of dairy products causes early puberty. The first menstrual bleeding happens at an earlier age than what is natural due to the intake of mammalian estrogen.
+
+- Conclusions: There is some evidence that greater milk intake is associated with an increased risk of early menarche, or a lower age at menarche. [Source:PMC3038976](https://pmc.ncbi.nlm.nih.gov/articles/PMC3038976/){:target="_blank"}
 
 <img src="{{site.baseurl}}/images/other/MilkHormones.png" width="500"/>
 <img src="{{site.baseurl}}/images/other/memes/v/40.png" width="500"/><br>
