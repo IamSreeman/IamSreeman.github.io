@@ -163,6 +163,8 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“I have expressed an opinion on public issues whenever they appeared to me so bad and unfortunate that silence would have made me feel guilty of complicity.”
 
+>“Newton's age has long since passed through the sieve of oblivion, the doubtful striving and suffering of his generation has vanished from our ken; the works of some few great thinkers and artists have remained, to delight and ennoble those who come after us. Newton's discoveries have passed into the stock of accepted knowledge.”
+
 >“In order to put his system into mathematical form at all, Newton had to devise the concept of differential quotients and propound the laws of motion in the form of total differential equations—perhaps **the greatest advance in thought that a single individual** was ever privileged to make.”
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
@@ -2062,7 +2064,7 @@ Perceived my way before my hair went gray!”<br>
 
 >“Eventually, selection-pressure has given rise to complex minds as well, albeit as just one part of the throwaway host vehicles by which our genes leave copies of themselves. Conscious mind, on this proposal, is a triumph of organisation: our egocentric virtual worlds are warm and gappy QM-coherent states of consciousness. Contra materialist metaphysics, sentience of any kind is not the daily re-enactment of an ontological miracle. Moreover the idea that what-it's-like-ness is the fire in the equations is (at least) consistent with orthodox relativistic quantum field theory - because the theorists' key notions (e.g. that of a field, string, brane, etc) are defined purely mathematically. In other cases, they readily lend themselves to such a reconstruction. Using the word "physical" doesn't add anything of substance.” 
 
-― <a href="https://en.wikipedia.org/wiki/David_Pearce_(transhumanist)" target="_blank">David Pearce</a><span style="color:Chartreuse">(transhumanist and philosopher)</span>
+― <a href="https://en.wikipedia.org/wiki/David_Pearce_(transhumanist)" target="_blank">David Pearce</a><span style="color:Chartreuse">(transhumanist and philosopher and founder of <a href="https://www.abolitionist.com/" target="_blank">Abolitionism (suffering)</a>)</span>
 
 >“Poor countries sell their grain to the West for hard currency while their own children starve in their arms. And the West feeds it to livestock. . . So we can eat a steak? I bet I am not the only one in the room who sees this as a crime?”
 
