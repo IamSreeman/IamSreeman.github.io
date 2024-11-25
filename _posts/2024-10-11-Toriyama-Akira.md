@@ -277,6 +277,14 @@ Also, the Super Saiyan 4 transformation looks cool even though it's not by Toriy
 
 All in all, I would say Dragon Ball Z> Dragon Ball >> Dragon Ball Super > Dragon Ball GT.
 
+Some fans forgot the show and took the meme that Goku was a bad father literally. See these videos explaining why it's false. Goku sacrificed his life TWICE to save his son Gohan in DBZ. In DBS and DBGT, they might have made him a bad father. But I only care about DB and DBZ.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vfVV0eWm6c4?si=MtpRuupKLAAFtk7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/njgIeUeybCM?si=WyXaUuu1UPKpFmhZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7l--gXikIJQ?si=5cdGjaoBbGvfK-np" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Dragon Ball DAIMA
 
 Like Dragon Ball Super, I am afraid they might again dumb Goku down. But this time, Toriyama is heavily involved. Also, like in GT, they turned Goku into a child again, so even if he is made into a dumb guy, it doesn't look bad if he looks like a kid.

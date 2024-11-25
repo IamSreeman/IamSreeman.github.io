@@ -378,6 +378,8 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 >“I was born not knowing and have had only a **little time** to change that here and there.”
 
+>“The prize is in the pleasure of finding the thing out, the kick in the discovery, the observation that other people use it [my work]--those are the real things, the honors are unreal to me.”
+
 >“The power of mathematics is terrifying – and too many physicists finding they have the correct equations without understanding them have been so terrified they give up trying to understand them. I want to go back & try to understand them. What do I mean by understanding? Nothing deep or accurate — just to be able to see some of the qualitative consequences of the equations by some method other than solving them in detail.”
 
 >“From a long view of the history of mankind — seen from, say, ten thousand years from now — there can be little doubt that the most significant event of the 19th century will be judged as Maxwell's discovery of the laws of electrodynamics. The American Civil War will **pale** into provincial insignificance in comparison with this important scientific event of the same decade.”
@@ -1889,6 +1891,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 >“God only exists in people’s minds. Especially in Japan, God's always has been a kind of flexible concept. Look at what happened to the war. **Douglas MacArthur ordered the divine emperor to quit being a God, and he did**, making a speech saying he was just an ordinary person.”
 
 ― <a href="https://en.wikipedia.org/wiki/Shin%27ichi_Hisamatsu" target="_blank">Shin'ichi Hisamatsu</a>
+
+>“No honor I have ever received moves me more deeply than this one. Perhaps this is because I can recall no parallel in the history of the world where a great nation recently at war has so distinguished its former enemy commander. What makes it even more poignant is my own firm disbelief in the usefulness of military occupations with their corresponding displacement of civil control.” [After receiving <a href="https://en.wikipedia.org/wiki/Order_of_the_Rising_Sun" target="_blank">Order of the Rising Sun</a>]
+
+― <a href="https://en.wikipedia.org/wiki/Douglas_MacArthur" target="_blank">Douglas MacArthur</a>
 
 >“Had Mao died in 1956, his achievements would have been immortal. Had he died in 1966, he would still have been a great man but flawed. But he died in 1976. Alas, what can one say?”
 
