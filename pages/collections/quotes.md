@@ -161,6 +161,8 @@ These are some interesting quotes. I removed the quotes which are given as misat
 >
 >I think of you again with unmixed geniality and ask you to try to do the same with me. Objectively it is a **shame when two real fellows who have extricated themselves somewhat from this shabby world do not afford each other mutual pleasure**.” [20 December 1915 to Hilbert] [^Hilbert]
 
+>“Imagination is more important than knowledge. Knowledge is limited.”
+
 >“I have expressed an opinion on public issues whenever they appeared to me so bad and unfortunate that silence would have made me feel guilty of complicity.”
 
 >“Newton's age has long since passed through the sieve of oblivion, the doubtful striving and suffering of his generation has vanished from our ken; the works of some few great thinkers and artists have remained, to delight and ennoble those who come after us. Newton's discoveries have passed into the stock of accepted knowledge.”
@@ -1368,6 +1370,14 @@ And share your pleasures with beggars.”
 >“You can’t help people that don’t want to be helped.”
 
 ― <a href="https://en.wikipedia.org/wiki/John_Armstrong_(British_writer/philosopher)" target="_blank">John Armstrong</a>
+
+>“Two monks were arguing about a flag. One said: "The flag is moving."
+>
+>The other said: "The wind is moving."
+>
+>The sixth patriarch happened to be passing by. He told them: "Not the wind, not the flag; mind is moving."” <a href="https://sacred-texts.com/bud/glg/glg29.htm" target="_blank">Source</a>
+
+― <a href="https://en.wikipedia.org/wiki/The_Gateless_Barrier" target="_blank">The Gateless Barrier</a>
 
 >“I have seen a great people starving to death before my eyes [in India], and I am convinced that this exhaustion and starvation are due not, as their beneficiaries claim, to over-population and superstition, but to the **most sordid and criminal exploitation of one nation by another in all recorded history**. I propose to show that England has year by year been bleeding India to the point of death, and that self-government of India by the Hindus could not, within any reasonable probability, have worse results than the present form of alien domination.”
 

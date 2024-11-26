@@ -277,7 +277,7 @@ Also, the Super Saiyan 4 transformation looks cool even though it's not by Toriy
 
 All in all, I would say Dragon Ball Z> Dragon Ball >> Dragon Ball Super > Dragon Ball GT.
 
-Some fans forgot the show and took the meme that Goku was a bad father literally. See these videos explaining why it's false. Goku sacrificed his life TWICE to save his son Gohan in DBZ. In DBS and DBGT, they might have made him a bad father. But I only care about DB and DBZ.
+Some fans forgot the show and took the meme that Goku was a bad father literally. See these videos explaining why it's false. Goku sacrificed his life TWICE to save his son Gohan in DBZ. The Goku is a bad father agenda only survives on that single Senzu Bean incident in the Cell Saga. In DBS and DBGT, they might have made him a bad father. But I only care about DB and DBZ.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vfVV0eWm6c4?si=MtpRuupKLAAFtk7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
