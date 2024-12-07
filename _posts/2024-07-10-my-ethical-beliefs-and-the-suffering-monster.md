@@ -41,7 +41,7 @@ As far back as I can remember, I was always a negative utilitarian (till 2021), 
 
 <a href="https://en.wikipedia.org/wiki/Utilitarianism" target="_blank">Classical utilitarianism</a> tells us to maximize utility. Utility can be increased by increasing the pleasure or decreasing the suffering; both are considered equally important.
 
-Siddhartha Gautama (as an atheist, I do not call him “The Buddha”) explained that desires are the origin of suffering in his "<a href="https://en.wikipedia.org/wiki/Four_Noble_Truths" target="_blank">Four Noble Truths</a>". Because of this, since childhood, I always had a negative view of pleasures, especially sensual pleasures. Siddhartha’s statement is an exaggeration because there is suffering that is not caused by desires[^Fear], like deaths due to tornadoes, etc. But, I still think his statement is an important contribution to philosophy and it strongly supports that reducing suffering is more important than increasing pleasure.
+<a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Siddhārtha Gautama</a> (as an atheist, I do not call him “The Buddha”) explained that desires are the origin of suffering in his "<a href="https://en.wikipedia.org/wiki/Four_Noble_Truths" target="_blank">Four Noble Truths</a>". Because of this, since childhood, I always had a negative view of pleasures, especially sensual pleasures. Siddhartha’s statement is an exaggeration because there is suffering that is not caused by desires[^Fear], like deaths due to tornadoes, etc. But, I still think his statement is an important contribution to philosophy and it strongly supports that reducing suffering is more important than increasing pleasure.
 
 But, there is a more proper argument for this called <a href="https://en.wikipedia.org/wiki/Benatar%27s_asymmetry_argument" target="_blank">Benatar's asymmetry argument</a>[^Antinatalism].
 
@@ -50,11 +50,15 @@ But, there is a more proper argument for this called <a href="https://en.wikiped
 | <span style="color:red">Presence of pain (Bad)</span>      | <span style="color:green">Absence of pain (Good)</span>        |
 | <span style="color:green">Presence of pleasure (Good)</span> | Absence of pleasure (Not bad) |
 
-As the above table explains, the presence of pain is a much bigger issue than the absence of pleasure. Popper was the first to realize this in 1945 and he then proposed negative utilitarianism.
+As the above table explains, the presence of pain is a much bigger issue than the absence of pleasure. Popper was one of the first to realize this in 1945 and he then proposed negative utilitarianism. <a href="https://en.wikipedia.org/wiki/Shantideva" target="_blank">Śāntideva</a> was the first negative utilitarian, preceding Popper by a millennium. Although, as I said before, indirectly, it was already present in the philosophy of <a href="https://en.wikipedia.org/wiki/Gautama_Buddha" target="_blank">Siddhārtha Gautama</a>.
 
 >“I believe that there is, from the ethical point of view, no symmetry between suffering and happiness, or between pain and pleasure. Both the greatest happiness principle of the Utilitarians and Kant's principle 'Promote other people's happiness ..' seem to me (at least in their formulations) wrong on this point which, however, is not completely decidable by rational argument. In my opinion human suffering makes a direct moral appeal, namely, the appeal for help, while there is no similar call to increase the happiness of a man who is doing well anyway. (A further criticism of the Utilitarian formula 'Maximize pleasure' is that it assumes, in principle, a continuous pleasure-pain scale which allows us to treat degrees of pain as negative degrees of pleasure. But, from the moral point of view, pain cannot be outweighed by pleasure, and especially not one man's pain by another man's pleasure. **Instead of the greatest happiness for the greatest number**, one should demand, more modestly, **the least amount of avoidable suffering for all**; and further, that unavoidable suffering—such as hunger in times of an unavoidable shortage of food—should be distributed as equally as possible.)”
 
 ― <a href="https://en.wikipedia.org/wiki/Karl_Popper" target="_blank">Karl Popper</a>
+
+>“If a bodhisattva does not make a sincere, unwavering effort in thought, word, and deed **to stop all the present and future pain and suffering of all sentient beings, and to bring about all present and future pleasure and happiness**, or does not seek the collection of conditions for that, or does not strive to prevent what is opposed to that, or does not bring about small pain and suffering as a way of preventing great pain and suffering, or does not abandon a small benefit in order to accomplish a greater benefit, if he neglects to do these things even for a moment, he undergoes a downfall. (see SS-G: 17).”
+
+― <a href="https://en.wikipedia.org/wiki/Shantideva" target="_blank">Śāntideva</a>
 
 #### Consistency
 

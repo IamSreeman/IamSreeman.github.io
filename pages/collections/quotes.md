@@ -628,6 +628,12 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 ― <a href="https://en.wikipedia.org/wiki/Philip_W._Anderson" target="_blank">Philip W. Anderson</a>
 
+>“Einstein is usually revered as the father of special and general relativity. In this article I demonstrate that he is also the father of Solid State Physics, or even his broader version known as Condensed Matter Physics (including liquids).
+<br>....<br>
+I believe that the reader will agree with me that Einstein well deserves to be called the father of Condensed Matter Physics.” [<a href="https://arxiv.org/abs/physics/0508237" target="_blank">arXiv:physics/0508237</a>]
+
+― <a href="https://en.wikipedia.org/wiki/Manuel_Cardona" target="_blank">Manuel Cardona</a>
+
 >“If I were forced to sum up in one sentence what the Copenhagen interpretation says to me, it would be 'Shut up and calculate!'”
 
 >“Question: What is the difference between theoretical physics and mathematical physics?<br>
@@ -1300,6 +1306,8 @@ And share your pleasures with beggars.”
 ― <a href="https://en.wikipedia.org/wiki/Mikhail_Bakunin" target="_blank">Mikhail Bakunin</a>
 
 >“We suffer more often in imagination than in reality.”
+
+>“All cruelty springs from weakness.”
 
 ― <a href="https://en.wikipedia.org/wiki/Seneca_the_Younger" target="_blank">Seneca the Younger</a>
 
@@ -2013,11 +2021,53 @@ These are some quotes related to veganism. Veganism is an ethical philosophy tha
 
 ― <a href="https://en.wikipedia.org/wiki/Jeremy_Bentham" target="_blank">Jeremy Bentham</a><span style="color:Chartreuse">(founder of modern utilitarianism)</span>
 
+>“Do not unjustly eat fish the water has given up,<br>
+And do not desire as food the flesh of slaughtered animals,<br>
+Or the white milk of mothers who intended its pure draught<br>
+for their young, not noble ladies.<br>
+And do not grieve the unsuspecting birds by taking eggs;<br>
+for injustice is the worst of crimes.<br>
+And spare the honey which the bees get industriously<br>
+from the flowers of fragrant plants;<br>
+For they did not store it that it might belong to others,<br>
+Nor did they gather it for bounty and gifts.<br>
+I washed my hands of all this; and wish that I<br>
+Perceived my way before my hair went gray!”<br>
+
+>“To let go from my hand a flea that I have caught is a kinder act than to bestow a dirhem on a man in need. There is no difference between the black earless creature which I release and the Black Prince of Kinda who bound the tiara (on his head). Both of them take precaution (against death); and life is dear to it (the flea), and it passionately desires the means of living.”
+
+>“The world holds two classes of men; intelligent men without religion, and religious men without intelligence.”
+
+>“Do not suppose the statements of the prophets to be true; they are all fabrications. Men lived comfortably till they came and spoiled life. The sacred books are only such a set of idle tales as any age could have and indeed did actually produce.”
+
+― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(973-1057, 1st recorded vegan in history, Arab philosopher, poet, and writer and is regarded as one of the greatest classical Arabic poets. Unlike most people who use tiny inconveniences as excuses, he was blind since childhood and still didn't think that was enough excuse to support the moral abomination that is Animal Agriculture. He was also a fearless anti-theist.)</span>
+
+>“I admit it as an axiom, that every animal has more right to the use of its own body than others have to use it.”
+
+>“Much as animals suffer in a natural state, much more do they seem to suffer when under the dominion of the generality of men. What suffering in the former can be supposed to equal the constant torture of a hackney-coach horse?.”
+
+>“It is an axiom that the more pleasure and the less pain there is in the Universe, the better it is. If, then, a person suffer pain instead of pleasure, whether he be criminal or not, the pain will be increased and the pleasure decreased; and, as this disagrees with the axiom just cited, it is wrong.”
+
+>“Y: I suppose you also deem it a crime to drink, as you destroy myriads of animals in the water of every draught?<br>
+Z: I consider this an evil, but not a crime, because I do not cause or wish them to be there, and would assist them to escape if possible. They have no more claim to the water than I have; and we know so little of the nature of these animals, that we are not even sure that they die when the water is drunk; the very fact of their being there is concealed from us, and but for the microscope we should never have known it. I however consider it wrong to waste water in anyway which may injure the <a href="https://en.wikipedia.org/wiki/Animalcule" target="_blank">animalcula</a>.”
+
+>“Y: How can man do without the aid of horses?<br>
+Z: That is his business to find out.<br>
+Y: Do you not think that mankind would be very miserable without their assistance?<br>
+Z: Not much more so than with it: in some cases less.”
+
+>“Y: But the whole species of the carnivorous kind would then become extinct. Were they created to be annihilated?<br>
+Z: I do not see why the whole species of one animal is more important than an equal number of another, although that number might not comprise the whole species of the latter: and, besides, it is not proved that the whole species would perish; as some might feed on the bodies of those animals which they might find that were in a fit state; and also upon vegetables, which they will eat occasionally. It is known that wolves will live in the two ways mentioned, when deprived of other means.”
+
+>“Yet it must be confessed that whichever way we turn our eyes we see a system of aggression and destruction. In order for one animal to live, thousands must die: directly so if the one be carnivorous, and indirectly so if graminivorous. It has been calculated that some birds destroy thousands of butterflies during the rearing of a single brood; and if we take man, who is half carnivorous, and calculate how many lives are destroyed to maintain him in comfort during his life, even without sport, the number will appear enormous, no estimate of which can however be made without taking into account the size of the animals he feeds on.”
+
+― <a href="https://en.wikipedia.org/wiki/Lewis_Gompertz" target="_blank">Lewis Gompertz</a><span style="color:Chartreuse">(1784 - 1861; One of the earliest vegans. He dedicated most of his life to invent devices to reduce animal suffering. In imaginary arguments he called himself "Z" and his irrational opponent as "Y".)</span>
+
 >“The emancipation of men from cruelty and injustice will bring with it in due course the emancipation of animals also. The two reforms are inseparably connected, and neither can be fully realized alone.” [1897]
 
->“If "rights" exist at all—and both feeling and usage indubitably prove that they do exist—they cannot be consistently awarded to men and denied to animals, since the same sense of justice and compassion apply in both cases.”[1894]
+>“If "rights" exist at all—and both feeling and usage indubitably prove that they do exist—they cannot be consistently awarded to men and denied to animals, since the same sense of justice and compassion apply in both cases.” [1894]
 
->“Have the lower animals "rights?" Undoubtedly—if men have.”[1894]
+>“Have the lower animals "rights?" Undoubtedly—if men have.” [1894]
 
 >“[The] notion of the life of an animal having 'no moral purpose,' belongs to a class of ideas which cannot possibly be accepted by the advanced humanitarian thought of the present day [1894] —it is a purely arbitrary assumption, at variance with our best instincts, at variance with our best science, and absolutely fatal (if the subject be clearly thought out) to any full realization of animals' rights. If we are ever going to do justice to the lower races, we must get rid of the antiquated notion of a 'great gulf' fixed between them and mankind, and must recognize the common bond of humanity that unites **all living beings in one universal brotherhood**.”
 
@@ -2040,27 +2090,6 @@ These are some quotes related to veganism. Veganism is an ethical philosophy tha
 >“Before passing on, I will merely add this, that in some ways the **evils attendant on slaughtering grow worse, and not better**, as civilisation advances, because of the more complex conditions of town life, and the increasingly long journeys to which animals are subjected in their transit from the grazier to the slaughterman.”[^Salt][1897]
 
 ― <a href="https://en.wikipedia.org/wiki/Henry_Stephens_Salt" target="_blank">Henry Stephens Salt</a><span style="color:Chartreuse">( "father of animal rights", campaigner for social reform in the fields of prisons, schools, economic institutions, and the treatment of animals. Introduced Mohandas Gandhi to the influential works on animal rights)</span>
-
->“Do not unjustly eat fish the water has given up,<br>
-And do not desire as food the flesh of slaughtered animals,<br>
-Or the white milk of mothers who intended its pure draught<br>
-for their young, not noble ladies.<br>
-And do not grieve the unsuspecting birds by taking eggs;<br>
-for injustice is the worst of crimes.<br>
-And spare the honey which the bees get industriously<br>
-from the flowers of fragrant plants;<br>
-For they did not store it that it might belong to others,<br>
-Nor did they gather it for bounty and gifts.<br>
-I washed my hands of all this; and wish that I<br>
-Perceived my way before my hair went gray!”<br>
-
->“To let go from my hand a flea that I have caught is a kinder act than to bestow a dirhem on a man in need. There is no difference between the black earless creature which I release and the Black Prince of Kinda who bound the tiara (on his head). Both of them take precaution (against death); and life is dear to it (the flea), and it passionately desires the means of living.”
-
->“The world holds two classes of men; intelligent men without religion, and religious men without intelligence.”
-
->“Do not suppose the statements of the prophets to be true; they are all fabrications. Men lived comfortably till they came and spoiled life. The sacred books are only such a set of idle tales as any age could have and indeed did actually produce.”
-
-― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(973-1057, 1st recorded vegan in history, Arab philosopher, poet, and writer and is regarded as one of the greatest classical Arabic poets. Unlike most people who use tiny inconveniences as excuses, he was blind since childhood and still did all these.)</span>
 
 >“I credit my plant-based diet with giving me the energy and stamina to help carry my teams to four NBA championship wins. … Veganism has become a transformative part of my life and I have made it my mission to share the power of plant-based eating with the world. … Vegan eating is not just a slam dunk for human health; it’s also the most effective way to combat climate change, according to a 2010 report by the United Nations. … going vegan is one of the best things a person can do **for their health, for animals, and for the environment**.”
 
@@ -2231,22 +2260,6 @@ Perceived my way before my hair went gray!”<br>
 >“In any case, abundant evidence indicates that all invertebrates with a brain can experience pain. Like vertebrates, numerous invertebrates produce natural opiates and substance P. These animals include crustaceans (e.g., crabs, lobsters, and shrimps), insects (e.g., fruit flies, locusts, and cockroaches), and mollusks (e.g., octopuses, squids, and snails) [...] Also, crustaceans, insects, and mollusks show less reaction to a noxious stimulus when they receive morphine. For example, morphine reduces the reaction of mantis shrimps to electric shock, praying mantises to electric shock, and land snails to a hot surface.”
 
 ― <a href="https://en.wikipedia.org/wiki/Joan_Dunayer" target="_blank">Joan Dunayer</a><span style="color:Chartreuse">(Abolitionist)</span>
-
->“I admit it as an axiom, that every animal has more right to the use of its own body than others have to use it.”
-
->“Much as animals suffer in a natural state, much more do they seem to suffer when under the dominion of the generality of men. What suffering in the former can be supposed to equal the constant torture of a hackney-coach horse?.”
-
->“It is an axiom that the more pleasure and the less pain there is in the Universe, the better it is. If, then, a person suffer pain instead of pleasure, whether he be criminal or not, the pain will be increased and the pleasure decreased; and, as this disagrees with the axiom just cited, it is wrong.”
-
->“Y: I suppose you also deem it a crime to drink, as you destroy myriads of animals in the water of every draught?<br>
-Z: I consider this an evil, but not a crime, because I do not cause or wish them to be there, and would assist them to escape if possible. They have no more claim to the water than I have; and we know so little of the nature of these animals, that we are not even sure that they die when the water is drunk; the very fact of their being there is concealed from us, and but for the microscope we should never have known it. I however consider it wrong to waste water in anyway which may injure the <a href="https://en.wikipedia.org/wiki/Animalcule" target="_blank">animalcula</a>.”
-
->“Y: But the whole species of the carnivorous kind would then become extinct. Were they created to be annihilated?<br>
-Z: I do not see why the whole species of one animal is more important than an equal number of another, although that number might not comprise the whole species of the latter: and, besides, it is not proved that the whole species would perish; as some might feed on the bodies of those animals which they might find that were in a fit state; and also upon vegetables, which they will eat occasionally. It is known that wolves will live in the two ways mentioned, when deprived of other means.”
-
->“Yet it must be confessed that whichever way we turn our eyes we see a system of aggression and destruction. In order for one animal to live, thousands must die: directly so if the one be carnivorous, and indirectly so if graminivorous. It has been calculated that some birds destroy thousands of butterflies during the rearing of a single brood; and if we take man, who is half carnivorous, and calculate how many lives are destroyed to maintain him in comfort during his life, even without sport, the number will appear enormous, no estimate of which can however be made without taking into account the size of the animals he feeds on.”
-
-― <a href="https://en.wikipedia.org/wiki/Lewis_Gompertz" target="_blank">Lewis Gompertz</a><span style="color:Chartreuse">(1784 - 1861; One of the earliest vegans)</span>
 
 >“We have to be aggressive when those we stick up for have no voice. I don't consider it radical to say cruelty is wrong and that animals should be respected. I consider it radical to eat corpses, put electrodes in animals' heads, make elephants live in chains in the circus, and poison animals we consider a nuisance.”
 
@@ -2592,7 +2605,7 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 
 [^Skepticism]: The first line from [The Problems of Philosophy](https://books.google.co.in/books?id=F3CABBiwm6wC&newbks=0&pg=PA9#v=onepage&q&f=false){:target="_blank"}. The answer is <span style="color:red">***most probably***</span> no. If I haven’t included <span style="color:red">***most probably***</span>, that sentence itself will become some knowledge.
 
-[^Salt]: Salt correctly predicted this in 1897. Mankind is using the advances in technology to breed even more sentient animals and enslave them and do even more cruel things instead of using that technology to make it so that we will never again have to enslave other sentient animals, which is not hard to achieve with our current technology. To become an honorable species, abolishing animal agriculture is not enough and we should try to do whatever we can to solve the problem of [wild animal suffering](https://en.wikipedia.org/wiki/Wild_animal_suffering){:target="_blank"}.
+[^Salt]: Salt correctly predicted this in 1897. Humanity is using the advances in technology to breed even more sentient animals and enslave them and do even more barbarically cruel things instead of using that technology to make it so that we will never again have to enslave other sentient animals, which is not hard to achieve with our current technology. To become an honorable species, abolishing animal agriculture is not enough and we should try to do whatever we can to solve the problem of [wild animal suffering](https://en.wikipedia.org/wiki/Wild_animal_suffering){:target="_blank"}.
 
 [^Fiction]: From <a href="https://en.wikipedia.org/wiki/A_True_Story" target="_blank">A True Story</a> (2nd century AD) the first sci-fi story and also the first fictional story where it was explicitly stated as fiction. Before this the concept of fiction was not there. He explictly mentioned that the story is lies and not true just in case it might become mythology.
 

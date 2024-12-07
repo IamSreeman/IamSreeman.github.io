@@ -259,6 +259,10 @@ By NinjaScale.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/e-hu1t-Eztg?si=PLwwnqwePitgM0SH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+By Gladius.<br>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xNVEkSerkU0?si=XDUXZzNIvfg1g0QR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 If you are wondering why mangakas die early, see below.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The average mangaka lives only 63 years. Whereas the average Japanese lives till 85. That is a 22-year difference. <a href="https://t.co/b2unTKrNsc">https://t.co/b2unTKrNsc</a><br><br>The job of a mangaka demands more hard work than any other job I know.<br><br>Some are extreme even by mangaka standards. Eiichiro Oda (mangaka of…</p>&mdash; Sreeman Reddy Kasireddy 🐔🐄🐟 ≮🐕🐈 (@IamSreeman) <a href="https://twitter.com/IamSreeman/status/1806214194855063724?ref_src=twsrc%5Etfw">June 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -277,7 +281,7 @@ Also, the Super Saiyan 4 transformation looks cool even though it's not by Toriy
 
 All in all, I would say Dragon Ball Z> Dragon Ball >> Dragon Ball Super > Dragon Ball GT.
 
-Some fans forgot the show and took the meme that Goku was a bad father literally. See these videos explaining why it's false. Goku sacrificed his life TWICE to save his son Gohan in DBZ. The Goku is a bad father agenda only survives on that single Senzu Bean incident in the Cell Saga. In DBS and DBGT, they might have made him a bad father. But I only care about DB and DBZ.
+Some fans forgot the show and took the meme that Goku was a bad father literally. See these videos explaining why it's false. Goku sacrificed his life TWICE to save his son Gohan in DBZ. The Goku is a bad father agenda only survives on that single Senzu Bean incident in the Cell Saga. In DBS and DBGT, they might have made him a bad father. But I only care about DB and DBZ.<br>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vfVV0eWm6c4?si=MtpRuupKLAAFtk7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -114,16 +114,17 @@ But I should add that there is a difference between suffering in vivisection and
 
 ##### Environmental
 - Animal agriculture is responsible for 18% of all greenhouse gas emissions, which is more than ALL transportation emissions combined [[Source](https://skeptics.stackexchange.com/a/23925/63200){:target="_blank"}]. See this paper [PMC7929601](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7929601/){:target="_blank"} for a much more conservative estimate, putting it equal with ALL transportation emissions combined. Unfortunately, environmental "activists" do not care about the environment; they only care about virtue signaling. There are many reasons to abolish animal agriculture listed in this page, some like animal rights are far more important than climate, but even if environmental "activists" don't care about any other issue and care only about the environment, their number one goal should still be abolishing animal agriculture. Instead, they exclusively focus on the fossil fuel industry, which is not even TOTAL transportation combined. In fact, many environmental "activism" conferences do not provide vegan products, so they kind of make carnism mandatory at these conferences. Even if they say a product is "vegan" at these conferences, it can't be trusted as they routinely willfully mislabel (see <a href="https://plantbasednews.org/news/environment/meat-dairy-products-mislabeled-cop29/" target="_blank">this at the 2024 United Nations Climate Change Conference</a>) products just so they don't look like massive hypocrites. When an environmental "activist" says they are vegan they usually mean <a href="https://www.reducetarian.org/" target="_blank">reducetarian</a>.
+- 83% of the land used for agriculture is used for Animal Agriculture, but Animal Agriculture only provides humans with 18% of the total calories that humans consume. The fact that most humans do not know how inefficient Animal Agriculture is compared to Plant Agriculture speaks for the collective off-the-charts stupidity of our species. [<a href="https://www.theguardian.com/environment/2018/may/31/avoiding-meat-and-dairy-is-single-biggest-way-to-reduce-your-impact-on-earth" target="_blank">Source</a>]
 
-<img src="{{site.baseurl}}/images/other/land-use-kcal-poore.png" width="400"/>
-<img src="{{site.baseurl}}/images/other/share-cereal-human-food.png" width="400"/>
-<img src="{{site.baseurl}}/images/other/Land-use-of-different-diets-Poore-Nemecek.png" width="400"/>
 <img src="{{site.baseurl}}/images/other/Environmental impact of animal products.png" width="400"/>
+<img src="{{site.baseurl}}/images/other/land-use-kcal-poore.png" width="400"/>
+<img src="{{site.baseurl}}/images/other/Land-use-of-different-diets-Poore-Nemecek.png" width="400"/>
 <img src="{{site.baseurl}}/images/other/PlantMilk.png" width="400"/>
+<img src="{{site.baseurl}}/images/other/Soy.png" width="400"/>
 
 ##### Health
 - Processed meat and red meat cauce cancer. [[Source: World Health Organization](https://www.who.int/news-room/questions-and-answers/item/cancer-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat){:target="_blank"}]
-- This comprehensive meta-analysis reports a significant protective effect of a vegetarian diet versus the incidence and/or mortality from ischemic heart disease (-25%) and incidence from total cancer (-8%). Vegan diet conferred a significant reduced risk (-15%) of incidence from total cancer. [Source](https://pubmed.ncbi.nlm.nih.gov/26853923/){:target="_blank"}
+- This comprehensive meta-analysis reports a significant protective effect of a vegetarian diet versus the incidence and/or mortality from ischemic heart disease (-25%) and incidence from total cancer (-8%). Vegan diet conferred a significant reduced risk (-15%) of incidence from total cancer. [Pubmed:26853923](https://pubmed.ncbi.nlm.nih.gov/26853923/){:target="_blank"}
 - The World Health Organization has classified processed meats including ham, bacon, salami and frankfurts as a Group 1 carcinogen (known to cause cancer) which means that there's strong evidence that processed meats cause cancer. Eating processed meat increases your risk of bowel and stomach cancer. [Source](https://www.cancercouncil.com.au/1in3cancers/lifestyle-choices-and-cancer/red-meat-processed-meat-and-cancer/){:target="_blank"}
 - The Academy of Nutrition and Dietetics and Dietitians of Canada consider well-planned vegetarian and vegan diets "appropriate for individuals during all stages of the lifecycle, including pregnancy, lactation, infancy, childhood, and adolescence, and for athletes". [Source](https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=2985&context=pubs){:target="_blank"}
 
@@ -134,6 +135,11 @@ But I should add that there is a difference between suffering in vivisection and
 - One in nine people in the world today are undernourished, yet we feed around a third of our global crop production to animals. If we cut out the middleman and ate the crops ourselves, instead of feeding them to animals, we could feed an additional four billion people – more than enough for everyone, for many years to come! We all know how wasteful old gas-guzzling cars are – how long before livestock farming is viewed in the same way: As a shameful, inefficient waste of resources. [Source](https://viva.org.uk/planet/the-issues/world-hunger/){:target="_blank"}
 
 >“Poor countries sell their grain to the West for hard currency while their own children starve in their arms. And the West feeds it to livestock. . . So we can eat a steak? I bet I am not the only one in the room who sees this as a crime?”
+
+- There are many Human Rights Pretenders whose excuse for supporting the moral abomination that is Animal Agriculture is that they "care" about human rights and the rights of poor people in Africa and these poor people cannot go vegan because veganism is expensive and because of that even these first worlders will not go vegan. That is very stupid because in these poor countries, people eat plant-based foods 99% of the time not because they care about animals but because Animal Agriculture is inefficient and expensive. If these Woke Human Rights Pretenders really care about Human Rights, then every day, more than a billion people go to bed hungry, and that is the biggest issue for Human Rights. But we are already producing food that can feed not only these billion but even 4 more billion humans. Even if they don't care about Animal Rights or Climate Change, just caring about Human Rights is enough reason to Abolish Animal Agriculture.
+
+<img src="{{site.baseurl}}/images/other/How_Many_Earths_2022.jpg" width="400"/><br>
+<img src="{{site.baseurl}}/images/other/share-cereal-human-food.png" width="400"/>
 
 >“Every morsel of meat we eat is **slapping the tear-stained face of a starving child**. When I look into her eyes, do I remain silent?”
 
@@ -153,13 +159,18 @@ But I should add that there is a difference between suffering in vivisection and
 - Infectious diseases originating from animals (zoonotic diseases) have emerged following deforestation from agriculture. Agriculture can reduce its land use through intensification, i.e., improving resource use efficiency. However, intensive management often confines animals and their wastes, which also fosters disease emergence. Therefore, rising demand for animal-sourced foods creates a “trap” of zoonotic disease risks: extensive land use on one hand or intensive animal management on the other. Not all intensification poses disease risks; some methods avoid confinement and improve animal health. However, these “win-win” improvements alone cannot satisfy rising meat demand, particularly for chicken and pork. Intensive poultry and pig production entails greater antibiotic use, confinement, and animal populations than beef production. Shifting from beef to chicken consumption mitigates climate emissions, but this common strategy neglects zoonotic disease risks. Preventing zoonotic diseases requires international coordination to reduce the high demand for animal-sourced foods, improve forest conservation governance, and selectively intensify the lowest-producing ruminant animal systems without confinement. [DOI: 10.1126/sciadv.add6681](https://www.science.org/doi/10.1126/sciadv.add6681){:target="_blank"}
 
 ##### Antibiotic resistance
-- Worldwide an estimated 73% of antimicrobials (mainly antibiotics) are consumed by ***farm animals***. As resistance to antibiotics becomes more common there is greater need for alternative treatments. Calls for new antibiotic therapies have been issued, but new drug development is becoming rarer. [Source](https://en.wikipedia.org/wiki/Antimicrobial_resistance){:target="_blank"}
+- Worldwide an estimated 73% of antimicrobials (mainly antibiotics) are consumed by ***farm animals***. As resistance to antibiotics becomes more common there is greater need for alternative treatments. Calls for new antibiotic therapies have been issued, but new drug development is becoming rarer.
+
+    The burden of AMR is immense, with nearly 5 million annual deaths associated with resistant infections. Infections from AMR microbes are more challenging to treat and often require costly alternative therapies that may have more severe side effects. Preventive measures, such as using narrow-spectrum antibiotics and improving hygiene practices, aim to reduce the spread of resistance. The WHO and other international bodies warn that AMR could lead to up to 10 million deaths annually by 2050 unless actions are taken. [Sources: [Antimicrobial resistance](https://en.wikipedia.org/wiki/Antimicrobial_resistance){:target="_blank"} and [Antibiotic use in livestock](https://en.wikipedia.org/wiki/Antibiotic_use_in_livestock){:target="_blank"}]
+
+<img src="{{site.baseurl}}/images/other/AR.jpg" width="400"/><br>
 
 ##### Childhood indoctrination (brainwashing)
 - It is morally unjustifiable to brainwash children. Children are young and naive, and it's easy to brainwash them into any ideology. The most famous case for this is religions. See [this blog post](https://ksr.onl/blog/2021/09/right-to-be-not-brainwashed.html){:target="_blank"} for the case of religions. In this aspect, [carnism](https://en.wikipedia.org/wiki/Carnism){:target="_blank"} is very similar to religions and employs the same tactics.
 - Results of the edibility sorting task show that ***many children identify animals like cows, pigs, and chickens as unacceptable to eat***. In fact, the majority of young children ages four to five thought that cows and pigs were not potential food sources (84% and 79%, respectively). These mistakes were less common in older children. Interestingly, fish were the one animal who most kids (67%) correctly identified as a food source, perhaps because fish are the least similar to humans. This finding suggests that younger children’s errors might reflect a bias against viewing animals as food sources, especially animals who are most similar to humans (i.e., mammals).
 
     In both the food origin sorting task and the edibility sorting task, children made more mistakes with animal-based foods. Within animal-based foods, children made more mistakes with sorting the origin and edibility of meat compared to milk and eggs. The authors suggest that many children may be unaware of the fact that meat comes from slaughtered animals. This ignorance may be due to a ***combination of parents intentionally withholding this information and modern industrialization distancing urban residents from the food production process***. [Source](https://faunalytics.org/kids-dont-know-theyre-eating-animals/){:target="_blank"}
+
 ##### Sexism
 
 Apart from the rampant speciesism, animal agriculture is also an institutionalized form of sexism where different sexes are tortured differently.
@@ -249,39 +260,37 @@ Example video:<br>
 5) [Pick Up Limes](https://www.youtube.com/c/PickUpLimes){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eI91-UZpJr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-6) [Gaz Oakley](https://www.youtube.com/@gazoakleychef){:target="_blank"}<br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P_wD2zydD_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-7) [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife){:target="_blank"}<br>
+6) [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q4EgmrfmD0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-8) [Yeung Man Cooking](https://www.youtube.com/c/WILYEUNG){:target="_blank"}<br>
+7) [Yeung Man Cooking](https://www.youtube.com/c/WILYEUNG){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/i9EmC0pM1YE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-9) [The Happy Pear](https://www.youtube.com/@thehappypear){:target="_blank"}<br>
+8) [The Happy Pear](https://www.youtube.com/@thehappypear){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0lDjSFhNsE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-10) [Rachel Ama](https://www.youtube.com/@RachelAma){:target="_blank"}<br>
+9) [Rachel Ama](https://www.youtube.com/@RachelAma){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0rILcTHxlLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-11) [Sweet Simple Vegan](https://www.youtube.com/@Sweetsimplevegan){:target="_blank"}<br>
+10) [Sweet Simple Vegan](https://www.youtube.com/@Sweetsimplevegan){:target="_blank"}<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4doYb2d2sTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
-12) [cookingwithparita](https://cookingwithparita.com/){:target="_blank"}
+11) [cookingwithparita](https://cookingwithparita.com/){:target="_blank"}
 
-13) [Vegan Richa](https://www.veganricha.com/){:target="_blank"}
+12) [Vegan Richa](https://www.veganricha.com/){:target="_blank"}
 
-14) [Sarah's Vegan Kitchen](https://www.youtube.com/@SarahsVeganKitchen){:target="_blank"}
+13) [Sarah's Vegan Kitchen](https://www.youtube.com/@SarahsVeganKitchen){:target="_blank"}
 
-15) [Sauce Stache](https://www.youtube.com/@SauceStache){:target="_blank"}
+14) [Sauce Stache](https://www.youtube.com/@SauceStache){:target="_blank"}
 
-16) [Lauren Toyota](https://www.youtube.com/@LaurenToyota){:target="_blank"}
+15) [Lauren Toyota](https://www.youtube.com/@LaurenToyota){:target="_blank"}
 
-17) [Edgy Veg](https://www.youtube.com/@EdgyVeg){:target="_blank"}
+16) [Edgy Veg](https://www.youtube.com/@EdgyVeg){:target="_blank"}
 
-18) [Julia Ayers](https://www.youtube.com/@juliaayers111){:target="_blank"}
+17) [Julia Ayers](https://www.youtube.com/@juliaayers111){:target="_blank"}
 
 ##### Videos
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iSpglxHTJVM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UcN7SGGoCNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/utPkDP3T7R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
