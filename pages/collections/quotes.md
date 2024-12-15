@@ -1680,7 +1680,11 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 ― <a href="https://en.wikipedia.org/wiki/Garry_Davis" target="_blank">Garry Davis</a>
 
->“Any man who stands for progress has to **criticize, disbelieve and challenge every item of the old faith**. Item by item he has to reason out every nook and corner of the prevailing faith. If after considerable reasoning one is led to believe in any theory or philosophy, his faith is welcomed. His reasoning can be mistaken, wrong, misled and sometimes fallacious. But he is **liable to correction because reason is the guiding star of his life**. But mere faith and blind faith is dangerous: it dulls the brain, and makes a man reactionary.”
+>“Injustice anywhere is a threat to justice everywhere.”
+
+― <a href="https://en.wikipedia.org/wiki/Martin_Luther_King_Jr." target="_blank">Martin Luther King Jr.</a>
+
+>“Any man who stands for progress has to **criticize, disbelieve and challenge every item of the old faith**. Item by item he has to reason out every nook and corner of the prevailing faith. If after considerable reasoning one is led to believe in any theory or philosophy, his faith is welcomed. His reasoning can be mistaken, wrong, misled and sometimes fallacious. But he is **liable to correction because reason is the guiding star of his life**. But mere faith and blind faith is dangerous: it dulls the brain, and makes a man reactionary.” [From his book <a href="https://en.wikisource.org/wiki/Why_I_am_an_Atheist" target="_blank">Why I am an Atheist</a>]
 
 ― <a href="https://en.wikipedia.org/wiki/Bhagat_Singh" target="_blank">Bhagat Singh</a>
 

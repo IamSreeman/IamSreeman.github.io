@@ -28,6 +28,7 @@ People are not obliged to be intelligent or creative or rich or influential or a
    * [Negative utilitarianism](#negative-utilitarianism)
       + [Consistency](#consistency)
    * [Threshold deontology](#threshold-deontology)
+      + [Proximity](#proximity)
 - [The suffering monster](#the-suffering-monster)
 - [Conclusion](#conclusion)
    * [Precise thresholds](#precise-thresholds)
@@ -64,7 +65,7 @@ As the above table explains, the presence of pain is a much bigger issue than th
 
 In the original <a href="https://en.wikipedia.org/wiki/Trolley_problem" target="_blank">trolley problem</a>, like most people, I too once thought that we should kill 1 person to save 5 people. But then, when I read the below slight modification of the trolley problem, I thought 1 person should not be killed to save 5 people.
 
-*The Transplant problem: A brilliant transplant surgeon has five patients, each in need of a different organ, each of whom will die without that organ. Unfortunately, there are no organs available to perform any of these five transplant operations. A healthy young traveler, just passing through the city the doctor works in, comes in for a routine checkup. In the course of doing the checkup, the doctor discovers that his organs are compatible with all five of his dying patients. Suppose further that if the young man were to disappear, no one would suspect the doctor.*
+*<a href="https://www.jstor.org/stable/4320118" target="_blank">The Transplant problem</a>: A brilliant transplant surgeon has five patients, each in need of a different organ, each of whom will die without that organ. Unfortunately, there are no organs available to perform any of these five transplant operations. A healthy young traveler, just passing through the city the doctor works in, comes in for a routine checkup. In the course of doing the checkup, the doctor discovers that his organs are compatible with all five of his dying patients. Suppose further that if the young man were to disappear, no one would suspect the doctor.*
 
 My intuition said that in the above problem, the healthy young traveler should not be murdered. So, I understood my beliefs were inconsistent. Most people also answered similarly to me. So, most people are also inconsistent in their ethics. Most people also think about <a href="https://en.wikipedia.org/wiki/Trolley_problem#The_Fat_Man" target="_blank">The Fat Man</a> problem as similar to The Transplant problem and different from the original problem.
 
@@ -94,6 +95,14 @@ Threshold Deontology solves this problem. You can have a [maxim](https://en.wiki
 After the thresholds, I will follow negative utilitarianism. But before that, what kind of deontology should I follow? One option is to following [Kantian ethics](https://en.wikipedia.org/wiki/Kantian_ethics){:target="_blank"}, which is based on his [Categorical Imperative](https://en.wikipedia.org/wiki/Categorical_imperative){:target="_blank"}. One nice thing about the  Categorical Imperative is that all immoral actions are irrational because they violate the CI. This is something I think is intuitively true. A perfectly rational being will never do anything immoral.
 
 Tom Regan also follows Kantian ethics. But another option to define maxims is, as mentioned before, in the style of <a href="https://en.wikipedia.org/wiki/Rule_utilitarianism" target="_blank">rule utilitarianism</a>. I think there is not much practical difference in how we define these maxims. So, I don't have a preference.
+
+#### Proximity
+
+Peter Singer long ago made a famous argument called the <a href="https://www.philosophyexperiments.com/singer/" target="_blank">The Drowning Child</a>. The conclusion was that morality should not depend on proximity, whether it is spatial proximity or emotional proximity. If you can save 1 person in the USA who is right next to you, but with the same money, you can save 10 people in Africa who are not right next to you, then you should not care about spatial proximity. Similarly, humans have emotional proximity to dogs and cats but don't have for pigs or chickens, but that is irrelevant to morality.
+
+If the above is the claim, that is something I completely agree with. But very often, this claim is promoted as part of utilitarianism, which I dislike. Recently, this argument was rebranded into a movement called <a href="https://en.wikipedia.org/wiki/Effective_altruism" target="_blank">Effective Altruism</a>. Some people in this movement even believe absurd things like they can consume animal products daily if they donate a million dollars to save many animals because they would have saved more lives than they will ever eat in their lives. This is a reductio ad absurdum of utilitarianism. Imagine if someone kills 10 people near him and then saves 1000 people who would have died due to starvation. Does saving 1000 people justify killing 10 people? Of course not. ***That's basically like saying morality doesn't apply to rich people.***
+
+In Threshold Deontology, the logic used by Effective Altruism only works when we go beyond the thresholds and enter the realm of utilitarianism. We must do our deontological obligations, like not killing people. When we consider things we are not responsible for (like wild animal suffering, world hunger, etc.), then we should think in terms of Effective Altruism.
 
 ## The suffering monster
 

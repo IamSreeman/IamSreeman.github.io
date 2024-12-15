@@ -66,6 +66,10 @@ This page contains reasons why I made this decision and also some resources if y
 
 <img src="{{site.baseurl}}/images/other/Shrimp.png" width="400"/>
 
+And the sad thing is that these numbers are rapidly increasing. The below image shows the increase in land animals. We don't have data on how fast the numbers are increasing for fishes and crustaceans.
+
+<img src="{{site.baseurl}}/images/other/LandAnimalsTime.svg" width="400"/>
+
 See the below important pamphlet.
 
 <img src="{{site.baseurl}}/images/other/AbolitionistApproach.jpg" width="500"/>
@@ -79,6 +83,29 @@ The moral argument is the most important and compelling argument for veganism. M
 >“**Here (in my domain) no living beings are to be slaughtered or offered in sacrifice**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Ashoka" target="_blank">Aśoka</a> (304 BCE-232 BCE, ruled most of the Indian subcontinent and popularized Buddhism)
+
+>“I admit it as an axiom, that every animal has more right to the use of its own body than others have to use it.”
+
+>“Much as animals suffer in a natural state, much more do they seem to suffer when under the dominion of the generality of men. What suffering in the former can be supposed to equal the constant torture of a hackney-coach horse?.”
+
+― <a href="https://en.wikipedia.org/wiki/Lewis_Gompertz" target="_blank">Lewis Gompertz</a><span style="color:Chartreuse">(1784 - 1861; One of the earliest vegans. He dedicated most of his life to invent devices to reduce animal suffering. In imaginary arguments he called himself "Z" and his irrational opponent as "Y".)</span>
+
+>“Do not unjustly eat fish the water has given up,<br>
+And do not desire as food the flesh of slaughtered animals,<br>
+Or the white milk of mothers who intended its pure draught<br>
+for their young, not noble ladies.<br>
+And do not grieve the unsuspecting birds by taking eggs;<br>
+for injustice is the worst of crimes.<br>
+And spare the honey which the bees get industriously<br>
+from the flowers of fragrant plants;<br>
+For they did not store it that it might belong to others,<br>
+Nor did they gather it for bounty and gifts.<br>
+I washed my hands of all this; and wish that I<br>
+Perceived my way before my hair went gray!”<br>
+
+>“To let go from my hand a flea that I have caught is a kinder act than to bestow a dirhem on a man in need. There is no difference between the black earless creature which I release and the Black Prince of Kinda who bound the tiara (on his head). Both of them take precaution (against death); and life is dear to it (the flea), and it passionately desires the means of living.”
+
+― <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a><span style="color:Chartreuse">(973-1057, 1st recorded vegan in history, Arab philosopher, poet, and writer and is regarded as one of the greatest classical Arabic poets. Unlike most people who use tiny inconveniences as excuses, he was blind since childhood and still didn't think that was enough excuse to support the moral abomination that is Animal Agriculture. He was also a fearless anti-theist.)</span>
 
 >“Today more than ninety per cent of all large animals are domesticated. Consider the chicken, for example. Ten thousand years ago it was a rare bird confined to small niches of South Asia. Today billions of chickens live on almost every continent and island, bar Antarctica. The domesticated chicken is probably the most widespread bird in the annals of planet Earth. If you measure success in terms of numbers, chickens, cows and pigs are the most successful animals ever. Alas, domesticated species paid for their unparalleled collective success with unprecedented individual suffering.”
 
@@ -134,12 +161,12 @@ But I should add that there is a difference between suffering in vivisection and
 ##### World hunger
 - One in nine people in the world today are undernourished, yet we feed around a third of our global crop production to animals. If we cut out the middleman and ate the crops ourselves, instead of feeding them to animals, we could feed an additional four billion people – more than enough for everyone, for many years to come! We all know how wasteful old gas-guzzling cars are – how long before livestock farming is viewed in the same way: As a shameful, inefficient waste of resources. [Source](https://viva.org.uk/planet/the-issues/world-hunger/){:target="_blank"}
 
->“Poor countries sell their grain to the West for hard currency while their own children starve in their arms. And the West feeds it to livestock. . . So we can eat a steak? I bet I am not the only one in the room who sees this as a crime?”
-
 - There are many Human Rights Pretenders whose excuse for supporting the moral abomination that is Animal Agriculture is that they "care" about human rights and the rights of poor people in Africa and these poor people cannot go vegan because veganism is expensive and because of that even these first worlders will not go vegan. That is very stupid because in these poor countries, people eat plant-based foods 99% of the time not because they care about animals but because Animal Agriculture is inefficient and expensive. If these Woke Human Rights Pretenders really care about Human Rights, then every day, more than a billion people go to bed hungry, and that is the biggest issue for Human Rights. But we are already producing food that can feed not only these billion but even 4 more billion humans. Even if they don't care about Animal Rights or Climate Change, just caring about Human Rights is enough reason to Abolish Animal Agriculture.
 
 <img src="{{site.baseurl}}/images/other/How_Many_Earths_2022.jpg" width="400"/><br>
 <img src="{{site.baseurl}}/images/other/share-cereal-human-food.png" width="400"/>
+
+>“Poor countries sell their grain to the West for hard currency while their own children starve in their arms. And the West feeds it to livestock. . . So we can eat a steak? I bet I am not the only one in the room who sees this as a crime?”
 
 >“Every morsel of meat we eat is **slapping the tear-stained face of a starving child**. When I look into her eyes, do I remain silent?”
 
