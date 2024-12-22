@@ -11,6 +11,12 @@ script:
 ---
 I will argue that the miracles claimed as evidence by many religions are too insignificant and unimpressive compared to the grandiose size and scale of the universe. The miracles needed to justify a religion should be at least  [3-A: Universe level](https://vsbattles.fandom.com/wiki/Tiering_System#3-A:_Universe_level){:target="_blank"} feats like destroying all galaxies instantly and then recreating them. So, even in the unlikely case that the attributed miracles really happened, it is not rational to believe the claims made by those religions.
 
+- [Introduction](#introduction)
+- [The arguement](#the-arguement)
+- [Conclusions](#conclusions)
+
+## Introduction
+
 My [previous argument](https://ksr.onl/blog/2021/07/the-incompetent-transmission-of-religious-scriptures-by-supposed-gods.html){:target="_blank"} only works for theistic religions. But this argument works for even nontheistic religions like Buddhism and Jainism.
 <!--more-->
 
@@ -26,9 +32,11 @@ Let's talk about the miracles of Christianity, as it is the most popular religio
 2. They also believe that Jesus **claimed** that he is [God the Son](https://en.wikipedia.org/wiki/God_the_Son){:target="_blank"} and he is [united in essence](https://en.wikipedia.org/wiki/Homoousion){:target="_blank"} with the real God.
 3. From 1. and 2. It follows that his claim about his relation to God is true.
 
-Much has been argued by atheists to show that 1. and 2. are not historical facts and are almost certainly false. They generally try to argue that the only [two events that are certain](https://en.wikipedia.org/wiki/Historicity_of_Jesus){:target="_blank"} about Jesus of Nazareth are that he was baptized by John the Baptist and was crucified by order of the Roman Prefect [Pontius Pilate](https://en.wikipedia.org/wiki/Pontius_Pilate){:target="_blank"}. They explain that it is not even clear that the claims made by Jesus in the Bible contained anything remotely close to the claims made by the actual historical Jesus. The amount of evidence needed to justify believing in the miracles attributed to Jesus is enormous, as Hume pointed out in the above quotes.
+Much has been argued by atheists to show that 1. and 2. are not historical facts and are almost certainly false. They generally try to argue that the only [two events that are certain](https://en.wikipedia.org/wiki/Historicity_of_Jesus){:target="_blank"} about Jesus of Nazareth are that he was baptized by John the Baptist and was crucified by order of the Roman Prefect [Pontius Pilate](https://en.wikipedia.org/wiki/Pontius_Pilate){:target="_blank"}. They explain that it is not even clear that the claims made by Jesus in the Bible contained anything remotely close to the claims made by the actual historical Jesus. The amount of evidence needed to justify believing in the miracles attributed to Jesus is enormous, as Hume pointed out in the above quotes. For example, [Sathya Sai Baba](https://en.wikipedia.org/wiki/Sathya_Sai_Baba){:target="_blank"} used to live 100km from my hometown and was quite popular for performing many miracles, including resurrecting random dead people. My childhood best friend, who was a big fan of science like myself, was a big devotee of this Sathya Sai Baba. Even though back then I was a Hindu (I became an atheist at age 12), I still understood and frankly told my best friend that he was in a cult and that fraud [god man](https://en.wikipedia.org/wiki/Godman_(India)){:target="_blank"} can do no miracles. But my friend still insisted that he had seen several miracles by that guy, and I frankly told him he was deluded. Even his testimony is useless for miracles, let alone the testimony of any contemporary of Jesus. The evidence for Jesus is much worse than Sathya Sai Baba because Jesus' contemporaries were primitive stupid people who knew nothing; not even basic things like microorganisms were known until the 1880s, and people back then could be easily fooled compared to current people.
 
 I want to argue from a different perspective. Let us **assume** that 1. and 2. are indeed historical facts (Of course, I think that premise 1. is just made up and not historically true). Does 1. and 2. **imply** 3.?
+
+## The arguement
 
 I think 1. and 2. **will not imply** 3. For example, take [Hagoromo Ōtsutsuki](https://naruto.fandom.com/wiki/Hagoromo_%C5%8Ctsutsuki){:target="_blank"} from the Naruto franchise. **He resurrected himself 1000 years after his death** to help the protagonists. But he wasn't the God of that fictional universe. He was **just from an advanced alien species** and an expert chakra user. He could destroy continents if he wanted. Many of his feats are more impressive than Jesus' miracles, and yet he is not God. Hagoromo Ōtsutsuki is often misunderstood to be the God by people in the Naruto-verse who don't know that he is an alien with supernatural powers. He was a good guy, so he never lied that he was God, but had he claimed he was God, would it have been rational to believe in him?
 
@@ -40,7 +48,7 @@ Also, just because a very powerful being says that he is omnipotent doesn't impl
 
 <img src="{{site.baseurl}}/images/posts/Buuhan.jpeg"/>
 
-Conclusions:
+## Conclusions
 
 1. If Jesus' miracles are indeed historical facts (although it's highly unlikely), then **we can only conclude that [Naturalism](https://en.wikipedia.org/wiki/Naturalism_(philosophy)){:target="_blank"} is false** and our reality contains supernatural elements. In such a supernatural world, if you work hard, you can probably also do similar insignificant miracles. These miracles are not significant enough to make a rational person believe that these can only be done with the help of God. If I go back in time and see Jesus doing these miracles, then I will immediately believe in ***Supernatual Atheism***[^SupernaturalAtheism]. I will consider his claims about being a God and Son of God as either deception or delusion. Even some very smart people like [John Nash](https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.){:target="_blank"}, [Jiddu Krishnamurti](https://en.wikipedia.org/wiki/Jiddu_Krishnamurti){:target="_blank"} became deluded. Jiddu Krishnamurti was brainwashed into believing that he was a prophet from his childhood by a cult/religion, but luckily he came out against that new religion and became a nonreligious philosopher. So, its not suprising if a person like Jesus had deluded himself after learning a few supernatural tricks.
     >“In madness, I thought I was the most important person in the world.”
