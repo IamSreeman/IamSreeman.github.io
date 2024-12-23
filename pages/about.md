@@ -43,7 +43,7 @@ I am currently interested in doing research in <a href="https://en.wikipedia.org
 [^name]:
     In Telugu script: కసిరెడ్డి శ్రీమాన్ రెడ్డి, in Devanāgarī: कसिरेड्डि श्रीमान रेड्डि and in International Phonetic Alphabet (IPA): /kasiɾeɖɖi ʃɾiːmaːn ɾeɖɖi/.
 
-    In this <a href="https://en.wikipedia.org/wiki/Telugu_names" target="_blank">Telugu name</a>, *Sreeman* is the given name and *Kasireddy* is the family name and Telugu family names come at the beginning of the name (unlike any other Indian culture) and are almost always abbreviated.
+    In this <a href="https://en.wikipedia.org/wiki/Telugu_names" target="_blank">Telugu name</a>, *Sreeman* is the given name and *Kasireddy* is the family name and Telugu family names come at the beginning of the name (unlike any other Indian culture) and are almost always abbreviated. Sreeman literally means "a respectable person" and is used as honorific.
 
     In all Indian and Andhra Pradesh official documents, there is a wrong space and my name is written as *Kasi Reddy Sreeman Reddy* and I am continuing that mistake in all official documents. For official international documents, I use *Sreeman Reddy Kasi Reddy* as my name.
 
