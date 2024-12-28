@@ -450,9 +450,13 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 >“I have known a great many intelligent people in my life. I knew Planck, von Laue and Heisenberg. Paul Dirac was my brother in law; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. But none of them had a mind as quick and acute as Jancsi [John] von Neumann. I have often remarked this in the presence of those men and no one ever disputed.
 >
->But Einstein's understanding was deeper even than von Neumann's. His mind was both more penetrating and more original than von Neumann's. And that is a very remarkable statement. Einstein took an extraordinary pleasure in invention. Two of his greatest inventions are the Special and General Theories of Relativity; and for all of Jancsi's brilliance, he never produced anything as original.” 
+>But Einstein's understanding was deeper even than von Neumann's. His mind was both more penetrating and more original than von Neumann's. And that is a very remarkable statement. Einstein took an extraordinary pleasure in invention. Two of his greatest inventions are the Special and General Theories of Relativity; and for all of Jancsi's brilliance, he never produced anything as original.”
 
 ― <a href="https://en.wikipedia.org/wiki/Eugene_Wigner" target="_blank">Eugene Wigner</a>
+
+>“von Neumann would carry on a conversation with my 3-year-old son, and the two of them would talk as equals, and I sometimes wondered if he used the same principle when he talked to the rest of us.”
+
+― <a href="https://en.wikipedia.org/wiki/Edward_Teller" target="_blank">Edward Teller</a>
 
 >“I think that modern physics has definitely decided in favor of Plato. In fact the smallest units of matter are not physical objects in the ordinary sense; they are forms, ideas which can be expressed unambiguously only in mathematical language.”
 
@@ -2123,9 +2127,25 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 ― <a href="https://en.wikipedia.org/wiki/Philip_Wollen" target="_blank">Philip Wollen</a><span style="color:Chartreuse">(philanthropist, environmentalist and animal rights activist)</span>
 
+>“What do they know-all these scholars, all these philosophers, all the leaders of the world - about such as you? They have convinced themselves that man, the worst transgressor of all the species, is the crown of creation. All other creatures were created merely to provide him with food, pelts, to be tormented, exterminated. **In relation to them, all people are Nazis; for the animals it is an eternal Treblinka.**”
+
+― <a href="https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer" target="_blank">Isaac Bashevis Singer</a><span style="color:Chartreuse">(Jewish-American writer)</span>
+
+>“I have suffered so much myself that I can feel other creatures' suffering by virtue of my own.”
+
+>“I believe as long as man tortures and kills animals, he will torture and kill humans as well—and wars will be waged—for killing must be practiced and learned on a small scale.”
+
+― <a href="https://en.wikipedia.org/wiki/Edgar_Kupfer-Koberwitz" target="_blank">Edgar Kupfer-Koberwitz</a><span style="color:Chartreuse">(journalist, poet and prisoner in the Dachau Nazi concentration camp)</span>
+
+>“150 years ago, they would have thought you were absurd if you advocated for the end of slavery. 100 years ago, they would have laughed at you for suggesting that women should have the right to vote. 50 years ago, they would object to the idea of African Americans receiving equal rights under the law. 25 years ago they would have called you a pervert if you advocated for gay rights. They laugh at us now for suggesting that animal slavery be ended. Some day they won't be laughing.”
+
+― <a href="https://www.instagram.com/thinkingvegan/" target="_blank">Gary Smith</a><span style="color:Chartreuse">(Cofounder/owner at Evolotus PR)</span>
+
 >“As long as there are slaughterhouses there will be battlefields.”
 
 >“A man can live and be healthy without killing animals for food; therefore, if he eats meat, **he participates in taking animal life merely for the sake of his appetite**. And to act so is **immoral**.”
+
+>“It is amazing how complete is the delusion that beauty is goodness. A handsome woman talks nonsense, you listen and hear not nonsense but cleverness. She says and does horrid things, and you see only charm. And if a handsome woman does not say stupid or horrid things, you at once persuade yourself that she is wonderfully clever and moral.”
 
 >“A commercial company enslaved a nation comprising two hundred millions. Tell this to a man free from superstition and he will fail to grasp what these words mean. What does it mean that thirty thousand men, not athletes but rather weak and ordinary people, have subdued two hundred million vigorous, clever, capable, and freedom-loving people? **Do not the figures make it clear that it is not the English who have enslaved the Indians, but the Indians who have enslaved themselves?**” [<a href="https://en.wikipedia.org/wiki/A_Letter_to_a_Hindu" target="_blank">A Letter to a Hindu</a>]
 
@@ -2134,20 +2154,6 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >“As soon as men live entirely in accord with the law of love natural to their hearts and now revealed to them, which excludes all resistance by violence, and therefore hold aloof from all participation in violence — as soon as this happens, **not only will hundreds be unable to enslave millions, but not even millions will be able to enslave a single individual**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Leo_Tolstoy" target="_blank">Leo Tolstoy</a><span style="color:Chartreuse">(Russian writer who is regarded as one of the greatest authors of all time and pioneer of **Nonviolent resistance movement** that inspired **M.K. Gandhi**, **Martin Luther King Jr.**, **Nelson Mandela** and **Ludwig Wittgenstein**)</span>
-
->“What do they know-all these scholars, all these philosophers, all the leaders of the world - about such as you? They have convinced themselves that man, the worst transgressor of all the species, is the crown of creation. All other creatures were created merely to provide him with food, pelts, to be tormented, exterminated. **In relation to them, all people are Nazis; for the animals it is an eternal Treblinka.**”
-
-― <a href="https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer" target="_blank">Isaac Bashevis Singer</a><span style="color:Chartreuse">(Jewish-American writer)</span>
-
->“150 years ago, they would have thought you were absurd if you advocated for the end of slavery. 100 years ago, they would have laughed at you for suggesting that women should have the right to vote. 50 years ago, they would object to the idea of African Americans receiving equal rights under the law. 25 years ago they would have called you a pervert if you advocated for gay rights. They laugh at us now for suggesting that animal slavery be ended. Some day they won't be laughing.”
-
-― <a href="https://www.instagram.com/thinkingvegan/" target="_blank">Gary Smith</a><span style="color:Chartreuse">(Cofounder/owner at Evolotus PR)</span>
-
->“I have suffered so much myself that I can feel other creatures' suffering by virtue of my own.”
-
->“I believe as long as man tortures and kills animals, he will torture and kill humans as well—and wars will be waged—for killing must be practiced and learned on a small scale.”
-
-― <a href="https://en.wikipedia.org/wiki/Edgar_Kupfer-Koberwitz" target="_blank">Edgar Kupfer-Koberwitz</a><span style="color:Chartreuse">(journalist, poet and prisoner in the Dachau concentration camp)</span>
 
 >“I don't hold animals superior or even equal to humans. The whole case for behaving decently to animals rests on the fact that we are the superior species. We are the species uniquely capable of imagination, rationality and moral choice – and that is precisely why we are under the **obligation** to recognise and respect the rights of animals.”
 
@@ -2375,7 +2381,7 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 ― <a href="https://ippo.fandom.com/wiki/Genji_Kamogawa" target="_blank">Genji Kamogawa</a>
 
-><img src="{{site.baseurl}}/images/other/Netero.jpg" alt="Isaac Netero" width="400"/><br>[Hunter × Hunter chapter 298]
+><img src="{{site.baseurl}}/images/other/Netero.jpg" alt="Isaac Netero" width="400"/><br>[Hunter × Hunter chapter 298][[YouTube](https://www.youtube.com/watch?v=V0rvnBG1Hmg&t=18s){:target="_blank"}]
 
 ― <a href="https://hunterxhunter.fandom.com/wiki/Isaac_Netero" target="_blank">Isaac Netero</a>
 
