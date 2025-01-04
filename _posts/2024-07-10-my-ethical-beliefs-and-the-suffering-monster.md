@@ -30,6 +30,7 @@ People are not obliged to be intelligent or creative or rich or influential or a
    * [Threshold deontology](#threshold-deontology)
       + [Proximity](#proximity)
 - [The suffering monster](#the-suffering-monster)
+- [Free will](#free-will)
 - [Conclusion](#conclusion)
    * [Precise thresholds](#precise-thresholds)
    * [M-theory](#m-theory)
@@ -113,6 +114,16 @@ In 2022, just after I started believing in threshold deontology, I read Robert N
 **The suffering monster argument**: Imagine a monster that has $\infty$ jealousy. Every time it sees a sentient being living its life, it will suffer $\infty$ because it is not the only sentient being existing. Assuming the threasolds of threshold deontology are finite, this would mean that we need to consider negative utilitarianism as the suffering is $\infty$. If such an organism ever sees me, will it become my moral obligation to kill my self?
 
 Intuitively, it should be clear that it is not my moral obligation. So, threshold deontology is an incomplete theory.
+
+## Free will
+
+I believe in [Hard Incompatibilism](https://en.wikipedia.org/wiki/Incompatibilism#Hard_incompatibilism){:target="_blank"}, which says that free will is impossible irrespective of whether the fundamental laws of physics are deterministic or stochastic, which depends on the interpretation of quantum mechanics. I think we are all slaves to the laws of physics with no freedom. But like everyone, I, too, have a stubbornly persistent illusion that I have free will. The [hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness){:target="_blank"} is why we have this illusion, and I am not interested in that question. While I strongly believe that free will is an illusion, I am agnostic towards [Illusionism (consciousness)](https://en.wikipedia.org/wiki/Eliminative_materialism#Illusionism){:target="_blank"} as I don't know enough about consciousness. Many things, like classical spacetime, water, etc, are approximate emergent notions that "exist" at some scales but do not really exist fundamentally. Consciousness "exists" similarly as an emergent phenomenon. But free will can't exist as long as the fundamental laws of physics are either deterministic or stochastic with a precise probability distribution.
+
+It might seem that the lack of free will implies [moral responsibility is impossible](https://plato.stanford.edu/entries/skepticism-moral-responsibility/){:target="_blank"}. But I think moral responsibility does exist because, due to the Categorical Imperative, you have to be moral to be a rational person, and just like you MUST NOT "willfully" believe misinformation, you MUST NOT "willfully" do immoral things as a rational being. Doing immoral things is irrational. It is the fundamental duty of sapient beings (i.e., beings capable of abstract thought, homo sapiens are the only sapient species until we discover intelligent aliens) to be rational and not to "willfully" do irrational things. Here, "willfully" is an approximate notion consistent with the illusion of free will. Of course, nothing is really willful because free will doesn't exist. An anti-vaxxer might seem like a willfully ignorant person, but what can he do if the laws of physics dictated him to be stupid? But we shouldn't give up and believe in nonsense just because we don't have free will; we can, for example, prove mathematical truths using [Lean](https://en.wikipedia.org/wiki/Lean_(proof_assistant)){:target="_blank"}, which doesn't depend on free will. Check [Is Free Will Scepticism Self-Defeating?](https://philpapers.org/rec/CHEIFW){:target="_blank"} on how being rational is consistent with the lack of free will.
+
+[Retributive justice](https://en.wikipedia.org/wiki/Retributive_justice){:target="_blank"} is unjustifiable due to the lack of free will. But, deterrence, exile, and rehabilitation are acceptable forms of justice.
+
+All sentient beings should be included in our moral consideration. But sentient beings that are not sapient, which includes every non-human animal, do not have moral responsibility. While it is evil that predators kill and eat herbivores, it is a natural evil like tsunamis, and can't be attributed to predators. But in the long term, when humanity is advanced enough, we have a moral duty to [Herbivorize Predators](https://www.herbivorizepredators.org/){:target="_blank"} without violating the rights of predators. The fact that humans and most animals (except <a href="https://en.wikipedia.org/wiki/Sponge" target="_blank">sponges</a>, <a href="https://en.wikipedia.org/wiki/Coral" target="_blank">corals</a>, etc) are sentient is true. The fact that no being has free will and it is an illusion is also true. But consciousness is more subtle, and I am not sure if it is an illusion.
 
 ## Conclusion
 
