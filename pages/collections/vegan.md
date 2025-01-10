@@ -146,6 +146,7 @@ But I should add that there is a difference between suffering in vivisection and
 <img src="{{site.baseurl}}/images/other/Environmental impact of animal products.png" width="400"/>
 <img src="{{site.baseurl}}/images/other/land-use-kcal-poore.png" width="400"/>
 <img src="{{site.baseurl}}/images/other/Land-use-of-different-diets-Poore-Nemecek.png" width="400"/>
+<img src="{{site.baseurl}}/images/other/Global-land-use-breakdown.png" width="400"/>
 <img src="{{site.baseurl}}/images/other/PlantMilk.png" width="400"/>
 <img src="{{site.baseurl}}/images/other/Soy.png" width="400"/>
 
