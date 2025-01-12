@@ -27,7 +27,6 @@ My name is **Kasireddy Sreeman Reddy**[^name] and I'm a physics PhD student (202
 I am currently interested in doing research in <a href="https://en.wikipedia.org/wiki/Quantum_gravity" target="_blank">quantum gravity</a>, <a href="https://en.wikipedia.org/wiki/String_theory" target="_blank">string theory</a>, <a href="https://en.wikipedia.org/wiki/Holographic_principle" target="_blank">holography</a>, <a href="https://en.wikipedia.org/wiki/Quantum_field_theory" target="_blank">quantum field theories</a> (especially <a href="https://en.wikipedia.org/wiki/Conformal_field_theory" target="_blank">CFTs</a>), and <a href="https://en.wikipedia.org/wiki/Physical_cosmology" target="_blank">cosmology</a>.
 
 **Hometown**: <a href="https://en.wikipedia.org/wiki/Tadipatri" target="_blank">Tadipatri</a><br>
-**Date of Birth**: 2002-01-23<br>
 **Languages**: <a href="https://en.wikipedia.org/wiki/Telugu_language" target="_blank">Telugu</a> (native language), English (fluent), Hindi (conversational) and Mathematics (noob)<br>
 **Favourite theories**[^theories]: String/M-theory  > General relativity > QFT > Classical physics except GR > Quantum mechanics
 
