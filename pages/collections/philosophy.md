@@ -51,7 +51,6 @@ This page details my philosophical beliefs.
     - [Famine, Affluence, and Morality (1971) Peter Singer](https://en.wikipedia.org/wiki/Famine,_Affluence,_and_Morality){:target="_blank"}
     - [What Is It Like to Be a Bat? (1974) Thomas Nagel](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F){:target="_blank"}
     - [Quine–Putnam indispensability argument](https://en.wikipedia.org/wiki/Quine%E2%80%93Putnam_indispensability_argument){:target="_blank"}  (also [1](https://iep.utm.edu/indimath/){:target="_blank"}, [2](https://plato.stanford.edu/entries/mathphil-indis/){:target="_blank"})
-    - [Newcomb's paradox](https://en.wikipedia.org/wiki/Newcomb%27s_paradox){:target="_blank"}
     - [A Defense of Abortion (1971) Judith Jarvis Thomson](https://en.wikipedia.org/wiki/A_Defense_of_Abortion){:target="_blank"}
     - [The impossibility of moral responsibility (1994) Galen Strawson](https://philpapers.org/rec/STRTIO){:target="_blank"} (also [this](https://plato.stanford.edu/entries/skepticism-moral-responsibility/){:target="_blank"})
     - [ Is It Bad to Prefer Attractive Partners? (2022) William D'Alessandro](https://philarchive.org/rec/DALIIB){:target="_blank"}
@@ -62,6 +61,7 @@ This page details my philosophical beliefs.
 1. <a href="https://www.philosophyexperiments.com/" target="_blank">philosophyexperiments.com</a>
 1. <a href="https://plato.stanford.edu/" target="_blank">plato.stanford.edu</a>
 1. <a href="https://iep.utm.edu/" target="_blank">iep.utm.edu</a>
+1. Puzzles: [Newcomb's paradox](https://en.wikipedia.org/wiki/Newcomb%27s_paradox){:target="_blank"}, [Sleeping Beauty problem](https://en.wikipedia.org/wiki/Sleeping_Beauty_problem){:target="_blank"}, [Unexpected hanging paradox](https://en.wikipedia.org/wiki/Unexpected_hanging_paradox){:target="_blank"}. See [this list](https://en.wikipedia.org/wiki/List_of_paradoxes){:target="_blank"} for more. Also, see [this one](https://terrytao.wordpress.com/2011/04/07/the-blue-eyed-islanders-puzzle-repost/){:target="_blank"} from Terence Tao's blog.
 1. <a href="https://vegancheatsheet.org" target="_blank">vegancheatsheet.org</a> and <a href="https://ksr.onl/vegan/" target="_blank">ksr.onl/vegan</a>
 
 [^Sentient]:

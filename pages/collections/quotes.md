@@ -1311,7 +1311,13 @@ And share your pleasures with beggars.”
 
 >“If God really existed, it would be **necessary to abolish him**.”
 
+>“We are firmly convinced that the most imperfect republic is a thousand times better than the most enlightened monarchy.”
+
 ― <a href="https://en.wikipedia.org/wiki/Mikhail_Bakunin" target="_blank">Mikhail Bakunin</a>
+
+>“The best monarch is one who abolishes monarchy.”
+
+― Unknown (attributed to <a href="https://en.wikipedia.org/wiki/Mikhail_Bakunin" target="_blank">Mikhail Bakunin</a>)
 
 >“We suffer more often in imagination than in reality.”
 
