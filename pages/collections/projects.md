@@ -23,7 +23,7 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 ##### List of projects and reports
 
 - [Quantum covariant bit threads (Oct 2023-Present)](#quantum-covariant-bit-threads-oct-2023-present)
-- [Sparse Double-Scaled SYK (Oct 2023-Present)](#sparse-double-scaled-syk-oct-2023-present)
+- [Sparse Double-Scaled SYK (Oct 2023-Feb 2024)](#sparse-double-scaled-syk-oct-2023-feb-2024)
 - [Holographic description of M-theory (Nov-Dec 2023)](#holographic-description-of-m-theory-nov-dec-2023)
 - [AdS/CFT correspondence and the information paradox (Aug-Nov 2022)](#adscft-correspondence-and-the-information-paradox-aug-nov-2022)
 - [Quantum Raychaudhuri Equation and its applications to cosmology (May-July 2022)](#quantum-raychaudhuri-equation-and-its-applications-to-cosmology-may-july-2022)
@@ -39,10 +39,9 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 - Studied several papers about the bit thread formulation of holographic entanglement entropy, especially
 ”Quantum bit threads” (2105.08072) and ”Covariant bit threads” (2208.10507)
 - Proposed a definition for ”Quantum covariant bit threads” that unifies the quantum static version 2105.08072 with the classical covariant version 2208.10507 and showed that it has the expected properties.
-- Currently trying to prove that this definition is equivalent to the Quantum Extremal Surface
-(QES) prescription.
+- Proved that this definition is equivalent to the Quantum Extremal Surface (QES) prescription.
 
-##### Sparse Double-Scaled SYK (Oct 2023-Present)
+##### Sparse Double-Scaled SYK (Oct 2023-Feb 2024)
 
 *Supervisor: Prof. Brian Swingle, Dept. of Physics,  Brandeis University*
 - Studied the chord diagram technique that can be used to solve Double Scaled SYK at all energy scales and $\lambda$.

@@ -1577,6 +1577,15 @@ These are empirical claims, and although some may be hard to test, they must, li
 
 ― <a href="https://en.wikipedia.org/wiki/Thomas_Paine" target="_blank">Thomas Paine</a>
 
+>“If atheism is a "religion",...<br>
+then Not Collecting Stamps is a "hobby".<br>
+If atheism is a "religion", ...<br>
+then Not Playing Football is a "sport".<br>
+If atheism is a "religion", ...<br>
+then 'OFF' is a "TV channel".”
+
+― <a href="https://www.youtube.com/@NonStampCollector" target="_blank">NonStampCollector</a> (see his video [The thing that made the things for which there is no known maker.](https://youtu.be/IVbnciQYMiM){:target="_blank"})
+
 >“Ctesias, the son of Ctesiochus, the Cnidian, wrote of the region of the Indians and the state of those countries, matters which he neither saw himself, nor ever heard come from the mouth of any man. Iambulus also wrote many strange miracles of the great sea, which all men knew to be lies and fictions, yet so composed that they want not their delight: and many others have made choice of the like argument, of which some have published their own travels and peregrinations, wherein they have described the greatness of beasts, the fierce condition of men, with their strange and uncouth manner of life: but the first father and founder of all this foolery was Homer's Ulysses, who tells a long tale to Alcinous of the servitude of the winds, and of wild men with one eye in their foreheads that fed upon raw flesh, of beasts with many heads, and the transformation of his friends by enchanted potions, all which he made the silly Phæakes believe for great sooth.
 >
 >This coming to my perusal, I could not condemn ordinary men for lying, when I saw it in request amongst them that would be counted philosophical persons: yet could not but wonder at them, that, writing so manifest lies, they should not think to be taken with the manner; and this made me also ambitious to leave some monument of myself behind me, that I might not be the only man exempted from this liberty of lying: and because I had no matter of verity to employ my pen in (for nothing hath befallen me worth the writing), ***I turned my style to publish untruths, but with an honester mind than others have done: for this one thing I confidently pronounce for a truth, that I lie: and this, I hope, may be an excuse for all the rest, when I confess what I am faulty in: for I write of
@@ -1838,10 +1847,6 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 ― <a href="https://en.wikipedia.org/wiki/Penn_Jillette" target="_blank">Penn Jillette</a>
 
->“Any sufficiently advanced benevolence may be indistinguishable from malevolence.”
-
-― <a href="https://en.wikipedia.org/wiki/Charles_T._Rubin" target="_blank">Charles T. Rubin</a>
-
 >“When a person can't find a deep sense of meaning, they distract themselves with pleasure.”
 
 >“A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, **will never be able to throw away his life**. He knows the "why" for his existence, and will be able to bear almost any "how."”
@@ -1977,6 +1982,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 >“Power tends to corrupt, and absolute power corrupts absolutely. Great men are almost always bad men [...]”
 
 ― <a href="https://en.wikipedia.org/wiki/Acton%27s_dictum" target="_blank">Acton's dictum</a>
+
+>“Any sufficiently advanced benevolence may be indistinguishable from malevolence.”
+
+― <a href="https://en.wikipedia.org/wiki/Charles_T._Rubin" target="_blank">Charles T. Rubin</a>
 
 >“The best time to plant a tree was 30 years ago, and the second best time to plant a tree is now.”
 
