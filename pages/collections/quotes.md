@@ -185,6 +185,8 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“I can calculate the motions of the heavenly bodies, but not the madness of the people.”
 
+>“I do not love to be dunned [pestered] and teased by foreigners about mathematical things...” [This was the reason why he sent his solution to the [Brachistochrone problem](https://en.wikipedia.org/wiki/Brachistochrone_curve){:target="_blank"} anonymously.]
+
 >“I have studied these things — you have not.”[^NewtonAtheism]
 
 ― <a href="https://en.wikipedia.org/wiki/Isaac_Newton" target="_blank">Isaac Newton</a>
