@@ -240,6 +240,8 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 >“My princeton professors were casual about grading. Arthur wightman was a starring figure on the mathematical side of quantum field theory and, in my first year at princeton, gave the course on advanced quantum mechanics. For some reason, he had recently become interested in the statistical properties of polarized light, and lectured at length about stokes parameters, the numerical quantities used to describe the probabilities of various polarizations. This had nothing to do with the exciting recent advances in quantum electrodynamics. He made up for this with his final exam. It was a take-home problem, to reproduce julian schwinger's classic calculation in quantum electrodynamics of the strength of the electron's magnetic field. After we had handed in our calculations, wightman told us that he was going to go home and burn them without reading them. The point was to give us the experience of doing this sort of calculation, not to judge us. I don't recall if I was happy about this at the time, but this exercise turned out to be the most valuable part of all my course work as a graduate student.”
 
+>“When an equation is as successful as Dirac’s, it is never simply a mistake. It may not be valid for the reason supposed by the author, it may break down in new contexts, and it may not even mean what its author thought it meant. . . . But the great equations of modern physics are a permanent part of scientific knowledge, which may outlast even the beautiful cathedrals of earlier ages.”
+
 >“I buckled down and finally began to learn modern quantum electrodynamics. I saw the necessity of digging into the literature on my own, and even then I didn't entirely trust the authorities I was reading. Feynman seemed to me too hand-waving, airily taking flight above difficulties. Concededly, that sort of thing can be a marvelous aid to progress. But it can be taken too far. On the other hand, schwinger and tomonaga seemed to me unnecessarily formalistic and plodding. I finally found enlightenment in the papers published by freeman dyson in 1949. Dyson was one of the great minds in physics at the time, and also happened to be one of the best writers in the field.”
 
 >“Well, I think it's yielding very useful insights. And um, I think it's... it's been disappointing because the idea of string theory as a theory of fundamental forces has been around now for quite a while, uh, a number of decades, and it has not led to the kind of specific prediction. Well, it makes some qualitative predictions, like it explains why gravity has to exist, but it has not led to the kind of specific numerical predictions, which will say, well, okay, now you can take it to the bank. Um, But it's the **only game in town**. Um, there are alternatives for pictures of what happens at very short distances. There's one due to me called "<a href="https://en.wikipedia.org/wiki/Asymptotic_safety_in_quantum_gravity" target="_blank">asymptotic safety</a>" which I... I think is **a possibility worth taking seriously, but is much less attractive than the string theory and um, I hope string theory is right, but and I don't see anything else on the horizon that's remotely as attractive**. Andy, do you agree with that?” [<a href="https://www.youtube.com/watch?v=PFJ46G8BflQ&t=3108s" target="_blank">YouTube</a>][^Weinberg]
@@ -408,9 +410,17 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 >“If all mathematics were to disappear, physics would be set back exactly one week.”
 
+>“Just to give you an idea of how the theory has been put through the wringer, I’ll give you some recent numbers: experiments have Dirac’s number at 1.00115965221 (with an uncertainty of about 4 in the last digit); the theory puts it at 1.001 15965246 (with an uncertainty of about five times as much). To give you a feeling for the accuracy of these numbers, it comes out something like this: If you were to measure the distance from Los Angeles to New York to this accuracy, it would be exact to the thickness of a human hair. That’s how delicately quantum electrodynamics has, in the past fifty years, been checked—both theoretically and experimentally.”
+
+>“But so far, we have found nothing wrong with the theory of quantum electrodynamics. It is, therefore, I would say, the jewel of physics—our proudest possession.”
+
 >“He [<a href="https://en.wikipedia.org/wiki/Ernst_Stueckelberg" target="_blank">Stueckelberg</a>] did the work and walks alone toward the sunset; and, here I am, covered in all the glory, which rightfully should be his!.”
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Feynman" target="_blank">Richard Feynman</a>
+
+>“Like the silicon chips of more recent years, the Feynman diagram was bringing computation to the masses.”
+
+― <a href="https://en.wikipedia.org/wiki/Julian_Schwinger" target="_blank">Julian Schwinger</a>
 
 >“While the finder of a new elementary particle used to be rewarded by receiving a Nobel Prize, one should now be punished by a $10,000 fine.”
 
@@ -674,6 +684,18 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/Humphry_Davy" target="_blank">Humphry Davy</a>
 
+>“With most men, unbelief in one thing springs from blind belief in another.”
+
+>“We are obliged to regard many of our original minds as crazy — at least until we have become as clever as they are.”
+
+>“There is no greater impediment to progress in the sciences than the desire to see it take place too quickly.”
+
+>“Man is a masterpiece of creation if for no other reason than that, all the weight of evidence for determinism notwithstanding, he believes he has free will.”
+
+>“God created man in His own image, and in requital man created God in his.” [Paraphrased by [Kierkegaard](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard){:target="_blank"}]
+
+― <a href="https://en.wikipedia.org/wiki/Georg_Christoph_Lichtenberg" target="_blank">Georg Christoph Lichtenberg</a>
+
 >“You start with a random clump of atoms, and if you shine light on it for long enough, it should not be so surprising that you get a plant.”
 
 ― <a href="https://en.wikipedia.org/wiki/Jeremy_England" target="_blank">Jeremy England</a>
@@ -681,6 +703,10 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“Science flies you to the moon. Religion flies you into buildings.”
 
 ― <a href="https://en.wikipedia.org/wiki/Victor_J._Stenger" target="_blank">Victor J. Stenger</a>
+
+>“Bizarrely, he found that a universe without any matter - completely empty - was perfectly compatible with Einstein's equations. This featureless universe was, perplexingly, somehow also in motion. If two intrepid astronauts ventured into de Sitter's cosmos, they would still have mass and would be driven apart. The nothingness was expanding. De Sitter pointed out that if general relativity allowed an empty universe in which individual objects can still have mass, then Mach's principle could not be part of the theory-there were no distant masses to provide inertia. De Sitter did not really understand what this meant, and he was content with that: "I do not concern myself with explanations." This was probably the end of Einstein's infatuation with Mach's principle, and general relativity went forward without it.”
+
+― <a href="https://gallatin.nyu.edu/people/faculty/ms5100.html" target="_blank">Matthew Stanley</a>
 
 >“Cosmology is peculiar among the sciences for it is both the oldest and the youngest. From the dawn of civilization man has speculated about the nature of the starry heavens and the origin of the world, but only in the present century has physical cosmology split away from general philosophy to become an independent discipline.”
 
@@ -715,6 +741,8 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“It took the Church until 1832 to remove Galileo's work from its list of books which Catholics were forbidden to read at the risk of dire punishment of their immortal souls.”
 
 >“In science it often happens that scientists say, "You know that's a really good argument; my position is mistaken," and then they would actually change their minds and you never hear that old view from them again. They really do it. It doesn't happen as often as it should, because scientists are human and change is sometimes painful. But it happens every day. I cannot recall the last time something like that happened in politics or religion.”
+
+>“Nothing disturbs me more than the glorification of stupidity.”
 
 >![alt text]({{site.baseurl}}/images/posts/pbdot.jpeg "Pale blue dot")<br>
 “Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of **confident religions**, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there-on a mote of dust suspended in a sunbeam.
@@ -905,7 +933,13 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 >“For some problems the tools are not there. It doesn't matter how smart or quick you are. The analogy I have is like climbing. If you want to climb a cliff that's 10 meters high, you can probably do it with tools and equipment. But if it's just a sheer cliff face, a mile high and there's no handholds whatsoever, just forget it. Doesn't matter how strong you are, you need to wait for some breakthrough, an opening that occurs halfway up and now you have some easier sub-goal.”
 
+>“The popular image of the lone (and possibly slightly mad) genius – who ignores the literature and other conventional wisdom and manages by some inexplicable inspiration (enhanced, perhaps, with a liberal dash of suffering) to come up with a breathtakingly original solution to a problem that confounded all the experts – is a charming and romantic image, but also a wildly inaccurate one, at least in the world of modern mathematics. We do have spectacular, deep and remarkable results and insights in this subject, of course, but they are the hard-won and cumulative achievement of years, decades, or even centuries of steady work and progress of many good and great mathematicians; the advance from one stage of understanding to the next can be highly non-trivial, and sometimes rather unexpected, but still builds upon the foundation of earlier work rather than starting totally anew. (This is for instance the case with Wiles‘ work on Fermat’s last theorem, or Perelman‘s work on the Poincaré conjecture.)”
+
 ― <a href="https://en.wikipedia.org/wiki/Terence_Tao" target="_blank">Terence Tao</a>
+
+>“I've always thought that a good model here could be drawn from ring theory. In that subject, one has the subareas of commutative ring theory and non-commutative ring theory. An uninformed observer might think that these represent a dichotomy, but in fact the latter subsumes the former: a non-commutative ring is a not-necessarily-commutative ring. If we use similar conventions, then we could refer to applied mathematics and nonapplied mathematics, where by the latter we mean ***not-necessarily-applied mathematics***...”
+
+― <a href="https://en.wikipedia.org/wiki/Andy_Magid" target="_blank">Andy Magid</a>
 
 >“It is a truth universally acknowledged that a closed differential form, in possession of an interpretation as a gauge field in a quantum field theory, must be in want of an integral refinement.”[<a href="https://arxiv.org/abs/2312.14338" target="_blank">2312.14338</a>]
 
@@ -1027,7 +1061,7 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”[<a href="ht
 
 ― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
 
->“Don’t worry, I know you’ll never understand it. [Wittgenstein to Bertrand Russell, his Ph.D supervisor, after he had defended his Ph.D thesis]”
+>“Don’t worry, I know you’ll never understand it.” [Wittgenstein to Bertrand Russell, his Ph.D supervisor, after he had defended his Ph.D thesis]
 
 >“Russell's books should be bound in two colours, those dealing with mathematical logic in red – and all students of philosophy should read them; those dealing with ethics and politics in blue – and no one should be allowed to read them.”
 
@@ -1129,6 +1163,12 @@ And share your pleasures with beggars.”
 
 >“Thus, because Christian morality leaves animals out of account ... they are at once outlawed in philosophical morals; they are mere "things," mere means to any ends whatsoever. They can therefore be used for vivisection, hunting, coursing, bullfights, and horse racing, and can be whipped to death as they struggle along with heavy carts of stone. Shame on such a morality that is worthy of pariahs, chandalas, and mlechchhas, and that fails to recognize the eternal essence that exists in every living thing ....”
 
+>“The greatest benefit conferred by the railways is that they spare millions of draught-horses their miserable existences.”
+
+>“Compassion for animals is intimately associated with goodness of character, and it may be confidently asserted that he who is cruel to living creatures cannot be a good man.”
+
+>“The assumption that animals are without rights and the illusion that our treatment of them has no moral significance is a positively outrageous example of Western crudity and barbarity. Universal compassion is the only guarantee of morality.”
+
 ― <a href="https://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Arthur Schopenhauer</a>
 
 >“In order to seek truth, it is necessary once in the course of our life, to **doubt**, as far as possible, of **all things**.”
@@ -1136,6 +1176,10 @@ And share your pleasures with beggars.”
 >“I shall then suppose . . . some <a href="https://en.wikipedia.org/wiki/Evil_demon" target="_blank">evil genius</a> not less powerful than deceitful, has employed his whole energies in deceiving me; I shall consider that . . . all . . . external things are but illusions and dreams of which this genius has availed himself to lay traps for my credulity.”
 
 ― <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes" target="_blank">René Descartes</a>
+
+But no pleasure is comparable to standing upon the vantage ground of truth.
+
+― <a href="https://en.wikipedia.org/wiki/Francis_Bacon" target="_blank">Francis Bacon</a>
 
 >“We are like sailors who on the open sea must reconstruct their ship but are never able to start afresh from the bottom. Where a beam is taken away a new one must at once be put there, and for this the rest of the ship is used as support. In this way, by using the old beams and driftwood the ship can be shaped entirely anew, but only by gradual reconstruction.”[^Neurath]
 
@@ -1368,6 +1412,8 @@ And share your pleasures with beggars.”
 >“Outside the formal disciplines of logic and mathematics there are no absolute certainties—except of course in religion, which abounds in them, to the extent that people commit murder for their sake.”
 
 >“The one thing that is more dangerous than true ignorance is the illusion of understanding.”
+
+>“Religions survive mainly because they brainwash the young.”
 
 ― <a href="https://en.wikipedia.org/wiki/A._C._Grayling" target="_blank">A. C. Grayling</a>
 
@@ -2073,6 +2119,8 @@ Perceived my way before my hair went gray!”<br>
 
 >“I admit it as an axiom, that every animal has more right to the use of its own body than others have to use it.”
 
+>“Axiom 5: That we should never admit of the propriety of the will or volition of one animal being the agent of another, unless we should perceive its own good to result from it, or that justice should require it.”
+
 >“Much as animals suffer in a natural state, much more do they seem to suffer when under the dominion of the generality of men. What suffering in the former can be supposed to equal the constant torture of a hackney-coach horse?.”
 
 >“It is an axiom that the more pleasure and the less pain there is in the Universe, the better it is. If, then, a person suffer pain instead of pleasure, whether he be criminal or not, the pain will be increased and the pleasure decreased; and, as this disagrees with the axiom just cited, it is wrong.”
@@ -2080,7 +2128,7 @@ Perceived my way before my hair went gray!”<br>
 >“Y: I suppose you also deem it a crime to drink, as you destroy myriads of animals in the water of every draught?<br>
 Z: I consider this an evil, but not a crime, because I do not cause or wish them to be there, and would assist them to escape if possible. They have no more claim to the water than I have; and we know so little of the nature of these animals, that we are not even sure that they die when the water is drunk; the very fact of their being there is concealed from us, and but for the microscope we should never have known it. I however consider it wrong to waste water in anyway which may injure the <a href="https://en.wikipedia.org/wiki/Animalcule" target="_blank">animalcula</a>.”
 
->“Y: How can man do without the aid of horses?<br>
+>“Y: How can man do without the aid of horses?<br>[^Horse]
 Z: That is his business to find out.<br>
 Y: Do you not think that mankind would be very miserable without their assistance?<br>
 Z: Not much more so than with it: in some cases less.”
@@ -2163,6 +2211,8 @@ Z: I do not see why the whole species of one animal is more important than an eq
 ― <a href="https://www.instagram.com/thinkingvegan/" target="_blank">Gary Smith</a><span style="color:Chartreuse">(Cofounder/owner at Evolotus PR)</span>
 
 >“As long as there are slaughterhouses there will be battlefields.”
+
+>“My health not only has not suffered; it has in fact improved significantly since I have given up milk, butter and eggs, as well as sugar, tea, and coffee.”
 
 >“A man can live and be healthy without killing animals for food; therefore, if he eats meat, **he participates in taking animal life merely for the sake of his appetite**. And to act so is **immoral**.”
 
@@ -2639,6 +2689,8 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 [^Salt]: Salt correctly predicted this in 1897. Humanity is using the advances in technology to breed even more sentient animals and enslave them and do even more barbarically cruel things instead of using that technology to make it so that we will never again have to enslave other sentient animals, which is not hard to achieve with our current technology. To become an honorable species, abolishing animal agriculture is not enough and we should try to do whatever we can to solve the problem of [wild animal suffering](https://en.wikipedia.org/wiki/Wild_animal_suffering){:target="_blank"}.
 
 [^Fiction]: From <a href="https://en.wikipedia.org/wiki/A_True_Story" target="_blank">A True Story</a> (2nd century AD) the first sci-fi story and also the first fictional story where it was explicitly stated as fiction. Before this the concept of fiction was not there. He explictly mentioned that the story is lies and not true just in case it might become mythology.
+
+[^Horse]: This is not just a snarky comment; Lewis Gompertz genuinely followed this and never used horses to travel, and since 2 centuries ago there was no other option, he travelled to other cities and towns by walk. Lewis Gompertz is arguably the first human to understand that the commodity status of animals is immoral. He was way ahead of his time. He is up there among the greatest humans to ever live. He was a man of great morals and thats why he dedicated most of his life to invent devices to reduce animal suffering.
 
 <script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
 

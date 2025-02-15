@@ -18,9 +18,15 @@ breadcrumbs: true
         src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
-On 2022 Jan 1st, I decided to become a vegan.
+On 2022 Jan 1st, I decided to become a vegan. Before that, I was a vegetarian throughout my life except for 4 years (2016-2020) when I ate meat.
 
-This page contains reasons why I made this decision and also some resources if you are open minded and would like to know more about veganism. You can find many quotes related to veganism <a href="{{site.baseurl}}/quotes/#veganism"  target="_blank">here</a>. Sorry, if this page offends anyone.
+This page contains reasons why I made this decision and also some resources if you are open minded and would like to know more about veganism. You can find many quotes related to veganism <a href="{{site.baseurl}}/quotes/#veganism"  target="_blank">here</a>. Sorry if this page offends anyone.
+
+>“I have expressed an opinion on public issues whenever they appeared to me so bad and unfortunate that silence would have made me feel guilty of complicity.”
+
+>“I have always eaten animal flesh with a somewhat guilty conscience.”[1953 letter to Max Kariel]
+
+― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
 >#### Contents
 >
@@ -58,7 +64,7 @@ This page contains reasons why I made this decision and also some resources if y
 <img src="{{site.baseurl}}/images/other/wild-caught-fish.svg" width="500"/><br>
 [Source](https://ourworldindata.org/grapher/wild-caught-fish){:target="_blank"}
 
-- Currently each year <span style="color:red">80 billion</span> land animals are slaughtered for food. Sources: [1](https://en.wikipedia.org/wiki/Animal_slaughter){:target="_blank"}, [2](https://www.fao.org/faostat/en/#data/QCL){:target="_blank"}<br>
+- Currently each year <span style="color:red">> 80 billion</span> land animals are slaughtered for food. Sources: [1](https://en.wikipedia.org/wiki/Animal_slaughter){:target="_blank"}, [2](https://www.fao.org/faostat/en/#data/QCL){:target="_blank"}<br>
 
 <img src="{{site.baseurl}}/images/other/Slaughter.png" width="400"/>
 
@@ -157,6 +163,7 @@ See [wildanimalsuffering.org](https://wildanimalsuffering.org/){:target="_blank"
 - “This comprehensive meta-analysis reports a significant protective effect of a vegetarian diet versus the incidence and/or mortality from ischemic heart disease (-25%) and incidence from total cancer (-8%). Vegan diet conferred a significant reduced risk (-15%) of incidence from total cancer.” [Pubmed:26853923](https://pubmed.ncbi.nlm.nih.gov/26853923/){:target="_blank"}
 - “The World Health Organization has classified processed meats including ham, bacon, salami and frankfurts as a Group 1 carcinogen (known to cause cancer) which means that there's strong evidence that processed meats cause cancer. Eating processed meat increases your risk of bowel and stomach cancer.” [Source](https://www.cancercouncil.com.au/1in3cancers/lifestyle-choices-and-cancer/red-meat-processed-meat-and-cancer/){:target="_blank"}
 - “The Academy of Nutrition and Dietetics and Dietitians of Canada consider well-planned vegetarian and vegan diets "appropriate for individuals during all stages of the lifecycle, including pregnancy, lactation, infancy, childhood, and adolescence, and for athletes".” [Source](https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=2985&context=pubs){:target="_blank"}
+- Check [this playlist](https://www.youtube.com/playlist?list=PL5TLzNi5fYd9lgvt0-8Oi9BIQ-jO2PBD3){:target="_blank"} to learn how bad eggs are, especially [this video](https://www.youtube.com/watch?v=RtGf2FuzKo4){:target="_blank"} about the relationship between the egg industry and the US government.
 
 <img src="{{site.baseurl}}/images/other/MilkHealth1.png" width="500"/>
 <img src="{{site.baseurl}}/images/other/MilkHealth2.png" width="500"/><br>
@@ -402,7 +409,7 @@ Roughly speaking, $\frac{1}{4}$ chicken is needed per 1 meal per 1 person at my 
 
 **Edit**: The above para was written back when I was a welfarist vegan. This kind of comparison doesn't go well with abolitionist veganism.
 
-In early 2020, I found out (for the 1st time) what actually happens in the dairy industry by watching [this](https://fb.watch/cTX_VxvCv9/){:target="_blank"} and some other videos posted by [Arvind Animal Activist](https://www.facebook.com/ArvindAnimalActivist){:target="_blank"}. But I was not sure if it was healthy to go vegan. But after watching many videos of [Erin Janus](https://www.youtube.com/c/ErinJanus){:target="_blank"} (her [DAIRY IS SCARY!](https://youtu.be/UcN7SGGoCNI){:target="_blank"} video was the final video that made me realise that I can no longer support the dairy industry) and [Earthling Ed](https://www.youtube.com/c/EarthlingEdChannel){:target="_blank"} I decided to go vegan. But then covid lockdown happened. After covid started I became a lacto-vegetarian (just like I was in childhood.) but not a vegan because of some stupid reasons (like my parents will be angry at me and won't allow etc.) which are definitely not good enough excuses to support the cruel dairy industry for another 2 years. On the night of 31 Dec 2021, I boarded a train to Mumbai from my hometown because, after almost 2 years, the COVID-19 lockdown was over, and my university was again open. From that day, I became a vegan. I only informed my family more than a year after I became vegan, and as I expected, I did receive negative responses, but later on, they told me to do whatever I wanted. If COVID (it happened due to animal agriculture) never happened, I would have become a vegan 2 years earlier.
+In early 2020, I found out (for the 1st time) what actually happens in the dairy industry by watching [this](https://fb.watch/cTX_VxvCv9/){:target="_blank"} and some other videos posted by [Arvind Animal Activist](https://www.facebook.com/ArvindAnimalActivist){:target="_blank"}. But I was not sure if it was healthy to go vegan. But after watching many videos of [Erin Janus](https://www.youtube.com/c/ErinJanus){:target="_blank"} (her [DAIRY IS SCARY!](https://youtu.be/UcN7SGGoCNI){:target="_blank"} video was the final video that made me realise that I can no longer support the dairy industry) and [Earthling Ed](https://www.youtube.com/c/EarthlingEdChannel){:target="_blank"} I decided to go vegan. But then covid lockdown happened. After covid started I became a lacto-vegetarian (just like I was in childhood.) but not a vegan because of some stupid reasons (like my parents will be angry at me and won't allow etc.) which are definitely not good enough excuses to support the cruel dairy industry for another 2 years. I continued to drink milk for 2 years in home despite guilt. On the night of 31 Dec 2021, I boarded a train to Mumbai from my hometown because, after almost 2 years, the COVID-19 lockdown was over, and my university was again open offline. From that day, I became a vegan. I only informed my family more than a year after I became vegan, and as I expected, I did receive negative responses, but later on, they told me to do whatever I wanted. If COVID (it happened due to animal agriculture) never happened, I would have become a vegan 2 years earlier.
 
 Until the middle of May 2022 I was a welfarist vegan or utilitarian vegan. Then I found Gary L. Francione's website [abolitionistapproach.com](https://www.abolitionistapproach.com/){:target="_blank"} (especially his [Six Principles](https://www.abolitionistapproach.com/about/the-six-principles-of-the-abolitionist-approach-to-animal-rights/){:target="_blank"})  which converted me into an abolishanist vegan.
 
