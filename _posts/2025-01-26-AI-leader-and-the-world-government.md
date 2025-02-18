@@ -294,7 +294,7 @@ The world government should have human rights and animal rights at the highest l
 
    ― <a href="https://en.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a>'s ideology condensed into a sentence by <a href="https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall" target="_blank">Evelyn Beatrice Hall</a>
 
-   Rational disagreements are always allowed. But I will talk about 2 distinct cases where censorship is necessary & justified. People can always express their opinions, but facts are objective, so mis/disinformation should be censored.
+   Rational disagreements are always allowed. But I will talk about 2 distinct cases where censorship is necessary & justified. People can always express their subjective opinions (like which colour is the best), but facts are objective, so mis/disinformation should be censored.
 
    - ***Intolerance & Disinformation***: Deliberate disinformation should not be left unchecked. Karl Popper, in 1945, introduced the [paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance){:target="_blank"}.
 

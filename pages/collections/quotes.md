@@ -219,7 +219,9 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“Our immersion in the present state of physics makes it hard for us to understand the difficulties of physicists even a few years ago, or to profit from their experience. At the same time, a knowledge of our history is a mixed blessing — it can stand in the way of the logical reconstruction of physical theory that seems to be continually necessary.”
 
->“During the SSC debate, Anderson and other condensed-matter physicists repeatedly made the point that the knowledge gained in elementary-particle physics would be unlikely to help them to understand emergent phenomena like superconductivity. This is certainly true, but I think beside the point, because that is not why we are studying elementary particles; our aim is to push back the reductive frontier, to get closer to whatever simple and general theory accounts for everything in nature. ... experience shows that the ideas developed in one field can prove very useful in the other. Sometimes these ideas become transformed in translation, so that they even pick up a renewed value to the field in which they were first conceived. The example that concerns me is an idea that elementary-particle physicists learnt from condensed-matter theory – specifically from the BCS theory. It is the idea of spontaneous symmetry breaking.” 
+>“During the SSC debate, Anderson and other condensed-matter physicists repeatedly made the point that the knowledge gained in elementary-particle physics would be unlikely to help them to understand emergent phenomena like superconductivity. This is certainly true, but I think beside the point, because that is not why we are studying elementary particles; our aim is to push back the reductive frontier, to get closer to whatever simple and general theory accounts for everything in nature. ... experience shows that the ideas developed in one field can prove very useful in the other. Sometimes these ideas become transformed in translation, so that they even pick up a renewed value to the field in which they were first conceived. The example that concerns me is an idea that elementary-particle physicists learnt from condensed-matter theory – specifically from the BCS theory. It is the idea of spontaneous symmetry breaking.”
+
+>“In trying to get votes for the Superconducting Super Collider, I was very much involved in lobbying members of Congress, testifying to them, bothering them, and I never heard any of them talk about postmodernism or social constructivism. You have to be very learned to be that wrong.”
 
 >“I think the world needs to wake up from its long nightmare of religious belief; and anything that we scientists can do to ***weaken the hold of religion*** should be done, and may in fact be our greatest contribution to civilization.
 
@@ -244,7 +246,20 @@ All this familiar story is true, but it leaves out an irony. Bohr’s version of
 
 >“I buckled down and finally began to learn modern quantum electrodynamics. I saw the necessity of digging into the literature on my own, and even then I didn't entirely trust the authorities I was reading. Feynman seemed to me too hand-waving, airily taking flight above difficulties. Concededly, that sort of thing can be a marvelous aid to progress. But it can be taken too far. On the other hand, schwinger and tomonaga seemed to me unnecessarily formalistic and plodding. I finally found enlightenment in the papers published by freeman dyson in 1949. Dyson was one of the great minds in physics at the time, and also happened to be one of the best writers in the field.”
 
+>“Whatever the final laws of nature may be, there is no reason to suppose that they are designed to make physicists happy.” [Reply to critics of the anthropic principle]
+
+>“Martin Rees said that he was sufficiently confident about the multiverse to bet his dog’s life on it, while Andrei Linde said he would bet his own life. As for me, I have just enough confidence about the multiverse to bet the lives of both Andrei Linde and Martin Rees’s dog.”
+
+>“How important is now who was prime minister of Great Britain or Canada in 1903? What stands out as really important is that at McGill University, Ernest Rutherford and Frederick Soddy were working out the nature of radioactivity...The understanding
+of radioactivity allowed physicists to explain how the Sun and Earth’s cores could still be hot after millions of years. In this way, it removed the last scientific objection to what many geologists and paleontologists thought was the great age of the Earth and the Sun. After this, Christians and Jews either had to give up belief in the literal truth of the Bible or resign themselves to intellectual irrelevance.”
+
+>“There are arrows of scientific explanation, which thread through the space of all scientific generalizations. Having discovered many of these arrows, we can look at a pattern that has emerged, and we notice a remarkable thing: perhaps the greatest scientific discovery of all. These arrows seem to converge to a common source! Start anywhere in science and, like an unpleasant child keep asking “Why?” You will eventually get down to the level of the very small.”
+
+>“Plato and the neo-Platonists taught that the beauty we see in nature is a reflection of the beauty of the ultimate, the nous. For us, too, the beauty of present theories is an anticipation, a premonition, of the beauty of the final theory. And in any case, we would not accept any theory as final unless it were beautiful.”
+
 >“Well, I think it's yielding very useful insights. And um, I think it's... it's been disappointing because the idea of string theory as a theory of fundamental forces has been around now for quite a while, uh, a number of decades, and it has not led to the kind of specific prediction. Well, it makes some qualitative predictions, like it explains why gravity has to exist, but it has not led to the kind of specific numerical predictions, which will say, well, okay, now you can take it to the bank. Um, But it's the **only game in town**. Um, there are alternatives for pictures of what happens at very short distances. There's one due to me called "<a href="https://en.wikipedia.org/wiki/Asymptotic_safety_in_quantum_gravity" target="_blank">asymptotic safety</a>" which I... I think is **a possibility worth taking seriously, but is much less attractive than the string theory and um, I hope string theory is right, but and I don't see anything else on the horizon that's remotely as attractive**. Andy, do you agree with that?” [<a href="https://www.youtube.com/watch?v=PFJ46G8BflQ&t=3108s" target="_blank">YouTube</a>][^Weinberg]
+
+>“But even so, I find string theory very attractive and if I had to bet my life I would bet on string theory rather than on asymptotic safety.”
 
 ― <a href="https://en.wikipedia.org/wiki/Steven_Weinberg" target="_blank">Steven Weinberg</a>
 
@@ -1945,7 +1960,9 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 — A phrase that was carved on the walls of <a href="https://en.wikipedia.org/wiki/Mauthausen_concentration_camp" target="_blank">Mauthausen Nazi concentration camp</a> cell during WWII by a prisoner.
 
->“In spite of everything I still believe that people are really good at heart.”
+>“It's a wonder I haven't abandoned all my ideals, they seem so absurd and impractical. Yet I cling to them because I still believe, in spite of everything, that people are truly good at heart.”
+
+>“I hear the approaching thunder that, one day, will destroy us too, I feel the suffering of millions. And yet, when I look up at the sky, I somehow feel that this cruelty too shall end, and that peace & tranquility will return once again.”
 
 ― <a href="https://en.wikipedia.org/wiki/Anne_Frank" target="_blank">Anne Frank</a>
 
@@ -2204,7 +2221,17 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 >“I believe as long as man tortures and kills animals, he will torture and kill humans as well—and wars will be waged—for killing must be practiced and learned on a small scale.”
 
-― <a href="https://en.wikipedia.org/wiki/Edgar_Kupfer-Koberwitz" target="_blank">Edgar Kupfer-Koberwitz</a><span style="color:Chartreuse">(journalist, poet and prisoner in the Dachau Nazi concentration camp)</span>
+― <a href="https://en.wikipedia.org/wiki/Edgar_Kupfer-Koberwitz" target="_blank">Edgar Kupfer-Koberwitz</a><span style="color:Chartreuse">(Holocaust survivor, vegan activist, journalist, poet and prisoner in the Dachau Nazi concentration camp)</span>
+
+>“Millions knew about the death camps in their midst but pretended not to notice — just as we pretend not to notice factory farms, slaughterhouses and factories in our neighborhoods.”
+
+>“I noted with horror the striking similarities between what the Nazis did to my family and my people, and what we do to animals we raise for food: the branding or tattooing of serial numbers to identify victims, the use of cattle cars to transport victims to their death, the crowded housing of victims in wood crates, the arbitrary designation of who lives and who dies — the Christian lives, the Jew dies; the dog lives, the pig dies.”
+
+>“My first hand experience with animal farming was instrumental. I noted the many similarities between how the Nazis treated us and how we treat animals, especially those raised for food. Among these are the use of cattle cars for transport and crude wood crates for housing, the cruel treatment and deception about impending slaughter, the processing efficiency and emotional detachments of the perpetrators, and the piles of assorted body parts - mute testimonials to the victims they were once a part of.”
+
+>“My passion for animals is less about a particular fondness for animals (I have no companion animals, for instance) and more about what I see as our obligation to those who seem the least similar to us. As I pondered the phrase "Never again", popular in my Jewish community, I realized it means that I can never again contribute to unnecessary suffering or exploitation.”
+
+― <a href="https://en.wikipedia.org/wiki/Alex_Hershaft" target="_blank">Alex Hershaft</a><span style="color:Chartreuse">(Holocaust survivor and vegan activist)</span>
 
 >“150 years ago, they would have thought you were absurd if you advocated for the end of slavery. 100 years ago, they would have laughed at you for suggesting that women should have the right to vote. 50 years ago, they would object to the idea of African Americans receiving equal rights under the law. 25 years ago they would have called you a pervert if you advocated for gay rights. They laugh at us now for suggesting that animal slavery be ended. Some day they won't be laughing.”
 
@@ -2608,6 +2635,8 @@ And yet at the same time, the man behind it was such an easygoing person. That m
 I feel that, on a genetic level, we all love Toriyama-sensei for who he was.
 I would like to offer my deepest respect and gratitude for the vibrant creative world that Toriyama-sensei left behind, and pray from the bottom of my heart that he may rest in peace.<br><br>
 I hope that heaven is just as pleasant as you envisioned it in your manga, sensei.”[^Oda]
+
+><img src="{{site.baseurl}}/images/other/Whitebeard.webp" alt="Whitebeard" width="400"/><br>[One Piece chapter 576]
 
 ― <a href="https://en.wikipedia.org/wiki/Eiichiro_Oda" target="_blank">Eiichiro Oda</a>
 

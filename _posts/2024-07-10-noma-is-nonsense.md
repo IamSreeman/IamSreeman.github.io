@@ -74,7 +74,7 @@ Einstein wrote a lot about the is–ought problem. Einstein's biggest blunder wa
 
 As the above image from Wikipedia explains, Einstein was a philosophical prodigy and understood very well what the is-ought problem was telling. Gould is different; he completely misunderstood it. The only problem with Einstein is his terminology. He shouldn't have used words like God and religion for his pantheism.
 
-If NOMA was a philosophical argument, it would have been the second most ridiculous philosophical argument in the history of human thought, after Alvin Plantinga's reformed epistemology argument that no basis (arguments, evidence, etc.) for belief in God is necessary. But NOMA is not even a philosophical argument, unlike Plantinga's argument; it is just a misunderstanding of the is-ought problem. NOMA just assumes that the other hundreds of ethical theories don't exist.
+If NOMA was a philosophical argument, it would have been the second most ridiculous philosophical argument in the history of human thought, after Alvin Plantinga's reformed epistemology argument that no basis (arguments, evidence, etc.) for belief in God is necessary. But NOMA is not even a philosophical argument, unlike Plantinga's argument; it is just a misunderstanding of the is-ought problem. NOMA just tells us that Gould is ignorant about the existence of hundreds of secular ethical theories.
 
 ## Conflict theses
 

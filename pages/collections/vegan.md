@@ -74,6 +74,8 @@ This page contains reasons why I made this decision and also some resources if y
 
 And the sad thing is that these numbers are rapidly increasing. The below image shows the increase in land animals. We don't have data on how fast the numbers are increasing for fishes and crustaceans.
 
+<img src="{{site.baseurl}}/images/other/capture-and-aquaculture-production.svg" width="400"/>
+
 <img src="{{site.baseurl}}/images/other/LandAnimalsTime.svg" width="400"/>
 
 See the below important pamphlet.
@@ -174,7 +176,8 @@ See [wildanimalsuffering.org](https://wildanimalsuffering.org/){:target="_blank"
 - There are many Human Rights Pretenders whose excuse for supporting the moral abomination that is Animal Agriculture is that they "care" about human rights and the rights of poor people in Africa and these poor people cannot go vegan because veganism is expensive and because of that even these first worlders will not go vegan. That is very stupid because in these poor countries, people eat plant-based foods 99% of the time not because they care about animals but because Animal Agriculture is inefficient and expensive. If these Woke Human Rights Pretenders really care about Human Rights, then every day, more than a billion people go to bed hungry, and that is the biggest issue for Human Rights. But we are already producing food that can feed not only these billion but even 4 more billion humans. Even if they don't care about Animal Rights or Climate Change, just caring about Human Rights is enough reason to Abolish Animal Agriculture.
 
 <img src="{{site.baseurl}}/images/other/How_Many_Earths_2022.jpg" width="400"/><br>
-<img src="{{site.baseurl}}/images/other/share-cereal-human-food.png" width="400"/>
+<img src="{{site.baseurl}}/images/other/share-cereal-human-food.png" width="400"/><br>
+<img src="{{site.baseurl}}/images/other/per-capita-sources-of-protein.svg" width="400"/>
 
 >“Poor countries sell their grain to the West for hard currency while their own children starve in their arms. And the West feeds it to livestock. . . So we can eat a steak? I bet I am not the only one in the room who sees this as a crime?”
 
