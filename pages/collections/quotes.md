@@ -757,6 +757,8 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 >“In science it often happens that scientists say, "You know that's a really good argument; my position is mistaken," and then they would actually change their minds and you never hear that old view from them again. They really do it. It doesn't happen as often as it should, because scientists are human and change is sometimes painful. But it happens every day. I cannot recall the last time something like that happened in politics or religion.”
 
+>“Ethnocentrism, xenophobia and nationalism are these days rife in many parts of the world. Government repression of unpopular views is still widespread. False or misleading memories are inculcated. For the defenders of such attitudes, science is disturb­ing. It claims access to truths that are largely independent of ethnic or cultural biases. By its very nature, science transcends national boundaries. Put scientists working in the same field of study together in a room and even if they share no common spoken language, they will find a way to communicate. Science itself is a transnational language. Scientists are naturally cosmo­politan in attitude and are more likely to see through efforts to divide the human family into many small and warring factions. 'There is no national science,' said the Russian playwright Anton Chekhov, 'just as there is no national multiplication table.' (Likewise, for many, there is no such thing as a national religion, although the religion of nationalism has millions of adherents.)”
+
 >“Nothing disturbs me more than the glorification of stupidity.”
 
 >![alt text]({{site.baseurl}}/images/posts/pbdot.jpeg "Pale blue dot")<br>
@@ -1352,6 +1354,8 @@ But no pleasure is comparable to standing upon the vantage ground of truth.
 
 >“If then a man wishes to satisfy his desire, and a woman hers, they stimulate each other’s desire ; their inclinations meet, but their object is not human nature but sex, and each of them dishonours the human nature of the other. They make of humanity an instrument for the satisfaction of their lusts and inclinations, and dishonour it by placing it on a level with animal nature. Sexuality, therefore, exposes mankind to the danger of equality with the beasts.” [1760s, Lectures on Ethics, p. 164]
 
+>“If a man shoots his dog because the animal is no longer capable of service, he does not fail in his duty to the dog, for the dog cannot judge, but his act is inhuman and damages in himself that humanity which it is his duty to show towards mankind. If he is not to stifle his human feelings, he must practise kindness towards animals, for he who is cruel to animals becomes hard also in his dealings with men. We can judge the heart of a man by his treatment of animals.” [1760s, Lectures on Ethics, p. 240]
+
 >“~~Better the whole people perish than that injustice be done.~~”
 
 ― <a href="https://en.wikipedia.org/wiki/Immanuel_Kant" target="_blank">Immanuel Kant</a>
@@ -1723,6 +1727,12 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 >“An impressive thing about India is the way in which it has almost as many Muslim citizens, who live with greater prospects of peace and prosperity, as does Pakistan. This comity and integration is one of the many targets of the suicide killers, and it is another reason why firm, warm solidarity with India is the most pressing need of the present hour.”
 
 ― <a href="https://en.wikipedia.org/wiki/Christopher_Hitchens" target="_blank">Christopher Hitchens</a>
+
+>“Go ahead and believe in God, if you like, but don't imagine that you have been given any grounds for such a belief by science.”
+
+>“Not a single one of the cells that compose you knows who you are, or cares.”
+
+― <a href="https://en.wikipedia.org/wiki/Daniel_Dennett" target="_blank">Daniel Dennett</a>
 
 >“Mahavira, the Jain patriarch, surpassed the morality of the Bible with a single sentence: "Do not injure, abuse, oppress, enslave, insult, torment, torture, or kill any creature or living being." Imagine how different our world might be if the Bible contained this as its central precept.”
 
