@@ -454,7 +454,7 @@ There were also small provinces like [Coorg Province](https://en.wikipedia.org/w
 
 [Potti Sreeramulu](https://en.wikipedia.org/wiki/Potti_Sreeramulu){:target="_blank"} is revered in my state because he did a 56-day hunger strike and died. He wanted a separate state for Telugu people because most of the Telugu people were at that time either in the Madras Presidency, dominated by Tamil people or in the Nizam state, which was a princely state that was [violently annexed](https://en.wikipedia.org/wiki/Annexation_of_Hyderabad){:target="_blank"} into India. Potti Sreeramulu's death caused the creation of the first "linguistic state". Later, India reorganised most states based on ethnolinguistic groups instead of some borders due to random wars or colonial reasons.
 
-The [States Reorganisation Act, 1956](https://en.wikipedia.org/wiki/States_Reorganisation_Act,_1956){:target="_blank"} created [Andhra Pradesh (1956–2014)](https://en.wikipedia.org/wiki/Andhra_Pradesh_(1956%E2%80%932014)){:target="_blank"}. I still recall the united Andhra Pradesh when I think of "my state", even though, due to stupid reasons, in 2014, they divided it into 2.
+The [States Reorganisation Act, 1956](https://en.wikipedia.org/wiki/States_Reorganisation_Act,_1956){:target="_blank"} created [Andhra Pradesh (1956–2014)](https://en.wikipedia.org/wiki/Andhra_Pradesh_(1956%E2%80%932014)){:target="_blank"}. I still always forget & think of the united Andhra Pradesh when I think of "my state", even though, due to stupid reasons, in 2014, they divided it into 2.
 
 #### Sinic Civilisation
 
