@@ -854,6 +854,12 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" target="_blank">Leonhard Euler</a>
 
+>“To praise it would amount to praising myself. For the entire content of the work … coincides almost exactly with my own meditations which have occupied my mind for the past thirty or thirty-five years.” [Letter to Farkas Bolyai, on his son János Bolyai's 1832 publishings on non-Euclidean geometry.]
+
+>“I mean the word proof not in the sense of the lawyers, who set two half proofs equal to a whole one, but in the sense of a mathematician, where ½ proof = 0, and it is demanded for proof that every doubt becomes impossible.”
+
+― <a href="https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss" target="_blank">Carl Friedrich Gauss</a>
+
 >“I had no need of that hypothesis.” [When <a href="https://en.wikipedia.org/wiki/Napoleon" target="_blank">Napoleon</a> said “Laplace, they tell me you have written this large book on the system of the universe, and have never even mentioned its Creator”]
 
 >“Read <a href="https://en.wikipedia.org/wiki/Leonhard_Euler" target="_blank">Euler</a>, read Euler, he is the master of us all.”
@@ -965,6 +971,22 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“In madness, I thought I was the most important person in the world.”
 
 ― <a href="https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr." target="_blank">John Forbes Nash Jr.</a>
+
+>“Mathematics is about the truths invariant under change of notation.”
+
+― Unknown
+
+>“I turn with terror and horror from this lamentable scourge of functions with no derivatives.” [On Weierstrass function]
+
+― <a href="https://en.wikipedia.org/wiki/Charles_Hermite" target="_blank">Charles Hermite</a>
+
+>“If Newton had known about such functions he would have never created calculus.” [On Weierstrass function]
+
+― <a href="https://en.wikipedia.org/wiki/%C3%89mile_Picard" target="_blank">Émile Picard</a>
+
+>“These functions are an outrage against common sense, an arrogant distraction.” [On Weierstrass function]
+
+― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
 
 ### Philosophers
 
@@ -2049,6 +2071,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 >“Anything that can go wrong will go wrong, and at the worst possible time.”
 
 ― <a href="https://en.wikipedia.org/wiki/Murphy%27s_law" target="_blank">Murphy's law</a>
+
+>“When a measure becomes a target, it ceases to be a good measure.”
+
+― <a href="https://en.m.wikipedia.org/wiki/Goodhart%27s_law" target="_blank">Goodhart's law</a>
 
 >“Never attribute to malice that which is adequately explained by stupidity.”
 
