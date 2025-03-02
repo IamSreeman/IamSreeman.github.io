@@ -111,8 +111,6 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“So I am living without fats, without meat, without fish, but am feeling quite well this way. It always seems to me that man was not born to be a carnivore.”[1954]
 
->“Generations to come, it may well be, will scarce believe that such a man as this one [Gandhi] ever in flesh and blood walked upon this Earth.”[^Gandhi]
-
 >“Nationalism is an infantile disease. It is the measles of mankind.”
 
 >“Only a life lived for **others** is a life worthwhile.”
@@ -151,6 +149,8 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“A man who is convinced of the truth of his religion is **indeed never tolerant**. At the least, he is to feel pity for the adherent of another religion but usually it does not stop there. The faithful adherent of a religion will try first of all to convince those that believe in another religion and usually he goes on to hatred if he is not successful. However, hatred then leads to persecution when the might of the majority is behind it.”
 
+>“I have the greatest admiration for Gandhi and for the Indian tradition in general.”
+
 >“I would have transferred even more money to you, but I have no more myself to be able to manage at all without help..... **I myself lead the simplest, almost meager existence imaginable**. In this way we can lay quite a lot aside for the children..... I have duly noted your threat “to seek the assistance of other persons”; I know very well anyway from your previous behavior what I have to expect from you. Nothing will surprise me, no matter what you do. You have taken my children away from me and are ensuring that their attitude toward their father is vitiated. You will also take away from me other people who are close to me and will try to spoil in every way whatever has remained of my joy of living. This is the proper punishment for my weakness in allowing myself to shackle my life to yours. But I repeat: You will not surprise me, no matter what you do.” [15 September 1914 to Mileva Marić]
 
 >“Best regards to Albert and Tete. As long as Albert does not answer my letter I must assume that it has not been given to him. Otherwise I would write to him again. Greetings from me to the children do not seem to be relayed, otherwise they would have sent their regards to me at least once in this long period. Thus it is actually useless to renew the same every time.” [12 December 1914 to Mileva Marić]
@@ -160,6 +160,15 @@ These are some interesting quotes. I removed the quotes which are given as misat
 >“There has been a certain ill-feeling between us, the cause of which I do not want to analyze. I have struggled against the feeling of bitterness attached to it, and this with complete success.
 >
 >I think of you again with unmixed geniality and ask you to try to do the same with me. Objectively it is a **shame when two real fellows who have extricated themselves somewhat from this shabby world do not afford each other mutual pleasure**.” [20 December 1915 to Hilbert] [^Hilbert]
+
+>“Generations to come, it may well be, will scarce believe that such a man as this one [Gandhi] ever in flesh and blood walked upon this Earth.”[^Gandhi]
+
+>Dear Mr Nehru,<br>
+I have read with extreme interest your marvelous book The Discovery of India. The first half of it is not easy reading for a Westerner. But it gives an understanding of the glorious intellectual and spiri- tual tradition of your great country. The analysis you have given in the second part of the book of the tragic influence and forced economic, moral and intellectual decline by the British rule and the vicious exploitation of the Indian people has deeply impressed me. My admiration for Gandhi's and your work for liberation through non-violence and non-cooperation has become even greater than it was already before. The inner struggle to conserve objective understanding despite the pres- sure of tyranny from the outside and the struggle against becoming inwardly a victim of resentment and hatred may well be unique in world history. I feel deeply grateful to you for having given to me your admirable work.
+With my best wishes for your important and beneficent work and with kind greetings,
+Yours cordially<br>
+Albert Einstein<br>
+Please remember me kindly to your daughter.[^NehruEinstein]
 
 >“Imagination is more important than knowledge. Knowledge is limited.”
 
@@ -206,6 +215,8 @@ These are some interesting quotes. I removed the quotes which are given as misat
 >“There was difficulty reconciling the Newtonian theory of gravitation with its instantaneous propagation of forces with the requirements of special relativity; and Einstein working on this difficulty was led to a generalization of his relativity—which was probably the greatest scientific discovery that was ever made.”
 
 >“The underlying physical laws necessary for the mathematical theory of a large part of physics and the whole of chemistry are thus completely known, and the difficulty is only that the exact application of these laws leads to equations much too complicated to be soluble. It therefore becomes desirable that approximate practical methods of applying quantum mechanics should be developed, which can lead to an explanation of the main features of complex atomic systems without too much computation.”
+
+>“It seems that if one is working from the point of view of getting beauty in one's equations, and if one has really a sound insight, one is on a sure line of progress.”
 
 >“Einstein was always rather hostile to guantum mechanics. How can one understand this? I think it is very easy to understand, because Einstein had been proceeding on different lines, lines of pure geometry. He had been developing geometrical theories and had achieved enormous success. It is only natural that he should think that further problems of physics should be solved by further development of geometrical ideas. How, to have a x b not equal to b x a is something that does not fit in very well with geometrical ideas; hence his hostility to it.”
 
@@ -325,7 +336,7 @@ of radioactivity allowed physicists to explain how the Sun and Earth’s cores c
 
 >“Two people pass each other on the street; and according to one of the two people, an Andromedean space fleet has already set off on its journey, while to the other, the decision as to whether or not the journey will actually take place has not yet been made. How can there still be some uncertainty as to the outcome of that decision? If to either person the decision has already been made, then surely there cannot be any uncertainty. The launching of the space fleet is an inevitability. In fact neither of the people can yet know of the launching of the space fleet. They can know only later, when telescopic observations from Earth reveal that the fleet is indeed on its way. Then they can hark back to that chance encounter, and come to the conclusion that at that time, according to one of them, the decision lay in the uncertain future, while to the other, it lay in the certain past. Was there then any uncertainty about that future? Or was the future of both people already "fixed"?” [<a href="https://en.wikipedia.org/wiki/Rietdijk%E2%80%93Putnam_argument#Andromeda_paradox" target="_blank">Andromeda argument</a>]
 
->“One is left with the uneasy feeling that even if supersymmetry is actually false, as a feature of nature, and that accordingly no supersymmetry partners are ever found by the LHC or by any later more powerful accelerator, then the conclusion that some supersymmetry proponents might come to would not be that supersymmetry is false for the actual particles of nature, but merely that the level of supersymmetry breaking must be greater even that the level reached at that moment, and that a new even more powerful machine would be required to observe it!”
+>~~“One is left with the uneasy feeling that even if supersymmetry is actually false, as a feature of nature, and that accordingly no supersymmetry partners are ever found by the LHC or by any later more powerful accelerator, then the conclusion that some supersymmetry proponents might come to would not be that supersymmetry is false for the actual particles of nature, but merely that the level of supersymmetry breaking must be greater even that the level reached at that moment, and that a new even more powerful machine would be required to observe it!”~~
 
 ― <a href="https://en.wikipedia.org/wiki/Roger_Penrose" target="_blank">Roger Penrose</a>
 
@@ -385,10 +396,6 @@ of radioactivity allowed physicists to explain how the Sun and Earth’s cores c
 
 ― <a href="https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger" target="_blank">~~Erwin Schrödinger~~</a>
 
->“A great deal more was hidden in the Dirac equation than the author had expected when he wrote it down in 1928. Dirac himself remarked in one of his talks that his equation was more intelligent than its author. It should be added, however, that it was Dirac who found most of the additional insights.”
-
-― <a href="https://en.wikipedia.org/wiki/Victor_Weisskopf" target="_blank">Victor Weisskopf</a>
-
 >“We have no right to assume that any physical laws exist, or if they have existed up to now, that they will continue to exist in a similar manner in the future.”
 
 >“A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die and a new generation grows up that is familiar with it ...”
@@ -441,7 +448,9 @@ of radioactivity allowed physicists to explain how the Sun and Earth’s cores c
 
 ― <a href="https://en.wikipedia.org/wiki/Willis_Lamb" target="_blank">Willis Lamb</a>
 
->“I might even have shared the Nobel Prize with Lamb.” [1991, he regretted that his insecurity about his mathematical abilities may have cost him a Nobel Prize when he did not publish results (which turned out to be correct) about what became known as the Lamb shift]
+>“A great deal more was hidden in the Dirac equation than the author had expected when he wrote it down in 1928. Dirac himself remarked in one of his talks that his equation was more intelligent than its author. It should be added, however, that it was Dirac who found most of the additional insights.”
+
+>“I might even have shared the Nobel Prize with Lamb.”[^Weisskopf]
 
 >“Self-confidence is an important ingredient that makes for a successful physicist.”
 
@@ -685,6 +694,10 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/Craig_Hogan " target="_blank">Craig Hogan</a>
 
+>“If you can't explain it simply, you don't understand it well enough.”
+
+― Unknown
+
 >“The general struggle for existence of animate beings is not a struggle for raw materials – these, for organisms, are air, water and soil, all abundantly available – nor for energy which exists in plenty in any body in the form of heat, but a struggle for negative entropy, which becomes available through the transition of energy from the hot sun to the cold earth.”
 
 >“Was it a god who wrote these lines…” [After seeing Maxwell's equations for the first time]
@@ -791,6 +804,8 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >We must know — we will know!”[^HilbertIgnorabimus]
 
 >“No one shall expel us from the Paradise that <a href="https://en.wikipedia.org/wiki/Georg_Cantor" target="_blank">Cantor</a> has created.”
+
+>“A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street.”
 
 >“Every schoolboy in the streets of Göttingen knows more about higher-dimensional geometry than Einstein, but chalk is cheaper than gray matter.”
 
@@ -948,6 +963,8 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 >“If a 'religion' is defined to be a system of ideas that contains unprovable statements, then Gödel taught us that mathematics is not only a religion, it is the only religion that can prove itself to be one.”
 
+>“A universe simple enough to be understood is too simple to produce a mind capable of understanding it.”
+
 ― <a href="https://en.wikipedia.org/wiki/John_D._Barrow" target="_blank">John D. Barrow</a>
 
 >“Abel has left mathematicians enough to keep them busy for five hundred years.”
@@ -971,6 +988,14 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“In madness, I thought I was the most important person in the world.”
 
 ― <a href="https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr." target="_blank">John Forbes Nash Jr.</a>
+
+>“What do physicists mean when they claim that the conformal group is infinite dimensional? The misunderstanding seems to be that physicists mostly think and calculate infinitesimally, while they write and talk globally. Many statements become clearer, if one replaces “group” with “Lie algebra” and “transformation” with “infinitesimal transformation” in the respective texts.
+>
+>...
+>
+>Another explanation for the claim that the conformal group is infinite dimensional can perhaps be given by looking at the Minkowski plane instead of the Euclidean plane. This is not the point of view in most papers on conformal field theory, but it fits in with the type of conformal invariance naturally appearing in string theory. Indeed, conformal symmetry was investigated in string theory, before the actual work on conformal field theory had been done. For the Minkowski plane, there is really an infinite dimensional conformal group, as we will show in the next section. The associated complexified Lie algebra is again essentially the Witt algebra (cf. Sect. 5.1).”
+
+― <a href="https://en.wikipedia.org/wiki/Martin_Schottenloher" target="_blank">Martin Schottenloher</a>
 
 >“Mathematics is about the truths invariant under change of notation.”
 
@@ -1054,7 +1079,22 @@ Ahimsa is the highest sacrifice, Ahimsa is the finest strength,<br>
 Ahimsa is the greatest friend, Ahimsa is the greatest happiness,<br>
 Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”[<a href="https://sacred-texts.com/hin/mbs/mbs13117.htm" target="_blank">13.117.37–38</a>]
 
-― <a href="https://en.wikipedia.org/wiki/Mahabharata" target="_blank">Mahābhārata</a> 
+― <a href="https://en.wikipedia.org/wiki/Mahabharata" target="_blank">Mahābhārata</a>
+
+>“There was neither non-existence nor existence then;<br>
+Neither the realm of space, nor the sky which is beyond;<br>
+What stirred? Where? In whose protection?<br><br>
+...<br>
+Who really knows? Who will here proclaim it?<br>
+Whence was it produced? Whence is this creation?<br>
+Gods came afterwards, with the creation of this universe.<br>
+Who then knows whence it has arisen?<br><br>
+Whether God's will created it, or whether He was mute;<br>
+Perhaps it formed itself, or perhaps it did not;<br>
+The Supreme Brahman of the world, all pervasive and all knowing<br>
+He indeed knows, if not, no one knows”[^Creation]
+
+― <a href="https://en.wikipedia.org/wiki/Nasadiya_Sukta" target="_blank">Nāsadīya Sūkta (Rigveda 10:129)</a>
 
 >“Skepticism, while logically impeccable, is psychologically impossible, and there is an element of frivolous insincerity in any philosophy which pretends to accept it.”
 
@@ -1097,6 +1137,8 @@ Ahimsa is the highest truth, and Ahimsa is the greatest teaching.”[<a href="ht
 >“The later Wittgenstein, on the contrary, seems to have **grown tired of serious thinking** and to have invented a doctrine which would make such an activity unnecessary. I do not for one moment believe that the doctrine which has these **lazy consequences** is true. I realize, however, that I have an overpoweringly strong bias against it, for, if it is true, philosophy is, at best, a slight help to lexicographers, and at worst, an idle tea-table amusement.”
 
 >“There are two great men in history with whom he [Wittgenstein] somewhat resembles. One was Pascal, other was Tolstoy. Pascal was a mathematician of genius, but abandoned mathematics for piety. Tolstoy sacrificed his genius as a writer to a kind of bogus humility which made him prefer peasants to educated men and *Uncle Tom's Cabin* to all other works of fiction. Wittgenstein, who could play with metaphysical intricacies as cleverly as Pascal with Hexagons or Tolstoy with emperors, threw away this talent and debased himself before the peasants — in each case from an impulse of pride. I admired Wittgenstein's Tractatus but not his later work, which seemed to me to involve an abnegation of his own best talent very similar to those of Pascal and Tolstoy.... [M]ental torments which made him and Pascal and Tolstoy pardonable in spite of **their treachery to their own greatness**.”
+
+>“Mathematics, rightly viewed, possesses not only truth, but supreme beauty – a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show. The true spirit of delight, the exaltation, the sense of being more than Man, which is the touchstone of highest excellence, is to be found in mathematics as surely as in poetry.”
 
 ― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
 
@@ -1156,11 +1198,11 @@ And share your pleasures with beggars.”
 
 >“A fire has just been lit to roast some meat. The fire hasn’t started sending up any smoke, but the smell of the meat has attracted a cloud of insects. From a distance, an observer sees the dark swarm above the horizon and mistakes it for smoke. "There’s a fire burning at that spot," the distant observer says. Does the observer know that there is a fire burning in the distance?
 >
->A desert traveller is searching for water. He sees, in the valley ahead, a shimmering blue expanse. Unfortunately, it’s a mirage. But fortunately, when he reaches the spot where there appeared to be water, there actually is water, hidden under a rock. Did the traveller know, as he stood on the hilltop hallucinating, that there was water ahead?” [See <a href="https://en.wikipedia.org/wiki/Gettier_problem" target="_blank">Gettier problem</a>]
+>A desert traveller is searching for water. He sees, in the valley ahead, a shimmering blue expanse. Unfortunately, it’s a mirage. But fortunately, when he reaches the spot where there appeared to be water, there actually is water, hidden under a rock. Did the traveller know, as he stood on the hilltop hallucinating, that there was water ahead?”[^Knowledge]
 
 ― <a href="https://en.wikipedia.org/wiki/Dharmakirti" target="_blank">Dharmakīrti</a><span style="color:Chartreuse">(6th century Buddhist philosopher)</span>
 
->“If a bodhisattva does not make a sincere, unwavering effort in thought, word, and deed **to stop all the present and future pain and suffering of all sentient beings, and to bring about all present and future pleasure and happiness**, or does not seek the collection of conditions for that, or does not strive to prevent what is opposed to that, or does not bring about small pain and suffering as a way of preventing great pain and suffering, or does not abandon a small benefit in order to accomplish a greater benefit, if he neglects to do these things even for a moment, he undergoes a downfall. (see SS-G: 17).”
+>“If a bodhisattva does not make a sincere, unwavering effort in thought, word, and deed **to stop all the present and future pain and suffering of all sentient beings, and to bring about all present and future pleasure and happiness**, or does not seek the collection of conditions for that, or does not strive to prevent what is opposed to that, or does not bring about small pain and suffering as a way of preventing great pain and suffering, or does not abandon a small benefit in order to accomplish a greater benefit, if he neglects to do these things even for a moment, he undergoes a downfall. (see SS-G: 17).”[^Utilitarianism]
 
 ― <a href="https://en.wikipedia.org/wiki/Shantideva" target="_blank">Śāntideva</a><span style="color:Chartreuse">(8th-century Buddhist philosopher who was the first utilitarian)</span>
 
@@ -1216,7 +1258,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes" target="_blank">René Descartes</a>
 
-But no pleasure is comparable to standing upon the vantage ground of truth.
+>“But no pleasure is comparable to standing upon the vantage ground of truth.”
 
 ― <a href="https://en.wikipedia.org/wiki/Francis_Bacon" target="_blank">Francis Bacon</a>
 
@@ -2700,7 +2742,9 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 
 [^EinsteinNotLazy]: I used to think he was a lazy guy in my childhood. The quote is from <a href="https://einsteinpapers.press.princeton.edu/vol8-trans/176" target="_blank">this letter</a> written a week before he published the correct <a href="https://en.wikipedia.org/wiki/Einstein_field_equations" target="_blank">field equations of General Relativity (GR) or EFE</a>. At that point in time, he was very afraid that GR would be formulated by someone before him. Indeed, it happened as he feared and <a href="https://en.wikipedia.org/wiki/General_relativity_priority_dispute#Undisputed_facts" target="_blank">Hilbert probably found the correct field equations</a> ( $R_{\mu \nu }-{\frac {1}{2}}Rg_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$ the cosmological constant came later) independently 5 days before him. Even if Hilbert actually found the complete equations before him, he would still be the <b>single biggest contributor</b> to the formulation of GR because he found the equations without the trace term(i.e. $R_{\mu \nu }={\frac{8\pi G}{c^{4}}}T_{\mu \nu }$) first and was aware that he should add some term to make both sides consistent since $\nabla_{\nu} T^{\mu \nu}=0$ but $\nabla_{\nu} R^{\mu \nu }\neq 0$. Also Hilbert fully credited Einstein as the originator of the theory and no public priority dispute concerning the field equations ever arose between the two men during their lives.
 
-[^Gandhi]: Einstein severely overestimated Gandhi. I think Nehru is far greater political leader than Gandhi.
+[^Gandhi]: Einstein severely overestimated Gandhi by saying he was so great that future generations couldn't even believe he existed. This famous Einstein line is quoted at the start of the movie. Gandhi was certainly troubled by caste injustices, but not by caste itself & he religiously believed in the caste system. I think Nehru is a far greater political leader than Gandhi. But I do respect Gandhi for being one of the few people who [were vegans](https://www.mkgandhi.org/newannou/inside-Mahatma-Gandhis-search-for-the-perfect-diet.php){:target="_blank"} before the term was invented, even though he reverted to vegetarianism later due to health reasons.
+
+[^NehruEinstein]: <a href="https://en.wikipedia.org/wiki/Jawaharlal_Nehru" target="_blank">Nehru</a>, India's first PM, was an atheist who called himself a "scientific humanist" and was a big fan of Einstein for decades before finally meeting him in 1949 when he gave his book Einstein. See [jstor.org/stable/24110549](https://www.jstor.org/stable/24110549){:target="_blank"} to know about Einstein's relations with Nehru, Gandhi & Tagore.
 
 [^Hilbert]: Based on [this letter](https://einsteinpapers.press.princeton.edu/vol8-trans/190){:target="_blank"} between them, it seems even though they never publicly stated it, privately there was a slight misunderstanding between Einstein and Hilbert about their expected fraction of credit on general relativity even if Hilbert never complained publicly.
 
@@ -2735,6 +2779,10 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 
 [^Gautama]: His title "Buddha" (awakened one) was given two centuries after his death. He lived between 563–483 BCE. I am an atheist. I do not support the ***unscientific*** Buddhism. But I still think Siddhārtha Gautama was a good philosopher. You can read my views on religion <a href="{{ site.baseurl }}/blog/2020/05/views-on-religion.html" target="_blank">here</a>.
 
+[^Knowledge]: Here, Dharmakīrti gave counterexamples to disprove the popular theory that "Knowledge = Justified True Belief (JTB)". This from the 600s is remarkably more than a thousand years before Gettier rediscovered it in 1963; see <a href="https://en.wikipedia.org/wiki/Gettier_problem" target="_blank">Gettier problem</a>.
+
+[^Utilitarianism]: Usually, utilitarianism is considered to have been discovered by Jeremy Bentham. Negative utilitarianism is considered to have been discovered by Karl Popper in 1945. And the [Abolition of Suffering](https://www.abolitionist.com/){:target="_blank"} is considered to be proposed by David Pearce. But in 8th-century Śāntideva talked about all 3 of these.
+
 [^Voltaire]: This statement is obviously wrong. The most precious gift is the [Indian numeral system](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system){:target="_blank"}. It is often wrongly called as Arabic numeral system. Vedas are useless in comparison to the Indian numeral system.
 
 [^COVID]: Stated on 2015, before COVID-19 pandemic.
@@ -2748,6 +2796,10 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 [^Neurath]: <a href="https://en.wikipedia.org/wiki/Neurath%27s_boat" target="_blank">Neurath's boat</a>: a simile used in anti-foundational philosophy. You can't just make the boat from scratch by swimming because [philosophical skepticism](https://en.wikipedia.org/wiki/Philosophical_skepticism){:target="_blank"} is like a shark that will eat you if you enter the water. Even if you know swimming, you can't build the boat from scratch because the shark will eat you. So, you can't have a single foundation and must use a mixture of reason, empirical data etc.
 
 [^Weinberg]: You should believe when Weinberg says this. He is not a string theorist. He didn't devote his life to string theory. He has his own theory called <a href="https://en.wikipedia.org/wiki/Asymptotic_safety_in_quantum_gravity" target="_blank">asymptotic safety</a>. Yet he is telling string theory is the "only game in town". Compare this to <a href="https://www.math.columbia.edu/~woit/wordpress/" target="_blank">bloggers</a>/<a href="https://www.youtube.com/@SabineHossenfelder" target="_blank">social media influencers</a> who never studied string theory properly but spread their unfounded criticism.
+
+[^Weisskopf]: Weisskopf wrote this 1991. Weisskopf regretted that his insecurity about his mathematical abilities may have cost him a Nobel Prize when he did not publish results (which turned out to be correct) about what became known as the Lamb shift. Check [my Tweet post on Weisskopf & Pauli](https://x.com/IamSreeman/status/1869187780464537723){:target="_blank"}.
+
+[^Creation]: Rigveda is the oldest of the 4 Vedas & is the first Hindu scripture & was written in 1500 BCE. One can see that it has no precise creation myth & ponders if the question can even be known by the gods. Unfortunately, this healthy scepticism & curiosity is gone from later Hindu scriptures, which adopted different dogmatic creation myths that are believed today.
 
 [^Skepticism]: The first line from [The Problems of Philosophy](https://books.google.co.in/books?id=F3CABBiwm6wC&newbks=0&pg=PA9#v=onepage&q&f=false){:target="_blank"}. The answer is <span style="color:red">***most probably***</span> no. If I haven’t included <span style="color:red">***most probably***</span>, that sentence itself will become some knowledge.
 

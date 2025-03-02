@@ -21,7 +21,7 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <br>
 <a href="https://www.youtube.com/watch?v=FJqGirLjQn4" target="_blank">Dragon Ball - Makafushigi Adventure (Opening 1)</a><br>
 <a href="https://www.youtube.com/watch?v=tHCKq3k157c" target="_blank">Hunter x Hunter Ending 2</a><br>
-<a href="https://www.youtube.com/watch?v=ShEAiFqkY0E" target="_blank">Fullmetal Alchemist Brotherhood OP 1</a><br>
+<a href="https://www.youtube.com/watch?v=elyXcwunIYA" target="_blank">Fullmetal Alchemist Brotherhood OP 1</a><br>
 <a href="https://www.youtube.com/watch?v=VBBFDb0hC4Y" target="_blank">The sore feet song ||Mushishi opening||</a><br>
 <a href="https://www.youtube.com/watch?v=o6wtDPVkKqI" target="_blank">Zankoku na Tenshi no Te-ze “The Cruel Angel's Thesis” (Neon Genesis Evangelion op)</a><br>
 <a href="https://www.youtube.com/watch?v=NkYYYew8CUI" target="_blank">BERSERK ~Forces~ by Susumu Hirasawa</a><br>
@@ -73,8 +73,8 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://www.youtube.com/watch?v=t27JVsBcclI" target="_blank">slam dunk opening theme song</a><br>
 <a href="https://www.youtube.com/watch?v=kupW7eDG48s" target="_blank">Another Opening</a><br>
 <a href="https://www.youtube.com/watch?v=Xs0Lxif1u9E" target="_blank">RADWIMPS - Suzume feat.Jumei</a><br>
-<a href="https://www.youtube.com/watch?v=REHaJZgWwxY" target="_blank">Gintama Opening 1</a><br>
-<a href="https://www.youtube.com/watch?v=iXpGVuaQwXo" target="_blank">Gintama Opening 13</a><br>
+<a href="https://www.youtube.com/watch?v=OQYcEEkG_V0" target="_blank">Gintama Opening 1</a><br>
+<a href="https://www.youtube.com/watch?v=GQRMESLHVc0" target="_blank">Gintama Opening 13</a><br>
 <a href="https://www.youtube.com/watch?v=dFlDRhvM4L0" target="_blank">CHAINSAW MAN Opening</a><br>
 <a href="https://www.youtube.com/watch?v=FwgMxjhXkKo" target="_blank">Gurren Lagann Opening 1 Sorairo Days</a><br>
 <a href="https://www.youtube.com/watch?v=VT6LFOIofRE" target="_blank">Gurren Lagann Libera Me From Hell</a><br>
@@ -117,10 +117,10 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://youtu.be/60whXjnAhw8" target="_blank">Ninja Hattori Theme Song Hindi</a><br>
 <a href="https://youtu.be/1mlpkdCNVho" target="_blank">Beyblade metal fusion opening song Telugu</a>(not the original)<br>
 <a href="https://youtu.be/bHT4isRQh_M" target="_blank">Dragon Ball Z Rock The Dragon Theme Song in Telugu</a><br>
-<a href="https://youtu.be/-zltsAda4qA" target="_blank">Rurouni Kenshin Ending Theme</a><br>
+<a href="https://youtu.be/91XoynAUp-w" target="_blank">Rurouni Kenshin Ending 1</a><br>
 <a href="https://youtu.be/-1LpICPzC00" target="_blank">Rurouni Kenshin- Heart Of Sword</a><br>
 <a href="https://youtu.be/sI9jiFnCb2U" target="_blank">Rurouni Kenshin Op 2</a><br>
-<a href="https://youtu.be/LgYgY7xmzRM" target="_blank">Rurouni Kenshin Op 1</a><br>
+<a href="https://youtu.be/YvvlGma6COM" target="_blank">Rurouni Kenshin Op 1</a><br>
 <a href="https://youtu.be/ZPBGoGg5EnY" target="_blank">Rurouni Kenshin Ed 6</a><br>
 <a href="https://youtu.be/BXQLrkW33f0" target="_blank">Full Metal Alchemist OST 1 - Brothers</a><br>
 <a href="https://youtu.be/KCgr3dj5mqY" target="_blank">NHK ni Youkoso! - Puzzle</a><br>
