@@ -40,7 +40,7 @@ This was the second one that Canute mentioned. Even long ago, I thought that for
 
 Lookism is not the only discrimination that is involved in choosing a person's significant other. How wealthy, influential, politically powerful, etc., is also considered.
 
-Another discrimination is that Kant thinks sex inherently violates the right of the other person to be not treated as property. This is an even stronger objection that is valid even when lookism, wealthism, etc, are absent.
+Another discrimination is that Kant thinks sex inherently violates the right of the other person to be not treated as property. This is an even stronger objection[^RealBeauty] that is valid even when lookism, wealthism, etc, are absent.
 
 >“For the natural use that one sex makes of the other’s sexual organs is enjoyment, for which one gives oneself up to the other. In this act a human being makes himself into a thing, which ***conflicts with the right of humanity in his own person***.” [1797, Metaphysics of Morals, p. 62]
 
@@ -137,3 +137,31 @@ I hope you are convinced that love is almost always discrimination.
 Of course, I am not advocating that all discriminations are the same. Even though the love between Parent-Child is a genetic discrimination, it is not as bad as other genetic discriminations like racism or speciesism.
 
 We should still try to reduce the discrimination that we do as much as we can, even though we can never make it zero.
+
+[^RealBeauty]: Kant's ethical objection that romance inherently violates the right of the other person to be not treated as property is very strong. But an even stronger objection is that lookism is based on a false understanding of "beauty". Those humans who have high self-respect & dignity will understand that real beauty is not related to sensual pleasures. Real beauty is in the laws of physics & mathematical equations, which are infinitely more beautiful than human bodies. Unfortunately, we are biologically/evolutionarily programmed to pretend that the ugliest parts of humans are the most beautiful & pleasure-inducing entities in the universe. Human bodies are fragile and will stop working & decompose within a century, but these equations are eternal.
+
+    >“Every mathematician worthy of the name has experienced, if only rarely, the state of lucid exaltation in which one thought succeeds another as if miraculously, and in which the unconscious (however one interprets this word) seems to play a role. In a famous passage, Poincaré describes how he discovered Fuchsian functions in such a moment. About such states, Gauss is said to have remarked as follows: "Procreare jucundum (to conceive is a pleasure)"; he added, however, "sed parturire molestum (but to give birth is painful)." **Unlike sexual pleasure, this feeling may last for hours at a time, even for days. Once you have experienced it, you are eager to repeat it but unable to do so at will**, unless perhaps by dogged work which it seems to reward with its appearance. It is true that the pleasure experienced is not necessarily in proportion with the value of the discoveries with which it is associated.”
+
+    ― <a href="https://en.wikipedia.org/wiki/Andr%C3%A9_Weil" target="_blank">André Weil</a>
+
+    >“The scientist does not study nature because it is useful to do so. He studies it because he takes pleasure in it, and he takes pleasure in it because it is beautiful. ***If nature were not beautiful it would not be worth knowing, and life would not be worth living***. I am not speaking, of course, of the beauty which strikes the senses, of the beauty of qualities and appearances. I am far from despising this, but it has nothing to do with science. What I mean is that more intimate beauty which comes from the harmonious order of its parts, and which a pure intelligence can grasp.”
+
+    ― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
+
+    >“Mathematics, rightly viewed, possesses not only truth, but supreme beauty – a beauty cold and austere, like that of sculpture, without appeal to any part of our weaker nature, without the gorgeous trappings of painting or music, yet sublimely pure, and capable of a stern perfection such as only the greatest art can show. The true spirit of delight, the exaltation, the sense of being more than Man, which is the touchstone of highest excellence, is to be found in mathematics as surely as in poetry.”
+
+    ― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
+
+    >“But no pleasure is comparable to standing upon the vantage ground of truth.”
+
+    ― <a href="https://en.wikipedia.org/wiki/Francis_Bacon" target="_blank">Francis Bacon</a>
+
+    >“I was over the moon when I proved the <a href="https://en.wikipedia.org/wiki/Monstrous_moonshine" target="_blank">moonshine conjecture</a>. I sometimes wonder if this is the feeling you get when you take certain drugs. I don't actually know, as I have not tested this theory of mine.”
+
+    ― <a href="https://en.wikipedia.org/wiki/Richard_Borcherds" target="_blank">Richard Borcherds</a>
+
+    >“It seems that if one is working from the point of view of getting beauty in one's equations, and if one has really a sound insight, one is on a sure line of progress.”
+
+    ― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>
+
+    But this footnote is unrelated to this post.
