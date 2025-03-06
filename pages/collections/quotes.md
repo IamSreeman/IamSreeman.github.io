@@ -398,6 +398,8 @@ of radioactivity allowed physicists to explain how the Sun and Earth’s cores c
 
 >“We have no right to assume that any physical laws exist, or if they have existed up to now, that they will continue to exist in a similar manner in the future.”
 
+>“I was ready to sacrifice any of my previous convictions about physics.”
+
 >“A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die and a new generation grows up that is familiar with it ...”
 
 ― <a href="https://en.wikipedia.org/wiki/Max_Planck" target="_blank">Max Planck</a>
@@ -843,7 +845,7 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 >“Kantian ethic, or what passes for it today, has always seemed to me to be the height of arrogance and folly. Claiming always to behave according to the precepts of universal maxims is either totally inept or totally hypocritical; one can always find a maxim to justify whatever behavior one chooses. I could not count the times (for example, when I tell people I never vote in elections) that I have heard the objection: "But if everyone were to behave like you..." - to which I usually reply that this possibility seems to me so implausible that I do not feel obligated to take it into account.”
 
->“One day I asked him [Hopf] what he would do when he got tired of topology. He replied in all seriousness: "But I'll never get tired of topology!"”
+>“One day I asked him [[Hopf](https://en.wikipedia.org/wiki/Heinz_Hopf){:target="_blank"}] what he would do when he got tired of topology. He replied in all seriousness: "But I'll never get tired of topology!"”
 
 >“My mathematics work is proceeding beyond my wildest hopes, and I am even a bit worried - if it's only in prison that I work so well, will I have to arrange to spend two or three months locked up every year?”
 
@@ -1378,10 +1380,6 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Pythagoras" target="_blank">Pythagoras</a>
 
->“Does it not shame you to mingle murder and blood with their beneficent fruits? Other carnivora you call savage and ferocious - lions and tigers and serpents - while yourselves come behind them in no species of barbarity. And yet for them murder is the only means of sustenance; whereas to you it is a superfluous luxury and **crime**!”
-
-― <a href="https://en.wikipedia.org/wiki/Plutarch" target="_blank">Plutarch</a>
-
 >“What altar of refuge can a man find for himself when he commits treason against the majesty of reason?”
 
 >“I have laboured carefully, not to mock, lament, or execrate human actions, but to understand them.”
@@ -1888,6 +1886,8 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 >“I have become a queer mixture of the East and the West ... Out of place everywhere, at home nowhere. Perhaps my thoughts and approach to life are more akin to what is called Western than Eastern, but India clings to me, as she does to all her children, in innumerable ways ... I am a stranger and alien in the West. I cannot be of it. But in my own country also, sometimes I have an exile's feeling.”
 
+>“I would like to pass a law against the practice of astrology and other forms of soothsaying.... Are we going to be guided by what fools tells us because they looked up at the starry forecasts? People rely more on astrology now than they did 20 or 30 years ago.” [[Source](https://news.google.com/newspapers?id=p78TAAAAIBAJ&pg=2893,1063476&dq=astrology+india&hl=en){:target="_blank"}. Nehru's reply to an Astrologer predicting another war with Pakistan.]
+
 ― <a href="https://en.wikipedia.org/wiki/Jawaharlal_Nehru" target="_blank">Jawaharlal Nehru</a>
 
 >“This man [Nehru] has overcome two of the greatest failings in human nature -he knows neither fear nor hatred.”
@@ -1930,7 +1930,7 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 ― <a href="https://en.wikipedia.org/wiki/B._R._Ambedkar" target="_blank">B. R. Ambedkar</a>
 
->“We have to eradicate the gods who are responsible for the institution which portrays us as sudras, people of low birth, and some others as brahmins of high birth… We have to break the idols of these gods. I start with Ganesha because it is he who is worshipped before undertaking any task.”
+>“We have to eradicate the gods who are responsible for the institution which portrays us as sudras, people of low birth, and some others as brahmins of high birth… We have to break the idols of these gods. I start with Ganesha because it is he who is worshipped before undertaking any task.”[^Based]
 
 >“If god is the root cause for our degradation destroy that god. If it is religion destroy it. If it is Manu Darma, Gita, or any other Mythology (Purana), burn them to ashes. If it is temple, tank, or festival, boycott them. Finally if it is our politics, come forward to declare it openly".”
 
@@ -2146,17 +2146,9 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 ― <a href="https://en.wikipedia.org/wiki/Julian_Jaynes" target="_blank">Julian Jaynes</a>
 
->“My body will not be a tomb for other animals, an inn of the dead… a container of corruption.”
+>“It's hard to win an argument with a smart person. It's damn near impossible to win an argument with a stupid person.”
 
->“I have from an early age abjured the use of meat, and the time will come when men such as I will look upon the murder of animals as they now look upon the murder of men.”
-
->“Truly man is the king of beasts, for his brutality exceeds them. We live by the death of others. We are burial places.”
-
->“King of the animals — as thou hast described him — I should rather say king of the beasts, thou being the greatest — because thou hast spared slaying them, in order that they may give thee their children for the benefit of the gullet, of which thou hast attempted to make a sepulchre for all animals; and I would say still more, if it were allowed me to speak the entire truth.”
-
->“Men and the animals are merely a passage and channel for food, a tomb for other animals, a haven for the dead, giving life by the death of others, a coffer full of corruption.”
-
-― <a href="https://en.wikipedia.org/wiki/Leonardo_da_Vinci" target="_blank">Leonardo da Vinci</a>
+― <a href="https://en.wikipedia.org/wiki/Bill_Murray" target="_blank">Bill Murray</a>
 
 >“Doubts about the existence of free will and individuals are nothing new, of course. More than 2,000 years ago thinkers in India, China and Greece argued that ‘the individual self is an illusion’. Yet such doubts don’t really change history much unless they have a practical impact on economics, politics and day-to-day life. **Humans are masters of cognitive dissonance**, and we allow ourselves to believe one thing in the laboratory and an altogether different thing in the courthouse or in parliament. Just as Christianity didn’t disappear the day Darwin published On the Origin of Species, so liberalism won’t vanish just because scientists have reached the conclusion that there are no free individuals.”
 
@@ -2180,7 +2172,7 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 #### Veganism
 
-These are some quotes related to veganism. Veganism is an ethical philosophy that rejects the [commodity status of animals](https://www.abolitionistapproach.com/about/the-six-principles-of-the-abolitionist-approach-to-animal-rights/){:target="_blank"}. The gravity of the situation can not be overstated because each year, trillions ([1](https://ourworldindata.org/grapher/wild-caught-fish){:target="_blank"},[2](https://rethinkpriorities.org/publications/shrimp-the-animals-most-commonly-used-and-killed-for-food-production){:target="_blank"},[3](https://ourworldindata.org/grapher/farmed-crustaceans){:target="_blank"},[4](https://ourworldindata.org/grapher/farmed-fish-killed){:target="_blank"}) of sentient animals are needlessly tortured and killed.
+These are some quotes related to veganism. Veganism is an ethical philosophy that rejects the [commodity status of animals](https://www.abolitionistapproach.com/about/the-six-principles-of-the-abolitionist-approach-to-animal-rights/){:target="_blank"}. The gravity of the situation can not be overstated because each year, trillions ([1](https://ourworldindata.org/grapher/wild-caught-fish){:target="_blank"},[2](https://rethinkpriorities.org/publications/shrimp-the-animals-most-commonly-used-and-killed-for-food-production){:target="_blank"},[3](https://ourworldindata.org/grapher/farmed-crustaceans){:target="_blank"},[4](https://ourworldindata.org/grapher/farmed-fish-killed){:target="_blank"}) of sentient animals are needlessly tortured and killed. For more information see [my page](https://ksr.onl/vegan/){:target="_blank"}.
 
 >“Our study [<a href="https://en.wikipedia.org/wiki/China%E2%80%93Cornell%E2%80%93Oxford_Project" target="_blank">China–Cornell–Oxford Project</a>: The Most Comprehensive Study of Nutrition Ever Conducted] suggests that **the closer one approaches a total plant food diet, the greater the health benefit**. … It turns out that animal protein, when consumed, exhibits a variety of undesirable health effects. Whether it is the immune system, various enzyme systems, the uptake of carcinogens into the cells, or hormonal activities, animal protein generally only causes mischief. High fat intake still can be a problem, and we ought not to be consuming such high-fat diets. But I suggest that animal protein is more problematic in this whole diet/disease relationship than is total fat.”
 
@@ -2282,6 +2274,22 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >“Eventually, selection-pressure has given rise to complex minds as well, albeit as just one part of the throwaway host vehicles by which our genes leave copies of themselves. Conscious mind, on this proposal, is a triumph of organisation: our egocentric virtual worlds are warm and gappy QM-coherent states of consciousness. Contra materialist metaphysics, sentience of any kind is not the daily re-enactment of an ontological miracle. Moreover the idea that what-it's-like-ness is the fire in the equations is (at least) consistent with orthodox relativistic quantum field theory - because the theorists' key notions (e.g. that of a field, string, brane, etc) are defined purely mathematically. In other cases, they readily lend themselves to such a reconstruction. Using the word "physical" doesn't add anything of substance.” 
 
 ― <a href="https://en.wikipedia.org/wiki/David_Pearce_(transhumanist)" target="_blank">David Pearce</a><span style="color:Chartreuse">(transhumanist and philosopher and founder of <a href="https://www.abolitionist.com/" target="_blank">Abolitionism (suffering)</a>)</span>
+
+>“My body will not be a tomb for other animals, an inn of the dead… a container of corruption.”
+
+>“I have from an early age abjured the use of meat, and the time will come when men such as I will look upon the murder of animals as they now look upon the murder of men.”
+
+>“Truly man is the king of beasts, for his brutality exceeds them. We live by the death of others. We are burial places.”
+
+>“King of the animals — as thou hast described him — I should rather say king of the beasts, thou being the greatest — because thou hast spared slaying them, in order that they may give thee their children for the benefit of the gullet, of which thou hast attempted to make a sepulchre for all animals; and I would say still more, if it were allowed me to speak the entire truth.”
+
+>“Men and the animals are merely a passage and channel for food, a tomb for other animals, a haven for the dead, giving life by the death of others, a coffer full of corruption.”
+
+― <a href="https://en.wikipedia.org/wiki/Leonardo_da_Vinci" target="_blank">Leonardo da Vinci</a><span style="color:Chartreuse">(polymath)</span>
+
+>“Does it not shame you to mingle murder and blood with their beneficent fruits? Other carnivora you call savage and ferocious - lions and tigers and serpents - while yourselves come behind them in no species of barbarity. And yet for them murder is the only means of sustenance; whereas to you it is a superfluous luxury and **crime**!”
+
+― <a href="https://en.wikipedia.org/wiki/Plutarch" target="_blank">Plutarch</a><span style="color:Chartreuse">(Greek philosopher)</span>
 
 >“Poor countries sell their grain to the West for hard currency while their own children starve in their arms. And the West feeds it to livestock. . . So we can eat a steak? I bet I am not the only one in the room who sees this as a crime?”
 
@@ -2808,6 +2816,8 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 [^Fiction]: From <a href="https://en.wikipedia.org/wiki/A_True_Story" target="_blank">A True Story</a> (2nd century AD) the first sci-fi story and also the first fictional story where it was explicitly stated as fiction. Before this the concept of fiction was not there. He explictly mentioned that the story is lies and not true just in case it might become mythology.
 
 [^Horse]: This is not just a snarky comment; Lewis Gompertz genuinely followed this and never used horses to travel, and since 2 centuries ago there was no other option, he travelled to other cities and towns by walk. Lewis Gompertz is arguably the first human to understand that the commodity status of animals is immoral. He was way ahead of his time. He is up there among the greatest humans to ever live. He was a man of great morals and thats why he dedicated most of his life to invent devices to reduce animal suffering.
+
+[^Based]: Periyar destroyed the idols by first starting with the God, who is generally first worshipped before other Gods. The funniest atheist activism in history.
 
 <script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
 

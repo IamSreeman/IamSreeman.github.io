@@ -41,13 +41,15 @@ This page contains reasons why I made this decision and also some resources if y
 >    - [Antibiotic resistance](#antibiotic-resistance)
 >    - [Childhood indoctrination (brainwashing)](#childhood-indoctrination-brainwashing)
 >    - [Sexism](#sexism)
+>    - [Microplastics](#microplastics)
 >    - [Hormones](#hormones)
 > 
 >2. [Resources](#resources)
 >    - [Nutrition](#nutrition)
 >    - [Arguments](#arguments)
 >    - [Cooking](#cooking)
->    - [Videos](#videos) 
+>    - [Videos](#videos)
+>       - [Indian Documentaries](#indian-documentaries)
 >    - [Other](#other)
 >    - [Memes](#memes)
 >3. [My story](#my-story)
@@ -229,6 +231,12 @@ Apart from the rampant speciesism, animal agriculture is also an institutionaliz
 
 ― <a href="https://en.wikipedia.org/wiki/Carol_J._Adams" target="_blank">Carol J. Adams</a><span style="color:Chartreuse">(feminist and animal rights advocate)</span>
 
+##### Microplastics
+
+- Processed corpses of land animals and marine animals have a much higher number of microplastics in them than processed plant foods like tofu. See the below image.  [Source](https://doi.org/10.1016/j.envpol.2023.123233){:target="_blank"}
+
+<img src="{{site.baseurl}}/images/other/Microplastics.jpg" width="500"/>
+
 ##### Hormones
 
 This is not an important reason. I am mentioning it here because a lot of insecure conservative men believe in the conspiracy that vegans have less testosterone and are not manly. The dairy propaganda is that soy products contain estrogen. But soybeans only contain phytoestrogen that cannot affect mammals. But dairy products contain ***literal mammalian estrogen*** that is making men less "manly" and women more "womanly". Women are hitting puberty at earlier ages. So, both sexes and all genders are negatively affected by the dairy industry.
@@ -343,6 +351,15 @@ Example video:<br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gnQL-brI-9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/roIWg4ntj9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/es6U00LMmC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Indian Documentaries
+
+[Arvind Animal Activist](https://www.youtube.com/@arvindanimalactivist8192){:target="_blank"} has good videos. The below are good documentaries.
+
+- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oYmZISwJI7k?si=-AfBjgxB9k6ifn6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+This is an English documentary.
+- <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XhTOLeevtQw?si=ndEirqzvR7tznUa7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+This is a Hindi documentary, but on their channel, you can also find many other versions in local languages, such as in my mother tongue, Telugu.
 
 ##### Other
 - [Vegan sidekick](http://tinyurl.com/vegansidekick)
