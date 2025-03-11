@@ -108,7 +108,7 @@ Note that even before we know the existence of any physical entity, we know that
 1. Premise 1 cannot be true since 2 is just a definition (reductio ad absurdum).
 1. Therefore, the ToE exists in physical reality.
 
-So, our conclusion is that the Theory of Everything (ToE) must exist in physical reality for purely logical reasons without any physical reason.
+So, our conclusion is that the Theory of Everything (ToE) must exist in physical reality for purely logical reasons without any physical reason. I think this conclusion is the only [synthetic a priori](https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction){:target="_blank"} statment. Its synthetic as its talking about physical reality.
 
 <img src="{{site.baseurl}}/images/posts/Penrose.png" width="300"/><br>
 

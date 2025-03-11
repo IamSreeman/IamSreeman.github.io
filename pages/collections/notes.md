@@ -64,6 +64,7 @@ Notes made for JEE-Advanced 2019 exam.
 ##### Useful physics links
 
 1. <a href='https://www.stringwiki.org/wiki/Conferences' target="_blank">String Theory Conferences</a><br>
+1. <a href='https://fmhy.net/readingpiracyguide' target="_blank">Piracy websites for textbooks</a><br>
 1. <a href='https://physics.stackexchange.com/questions/12175/book-recommendations' target="_blank">Book recommendations from PSE</a><br>
 1. <a href='https://physics.stackexchange.com/questions/101187/best-sets-of-physics-lecture-notes-and-articles' target="_blank">Notes recommendations from PSE</a><br>
 1. <a href='https://www.ams.org/open-math-notes' target="_blank">AMS Open Math Notes</a><br>

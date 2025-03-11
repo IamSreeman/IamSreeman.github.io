@@ -3,7 +3,7 @@ title: "AI Leader and the world government"
 date:   2025-01-26 21:27:00 +0300
 subheadline: ""
 category: non-physics
-tags:   [Politics]
+tags:   [Politics,Important]
 image:
     thumb: Friend20thcenturyboys.png
 script:
@@ -260,7 +260,11 @@ Although there are some great utilitarian Animal Advocates like [David Pearce](h
 
 ― <a href="https://gineipaedia.com/wiki/Yang_Wen-li" target="_blank">Yang Wen-li</a>
 
-I have already talked about Plato's [philosopher king](https://en.wikipedia.org/wiki/Philosopher_king){:target="_blank"} in the section on democracy. The AI Leader that I will talk about now is basically a better version of that.
+>“Love is wise, hatred is foolish.”
+
+― <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>
+
+A sufficiently advanced intelligence will be compassionate and kind. I have already talked about Plato's [philosopher king](https://en.wikipedia.org/wiki/Philosopher_king){:target="_blank"} in the section on democracy. The AI Leader that I will talk about now is basically a better version of that.
 
 ***Dictatorship***: The problem with dictatorship is that even if there is a smart benevolent dictator, like [Lelouch vi Britannia](https://codegeass.fandom.com/wiki/Lelouch_vi_Britannia){:target="_blank"} or [Reinhard von Lohengramm](https://gineipaedia.com/wiki/Reinhard_von_Lohengramm){:target="_blank"}, he/she will die and will be replaced with a bad leader. Another problem is that dictators are unquestionable authority.
 
@@ -510,7 +514,7 @@ If you look at the [list of ongoing wars](https://en.wikipedia.org/wiki/List_of_
 
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Maybe the only evil leaders who will be sad is Ali Khamenei and Bashar al-Assad. Maybe also Ilham Aliyev as Trump did say he will stop the genocide of Armenian christians if he becomes president again. 2/2</p>&mdash; Sreeman Reddy Kasireddy 🐓🐄🐟🦐≮🐕🐈 (@IamSreeman) <a href="https://twitter.com/IamSreeman/status/1854086552193765798?ref_src=twsrc%5Etfw">November 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Islam will be a bigger obstacle than other religions for the world government. Islam is the strongest religion. Survival of the fittest is also valid for the evolution of religions, and a religion that has the death penalty for apostates (those who stop believing) is the fittest religion. Any political supporter of the world government will be persecuted because this world government supports state atheism, and supporting it might be considered blasphemy. Many MENA countries have the death penalty for both apostasy and blasphemy. Even in those places that don't have such laws, anyone who supports atheism or this world government will be lynched by vigilantes. So, people can't support the world government publicly.
+Islam will be a bigger obstacle than other religions for the world government. Islam is the strongest religion. Survival of the fittest is also valid for the evolution of religions, and a religion that has the death penalty for apostates (those who stop believing) is the fittest religion. See the [apostasy laws](https://en.wikipedia.org/wiki/Apostasy_in_Islam_by_country){:target="_blank"} & the [blasphemy laws](https://en.wikipedia.org/wiki/Blasphemy_law){:target="_blank"} in MENA. Any political supporter of the world government will be persecuted because this world government supports state atheism, and supporting it will be considered blasphemy. Many MENA countries have the death penalty for both apostasy and blasphemy. Even in those places that don't have such laws, anyone who supports atheism or this world government will be lynched by vigilantes. So, people can't support the world government publicly.
 
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Criticism of a religion is not racism. It is the duty of rational people to criticize religions without fear unless there are draconian blasphemy laws, in which case their phobia is justified, and they won&#39;t have the duty. <a href="https://t.co/r3A7NOrMdC">pic.twitter.com/r3A7NOrMdC</a></p>&mdash; Sreeman Reddy Kasireddy 🐓🐄🐟🦐≮🐕🐈 (@IamSreeman) <a href="https://twitter.com/IamSreeman/status/1818689140235624925?ref_src=twsrc%5Etfw">July 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

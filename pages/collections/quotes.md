@@ -490,6 +490,8 @@ of radioactivity allowed physicists to explain how the Sun and Earth’s cores c
 
 >“The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither ***understand*** nor ***deserve***.”
 
+>“The sharp distinction between Initial Conditions and Laws of Nature was initiated by Isaac Newton and I consider this to be one of his most important, if not the most important, accomplishment. Before Newton there was no sharp separation between the two concepts. Kepler, to whom we owe the three precise laws of planetary motion, tried to explain also the size of the planetary orbits, and their periods. After Newton's time the sharp separation of initial conditions and laws of nature was taken for granted and rarely even mentioned. Of course, the first ones are quite arbitrary and their properties are hardly parts of physics while the recognition of the latter ones are the prime purpose of our science. Whether the sharp separation of the two will stay with us permanently is, of course, as uncertain as is all future development but this question will be further discussed later. Perhaps it should be mentioned here that the permanency of the validity of our deterministic laws of nature became questionable as a result of the realization, due initially to D. Zeh, that the states of macroscopic bodies are always under the influence of their environment; in our world they can not be kept separated from it.” [[Source](http://link.springer.com/chapter/10.1007%2F978-3-642-78374-6_29){:target="_blank"}]
+
 >“I have known a great many intelligent people in my life. I knew Planck, von Laue and Heisenberg. Paul Dirac was my brother in law; Leo Szilard and Edward Teller have been among my closest friends; and Albert Einstein was a good friend, too. But none of them had a mind as quick and acute as Jancsi [John] von Neumann. I have often remarked this in the presence of those men and no one ever disputed.
 >
 >But Einstein's understanding was deeper even than von Neumann's. His mind was both more penetrating and more original than von Neumann's. And that is a very remarkable statement. Einstein took an extraordinary pleasure in invention. Two of his greatest inventions are the Special and General Theories of Relativity; and for all of Jancsi's brilliance, he never produced anything as original.”
@@ -2106,6 +2108,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 ― <a href="https://en.wikipedia.org/wiki/Prince_Hamlet" target="_blank">Hamlet</a>
 
+>“<a href="https://www.youtube.com/watch?v=LQRAfJyEsko" target="_blank">Hell is empty and all the devils are here</a>.”
+
+― <a href="https://en.wikipedia.org/wiki/William_Shakespeare" target="_blank">William Shakespeare</a>
+
 >“Work expands so as to fill the time available for its completion.”
 
 ― <a href="https://en.wikipedia.org/wiki/Parkinson%27s_law" target="_blank">Parkinson's law</a>
@@ -2172,7 +2178,7 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 #### Veganism
 
-These are some quotes related to veganism. Veganism is an ethical philosophy that rejects the [commodity status of animals](https://www.abolitionistapproach.com/about/the-six-principles-of-the-abolitionist-approach-to-animal-rights/){:target="_blank"}. The gravity of the situation can not be overstated because each year, trillions ([1](https://ourworldindata.org/grapher/wild-caught-fish){:target="_blank"},[2](https://rethinkpriorities.org/publications/shrimp-the-animals-most-commonly-used-and-killed-for-food-production){:target="_blank"},[3](https://ourworldindata.org/grapher/farmed-crustaceans){:target="_blank"},[4](https://ourworldindata.org/grapher/farmed-fish-killed){:target="_blank"}) of sentient animals are needlessly tortured and killed. For more information see [my page](https://ksr.onl/vegan/){:target="_blank"}.
+These are some quotes related to veganism. Veganism is an ethical philosophy that rejects the [commodity status of animals](https://www.abolitionistapproach.com/about/the-six-principles-of-the-abolitionist-approach-to-animal-rights/){:target="_blank"}. The gravity of the situation can not be overstated because each year, trillions ([1](https://ourworldindata.org/grapher/wild-caught-fish){:target="_blank"},[2](https://rethinkpriorities.org/publications/shrimp-the-animals-most-commonly-used-and-killed-for-food-production){:target="_blank"},[3](https://ourworldindata.org/grapher/farmed-crustaceans){:target="_blank"},[4](https://ourworldindata.org/grapher/farmed-fish-killed){:target="_blank"}) of sentient animals are needlessly tortured and killed. For more information see [ksr.onl/vegan](https://ksr.onl/vegan/){:target="_blank"}.
 
 >“Our study [<a href="https://en.wikipedia.org/wiki/China%E2%80%93Cornell%E2%80%93Oxford_Project" target="_blank">China–Cornell–Oxford Project</a>: The Most Comprehensive Study of Nutrition Ever Conducted] suggests that **the closer one approaches a total plant food diet, the greater the health benefit**. … It turns out that animal protein, when consumed, exhibits a variety of undesirable health effects. Whether it is the immune system, various enzyme systems, the uptake of carcinogens into the cells, or hormonal activities, animal protein generally only causes mischief. High fat intake still can be a problem, and we ought not to be consuming such high-fat diets. But I suggest that animal protein is more problematic in this whole diet/disease relationship than is total fat.”
 

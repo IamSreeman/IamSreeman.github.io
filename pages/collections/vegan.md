@@ -20,11 +20,13 @@ breadcrumbs: true
 
 On 2022 Jan 1st, I decided to become a vegan. Before that, I was a vegetarian throughout my life except for 4 years (2016-2020) when I ate meat.
 
-This page contains reasons why I made this decision and also some resources if you are open minded and would like to know more about veganism. You can find many quotes related to veganism <a href="{{site.baseurl}}/quotes/#veganism"  target="_blank">here</a>. Sorry if this page offends anyone.
+This page contains reasons why I made this decision and also some resources if you are open minded and would like to know more about veganism. You can find many quotes related to veganism <a href="{{site.baseurl}}/quotes/#veganism"  target="_blank">here</a>. Sorry if this page offends anyone. As Einstein said, silence = complicity.
 
 >“I have expressed an opinion on public issues whenever they appeared to me so bad and unfortunate that silence would have made me feel guilty of complicity.”
 
 >“I have always eaten animal flesh with a somewhat guilty conscience.”[1953 letter to Max Kariel]
+
+>“So I am living without fats, without meat, without fish, but am feeling quite well this way. It always seems to me that man was not born to be a carnivore.”[1954]
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
@@ -168,6 +170,11 @@ See [wildanimalsuffering.org](https://wildanimalsuffering.org/){:target="_blank"
 - “The World Health Organization has classified processed meats including ham, bacon, salami and frankfurts as a Group 1 carcinogen (known to cause cancer) which means that there's strong evidence that processed meats cause cancer. Eating processed meat increases your risk of bowel and stomach cancer.” [Source](https://www.cancercouncil.com.au/1in3cancers/lifestyle-choices-and-cancer/red-meat-processed-meat-and-cancer/){:target="_blank"}
 - “The Academy of Nutrition and Dietetics and Dietitians of Canada consider well-planned vegetarian and vegan diets "appropriate for individuals during all stages of the lifecycle, including pregnancy, lactation, infancy, childhood, and adolescence, and for athletes".” [Source](https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=2985&context=pubs){:target="_blank"}
 - Check [this playlist](https://www.youtube.com/playlist?list=PL5TLzNi5fYd9lgvt0-8Oi9BIQ-jO2PBD3){:target="_blank"} to learn how bad eggs are, especially [this video](https://www.youtube.com/watch?v=RtGf2FuzKo4){:target="_blank"} about the relationship between the egg industry and the US government.
+- Findings: In this cohort study of 221,054 adults from 3 large cohorts, higher butter intake was associated with increased total and cancer mortality, while higher intake of plant-based oils was associated with lower total, cancer, and cardiovascular disease mortality.
+
+    Meaning: Substituting butter with plant-based oils, particularly olive, soybean, and canola oils, may confer substantial benefits for preventing premature deaths.
+    
+    Conclusions and Relevance: In this cohort study, higher intake of butter was associated with increased mortality, while higher plant-based oils intake was associated with lower mortality. Substituting butter with plant-based oils may confer substantial benefits for preventing premature deaths. [Source](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2831265){:target="_blank"}
 
 <img src="{{site.baseurl}}/images/other/MilkHealth1.png" width="500"/>
 <img src="{{site.baseurl}}/images/other/MilkHealth2.png" width="500"/><br>
