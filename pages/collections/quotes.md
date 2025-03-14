@@ -2112,6 +2112,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 ― <a href="https://en.wikipedia.org/wiki/William_Shakespeare" target="_blank">William Shakespeare</a>
 
+>“Having learnt geometry from the Egyptians, <a href="https://en.wikipedia.org/wiki/Thales_of_Miletus" target="_blank">Thales</a> was the first to inscribe in a circle a right-angled triangle, whereupon he sacrificed an ox.” [First recorded mathematician did Animal Cruelty.]
+
+― <a href="https://en.wikipedia.org/wiki/Pamphile_of_Epidaurus" target="_blank">Pamphile of Epidaurus</a>
+
 >“Work expands so as to fill the time available for its completion.”
 
 ― <a href="https://en.wikipedia.org/wiki/Parkinson%27s_law" target="_blank">Parkinson's law</a>

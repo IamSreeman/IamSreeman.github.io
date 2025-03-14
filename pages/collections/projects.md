@@ -33,7 +33,7 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 ##### String dual of 2D QCD (Jan 2025-Present)
 
 *Advisor: Prof. Ofer Aharony, Weizmann Institute of Science*
-- Understanding the precise worldsheet theory that is dual to 2D QCD with massive quarks
+- Finding and understanding the precise worldsheet theory that is dual to 2D QCD with massive quarks
 
 ##### Quantum covariant bit threads (Oct 2023-Present)
 
