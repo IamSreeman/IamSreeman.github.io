@@ -224,7 +224,7 @@ See [wildanimalsuffering.org](https://wildanimalsuffering.org/){:target="_blank"
 
 ##### Sexism
 
-Apart from the rampant speciesism, animal agriculture is also an institutionalized form of sexism where different sexes are tortured differently.
+Apart from the rampant speciesism, animal agriculture is also an institutionalized form of sexism where different sexes are tortured differently. The vast majority of feminists are massive hypocrites for consuming eggs & dairy, which are products of abuse of the female reproductive system.
 
 - Both the dairy industry and the egg industry sell products that are the direct result of the abuse of female reproductive organs. The dairy industry keeps forcefully (artificially) impregnating the cows. The egg industry artificially makes chickens lay eggs daily instead of the natural monthly.
 - This sexism is not exclusive to female sentient beings. Male chicks are grinded alive in the egg industry. Male calves are killed for veal as they cannot be forcefully (artificially) impregnated.

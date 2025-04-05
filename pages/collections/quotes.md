@@ -438,6 +438,8 @@ of radioactivity allowed physicists to explain how the Sun and Earth’s cores c
 
 >“But so far, we have found nothing wrong with the theory of quantum electrodynamics. It is, therefore, I would say, the jewel of physics—our proudest possession.”
 
+>“If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would contain the most information in the fewest words? I believe it is the atomic hypothesis (or atomic fact, or whatever you wish to call it) that all things are made of atoms...”
+
 >“He [<a href="https://en.wikipedia.org/wiki/Ernst_Stueckelberg" target="_blank">Stueckelberg</a>] did the work and walks alone toward the sunset; and, here I am, covered in all the glory, which rightfully should be his!.”
 
 ― <a href="https://en.wikipedia.org/wiki/Richard_Feynman" target="_blank">Richard Feynman</a>
@@ -965,6 +967,10 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/Jeffrey_Lagarias" target="_blank">Jeffrey Lagarias</a>
 
+>“You must not attempt this approach to parallels. I know this way to the very end. I have traversed this bottomless night, which extinguished all light and joy in my life. I entreat you, leave the science of parallels alone...Learn from my example.” [1825 to his son <a href="https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai" target="_blank">János Bolyai</a>]
+
+― <a href="https://en.wikipedia.org/wiki/Farkas_Bolyai" target="_blank">Farkas Bolya</a>
+
 >“If a 'religion' is defined to be a system of ideas that contains unprovable statements, then Gödel taught us that mathematics is not only a religion, it is the only religion that can prove itself to be one.”
 
 >“A universe simple enough to be understood is too simple to produce a mind capable of understanding it.”
@@ -979,11 +985,17 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 >“The popular image of the lone (and possibly slightly mad) genius – who ignores the literature and other conventional wisdom and manages by some inexplicable inspiration (enhanced, perhaps, with a liberal dash of suffering) to come up with a breathtakingly original solution to a problem that confounded all the experts – is a charming and romantic image, but also a wildly inaccurate one, at least in the world of modern mathematics. We do have spectacular, deep and remarkable results and insights in this subject, of course, but they are the hard-won and cumulative achievement of years, decades, or even centuries of steady work and progress of many good and great mathematicians; the advance from one stage of understanding to the next can be highly non-trivial, and sometimes rather unexpected, but still builds upon the foundation of earlier work rather than starting totally anew. (This is for instance the case with Wiles‘ work on Fermat’s last theorem, or Perelman‘s work on the Poincaré conjecture.)”
 
+>“When one moves from single-variable calculus to several-variable calculus, though, these three concepts begin to diverge significantly from each other. The indefinite integral generalises to the notion of a solution to a differential equation, or of an integral of a connection, vector field, or bundle. The unsigned definite integral generalises to the Lebesgue integral, or more generally to integration on a measure space. Finally, the signed definite integral generalises to the integration of forms, which will be our focus here. While these three concepts still have some relation to each other, they are not as interchangeable as they are in the single-variable setting. The integration on forms concept is of fundamental importance in differential topology, geometry, and physics, and also yields one of the most important examples of cohomology, namely <a href="https://en.wikipedia.org/wiki/De_Rham_cohomology" target="_blank">de Rham cohomology</a>, which (roughly speaking) measures precisely the extent to which the fundamental theorem of calculus fails in higher dimensions and on general manifolds.”[<a href="https://www.math.ucla.edu/~tao/preprints/forms.pdf" target="_blank">Source</a>]
+
 ― <a href="https://en.wikipedia.org/wiki/Terence_Tao" target="_blank">Terence Tao</a>
 
 >“I've always thought that a good model here could be drawn from ring theory. In that subject, one has the subareas of commutative ring theory and non-commutative ring theory. An uninformed observer might think that these represent a dichotomy, but in fact the latter subsumes the former: a non-commutative ring is a not-necessarily-commutative ring. If we use similar conventions, then we could refer to applied mathematics and nonapplied mathematics, where by the latter we mean ***not-necessarily-applied mathematics***...”
 
 ― <a href="https://en.wikipedia.org/wiki/Andy_Magid" target="_blank">Andy Magid</a>
+
+>“Rigor cleans the window through which intuition shines.”
+
+― <a href="https://mathoverflow.net/users/4945/ellis-d-cooper" target="_blank">Ellis D Cooper</a>
 
 >“It is a truth universally acknowledged that a closed differential form, in possession of an interpretation as a gauge field in a quantum field theory, must be in want of an integral refinement.”[<a href="https://arxiv.org/abs/2312.14338" target="_blank">2312.14338</a>]
 
@@ -1105,6 +1117,8 @@ He indeed knows, if not, no one knows”[^Creation]
 >“Is there any knowledge in the world which is so certain that no reasonable man could doubt it?”[^Skepticism]
 
 >“Love is wise, hatred is foolish.”
+
+>“Pure Mathematics is the class of all propositions of the form "p implies q," where p and q are propositions containing one or more variables, the same in the two propositions, and neither p nor q contains any constants except logical constants. And logical constants are all notions definable in terms of the following: Implication, the relation of a term to a class of which it is a member, the notion of such that, the notion of relation, and such further notions as may be involved in the general notion of propositions of the above form. In addition to these, mathematics uses a notion which is not a constituent of the propositions which it considers, namely the notion of truth.”
 
 >“If there were a God, I think it very unlikely that he would have such an **uneasy vanity** as to be **offended by those who doubt his existence**.”
 
@@ -1259,6 +1273,8 @@ And share your pleasures with beggars.”
 >“In order to seek truth, it is necessary once in the course of our life, to **doubt**, as far as possible, of **all things**.”
 
 >“I shall then suppose . . . some <a href="https://en.wikipedia.org/wiki/Evil_demon" target="_blank">evil genius</a> not less powerful than deceitful, has employed his whole energies in deceiving me; I shall consider that . . . all . . . external things are but illusions and dreams of which this genius has availed himself to lay traps for my credulity.”
+
+>“I have come to think that these writers themselves, with a kind of pernicious cunning, later suppressed this mathematics as, notoriously, many inventors are known to have done where their own discoveries were concerned. They may have feared that their method, just because it was so easy and simple, would be depreciated if it were divulged; so to gain our admiration, they may have shown us, as the fruits of their method, some barren truths proved by clever arguments, instead of teaching us the method itself, which might have dispelled our admiration.”
 
 ― <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes" target="_blank">René Descartes</a>
 
@@ -1579,6 +1595,14 @@ And share your pleasures with beggars.”
 >“Non-violence leads to the highest ethics, which is the goal of all evolution. Until we stop harming all other living beings, we are still savages.”
 
 ― <a href="https://en.wikipedia.org/wiki/Thomas_Edison" target="_blank">Thomas Edison</a>
+
+>“We don’t need horses. We’ve got the tractor. We’ve got the automobile. We don’t need cows–we can make synthetic milk. We can make meat substitutes out of soybean and coconuts–you can hardly tell the difference. We don’t need sheep. We will be able to make wool out of synthetic things–it will be better than wool.”
+
+― <a href="https://en.wikipedia.org/wiki/Henry_Ford" target="_blank">Henry Ford</a>
+
+>“Ford was evangelical about soybeans. He talked of how cooked soybeans tasted much better than lima beans did, and how soybean spread was much better for children than peanut butter. He advised me to try it in a soybean and jelly sandwich. Ford urged Mother to tell our cook to use a lot of soybeans in cooking and to overcome the strong flavor of thebeans by adding plenty of onions. In his own household the cooks were ordered to sneak a few soybeans into every food on the table–into soup, salad, the peas or other vegetable of the day.”
+
+― <a href="https://therichardrosereport.com/1934-henry-ford-vegan-foods-pioneer/" target="_blank">Richard Rose</a>
 
 >“[T]he interests of science have suffered by the excessive admiration and wonder, with which several first rate philosophers are considered; and... an opinion of the **greater equality of mankind, in point of genius**, and powers of understanding, would be of real service in the present age.”
 
@@ -2070,6 +2094,14 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 >^ *Translates to* “There should be fear in life, but whole life should not become fear.”
 ― <a href="https://en.wikipedia.org/wiki/Rajinikanth" target="_blank">Rajinikanth</a>(From Basha movie)
 
+>“Islamic heritage froze a thousand years ago, in the fourth century of Islam. Since then it has not moved forward, has not evolved, and has not renewed itself.
+
+>“All scorpions sting. Some scorpions have actually killed someone, while other scorpions have not killed yet. The only difference between them is that the latter have not had the chance to kill yet. They have not had the chance to perform the best act that brings you close to Allah. The best act that brings you close to Allah is storming into the enemy's midst. The best act that brings you close to Allah is the duty of jihad.”
+
+>“The real danger that the world faces is Islam, in its prevalent form in our Arab and Islamic world.”
+
+― <a href="https://en.wikipedia.org/wiki/Sayyid_Al-Qemany" target="_blank">Sayyid Al-Qemany</a>
+
 >“God only exists in people’s minds. Especially in Japan, God's always has been a kind of flexible concept. Look at what happened to the war. **Douglas MacArthur ordered the divine emperor to quit being a God, and he did**, making a speech saying he was just an ordinary person.”
 
 ― <a href="https://en.wikipedia.org/wiki/Shin%27ichi_Hisamatsu" target="_blank">Shin'ichi Hisamatsu</a>
@@ -2077,6 +2109,24 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 >“No honor I have ever received moves me more deeply than this one. Perhaps this is because I can recall no parallel in the history of the world where a great nation recently at war has so distinguished its former enemy commander. What makes it even more poignant is my own firm disbelief in the usefulness of military occupations with their corresponding displacement of civil control.” [After receiving <a href="https://en.wikipedia.org/wiki/Order_of_the_Rising_Sun" target="_blank">Order of the Rising Sun</a>]
 
 ― <a href="https://en.wikipedia.org/wiki/Douglas_MacArthur" target="_blank">Douglas MacArthur</a>
+
+>“India was China's teacher in religion and imaginative literature, and the world's teacher in trignometry, quandratic equations, grammar, phonetics, Arabian Nights, animal fables, chess, as well as in philosophy, and that she inspired Boccaccio, Goethe, Herder, Schopenhauer, Emerson, and probably also old Aesop.”
+
+― <a href="https://en.wikipedia.org/wiki/Lin_Yutang" target="_blank">Lin Yutang</a>
+
+>“It is a well-known historical fact that India conquered and dominated China culturally for twenty centuries without ever having to send a single soldier across her borders. This cultural conquest was never imposed by India on her neighbors. It was all the result of voluntary searching, voluntary learning, voluntary pilgrimage and voluntary acceptance on the part of China.
+>
+>The real explanation was that the great religion of Buddhism satisfied a need keenly felt by the Chinese people of the time.
+>
+>Ancient China had a simple religion, so simple that it had no conception of heaven as a paradise for the good people, nor of a hell as a place of last judgment. But India gave to China not only one heaven, but thirty-three heavens; not only one hell, but eighteen hells, each increasing in severity of punishment for the evildoers. Ancient China had only a simple conception of retribution for good and evil, but India gave us the conception of Karma, the idea of absolute causation running through past, present and future existences. China, the leader of civilization of Eastern Asia, bowed to the religious prophets of India and accepted their teachings as words of wisdom from the “Western Heaven.” And with the religion of Buddhism, there came into China all its paraphernalia—the philosophy, literature, art, architecture and music of India, every single item of which has had profound influence and far-reaching effects on the cultural life of China and other Asiatic countries.
+>
+>For more than a thousand years, from the first century A.D. down to the eleventh century, Chinese pilgrims continued to travel by land and by sea to India to seek its scriptures in their original texts and to study under the living masters of the faith. Some of these pilgrims spent decades in India and brought back thousands of manuscripts which they devoted their lives to translating and interpreting to their fellow countrymen. Buddhist teachers and missionaries who came to China throughout the ages were always honored and eagerly listened to. Many of the Buddhistic and Indian ideas and concepts, such as Karma and transmigration of the soul, have become so intimate a part of Chinese thought and belief that the average man never realizes they are of foreign origin. So thorough and so complete was this cultural conquest of China by India that it took China ten centuries to gradually come out of it and to achieve some measure of cultural independence and intellectual renaissance.
+>
+>China has never been able fully to repay this cultural indebtedness. China could only indirectly repay this debt by helping to spread this Indian culture to her Asiatic neighbors and by preserving in translation India’s vast store of religious, philosophical, and historical literature, the originals of which have mostly been lost in India herself.
+>
+>India, our great teacher, was then not in a mood to receive much from China. The cultural relationship was almost entirely one-sided, with China learning and taking almost everything from India without even paying tuition fee for it. Even paper-making and printing, two of China’s greatest contributions to civilization, failed to interest the people of India. Only silk and tea seem to have made their way to the Indian homes. What India has taken from China is exceedingly meager in comparison with what China has received from her.”
+
+― <a href="https://en.wikipedia.org/wiki/Hu_Shih" target="_blank">Hu Shih</a>
 
 >“Had Mao died in 1956, his achievements would have been immortal. Had he died in 1966, he would still have been a great man but flawed. But he died in 1976. Alas, what can one say?”
 
@@ -2115,6 +2165,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 >“Having learnt geometry from the Egyptians, <a href="https://en.wikipedia.org/wiki/Thales_of_Miletus" target="_blank">Thales</a> was the first to inscribe in a circle a right-angled triangle, whereupon he sacrificed an ox.” [First recorded mathematician did Animal Cruelty.]
 
 ― <a href="https://en.wikipedia.org/wiki/Pamphile_of_Epidaurus" target="_blank">Pamphile of Epidaurus</a>
+
+>“The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it.”
+
+― <a href="https://en.wikipedia.org/wiki/Brandolini%27s_law" target="_blank">Brandolini's law (bullshit asymmetry principle)</a>
 
 >“Work expands so as to fill the time available for its completion.”
 
@@ -2490,6 +2544,15 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >“September 11, 2001, was just another day for most of the world’s desperately poor people, so presumably close to 30,000 children under five died from these causes on that day—about ten times the number of victims of the terrorist attacks. The publication of these figures did not lead to an avalanche of money for UNICEF or other aid agencies helping to reduce infant mortality. In the year 2000 Americans made private donations for foreign aid of all kinds totalling about <span>$</span>4 per person in extreme poverty, or roughly <span>$</span>20 per family. New Yorkers who were living in lower Manhattan on September 11, 2001, whether wealthy or not, were able to receive an average of <span>$</span>5,300 per family. The distance between these amounts encapsulates the way in which, for many people, the circle of concern for others stops at the boundaries of their own country—if it extends even that far.” [The "[drowning child](https://www.philosophyexperiments.com/singer/){:target="_blank"}" thought experiment]
 
 ― <a href="https://en.wikipedia.org/wiki/Peter_Singer" target="_blank">Peter Singer</a><span style="color:Chartreuse">(Utilitarian moral philosopher, most influential proponent of animal welfare but is incorrectly called the father of animal rights even though he doesn't accept animal rights)</span>
+
+>“In the battle over animal rights, negotiations are breaking down and boundaries are being erased on both sides. Government and industry thugs unleash violence on activists, while groups such as the Animal Rights Militia, the Justice Department, the Hunt Retribution Squad, and the Revolutionary Cells openly advocate violence against animal abusers. More and more activists grow tired of adhering to a nonviolent code of ethics while violence from the enemy increases. Realizing that non-violence against animal exploiters in fact is a pro-violence stance that tolerates their blood spilling without taking adequate measures to stop it, a new breed of freedom fighters has ditched Gandhi for Machiavelli and switched principled nonviolence with the amoral (not to be confused with immoral) pragmatism that embraces animal liberation "by any means necessary."”
+
+>“We consider this a case of how nonviolence leads to violence when pacifists refuse to intervene when violence is occurring, as the capitalist speciesist butchers bash the brains and carve up the planet knowing their violence is protected by the shield of nonviolence practiced by opponents with dulled instincts and a slave mentality, opponents who throw down their weapons before entering into battle. The fundamentalist pacifist argument is an ideal pertinent to communities of saints but not to a society of human beings rooted in both a social and biological past riddled with violence, murder and genocide. Nonviolence should be the first option, but not the only option.”
+
+>“If Francione and Hall were next to a baby seal about to be clubbed to death and the only way they could stop it would be to physically intervene in some aggressive and violent way, or at least to grab and throw the weapon into the sea (an act that earned Paul Watson expulsion from Greenpeace, an organization he co-founded), would they do it? Or would they stand idly by and watch, perhaps making a moral argument for ahimsa or a plea to the sealer's inner goodness or moral conscience, as he drives the spiked club into the seal's head, grinning ear-to-ear while proceeding to strip the skin off its bloodied but still breathing body?”
+
+― <a href="https://en.wikipedia.org/wiki/Steven_Best" target="_blank">Steven Best</a><span style="color:Chartreuse">(Animal Rights Activist who believes that non-violence can't bring Animal Liberation. The majority of Animal Rights Activists believe in non-violence)</span>
+
 ><img src="{{site.baseurl}}/images/other/AbolitionistApproach.jpg" width="500"/>
 
 >“According to conservative estimates, 200 million land animals and 2 billion sea animals are killed "Every day* for food. Think about the scale of that violence. Think about the insidious way in which this numbs us to all violence.”

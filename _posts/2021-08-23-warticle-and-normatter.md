@@ -21,6 +21,8 @@ In 1924, Louis-Victor de Broglie hypothesised that all things which were conside
 
 After this, there are neither waves nor particles. All "matter" has both wave properties and particle properties a concept called as wave–particle duality. But physicists have continued using the word particles to describe things like electrons even though they all know that these are not particles. A better name in my opinion is "**warticle**" (a [portmanteau](https://en.wikipedia.org/wiki/Portmanteau) of wave and particle). If we mean warticle when we say particle then what word should we use to describe the classical particle? It is better to keep calling the classical particle as particle and rename the new one as warticle.
 
+Note: Some people call virtual particles as "varticles" which sounds exactly the same.
+
 ## Normatter
 Another similar problem is there for the word "matter". 
 1. Sometimes it is used to describe anything that contributes to the energy–momentum tensor. According to this definition, antimatter is also matter as it also has positive energy. Dark matter and Dark energy are also matter according to this definition.
