@@ -335,6 +335,19 @@ You can see the list of anime I watched on <a href="https://myanimelist.net/anim
 <a href="https://www.youtube.com/watch?v=fnQA-1qlgI4" target="_blank">The Nameless Monster</a><br>
 <a href="https://www.youtube.com/watch?v=olZAaf1_m5E" target="_blank">Legendary Battle Hiko Seijuro vs Fuji Japanese with english sub</a><br>
 <a href="https://www.youtube.com/watch?v=EEUGcVGNbXA" target="_blank">Lucy VS Nana - Elfen Lied</a><br>
+<a href="https://www.youtube.com/watch?v=IjEpzsRu0JY" target="_blank">D.Gray Man Sword of Exorcism</a><br>
+<a href="https://www.youtube.com/watch?v=FblflZllL94" target="_blank">Lenalee vs Level 3 Akuma/Devil</a><br>
+<a href="https://www.youtube.com/watch?v=CNeFbMb34jk" target="_blank">Lenalee Lee & Allen Walker vs Level 4 Akuma</a><br>
+<a href="https://www.youtube.com/watch?v=b3AkQ9yaBys" target="_blank">D. Gray Man Hallow - Allen Walker Fourteenth Noah reveals himself</a><br>
+<a href="https://www.youtube.com/watch?v=P09fV5FIJsw" target="_blank">Kafka's Secret Revealed </a><br>
+<a href="https://www.youtube.com/watch?v=CQkfs0FMpC8" target="_blank">Edens Zero: Shiki's death in 1st timeline</a><br>
+<a href="https://www.youtube.com/watch?v=SpaqNg-AHnU" target="_blank">Edens Zero: Shiki Goes OVERDRIVE</a><br>
+<a href="https://www.youtube.com/watch?v=7D8pUhr0mQ0" target="_blank">Akame vs Kurome</a><br>
+<a href="https://www.youtube.com/watch?v=Q7Eb_grGOVE" target="_blank">Akame vs Esdeath</a><br>
+<a href="https://www.youtube.com/watch?v=k8Z4nWHNH6o" target="_blank">Asta challenging fate after losing hands</a><br>
+<a href="https://www.youtube.com/watch?v=Y-wube3m2NE" target="_blank">Asta and Yuno vs Licht</a><br>
+<a href="https://www.youtube.com/watch?v=Cwk0bXiVRao" target="_blank">Asta, Yami and Yuno final attack against the devil</a><br>
+<a href="https://www.youtube.com/watch?v=lHJSdgKzED0" target="_blank">Yami asking his student Asta's help to defeat the strongest devil Lucifero</a><br>
 
 #### Recaps
 <a href="https://www.youtube.com/watch?v=hQagzXbyp9I" target="_blank">One Piece</a> or <a href="https://youtu.be/GxUxTtdkW2E" target="_blank">this</a><br>

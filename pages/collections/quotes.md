@@ -47,6 +47,8 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“**It from bit**. Otherwise put, every it — every particle, every field of force, even the space-time continuum itself — derives its function, its meaning, its very existence entirely — even if in some contexts indirectly — from the apparatus-elicited answers to yes-or-no questions, binary choices, bits. It from bit symbolizes the idea that every item of the physical world has at bottom — at a very deep bottom, in most instances — an immaterial source and explanation; that which we call reality arises in the last analysis from the posing of yes-no questions and the registering of equipment-evoked responses; in short, that **all things physical are information-theoretic in origin** and that this is a participatory universe.”[1990]
 
+>“Charge is a poor man's angular momentum.”
+
 ― <a href="https://en.wikipedia.org/wiki/John_Archibald_Wheeler" target="_blank">John Archibald Wheeler</a>
 
 >“There is a famous saying about quantization due to <a href="https://en.wikipedia.org/wiki/Edward_Nelson" target="_blank">Edward Nelson</a>: "First quantization is a mystery, but second quantization is a functor!" No one is a true mathematical physicist unless they can explain that remark. So, let me explain that remark!
@@ -144,6 +146,8 @@ These are some interesting quotes. I removed the quotes which are given as misat
 >“As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.”
 
 >“But the truth of a theory will never be proved. Because one can never know if, in the future, some experience will become known that would contradict its conclusion.”[1919]
+
+>“Since the mathematicians have invaded the theory of relativity, I do not understand it myself anymore.”
 
 >“How strange is the lot of us mortals! Each of us is here for a brief sojourn; for what purpose he knows not, though he sometimes thinks he senses it. But without deeper reflection one knows from daily life that one exists for other people — first of all for those upon whose smiles and well-being our own happiness is wholly dependent, and then for the many, unknown to us, to whose destinies we are bound by the ties of sympathy. **A hundred times every day I remind myself that my inner and outer life are based on the labors of other men, living and dead**, and that I must exert myself in order to give in the same measure as I have received and am still receiving...”
 
@@ -642,6 +646,9 @@ of radioactivity allowed physicists to explain how the Sun and Earth’s cores c
 
 >“Perhaps I may claim as evidence for progress in religion the fact that we no longer burn heretics.”
 
+>“Grassmann was an obscure high-school teacher in Stettin, while Hamilton was the world-famous mathematician whose official titles occupy six lines of print after his name (…). So it is regrettable, but not surprising, that quaternions were hailed as a great discovery, while Grassmann had to wait 23 years
+before his work received any recognition at all from professional mathematicians.”
+
 >“Einstein was not only skeptical, he was actively hostile, to the idea of black holes. He thought the black hole solution was a blemish to be removed from the theory by a better mathematical formulation, not a consequence to be tested by observation. He never expressed the slightest enthusiasm for black holes, either as a concept or a physical possibility.”
 
 ― <a href="https://en.wikipedia.org/wiki/Freeman_Dyson" target="_blank">Freeman Dyson</a>
@@ -792,6 +799,14 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores ***our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot***, the only home we've ever known.”
 
 ― <a href="https://en.wikipedia.org/wiki/Carl_Sagan" target="_blank">Carl Sagan</a>
+
+><img src="{{site.baseurl}}/images/other/HrvojeNikolic.png" width="400"/><br>
+
+― <a href="http://thphys.irb.hr/wiki/main/index.php/Hrvoje_Nikoli%C4%87" target="_blank">Hrvoje Nikolić</a> 
+
+><img src="{{site.baseurl}}/images/other/SympGeo.png" width="400"/><br>
+
+― <a href="https://webhome.phy.duke.edu/~jwp14/SympGeo.pdf" target="_blank">Josh Powell</a>
 
 ### Mathematicians
 
@@ -997,13 +1012,13 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://mathoverflow.net/users/4945/ellis-d-cooper" target="_blank">Ellis D Cooper</a>
 
->“It is a truth universally acknowledged that a closed differential form, in possession of an interpretation as a gauge field in a quantum field theory, must be in want of an integral refinement.”[<a href="https://arxiv.org/abs/2312.14338" target="_blank">2312.14338</a>]
-
-― <a href="https://adebray.github.io/" target="_blank">Arun Debray</a>
-
 >“In madness, I thought I was the most important person in the world.”
 
 ― <a href="https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr." target="_blank">John Forbes Nash Jr.</a>
+
+>“Classical terminology [in category theory] used these same words [covariant and contravariant], and it just happens to have reversed this: a vector field is called a contravariant vector field, while a section of T∗M is called a covariant vector field. And no one has had the gall or authority to reverse terminology so sanctified by years of usage. So it's very easy to remember which kind of vector field is covariant, and which contravariant - it's just the opposite of what it logically ought to be.” [A Comprehensive Introduction to Differential Geometry Page 113]
+
+― <a href="https://en.wikipedia.org/wiki/Michael_Spivak" target="_blank">Michael Spivak</a>
 
 >“What do physicists mean when they claim that the conformal group is infinite dimensional? The misunderstanding seems to be that physicists mostly think and calculate infinitesimally, while they write and talk globally. Many statements become clearer, if one replaces “group” with “Lie algebra” and “transformation” with “infinitesimal transformation” in the respective texts.
 >
@@ -1012,6 +1027,31 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >Another explanation for the claim that the conformal group is infinite dimensional can perhaps be given by looking at the Minkowski plane instead of the Euclidean plane. This is not the point of view in most papers on conformal field theory, but it fits in with the type of conformal invariance naturally appearing in string theory. Indeed, conformal symmetry was investigated in string theory, before the actual work on conformal field theory had been done. For the Minkowski plane, there is really an infinite dimensional conformal group, as we will show in the next section. The associated complexified Lie algebra is again essentially the Witt algebra (cf. Sect. 5.1).”
 
 ― <a href="https://en.wikipedia.org/wiki/Martin_Schottenloher" target="_blank">Martin Schottenloher</a>
+
+>“In the 1960s Friedrichs met Heisenberg, and used the occasion to express to him the deep gratitude of the community of mathematicians for having created quantum mechanics, which gave birth to the beautiful theory of operators in a Hilbert space. Heisenberg allowed that this was so; Friedrichs then added that the mathematicians have, in some measure, returned the favor. Heisenberg looked noncommittal, so Friedrichs pointed out that it was a mathematician, von Neumann, who clarified the difference between a selfadjoint operator and one is merely symmetric. "What's the difference," said Heisenberg.”
+
+― <a href="https://en.wikipedia.org/wiki/Peter_Lax" target="_blank">Peter Lax</a> (Functional Analysis book)
+
+>“Finally, let me note that this was a winner’s (or “whig”) history, full of hero-worship:
+following in the footsteps of Hilbert, von Neumann established the link between quantum
+theory and functional analysis that has lasted. Moreover, partly through von Neumann’s
+own contributions (which are on a par with those of Bohr, Einstein, and Schr¨odinger), the
+precision that functional analysis has brought to quantum theory has greatly benefited the
+foundational debate. However, it is simultaneously a loser’s history: starting with Dirac
+and continuing with Feynman, until the present day physicists have managed to bring
+quantum theory forward in utter (and, in my view, arrogant) disregard for the relevant
+mathematical literature. As such, functional analysis has so far failed to make any real
+contribution to quantum theory as a branch of physics (as opposed to mathematics), and
+in this respect its role seems to have been limited to something like classical music or other
+parts of human culture that adorn life but do not change the economy or save the planet.
+On the other hand, like General Relativity, perhaps the intellectual development reviewed
+in this paper is one of those human achievements that make the planet worth saving.”[<a href="https://arxiv.org/abs/1911.06630" target="_blank">1911.06630</a>]
+
+― <a href="https://www.math.ru.nl/~landsman/" target="_blank">Klaas Landsman</a>
+
+>“It is a truth universally acknowledged that a closed differential form, in possession of an interpretation as a gauge field in a quantum field theory, must be in want of an integral refinement.”[<a href="https://arxiv.org/abs/2312.14338" target="_blank">2312.14338</a>]
+
+― <a href="https://adebray.github.io/" target="_blank">Arun Debray</a>
 
 >“Mathematics is about the truths invariant under change of notation.”
 
@@ -1024,6 +1064,10 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“If Newton had known about such functions he would have never created calculus.” [On Weierstrass function]
 
 ― <a href="https://en.wikipedia.org/wiki/%C3%89mile_Picard" target="_blank">Émile Picard</a>
+
+>“These functions are an outrage against common sense, an arrogant distraction.” [On Weierstrass function]
+
+― <a href="https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9" target="_blank">Henri Poincaré</a>
 
 >“These functions are an outrage against common sense, an arrogant distraction.” [On Weierstrass function]
 
@@ -1663,6 +1707,8 @@ And share your pleasures with beggars.”
 
 >“Five score years ago, a great American, in whose symbolic shadow we stand, signed the <a href="https://en.wikipedia.org/wiki/Emancipation_Proclamation" target="_blank">Emancipation Proclamation</a>. This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice. It came as a joyous daybreak to end the long night of their captivity. But one hundred years later, we must face the tragic fact that the Negro still is not free. One hundred years later, the life of the Negro is still sadly crippled by the manacles of segregation and the chains of discrimination.”
 
+>“I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.”
+
 ― <a href="https://en.wikipedia.org/wiki/Martin_Luther_King_Jr." target="_blank">Martin Luther King Jr.</a>
 
 >“Men rarely (if ever) manage to dream up a god superior to themselves. **Most gods have the manners and morals of a spoiled child**.”
@@ -1732,6 +1778,10 @@ These are empirical claims, and although some may be hard to test, they must, li
 
 ― <a href="https://en.wikipedia.org/wiki/Thomas_Paine" target="_blank">Thomas Paine</a>
 
+>“You can find meanness in the least of creatures, but when God made man the devil was at his elbow. A creature that can do anything. Make a machine. And a machine to make the machine. And evil that can run itself a thousand years, no need to tend it.”
+
+― <a href="https://en.wikipedia.org/wiki/Blood_Meridian" target="_blank">Blood Meridian</a>
+
 >“If atheism is a "religion",...<br>
 then Not Collecting Stamps is a "hobby".<br>
 If atheism is a "religion", ...<br>
@@ -1739,7 +1789,7 @@ then Not Playing Football is a "sport".<br>
 If atheism is a "religion", ...<br>
 then 'OFF' is a "TV channel".”
 
-― <a href="https://www.youtube.com/@NonStampCollector" target="_blank">NonStampCollector</a> (see his video [The thing that made the things for which there is no known maker.](https://youtu.be/IVbnciQYMiM){:target="_blank"})
+― <a href="https://www.youtube.com/@NonStampCollector" target="_blank">NonStampCollector</a>[^NonStampCollector]
 
 >“Ctesias, the son of Ctesiochus, the Cnidian, wrote of the region of the Indians and the state of those countries, matters which he neither saw himself, nor ever heard come from the mouth of any man. Iambulus also wrote many strange miracles of the great sea, which all men knew to be lies and fictions, yet so composed that they want not their delight: and many others have made choice of the like argument, of which some have published their own travels and peregrinations, wherein they have described the greatness of beasts, the fierce condition of men, with their strange and uncouth manner of life: but the first father and founder of all this foolery was Homer's Ulysses, who tells a long tale to Alcinous of the servitude of the winds, and of wild men with one eye in their foreheads that fed upon raw flesh, of beasts with many heads, and the transformation of his friends by enchanted potions, all which he made the silly Phæakes believe for great sooth.
 >
@@ -2189,6 +2239,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 >“Power tends to corrupt, and absolute power corrupts absolutely. Great men are almost always bad men [...]”
 
 ― <a href="https://en.wikipedia.org/wiki/Acton%27s_dictum" target="_blank">Acton's dictum</a>
+
+>“All models are wrong, but some are useful.”
+
+― <a href="https://en.wikipedia.org/wiki/George_E._P._Box" target="_blank">George E. P. Box</a>
 
 >“Any sufficiently advanced benevolence may be indistinguishable from malevolence.”
 
@@ -2878,9 +2932,11 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 
 [^Weinberg]: You should believe when Weinberg says this. He is not a string theorist. He didn't devote his life to string theory. He has his own theory called <a href="https://en.wikipedia.org/wiki/Asymptotic_safety_in_quantum_gravity" target="_blank">asymptotic safety</a>. Yet he is telling string theory is the "only game in town". Compare this to <a href="https://www.math.columbia.edu/~woit/wordpress/" target="_blank">bloggers</a>/<a href="https://www.youtube.com/@SabineHossenfelder" target="_blank">social media influencers</a> who never studied string theory properly but spread their unfounded criticism.
 
-[^Weisskopf]: Weisskopf wrote this 1991. Weisskopf regretted that his insecurity about his mathematical abilities may have cost him a Nobel Prize when he did not publish results (which turned out to be correct) about what became known as the Lamb shift. Check [my Tweet post on Weisskopf & Pauli](https://x.com/IamSreeman/status/1869187780464537723){:target="_blank"}.
+[^Weisskopf]: Weisskopf wrote this 1991. Weisskopf regretted that his insecurity about his mathematical abilities may have cost him a Nobel Prize when he did not publish results (which turned out to be correct) about what became known as the Lamb shift. Check [my Tweet on Weisskopf & Pauli](https://x.com/IamSreeman/status/1869187780464537723){:target="_blank"}.
 
 [^Creation]: Rigveda is the oldest of the 4 Vedas & is the first Hindu scripture & was written in 1500 BCE. One can see that it has no precise creation myth & ponders if the question can even be known by the gods. Unfortunately, this healthy scepticism & curiosity is gone from later Hindu scriptures, which adopted different dogmatic creation myths that are believed today.
+
+[^NonStampCollector]: See his video [The thing that made the things for which there is no known maker](https://youtu.be/IVbnciQYMiM){:target="_blank"}. He is the second best atheist youtuber after [DarkMatter2525](https://www.youtube.com/user/DarkMatter2525){:target="_blank"}.
 
 [^Skepticism]: The first line from [The Problems of Philosophy](https://books.google.co.in/books?id=F3CABBiwm6wC&newbks=0&pg=PA9#v=onepage&q&f=false){:target="_blank"}. The answer is <span style="color:red">***most probably***</span> no. If I haven’t included <span style="color:red">***most probably***</span>, that sentence itself will become some knowledge.
 

@@ -232,7 +232,7 @@ Apart from the rampant speciesism, animal agriculture is also an institutionaliz
 <img src="{{site.baseurl}}/images/other/EggsPerYear.jpg" width="500"/>
 <img src="{{site.baseurl}}/images/other/ChickCulling.jpg" width="500"/>
 <br>
-
+<img src="{{site.baseurl}}/images/other/memes/v/13.jpg" width="300"/>
 
 >“I coined the term **feminized protein** for eggs and dairy products: plant protein **produced through the abuse of the reproductive cycle of female animals**. Feminized protein is taken from living female animals, whose reproductive capacity is manipulated for human needs. The unique situation of domesticated female animals required its own term: a ***sexual slavery*** with chickens in battery cages and dairy cows hooked up to milking machines. … The radical truth is that people can be perfectly happy as vegans, but the dominant culture can’t or won’t acknowledge this. …”
 
