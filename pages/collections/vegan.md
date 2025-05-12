@@ -178,6 +178,7 @@ See [wildanimalsuffering.org](https://wildanimalsuffering.org/){:target="_blank"
 
 <img src="{{site.baseurl}}/images/other/MilkHealth1.png" width="500"/>
 <img src="{{site.baseurl}}/images/other/MilkHealth2.png" width="500"/><br>
+<img src="{{site.baseurl}}/images/other/PlantMilkNutrition.png" width="500"/><br>
 
 ##### World hunger
 - “One in nine people in the world today are undernourished, yet we feed around a third of our global crop production to animals. If we cut out the middleman and ate the crops ourselves, instead of feeding them to animals, we could feed an additional four billion people – more than enough for everyone, for many years to come! We all know how wasteful old gas-guzzling cars are – how long before livestock farming is viewed in the same way: As a shameful, inefficient waste of resources.” [Source](https://viva.org.uk/planet/the-issues/world-hunger/){:target="_blank"}
@@ -232,6 +233,8 @@ Apart from the rampant speciesism, animal agriculture is also an institutionaliz
 <img src="{{site.baseurl}}/images/other/EggsPerYear.jpg" width="500"/>
 <img src="{{site.baseurl}}/images/other/ChickCulling.jpg" width="500"/>
 <br>
+<img src="{{site.baseurl}}/images/other/Grape.png" width="500"/>
+<br>
 <img src="{{site.baseurl}}/images/other/memes/v/13.jpg" width="300"/>
 
 >“I coined the term **feminized protein** for eggs and dairy products: plant protein **produced through the abuse of the reproductive cycle of female animals**. Feminized protein is taken from living female animals, whose reproductive capacity is manipulated for human needs. The unique situation of domesticated female animals required its own term: a ***sexual slavery*** with chickens in battery cages and dairy cows hooked up to milking machines. … The radical truth is that people can be perfectly happy as vegans, but the dominant culture can’t or won’t acknowledge this. …”
@@ -277,6 +280,7 @@ For women, the consumption of dairy products causes early puberty. The first men
 ##### Nutrition
 - [Nutritionfacts.org](https://nutritionfacts.org/){:target="_blank"}
 - [Mic the Vegan](https://www.youtube.com/c/MictheVegan){:target="_blank"}
+- [Viva Longevity](https://www.youtube.com/@Viva-Longevity){:target="_blank"}
 - [Veganhealth.org](https://veganhealth.org/){:target="_blank"} (somewhat pessimistic view but still as evidence packed as the above 2 links)
 - [Veganfitness.com](https://veganfitness.com/){:target="_blank"}
 - [Vegan society](https://www.vegansociety.com/resources/nutrition-and-health){:target="_blank"}

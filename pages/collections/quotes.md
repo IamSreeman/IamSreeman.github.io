@@ -198,6 +198,8 @@ Please remember me kindly to your daughter.[^NehruEinstein]
 
 >“I can calculate the motions of the heavenly bodies, but not the madness of the people.”
 
+>“That one body may act upon another at a distance through a vacuum without the mediation of anything else, by and through which their action and force may be conveyed from one another, is to me so great an absurdity that, I believe, no man who has in philosophic matters a competent faculty of thinking could ever fall into it.”
+
 >“I do not love to be dunned [pestered] and teased by foreigners about mathematical things...” [This was the reason why he sent his solution to the [Brachistochrone problem](https://en.wikipedia.org/wiki/Brachistochrone_curve){:target="_blank"} anonymously.]
 
 >“I have studied these things — you have not.”[^NewtonAtheism]
@@ -219,6 +221,12 @@ Please remember me kindly to your daughter.[^NehruEinstein]
 >“There was difficulty reconciling the Newtonian theory of gravitation with its instantaneous propagation of forces with the requirements of special relativity; and Einstein working on this difficulty was led to a generalization of his relativity—which was probably the greatest scientific discovery that was ever made.”
 
 >“The underlying physical laws necessary for the mathematical theory of a large part of physics and the whole of chemistry are thus completely known, and the difficulty is only that the exact application of these laws leads to equations much too complicated to be soluble. It therefore becomes desirable that approximate practical methods of applying quantum mechanics should be developed, which can lead to an explanation of the main features of complex atomic systems without too much computation.”
+
+>“Schrodinger got this equation by pure thought, looking for some beautiful generalization of De Broglie's ideas, and not by keeping close to the experimental development of the subject in the way Heisenberg did.
+>
+>I might tell you the story I heard from Schrodinger of how, when he first got the idea for this equation, he immediately applied it to the behavior of the electron in the hydrogen atom, and then he got results that did not agree with experiment. The disagreement arose because at that time it was not known that the electron has a spin. That, of course, was a great disappointment to Schrodinger, and it caused him to abandon the work for some months. Then he noticed that if he applied the theory in a more approximate way, not taking into ac­ count the refinements required by relativity, to this rough approximation his work was in agreement with observation. He published his first paper with only this rough approximation, and in that way Schrodinger's wave equation was presented to the world. Afterward, of course, when people found out how to take into account correctly the spin of the electron, the discrepancy between the results of applying Schrodinger's relativistic equation and the experiments was completely cleared up.
+>
+>I think there is a moral to this story, namely that it is more important to have beauty in one's equations than to have them fit experiment.”
 
 >“It seems that if one is working from the point of view of getting beauty in one's equations, and if one has really a sound insight, one is on a sure line of progress.”
 
@@ -681,7 +689,7 @@ before his work received any recognition at all from professional mathematicians
 
 >“The behavior of large and complex aggregates of elementary particles, it turns out, is not to be understood in terms of a simple extrapolation of a few particles. Instead, at each level of complexity entirely new properties appear, and the understanding of the new behaviors requires research which I think is as fundamental in its nature as any other.”
 
->“Of course I am not religious—I don’t in fact see how any scientist who thinks at all deeply can be so ...”
+>“Of course I am not religious—I don’t in fact see how any scientist who thinks at all deeply can be so. We atheists can . . . argue that, with the modern revolution in attitudes toward homosexuals, we have become the only group that may not reveal itself in normal social discourse.”
 
 ― <a href="https://en.wikipedia.org/wiki/Philip_W._Anderson" target="_blank">Philip W. Anderson</a>
 
@@ -2369,6 +2377,12 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 >“The ignorance, carelessness, and brutality are not only in the rough-handed slaughtermen, **but in the polite ladies and gentlemen whose dietetic habits render the slaughtermen necessary**.”
 
+>“It is quite true that most—not all—Food Reformers admit into their diet such animal food as milk, butter, cheese, and eggs, and, therefore, the term “Vegetarian,” as applied to these, is not an accurate one; but it is quite a mistake to imagine that this misleading title is coveted or purposely retained by the Vegetarians themselves. On the contrary, the desirability of finding a more suitable name has again and again been discussed in the pages of the Dietetic Reformer ; and there has been no attempt whatever on the part of the Vegetarian Society, or its members, to claim the merit of a purely vegetable diet. But the fact is, that the word “Vegetarian,” in its general application to those who abstain from flesh, has long become too firmly ﬁxed in the language to admit of any sudden limitation or restriction. It is the most difficult thing in the world to alter a word which has once become nationalised in a particular sense; and the reason why Food Reformers are still called “Vegetarians” is simply that nobody has yet been able to suggest any title which would have the least chance of ousting the more popular term. “I feel sure,” says Sir Henry Thompson, “that my friends ‘the Vegetarians,’ living on a mixed diet, will see the necessity of seeking a more appropriate designation to distinguish them ; if not, we must endeavour to invent one for them.” If Sir Henry Thompson will make this endeavour, all Vegetarians will be sincerely grateful to him ; at present the only alternative title seems to be the word “Akreophagist,” which is hardly likely to take permanent root in the English language.
+>
+>.....
+>
+>However, as Sir Henry Thompson has thought ﬁt to challenge our position on this question of the use of eggs and dairy produce, it may be well to consider it more fully. It is quite a mistake to suppose, as he seems to imply, that Food Reformers use eggs and milk very largely as a substitute for flesh ; on the contrary, I believe that most of us use them sparingly and in moderation, believing, as Sir Henry Thompson himself remarks, that “for us who have long ago achieved our full growth, and can thrive on solid fare, milk is altogether superﬂuous and mostly mischievous as a drink.” Milk, as it has been well said, is “an excellent thing—for calves ;” and Food Reformers, for the most part, being well aware of this, are careful not to use dairy produce in the quantity mentioned by Sir Henry Thompson. But why, it may be asked, do they not renounce eggs and milk altogether, and thus establish an unequivocal claim to the title of Vegetarian ? To this it must be answered that the immediate object which Food Reformers aim at is not so much the disuse of animal substances in general, as the abolition of ﬂesh-meat in particular ; and that if they can drive their opponents to make the very important admission that actual flesh-food is unnecessary, they can afford to smile at the trivial retort that animal substance is still used in eggs and milk. It is not the mere name of “animal” food they are afraid of, but they consider the use of butcher’s meat at once unpleasant and degrading. though, as such strong objections cannot be urged against dairy produce, many who abstain from beef and mutton continue to use eggs, milk, cheese, and butter. There is, of course, the additional reason that it is hard all at once to make the complete change to a strictly vegetarian diet, and many Food Reformers are glad to use eggs and milk as being at present cheap and plentiful, and as affording a modus vivendi to those who might otherwise be entirely cut off by dietetic differences from the society of their friends, though, at the same time, they are well aware that even dairy produce is quite unnecessary and superﬂuous, and will doubtlessly be dispensed with altogether under a more natural system of diet. In the meantime, however, one step is sufficient. Let us ﬁrst recognise the fact that the institution of the slaughter-house, with all its attendant horrors, is one that might easily be <span style="color:red">abolished</span>; that point gained, the question of the total disuse of all animal products is one that will easily be decided hereafter.” [[Source](https://en.wikisource.org/wiki/A_Plea_for_Vegetarianism_and_Other_Essays/Chapter_6){:target="_blank"}]
+
 >“Before passing on, I will merely add this, that in some ways the **evils attendant on slaughtering grow worse, and not better**, as civilisation advances, because of the more complex conditions of town life, and the increasingly long journeys to which animals are subjected in their transit from the grazier to the slaughterman.”[^Salt][1897]
 
 ― <a href="https://en.wikipedia.org/wiki/Henry_Stephens_Salt" target="_blank">Henry Stephens Salt</a><span style="color:Chartreuse">( "father of animal rights", campaigner for social reform in the fields of prisons, schools, economic institutions, and the treatment of animals. Introduced Mohandas Gandhi to the influential works on animal rights)</span>
@@ -2460,6 +2474,16 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >“I don't hold animals superior or even equal to humans. The whole case for behaving decently to animals rests on the fact that we are the superior species. We are the species uniquely capable of imagination, rationality and moral choice – and that is precisely why we are under the **obligation** to recognise and respect the rights of animals.”
 
 ― <a href="https://en.wikipedia.org/wiki/Brigid_Brophy" target="_blank">Brigid Brophy</a><span style="color:Chartreuse">(writer and animal rights activist)</span>
+
+>“Our society views non human animals as so inferior that people actually get offended when someone stands up for them.”
+
+― <a href="https://www.instagram.com/soul_eubanks/" target="_blank">Soul Eubanks</a><span style="color:Chartreuse">(Vegan Activist)</span>
+
+>“It’s troubling when people get upset with vegans for pointing out the suffering, rather than getting upset with themselves for causing it.”
+
+>“The real struggle in being vegan doesn’t involve food. The hardest part about being vegan is coming face-to-face with the darker side of humanity and trying to remain hopeful. It’s trying to understand why otherwise good and caring people continue to participate in needless violence against animals for the sake of their own pleasure or convenience.”
+
+― <a href="https://www.youtube.com/@JoTyler615" target="_blank">Jo Tyler</a><span style="color:Chartreuse">(Musician)</span>
 
 >“Obviously, the health benefits of being vegan are written in stone but I honestly believe the most benefit to me being vegan is that **I do not carry the burden of guilt** that I would have to endure knowing that I abused others for my own 'benefit'. … Veganism is everything to me. It touches every part of my life. It is my life. I could not begin to imagine living my life any other way. … Often people think we are weak in body and mind. They mistake our compassion for weakness. … My strengths as an athlete are that I am not an athlete for myself. I am doing it for the benefit of others, which makes me work much harder to achieve. I am not selfish enough to want something this badly for myself. It makes me push myself that bit harder knowing that by doing well I can possibly convince others to consider a vegan lifestyle.”
 

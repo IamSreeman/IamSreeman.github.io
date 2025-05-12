@@ -17,8 +17,7 @@ I will argue that the miracles claimed as evidence by many religions are too ins
 
 ## Introduction
 
-My [previous argument](https://ksr.onl/blog/2021/07/the-incompetent-transmission-of-religious-scriptures-by-supposed-gods.html){:target="_blank"} only works for theistic religions. But this argument works for even nontheistic religions like Buddhism and Jainism.
-<!--more-->
+My [previous argument](https://ksr.onl/blog/2021/07/the-incompetent-transmission-of-religious-scriptures-by-supposed-gods.html){:target="_blank"} only works for theistic religions. But this argument works for even nontheistic religions like Buddhism and Jainism.<!--more-->
 
 >“No testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that **its falsehood would be more miraculous**, than the fact which it endeavours to establish.”
 
