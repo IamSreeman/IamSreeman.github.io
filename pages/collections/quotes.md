@@ -448,6 +448,8 @@ of radioactivity allowed physicists to explain how the Sun and Earth’s cores c
 
 >“Just to give you an idea of how the theory has been put through the wringer, I’ll give you some recent numbers: experiments have Dirac’s number at 1.00115965221 (with an uncertainty of about 4 in the last digit); the theory puts it at 1.001 15965246 (with an uncertainty of about five times as much). To give you a feeling for the accuracy of these numbers, it comes out something like this: If you were to measure the distance from Los Angeles to New York to this accuracy, it would be exact to the thickness of a human hair. That’s how delicately quantum electrodynamics has, in the past fifty years, been checked—both theoretically and experimentally.”
 
+>“You see, one thing is, I can live with doubt, and uncertainty, and not knowing. I think it’s much more interesting to live, not knowing, than to have answers which might be wrong.”
+
 >“But so far, we have found nothing wrong with the theory of quantum electrodynamics. It is, therefore, I would say, the jewel of physics—our proudest possession.”
 
 >“If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would contain the most information in the fewest words? I believe it is the atomic hypothesis (or atomic fact, or whatever you wish to call it) that all things are made of atoms...”
@@ -864,6 +866,12 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ― <a href="https://en.wikipedia.org/wiki/Andrew_Wiles" target="_blank">Andrew Wiles</a>
 
+>“I have discovered a truly remarkable proof of this theorem which this margin is too small to contain.”
+
+>“The result of my work has been the most extraordinary, the most unforeseen, and the happiest, that ever was; for, after having performed all the equations, multiplications, antitheses, and other operations of my method, and having finally finished the problem, I have found that my principle gives exactly and precisely the same proportion for the refractions which Monsieur Descartes has established.”
+
+― <a href="https://en.wikipedia.org/wiki/Pierre_de_Fermat" target="_blank">Pierre de Fermat</a>
+
 >“Every mathematician worthy of the name has experienced, if only rarely, the state of lucid exaltation in which one thought succeeds another as if miraculously, and in which the unconscious (however one interprets this word) seems to play a role. In a famous passage, Poincaré describes how he discovered Fuchsian functions in such a moment. About such states, Gauss is said to have remarked as follows: "Procreare jucundum (to conceive is a pleasure)"; he added, however, "sed parturire molestum (but to give birth is painful)." **Unlike sexual pleasure, this feeling may last for hours at a time, even for days. Once you have experienced it, you are eager to repeat it but unable to do so at will**, unless perhaps by dogged work which it seems to reward with its appearance. It is true that the pleasure experienced is not necessarily in proportion with the value of the discoveries with which it is associated.”
 
 >“First rank scientists recruit first rank scientists, but second rank scientists tend to recruit third rank scientists, third rank scientists recruit fifth rank, and so on.”
@@ -1184,13 +1192,21 @@ He indeed knows, if not, no one knows”[^Creation]
 
 >“In view of the fact that in any future world war nuclear weapons will certainly be employed, and that such weapons threaten the continued existence of mankind, we urge the governments of the world to realize, and to acknowledge publicly, that their purpose cannot be furthered by a world war, and we urge them, consequently, to find peaceful means for the settlement of all matters of dispute between them.” (<a href="https://en.wikipedia.org/wiki/Russell%E2%80%93Einstein_Manifesto" target="_blank">Russell–Einstein Manifesto</a>)
 
+>“Patriots always talk of dying for their country and never of killing for their country.”
+
+>“A much more desirable way of securing world peace would be by a voluntary agreement among nations to pool their armed forces and submit to an **agreed single supreme world government**.”
+
+>“Democracy has at least one merit, namely that a Member of Parliament cannot be stupider than his constituents, for the more stupid he is, the more stupid they were to elect him.”
+
+>“Our great democracies still tend to think that a stupid man is more likely to be honest than a clever man, and our politicians take advantage of this prejudice by pretending to be even more stupid than nature made them.”
+
+>Have no respect for the authority of others, for there are always contrary authorities to be found.”
+
 >“I like mathematics because it is not human and has nothing particular to do with this planet or with the whole accidental universe – because, like Spinoza's God, it won't love us in return.”
 
 >“One of the painful things about our time is that those who feel certainty are stupid, and those with any imagination and understanding are filled with doubt and indecision.”
 
 >“Among present-day religions Buddhism is the best. The doctrines of Buddhism are profound; they are almost reasonable, and historically they have been the least harmful and the least cruel. But I cannot say that Buddhism is positively good, nor would I wish to have it spread all over the world and believed by everyone. This is because Buddhism only focuses on the question of what Man is, not on what the universe is like. **Buddhism does not really pursue the truth**; it **appeals to sentiment** and, ultimately, tries to persuade people to believe in doctrines which are based on subjective assumptions not objective evidence.” 
-
->“A much more desirable way of securing world peace would be by a voluntary agreement among nations to pool their armed forces and submit to an **agreed single supreme world government**.”
 
 >“We have had in recent years a brilliant example of the **scientific temper** of mind in the theory of relativity and its reception by the world. Einstein, a German-Swiss-Jew pacifist, was appointed to a research professorship by the German Government in the early days of the War; his predictions were verified by an English expedition which observed the eclipse of 1919, very soon after the Armistice. His theory upsets the whole theoretical framework of traditional physics; it is almost as damaging to orthodox dynamics [Newtonian physics] as Darwin was to Genesis. Yet physicists everywhere have shown complete readiness to accept his theory as soon as it appeared that the evidence was in its favour. But none of them, least of all Einstein himself, would claim that he has said the last word. He has not built a monument of infallible dogma to stand for all time. There are difficulties he cannot solve; his doctrines will have to be modified in their turn as they have modified Newton's. This critical undogmatic receptiveness is the true attitude of science.”
 
@@ -1502,6 +1518,18 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/Jiddu_Krishnamurti" target="_blank">Jiddu Krishnamurti</a>
 
+>“People call me an enlightened man — I detest that term — they can't find any other word to describe the way I am functioning. At the same time, I point out that there is no such thing as enlightenment at all. I say that because all my life I've searched and wanted to be an enlightened man, and I discovered that there is no such thing as enlightenment at all, and so the question whether a particular person is enlightened or not doesn't arise. I don't give a hoot for a sixth-century-BC Buddha, let alone all the other claimants we have in our midst. They are a bunch of exploiters, thriving on the gullibility of the people. There is no power outside of man. Man has created God out of fear. So the problem is fear and not God.
+>
+>I discovered for myself and by myself that there is no self to realize. That's the realization I am talking about. It comes as a shattering blow. It hits you like a thunderbolt. You have invested everything in one basket, self-realization, and, in the end, suddenly you discover that there is no self to discover, no self to realize.”
+
+>“We are not created for any grander purpose than the ants that are there or the flies that are hovering around us or the mosquitoes that are sucking our blood.”
+
+>“The so-called "civilized" man kills for ideals and beliefs, while the animals kill only for survival.”
+
+>“I have assumed that the goal, enlightenment, exists. I have had to search and it is the search itself which has been choking me and keeping me out of my natural state. There is no such thing as spiritual or psychological enlightenment because there is no such thing as spirit or psyche. I have been a damn fool all my life, searching for something which does not exist. My search is at an end.”
+
+― <a href="https://en.wikipedia.org/wiki/U._G._Krishnamurti" target="_blank">U. G. Krishnamurti</a>
+
 >“If God existed, only in one way could he serve human liberty — by ceasing to exist.”
 
 >“The first revolt is against the **supreme tyranny of theology**, of the phantom of God. As long as we have a master in heaven, we will be slaves on earth.”
@@ -1591,6 +1619,10 @@ And share your pleasures with beggars.”
 >“You can’t help people that don’t want to be helped.”
 
 ― <a href="https://en.wikipedia.org/wiki/John_Armstrong_(British_writer/philosopher)" target="_blank">John Armstrong</a>
+
+>“Being asked to die for the nation state is "like being asked to die for the telephone company."”
+
+― <a href="https://en.wikipedia.org/wiki/Alasdair_MacIntyre" target="_blank">Alasdair MacIntyre</a>
 
 >“Two monks were arguing about a flag. One said: "The flag is moving."
 >
@@ -1805,6 +1837,12 @@ then 'OFF' is a "TV channel".”
 matters which I neither saw nor suffered, nor heard by report from others, which are in no being, nor possible ever to have a beginning***. Let no man therefore in any case give any credit to them.”[^Fiction]
 
 ― <a href="https://en.wikipedia.org/wiki/Lucian" target="_blank">Lucian of Samosata</a>
+
+>“Just to be clear, I'm not a professional 'quote maker'. I'm just an atheist teenager who greatly values his intelligence and scientific fact over any silly fiction book written 3,500 years ago. This being said, I am open to any and all criticism.
+>
+>'In this moment, I am euphoric. Not because of any phony god's blessing. But because, I am enlightened by my intelligence.'”
+
+― <a href="https://knowyourmeme.com/memes/in-this-moment-i-am-euphoric" target="_blank">Aalewis</a> (cringe & funny)
 
 >“You cannot insult a man more atrociously than by refusing to believe he is suffering.”
 
@@ -2705,6 +2743,10 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 ― <a href="https://dragonball.fandom.com/wiki/Goku" target="_blank">Goku</a>
 
+>“You are better than me Kakarot, you are the best.” [<a href="https://www.youtube.com/watch?v=QbTZ5wFZ6ZE&t=190s" target="_blank">YouTube</a>]
+
+― <a href="https://dragonball.fandom.com/wiki/Vegeta" target="_blank">Vegeta</a>
+
 ><img src="{{site.baseurl}}/images/other/Kind.jpg" alt="Kind" width="400"/><br>[Vagabond chapter 224]
 
 ><img src="{{site.baseurl}}/images/other/Vagabond1.jpg" alt="Vagabond1" width="400"/><br>
@@ -2787,6 +2829,14 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >“Before I’d have all kinds of emotions boiling inside me when I fought. Dread. Panic. But now all I need is one punch to end it. Every day I come home uninjured and wash my gloves. Whenever I’m out fighting monsters, I never feel like my heart’s really in it anymore.”
 
 ― <a href="https://onepunchman.fandom.com/wiki/Saitama" target="_blank">Saitama</a>
+
+>“Your drill is the drill that will pierce the heavens!”
+
+>“Don't believe in yourself! Believe in me! Believe in the Kamina who believes in you!”
+
+>“Who the hell do you think I am?”
+
+― <a href="https://gurrenlagann.fandom.com/wiki/Kamina" target="_blank">Kamina</a>
 
 >“I am crying. I'm not sad that I'm dying. I am finally sad that my child died. You can’t just erase people’s feelings. It’s as if my emotions just wandered around in an unknown place somewhere hundreds of miles away. It’s as if they were sent long ago, in a letter that was always intended for me. **So this is what true sadness feels like. It feels a lot like...happiness**.”
 

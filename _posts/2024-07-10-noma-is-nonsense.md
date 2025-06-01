@@ -115,6 +115,14 @@ There is another deeper reason why it is hard to believe in religion if you beli
 
 ― <a href="https://en.wikipedia.org/wiki/Paul_Dirac" target="_blank">P.A.M Dirac</a>
 
+<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Religions get trillions for lying about the question for which string theory is trying: <a href="https://t.co/zO042uTwJw">https://t.co/zO042uTwJw</a>. Hindu temples have gold worth $2 trillion. Christianity and Islam are even richer. Humans should stop wasting money on religions &amp; put that into a particle…</p>&mdash; Sreeman Reddy Kasireddy 🐓🐄🐟🦐≮🐕🐈 (@IamSreeman) <a href="https://twitter.com/IamSreeman/status/1887153771198796014?ref_src=twsrc%5Etfw">February 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">From the money saved from these 3, we can do important things: 1) Wild animal suffering: <a href="https://t.co/DNd6M7d15k">https://t.co/DNd6M7d15k</a> &amp; <a href="https://twitter.com/herbivoryze?ref_src=twsrc%5Etfw">@herbivoryze</a>, 2) Particle accelerators for quantum gravity experiments, 3) Mind uploading research so humans can become an immortal species.</p>&mdash; Sreeman Reddy Kasireddy 🐓🐄🐟🦐≮🐕🐈 (@IamSreeman) <a href="https://twitter.com/IamSreeman/status/1921188477732794721?ref_src=twsrc%5Etfw">May 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Unfortunately, religions that merely lie about the universe's origin get trillions of dollars per year, but quantum gravity research gets much less funding. In reality, all the money that religion is stealing by lying should rightfully go to build a particle accelerator to probe quantum gravity.
+
+It does not matter how many trillions it will cost; humans must understand quantum gravity by building a big particle accelerator. It will be the end of the millennium-long quest to understand the origin of the universe, which began with religions, and will end with understanding quantum gravity.
+
 ### Philosophy (Ethics)
 
 There is a lesser-known conflict between religion and philosophy. The conflict is more severe with the subfield of ethics.

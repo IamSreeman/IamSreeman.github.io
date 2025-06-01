@@ -4,6 +4,8 @@ date:   2021-07-11 06:47:00 +0000
 subheadline: ""
 category: non-physics
 tags:   [Atheism,Epistemology]
+image:
+    thumb: 2021-07-11-thumb.png
 script:
   foot: bookmarklet.js
 ---
