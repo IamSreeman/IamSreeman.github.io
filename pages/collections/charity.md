@@ -7,14 +7,18 @@ breadcrumbs: true
 ---
 This page contains donations I made to charities.
 
-The purpose of this page is to show that I am trying to abide by my moral obligations. Ever since I first read the "[drowning child](https://www.philosophyexperiments.com/singer/){:target="_blank"}" thought experiment by Peter Singer during the COVID lockdown, I understood that donating money beyond our basic necessities is a **moral obligation** and not an optional good we can do.
-
 [PhD years](#phd-years)<br>
 [Masters years](#masters)<br>
 [Undergrad years](#undergrad)<br>
 [Recommendations](#recommendations)<br>
+
+Ever since I first read the "[drowning child](https://www.philosophyexperiments.com/singer/){:target="_blank"}" thought experiment by Peter Singer during the COVID lockdown, I understood that donating money after our basic necessities are met is a **moral obligation** and not a mere optional good we can do & this obligation is irrelevant to any emotional proximity such as if it happens in front of you or other side of the world.
+
+I generally dislike Peter Singer, as he is the main theoretical leader of Animal Welfarists, with the practical arm being the organization PETA. I only support Abolitionist Animal Rights Activists. Welfarists give humane killing equipment, which is as misguided as giving humane whips to 19th-century Confederate enslavers.
+
 ##### PhD years
 
+Even in my PhD I am not donating as much as I would have wanted to because of my masters education loan which is huge.
 
 ##### Masters
 

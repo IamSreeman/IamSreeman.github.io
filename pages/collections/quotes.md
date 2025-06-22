@@ -572,15 +572,15 @@ of radioactivity allowed physicists to explain how the Sun and Earth’s cores c
 
 >“To me, it's implausible that humans stumbled by accident on such an incredible structure that sheds so much light on established physical theories, and also on so many different branches of mathematics, and that it's all an accident and it has nothing to do with real world.”
 
->“I don't think that any physicist would have been clever enough to have invented string theory on purpose... Luckily, it was invented by accident.”
-
 >“String theory is extremely attractive because gravity is forced upon us. All known consistent string theories include gravity, so while gravity is impossible in quantum field theory as we have known it, it is obligatory in string theory.”
-
->“It's been said that string theory is part of the physics of the twenty-first century that fell by chance into the twentieth century. That's a remark that was made by a leading physicist about fifteen years ago. ...String theory was invented essentially by accident in a long series of events, starting with the Veneziano model... No one invented it on purpose, it was invented in a lucky accident. ...By rights, string theory shouldn't have been invented until our knowledge of some of the areas that are prerequisite... had developed to the point that it was possible for us to have the right concept of what it is all about.”
 
 >“Generally speaking, all the really great ideas of physics are really spin-offs of string theory... Some of them were discovered first, but I consider that a mere accident of the development on planet earth. On planet earth, they were discovered in this order [general relativity, quantum field theory, superstrings, and supersymmetry]... But I don't believe, if there are many civilizations in the universe, that those four ideas were discovered in that order in each civilization.”
 
 >“If one wants to summarize our knowledge of physics in the briefest possible terms, there are three really fundamental observations: (i) Space-time is a pseudo-Riemannian manifold $M$, endowed with a metric tensor and governed by geometrical laws. (ii) Over $M$ is a vector bundle $X$ with a nonabelian gauge group $G$. (iii) Fermions are sections of $(\hat{S}\_{+}\otimes V\_R) \oplus(\hat{S}\_{-}\otimes V\_{\tilde{R}})$. $R$ and $\tilde{R}$ are not isomorphic; their failure to be isomorphic explains why the light fermions are light and presumably has its origins in a representation difference $\Delta$ in some underlying theory. All of this must be supplemented with the understanding that the geometrical laws obeyed by the metric tensor, the gauge fields, and the fermions are to be interpreted in quantum mechanical terms.”
+
+>“I don't think that any physicist would have been clever enough to have invented string theory on purpose... Luckily, it was invented by accident.”
+
+>“It's been said that string theory is part of the physics of the twenty-first century that fell by chance into the twentieth century. That's a remark that was made by a leading physicist about fifteen years ago. ...String theory was invented essentially by accident in a long series of events, starting with the Veneziano model... No one invented it on purpose, it was invented in a lucky accident. ...By rights, string theory shouldn't have been invented until our knowledge of some of the areas that are prerequisite... had developed to the point that it was possible for us to have the right concept of what it is all about.”
 
 ― <a href="https://en.wikipedia.org/wiki/Edward_Witten" target="_blank">Edward Witten</a>
 
@@ -662,6 +662,10 @@ before his work received any recognition at all from professional mathematicians
 >“Einstein was not only skeptical, he was actively hostile, to the idea of black holes. He thought the black hole solution was a blemish to be removed from the theory by a better mathematical formulation, not a consequence to be tested by observation. He never expressed the slightest enthusiasm for black holes, either as a concept or a physical possibility.”
 
 ― <a href="https://en.wikipedia.org/wiki/Freeman_Dyson" target="_blank">Freeman Dyson</a>
+
+>“After about a month of work [at General Atomic Corp] I was ordered to write up my results, as a result of which I swore to myself that I would choose a subject for research where it would take at least five years before I had anything worth writing about. Elementary particle theory seemed to offer the best prospects of meeting this criterion.”
+
+― <a href="https://en.wikipedia.org/wiki/Kenneth_G._Wilson" target="_blank">Kenneth G. Wilson</a>
 
 >“I must have been 8 or 9 when my father, a man of letters but well-read in every discipline and with a curious mind, told me this story: “A great scientist named Albert Einstein discovered that any object with a mass can't travel faster than the speed of light”. To my bewilderment I replied, boldly: “This can't be true, if I run almost at that speed and then accelerate a little, surely I will run faster than light, right?” My father was adamant: “No, it's impossible to do what you say, it's a known physics fact”. After a while I added: “That bloke, Einstein, must've checked this thing many times … how do you say, he did many experiments?” The answer I got was utterly unexpected: “Not even one I believe. He used maths!”
 >
@@ -820,7 +824,7 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 
 ### Mathematicians
 
->“The physicists want to do path integrals, that is, they want to integrate some "Action Man functional" over the space of all paths or loops $\gamma:[0,1] \rightarrow Y$. This impossibly large integral is one of the major schisms between math and fizz. The physicists learn a number of computations in finite terms that approximate their path integrals, and when sufficiently skilled and imaginative, can use these to derive marvellous consequences; whereas the mathematicians give up on making sense of the space of paths, and not infrequently derive satisfaction or a misplaced sense of superiority from pointing out that the physicists' calculations can equally well be used (or abused!) to prove $0=1$. **Maybe it's time some of us also evolved some skill and imagination**. The motivic integration treated in the next section builds a miniature model of the physicists' path integral, by restricting first to germs of holomorphic paths $\gamma: U \rightarrow Y$, where $0 \in U \subset \mathbb{C}$ is a neighbourhood of 0 , then to formal power series $\gamma: \operatorname{Spec} \mathbb{C} [\\![z]\\!]\rightarrow Y$.” [<a href="https://homepages.warwick.ac.uk/~masda/McKay/Bour/Bour.pdf" target="_blank">Source</a>]
+>“The physicists want to do path integrals, that is, they want to integrate some "Action Man functional" over the space of all paths or loops $\gamma:[0,1] \rightarrow Y$. This impossibly large integral is one of the major schisms between math and fizz. The physicists learn a number of computations in finite terms that approximate their path integrals, and when sufficiently skilled and imaginative, can use these to derive marvellous consequences; whereas the mathematicians give up on making sense of the space of paths, and not infrequently derive satisfaction or a misplaced sense of superiority from pointing out that the physicists' calculations can equally well be used (or abused!) to prove $0=1$. **Maybe it's time some of us also evolved some skill and imagination**. The motivic integration treated in the next section builds a miniature model of the physicists' path integral, by restricting first to germs of holomorphic paths $\gamma: U \rightarrow Y$, where $0 \in U \subset \mathbb{C}$ is a neighbourhood of 0 , then to formal power series $\gamma: \operatorname{Spec} \mathbb{C} [\\![z]\\!]\rightarrow Y$.” [<a href="https://arxiv.org/abs/math/9911165" target="_blank">Source</a>]
 
 ― <a href="https://en.wikipedia.org/wiki/Miles_Reid" target="_blank">Miles Reid</a>
 
@@ -1064,6 +1068,14 @@ On the other hand, like General Relativity, perhaps the intellectual development
 in this paper is one of those human achievements that make the planet worth saving.”[<a href="https://arxiv.org/abs/1911.06630" target="_blank">1911.06630</a>]
 
 ― <a href="https://www.math.ru.nl/~landsman/" target="_blank">Klaas Landsman</a>
+
+>“Paul Erdős has passed on to us Hardy's personal ratings of mathematicians. Suppose that we rate mathematicians on the basis of pure talent on a scale from 0 to 100. Hardy gave himself a score of 25, J. E. Littlewood 30, David Hilbert 80 and Ramanujan 100.”
+
+― <a href="https://en.wikipedia.org/wiki/Bruce_C._Berndt" target="_blank">Bruce C. Berndt</a>
+
+>“Improbabilities are apt to be overestimated. It is true that I should have been surprised in the past to learn that Professor Hardy [an atheist] had joined the Oxford Group [a Christian organization]. But one could not say the adverse chance was 10^6 : 1. Mathematics is a dangerous profession; an appreciable proportion of us go mad, and then this particular event would be quite likely. [...] I sometimes ask the question: what is the most remarkable coincidence you have experienced, and is it, for the most remarkable one, remarkable? (With a lifetime to choose from, 10^6 : 1 is a mere trifle.)” [<a href="https://en.wikipedia.org/wiki/Littlewood%27s_law" target="_blank">Littlewood's law</a>]
+
+― <a href="https://en.wikipedia.org/wiki/John_Edensor_Littlewood" target="_blank">John Edensor Littlewood</a>
 
 >“It is a truth universally acknowledged that a closed differential form, in possession of an interpretation as a gauge field in a quantum field theory, must be in want of an integral refinement.”[<a href="https://arxiv.org/abs/2312.14338" target="_blank">2312.14338</a>]
 
@@ -2180,6 +2192,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 ― <a href="https://x.com/andlewis/status/24380177712" target="_blank">Andrew Lewis</a>
 
+>“The ability to play chess is the sign of a gentleman. The ability to play chess well is the sign of a wasted life.”
+
+― <a href="https://en.wikipedia.org/wiki/Paul_Morphy" target="_blank">Paul Morphy</a>
+
 >“In some ways people had got used to the idea that India was spiritual and religion-oriented. That gave a leg up to the religious interpretation of India, despite the fact that **Sanskrit had a larger atheistic literature than exists in any other classical language**. Madhava Acharya, the remarkable 14th century philosopher, wrote this rather great book called <a href="https://en.wikipedia.org/wiki/Vidyaranya#Sarvadar%C5%9Banasa%E1%B9%85graha" target="_blank">Sarvadarśanasaṅgraha</a>, which discussed all the religious schools of thought within the Hindu structure. The **first chapter** is "<a href="https://en.wikipedia.org/wiki/Charvaka" target="_blank">Cārvāka</a>" or "Atheism"—a very strong presentation of the argument in favour of atheism and materialism.”
 
 ― <a href="https://en.wikipedia.org/wiki/Amartya_Sen" target="_blank">Amartya Sen</a>
@@ -2201,6 +2217,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 >“God only exists in people’s minds. Especially in Japan, God's always has been a kind of flexible concept. Look at what happened to the war. **Douglas MacArthur ordered the divine emperor to quit being a God, and he did**, making a speech saying he was just an ordinary person.”
 
 ― <a href="https://en.wikipedia.org/wiki/Shin%27ichi_Hisamatsu" target="_blank">Shin'ichi Hisamatsu</a>
+
+>“It has become commonplace to say that Japanese are born Shinto, marry as Christians, and die Buddhists, a phrase that indicates both the high level of participation in religious rites of passage as well as the eclec- tic nature of Japanese religiosity.”
+
+― <a href="https://books.google.co.il/books/about/Nanzan_Guide_to_Japanese_Religions.html?id=4vuHBV0FpIIC&printsec=frontcover&hl=en&newbks=1&newbks_redir=0&redir_esc=y#v=onepage&q&f=false" target="_blank">Robert Kisala</a>
 
 >“No honor I have ever received moves me more deeply than this one. Perhaps this is because I can recall no parallel in the history of the world where a great nation recently at war has so distinguished its former enemy commander. What makes it even more poignant is my own firm disbelief in the usefulness of military occupations with their corresponding displacement of civil control.” [After receiving <a href="https://en.wikipedia.org/wiki/Order_of_the_Rising_Sun" target="_blank">Order of the Rising Sun</a>]
 
