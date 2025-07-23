@@ -17,7 +17,7 @@ breadcrumbs: true
 <script type="text/javascript"
         src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-List of my papers.
+List of my slides.
 
 <!-- omit in toc -->
 ##### Contents
