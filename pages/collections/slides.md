@@ -21,8 +21,16 @@ List of my papers.
 
 <!-- omit in toc -->
 ##### Contents
+- [PhD](#phd)
 - [Master's](#masters)
-- [Undergrad](#undergrad)
+<!--- [Undergrad](#undergrad)-->
+
+##### PhD
+
+- Quantum covariant bit threads
+
+<a href="https://ksr.onl/files/QCBT.pdf" class="button" target="_blank">View PDF</a><br>
+This talk is based on my work with Matthew Headrick and Andrew Rolph
 
 ##### Master's
 
@@ -30,9 +38,9 @@ List of my papers.
 
 <a href="https://ksr.onl/files/HdoMt.pdf" class="button" target="_blank">View PDF</a><br>
 
-##### Undergrad
+<!--##### Undergrad
 
 - AdS/CFT correspondence and the information paradox
 
-<a href="https://ksr.onl/files/BTPslides.pdf" class="button" target="_blank">View PDF</a><br>
+<a href="https://ksr.onl/files/BTPslides.pdf" class="button" target="_blank">View PDF</a><br>-->
 

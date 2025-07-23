@@ -9,6 +9,10 @@
   url: /notes
   side: left
 
+- title: Slides
+  url: /slides
+  side: left
+
 - title: projects
   url: /projects
   side: left
