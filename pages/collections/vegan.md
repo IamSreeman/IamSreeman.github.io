@@ -61,7 +61,7 @@ This page contains reasons why I made this decision and also some resources if y
 
 ##### Moral
 
-- Meat and Dairy products are not necessary for humans to live a **healthy life**, and the practise of consuming these is easily the biggest cause of suffering in our current times. Each year we are violating the rights of <span style="color:red">TRILLIONS</span> of our fellow sentient beings.
+- Animal Agriculture products are not necessary for humans to live a **healthy life**, and every year, the practice of consuming these is violating the rights of <span style="color:red">TRILLIONS</span> of our fellow sentient beings and it is easily the biggest evil/immorality (excluding the problem of [Herbivorizing Predators](https://www.herbivorizepredators.org/){:target="_blank"} that causes even more suffering than Animal Agriculture since predators are not evil as they are not rational moral agents) in the history of the universe. We are torturing & mutilating & maiming the bodies of our sentient non-human cousins (literally cousins because if we trace less than a trillion generations, we all descend from the [LUCA](https://en.wikipedia.org/wiki/Last_universal_common_ancestor){:target="_blank"}).
 
 - The number of individual wild fish killed each year is estimated as <span style="color:red">0.97-2.74 trillions</span> (based on FAO tonnage statistics combined with estimated mean weights of fish species) [[Source](https://fishcount.org.uk/published/std/fishcountstudy.pdf){:target="_blank"}]. The FAO numbers do not include illegal, unreported and unregulated fishing, nor discarded fish. If these are included and over-reporting by China subtracted, the totals increase by about 16.6% to 33.3% [[Source](https://fishcount.org.uk/published/std/fishcountstudy.pdf){:target="_blank"}]. A similar estimate for the number of farmed fish slaughtered each year is 0.037 to 0.120 trillion [[Source](http://fishcount.org.uk/published/std/fishcountstudy2.pdf){:target="_blank"}]. Also check wikipedia's [Fish slaughter](https://en.wikipedia.org/wiki/Fish_slaughter){:target="_blank"}.
 
@@ -91,6 +91,8 @@ See the below important pamphlet.
 <br>
 
 The moral argument is the most important and compelling argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their corpses without causing pollution, cancer, heart diseases etc. **But even then** it is not morally OK to not be a vegan because of the ethical issues since it is totally unnecessary.
+
+Although the human species is not responsible for the suffering of wild animals, to atone for our sins in Animal Agriculture, we need to allocate like 5% of the world's GDP to wild animals' suffering in order to achieve the [herbivoreization of predators](https://www.herbivorizepredators.org/){:target="_blank"}.
 
 <img src="{{site.baseurl}}/images/other/Flag.png" width="500"/>
 <br>
@@ -284,7 +286,8 @@ For women, the consumption of dairy products causes early puberty. The first men
 - [Nutritionfacts.org](https://nutritionfacts.org/){:target="_blank"}
 - [Mic the Vegan](https://www.youtube.com/c/MictheVegan){:target="_blank"}
 - [Viva Longevity](https://www.youtube.com/@Viva-Longevity){:target="_blank"}
-- [Veganhealth.org](https://veganhealth.org/){:target="_blank"} (somewhat pessimistic view but still as evidence packed as the above 2 links)
+- [Veganhealth.org](https://veganhealth.org/){:target="_blank"} (somewhat pessimistic view but still as evidence packed as the above)
+- [Nutrition Made Simple!](https://www.youtube.com/@NutritionMadeSimple){:target="_blank"}
 - [Veganfitness.com](https://veganfitness.com/){:target="_blank"}
 - [Vegan society](https://www.vegansociety.com/resources/nutrition-and-health){:target="_blank"}
 

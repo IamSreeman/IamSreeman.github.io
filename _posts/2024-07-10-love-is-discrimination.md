@@ -64,6 +64,8 @@ Many intellectuals of the past have had similar feelings about this topic. Newto
 
 Voltaire correctly pointed out that Newton didn't have "common frailties of mankind" like lust. Newton was liberated from the chains of evolution. Many other famous people like Newton who didn’t have this frailty and probably were never in a relationship include Gottfried  Leibniz, Paul Erdős, Immanuel Kant, John Locke, Friedrich Nietzsche,  David Hume, Baruch Spinoza, Jean-Paul Sartre, Arthur Schopenhauer, Susan B. Anthony, etc. Most Indian Buddhist and Jain monks are also like that, but it is not Noble if they did it for a dogmatic/religious reason.
 
+Another discrimination that is common in marriages is caste discrimination, which in its most rigid form can be found on the Indian subcontinent. "Love marriages," as they are called in India, are still frowned upon in most of the Indian subcontinent (despite that being the plot of pretty much most Indian movies), excluding some tiny rich/posh areas of gated communities living in the big cities. The only good thing the caste system ever did was that it stopped the Islamic conquest. If not, the conquest would have continued far beyond India to East Asia. Despite being occupied for like 800 years, Indians didn't convert to Islam because they didn't know how they could become Muslims if they were born into a Hindu caste. That's why even now, the caste system is [present in Pakistan & Bangladesh](https://en.wikipedia.org/wiki/Caste_system_among_South_Asian_Muslims){:target="_blank"}, even though it is very much against Islam.
+
 ## Friendship
 
 Unlike the previous 2, friendship is not genetic discrimination. But friendship is also discriminatory.
