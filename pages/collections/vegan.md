@@ -92,6 +92,8 @@ See the below important pamphlet.
 
 The moral argument is the most important and compelling argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their corpses without causing pollution, cancer, heart diseases etc. **But even then** it is not morally OK to not be a vegan because of the ethical issues since it is totally unnecessary.
 
+Note that there are various levels of veganism. 1) Welfarist vegans: They usually support welfare reforms such as more "humane" slaughter of animals, but they don't ask for the end of slaughterhouses. These are the vast majority of vegans. 2) Abolitionist vegans: These want Animal Agriculture to be abolished. They are a small fraction compared to before. 3) Anti-predation vegans: These not only want to abolish killing done by humans but also killing done by all species. They usually support things like the [herbivoreization of predators](https://www.herbivorizepredators.org/){:target="_blank"} or the <a href="https://www.abolitionist.com/" target="_blank">Abolitionism of Suffering</a>. They are an even smaller group than the former & I belong to this 3rd group.
+
 Although the human species is not responsible for the suffering of wild animals, to atone for our sins in Animal Agriculture, we need to allocate like 5% of the world's GDP to wild animals' suffering in order to achieve the [herbivoreization of predators](https://www.herbivorizepredators.org/){:target="_blank"}.
 
 <img src="{{site.baseurl}}/images/other/Flag.png" width="500"/>
