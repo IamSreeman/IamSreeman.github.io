@@ -2236,9 +2236,9 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 ― <a href="https://en.wikipedia.org/wiki/Sayyid_Al-Qemany" target="_blank">Sayyid Al-Qemany</a>
 
->“God only exists in people’s minds. Especially in Japan, God's always has been a kind of flexible concept. Look at what happened to the war. **Douglas MacArthur ordered the divine emperor to quit being a God, and he did**, making a speech saying he was just an ordinary person.”
+>“Listen--God only exists in people's minds. Especially in Japan, God's always been kind of a flexible concept. Look at what happened after the war. ***Douglas MacArthur ordered the divine emperor to quit being a God, and he did***, making a speech saying he was just an ordinary person. So after 1946 he wasn't God anymore. That's what Japanese gods are like--they can be tweaked and adjusted. Some American comping on a cheap pipe gives the order and presto change-o--God's no longer God. A very postmodern kind of thing. If you think God's there, He is. If you don't, He isn't.”
 
-― <a href="https://en.wikipedia.org/wiki/Shin%27ichi_Hisamatsu" target="_blank">Shin'ichi Hisamatsu</a>
+― <a href="https://en.wikipedia.org/wiki/Haruki_Murakami" target="_blank">Haruki Murakami</a>'s Kafka on the Shore
 
 >“It has become commonplace to say that Japanese are born Shinto, marry as Christians, and die Buddhists, a phrase that indicates both the high level of participation in religious rites of passage as well as the eclec- tic nature of Japanese religiosity.”
 
