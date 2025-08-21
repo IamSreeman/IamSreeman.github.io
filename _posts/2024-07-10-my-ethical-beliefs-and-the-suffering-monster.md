@@ -148,7 +148,7 @@ I want to reiterate again that despite all this, threshold deontology is more th
 [^Fear]: But a modification that I think is true is: Desires are the root cause of fear. 
 
 [^Antinatalism]:
-    Benatar used this argument in the context of <a href="https://en.wikipedia.org/wiki/Antinatalism" target="_blank">antinatalism</a>. I can never accept antinatalism because I can't accept that my birth is immoral for reasons similar to the <a href="https://en.wikipedia.org/wiki/Self-Respect_Movement" target="_blank">Self-Respect Movement</a>. I have always found that antinatalism is a very logical argument and failed to find a mistake. But in 2022, when I read Nozick's <a href="https://en.wikipedia.org/wiki/Experience_machine" target="_blank">experience machine</a> I was happy because I think it solves the issue of antinatalism. He used it to argue against utilitarianism. But the argument tries to explain that there is something inherently positive about existing in reality. And that can also be used to argue against antinatalism. Nagel also thinks that experiencing reality is inherently positive. Another argument for antinatalists is that even they wouldn't kill themselves by giving a pill to their mother via time travel before they became sentient.
+    Benatar used this argument in the context of <a href="https://en.wikipedia.org/wiki/Antinatalism" target="_blank">antinatalism</a>. I can never accept antinatalism because I can't accept that my birth is immoral for reasons similar to the <a href="https://en.wikipedia.org/wiki/Self-Respect_Movement" target="_blank">Self-Respect Movement</a>. I have always found that antinatalism is a very logical argument and failed to find a mistake. But in 2022, when I read Nozick's <a href="https://en.wikipedia.org/wiki/Experience_machine" target="_blank">experience machine</a> I was happy because I think it solves the issue of antinatalism. He used it to argue against utilitarianism. But the argument tries to explain that there is something inherently positive about existing in reality. And that can also be used to argue against antinatalism. Nagel also thinks that experiencing reality is inherently positive. Another argument for antinatalists is that even they wouldn't kill themselves by giving an abortion pill to their mother via time travel before they became sentient.
 
     >“All of us, I believe, are fortunate to have been born.”
 
@@ -156,6 +156,6 @@ I want to reiterate again that despite all this, threshold deontology is more th
 
     ― <a href="https://en.wikipedia.org/wiki/Thomas_Nagel" target="_blank">Thomas Nagel</a>
 
-    I dislike both natalism and antinatalism; I am neutral on this issue. I think procreation is amoral.
+    I dislike both natalism and antinatalism; I am neutral on this issue. I think procreation is amoral unless the suffering violates a threshold, such as in the case of Animal Agriculture. But even if the animals in Animal Agriculture were very happy, the commodification makes it immoral anyway.
 
 [^Nozick]: Random fact: Robert Nozick died on the exact day I was born, 2002-01-23. I think he was a very good philosopher, but unfortunately, he was a speciesist.

@@ -101,7 +101,7 @@ This page details my philosophical beliefs.
 
     ― <a href="https://en.wikipedia.org/wiki/Thomas_Nagel" target="_blank">Thomas Nagel</a>
 
-    I dislike both natalism and antinatalism; I am neutral on this issue. I think procreation is amoral.
+    I dislike both natalism and antinatalism; I am neutral on this issue. I think procreation is amoral unless the suffering violates a threshold, such as in the case of Animal Agriculture. But even if the animals in Animal Agriculture were very happy, the commodification makes it immoral anyway.
 
 <script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
 
