@@ -137,6 +137,8 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“I have trouble with Dirac. This balancing on the dizzying path between genius and madness is awful.”
 
+>“It is, in fact, nothing short of a miracle that the modern methods of instruction have not yet entirely strangled the holy curiosity of inquiry; for this delicate little plant, aside from stimulation, stands mainly in need of freedom; without this it goes to wreck and ruin without fail. It is a very grave mistake to think that the enjoyment of seeing and searching can be promoted by means of coercion and a sense of duty.” [Often paraphrased to "It is a miracle that curiosity survives formal education."]
+
 >“It's not that I'm so smart, it's just that I stay with problems longer.” [Source not found]
 
 >“I have learned something else from the theory of gravitation: no collection of empirical facts however comprehensive can ever lead to the formulation of such complicated equations [...] Equations of such complexity as are the equations of the gravitational field can be found only through the discovery of a logically simple mathematical condition that determines the equations completely or [at least] almost completely. Once one has those sufficiently strong formal conditions, one requires only little knowledge of facts for thesetting up of a theory; in the case of the equations of gravitation it is the four- dimensionality and the symmetric tensor as expression for the structure of space which together with the invariance concerning the continuous transformation group, determine the equations almost completely.”
@@ -737,6 +739,16 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“There is no Heaven, no Swarga, no Hell, no rebirth, no reincarnation and no immortality. The only thing that is true is that a man is born, he lives and he dies. Therefore, he should live his life properly.”
 
 ― <a href="https://en.wikipedia.org/wiki/C._V._Raman" target="_blank">C. V. Raman</a>
+
+>“Our test asked a focused question and the astrologers could not point toward any ambiguity in interpretation. We told the astrologers that the real predictive success could be claimed only at the 70% level for their sample size. The test demonstrated the hollowness of the basic claim of astrology.”
+
+>“In the Vedic era, there was never a seven-days-a-week concept. Similarly, astrologers were also not known at the time. They came later, when Alexander came to India and brought several of them along with him. Indians carried forward astrology.”
+
+― <a href="https://en.wikipedia.org/wiki/Jayant_Vishnu_Narlikar" target="_blank">Jayant Narlikar</a>
+
+>“Sometimes I am a little unkind to all my many friends in education ... by saying that from the time it learns to talk every child makes a dreadful nuisance of itself by asking 'Why?'. To stop this nuisance society has invented a marvellous system called education which, for the majority of people, brings to an end their desire to ask that question. The few failures of this system are known as scientists.”
+
+― <a href="https://en.wikipedia.org/wiki/Hermann_Bondi" target="_blank">Hermann Bondi</a>
 
 >“My greatest discovery was <a href="https://en.wikipedia.org/wiki/Michael_Faraday" target="_blank">Michael Faraday</a>.”
 
@@ -2210,6 +2222,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 >“If there is a God, He will have to beg my forgiveness.”
 
 — A phrase that was carved on the walls of <a href="https://en.wikipedia.org/wiki/Mauthausen_concentration_camp" target="_blank">Mauthausen Nazi concentration camp</a> cell during WWII by a prisoner.
+
+>“Creationism lost its best argument when the Catholic church stopped burning people at the stake.”
+
+— Unknown
 
 >“It's a wonder I haven't abandoned all my ideals, they seem so absurd and impractical. Yet I cling to them because I still believe, in spite of everything, that people are truly good at heart.”
 
