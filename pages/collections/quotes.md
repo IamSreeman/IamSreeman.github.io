@@ -316,7 +316,10 @@ of radioactivity allowed physicists to explain how the Sun and Earth’s cores c
 
 ― <a href="https://en.wikipedia.org/wiki/Ramamurti_Shankar" target="_blank">Ramamurti Shankar</a>
 
->“It happened that one semester [around 1970] I was teaching GR, and I noticed that the formula in gauge theory for the field strength and the formula in Riemannian geometry for the Riemann tensor are not just similar -- they are, in fact, the same if one makes the right identification of symbols! It is hard to describe the thrill I felt at understanding this point..”
+>“Yang Chen-Ning: I found it amazing that gauge fields are exactly connections on fiber bundles, which the mathematicians developed without reference to the physical world. This is both thrilling and puzzling, since you mathematicians dreamed up these concepts out of nowhere.<br>
+Jim Simons: No, no. These concepts were not dreamed up. They were natural and real.”
+
+>“It happened that one semester [around 1970] I was teaching GR, and I noticed that the formula in gauge theory for the field strength and the formula in Riemannian geometry for the Riemann tensor are not just similar -- they are, in fact, the same if one makes the right identification of symbols! It is hard to describe the thrill I felt at understanding this point.”
 
 ― <a href="https://en.wikipedia.org/wiki/Yang_Chen-Ning" target="_blank">Yang Chen-Ning</a>
 
@@ -1206,6 +1209,8 @@ He indeed knows, if not, no one knows”[^Creation]
 
 >“Patriots always talk of dying for their country and never of killing for their country.”
 
+>“Man is a rational animal — so at least I have been told. Throughout a long life I have looked diligently for evidence in favour of this statement, but so far I have not had the good fortune to come across it.”
+
 >“A much more desirable way of securing world peace would be by a voluntary agreement among nations to pool their armed forces and submit to an **agreed single supreme world government**.”
 
 >“Democracy has at least one merit, namely that a Member of Parliament cannot be stupider than his constituents, for the more stupid he is, the more stupid they were to elect him.”
@@ -1608,6 +1613,10 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/A._C._Grayling" target="_blank">A. C. Grayling</a>
 
+>“Those who cannot remember the past are condemned to repeat it.”
+
+― <a href="https://en.wikipedia.org/wiki/George_Santayana" target="_blank">George Santayana</a>
+
 >“In philosophy, if you think the answer is obvious, you haven't understood the question.” [<a href="https://x.com/keithfrankish/status/462763402419777536" target="_blank">Twitter</a>]
 
 ― <a href="https://en.wikipedia.org/wiki/Keith_Frankish" target="_blank">Keith Frankish</a>
@@ -1632,7 +1641,7 @@ And share your pleasures with beggars.”
 
 ― <a href="https://en.wikipedia.org/wiki/John_Armstrong_(British_writer/philosopher)" target="_blank">John Armstrong</a>
 
->“Being asked to die for the nation state is "like being asked to die for the telephone company."”
+>“Being asked to die for the nation state is "like being asked to die for the telephone company.”
 
 ― <a href="https://en.wikipedia.org/wiki/Alasdair_MacIntyre" target="_blank">Alasdair MacIntyre</a>
 
@@ -1761,6 +1770,8 @@ And share your pleasures with beggars.”
 
 >“I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.”[^Character]
 
+>“One day the absurdity of the almost universal human belief in the slavery of other animals will be palpable. We shall then have discovered our souls and become worthier of sharing this planet with them.”
+
 ― <a href="https://en.wikipedia.org/wiki/Martin_Luther_King_Jr." target="_blank">Martin Luther King Jr.</a>
 
 >“slavery - a Practice so gross & hurtful to Religion, and destructive to government, beyond what Words can set forth.”
@@ -1844,6 +1855,10 @@ These are empirical claims, and although some may be hard to test, they must, li
 
 ― <a href="https://en.wikipedia.org/wiki/Blood_Meridian" target="_blank">Blood Meridian</a>
 
+>“The Muslim community was not wealthy enough to stockpile animal skins for decades, and to produce a complete Mushaf, or copy, of the Holy Qur’an required a great many of them. The carbon dating evidence, then, indicates that Birmingham's Cadbury Research Library is home to [some precious survivors](https://en.wikipedia.org/wiki/Birmingham_Quran_manuscript){:target="_blank"} that – in view of the Suras included – would once have been at the centre of a Mushaf from that period. And it seems to leave open the possibility that the Uthmanic redaction took place earlier than had been thought – or even, conceivably, that these folios predate that process. In any case, this – along with the sheer beauty of the content and the surprisingly clear Hijazi script – is news to rejoice Muslim hearts.”
+
+― <a href="https://themaydan.com/bio/muhammad-isa-waley/" target="_blank">Muhammad Isa Waley</a>
+
 >“If atheism is a "religion",...<br>
 then Not Collecting Stamps is a "hobby".<br>
 If atheism is a "religion", ...<br>
@@ -1859,6 +1874,12 @@ then 'OFF' is a "TV channel".”
 matters which I neither saw nor suffered, nor heard by report from others, which are in no being, nor possible ever to have a beginning***. Let no man therefore in any case give any credit to them.”[^Fiction]
 
 ― <a href="https://en.wikipedia.org/wiki/Lucian" target="_blank">Lucian of Samosata</a>
+
+>“I have been reading poems, romances, vision-literature, legends, myths all my life. I know what they are like. I know that not one of them is like this.  Of this text there are only two possible views. Either this is reportage—though it may no doubt contain errors—pretty close up to the facts; nearly as close as Boswell. Or else, some unknown writer in the second century, without known predecessors, or successors, suddenly anticipated the whole technique of modern, novelistic, realistic narrative. If it is untrue, it must be narrative of that kind. The reader who doesn't see this has simply not learned to read.”
+
+>“I am trying here to prevent anyone saying the really foolish thing that people often say about Him: I'm ready to accept Jesus as a great moral teacher, but I don't accept his claim to be God. That is the one thing we must not say. A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic—on the level with the man who says he is a poached egg—or else he would be the Devil of Hell. You must make your choice. Either this man was, and is, the Son of God, or else a madman or something worse. You can shut him up for a fool, you can spit at him and kill him as a demon or you can fall at his feet and call him Lord and God, but let us not come with any patronizing nonsense about his being a great human teacher. He has not left that open to us. He did not intend to. ... Now it seems to me obvious that He was neither a lunatic nor a fiend: and consequently, however strange or terrifying or unlikely it may seem, I have to accept the view that He was and is God.”
+
+― <a href="https://en.wikipedia.org/wiki/C._S._Lewis" target="_blank">C. S. Lewis</a>
 
 >“Just to be clear, I'm not a professional 'quote maker'. I'm just an atheist teenager who greatly values his intelligence and scientific fact over any silly fiction book written 3,500 years ago. This being said, I am open to any and all criticism.
 >
@@ -2351,6 +2372,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 >“Consciousness is a much smaller part of our mental life than we are conscious of, because we cannot be conscious of what we are not conscious of. How simple that is to say; how difficult to appreciate!”
 
 ― <a href="https://en.wikipedia.org/wiki/Julian_Jaynes" target="_blank">Julian Jaynes</a>
+
+>“Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.”
+
+― <a href="https://en.wikipedia.org/wiki/Margaret_Mead" target="_blank">Margaret Mead</a>
 
 >“It's hard to win an argument with a smart person. It's damn near impossible to win an argument with a stupid person.”
 

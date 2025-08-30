@@ -156,6 +156,6 @@ I want to reiterate again that despite all this, threshold deontology is more th
 
     ― <a href="https://en.wikipedia.org/wiki/Thomas_Nagel" target="_blank">Thomas Nagel</a>
 
-    I dislike both natalism and antinatalism; I am neutral on this issue. I think procreation is amoral unless the suffering violates a threshold, such as in the case of Animal Agriculture. But even if the animals in Animal Agriculture were very happy, the commodification makes it immoral anyway.
+    I dislike both natalism and antinatalism; I am neutral on this issue. I think procreation is amoral unless the suffering violates a threshold, such as in the case of Animal Agriculture. But even if the animals in Animal Agriculture were very happy, the 3 rights violated (right to not be treated as a commodity, right to bodily integrity, right to life) make Animal Agriculture extremely immoral. Anti-natalist vegans compare natalism to Animal Agriculture, but that is a callous downplaying/trivialising of Animal Agriculture.
 
 [^Nozick]: Random fact: Robert Nozick died on the exact day I was born, 2002-01-23. I think he was a very good philosopher, but unfortunately, he was a speciesist.
