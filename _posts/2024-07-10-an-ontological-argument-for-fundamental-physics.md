@@ -102,10 +102,10 @@ The below argument from 1. to 9. argues there is an entity whose ***physical*** 
 Note that even before we know the existence of any physical entity, we know that mathematics exists in the Platonic sense. This is called Mathematical Platonism ([1](https://iep.utm.edu/mathplat/){:target="_blank"},[2](https://plato.stanford.edu/entries/platonism-mathematics/){:target="_blank"},[3](https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism){:target="_blank"}). There are critics of Mathematical Platonism who think mathematics only exists inside the imaginations of humans, but I think when you look into a [zoom video](https://www.youtube.com/watch?v=VNnXuQimWgc){:target="_blank"} of the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set){:target="_blank"} it should convince you that mathematics is not man-made. Furthermore, once the existence of the physical world is known, we can use the Quine–Putnam indispensability argument ([1](https://plato.stanford.edu/entries/mathphil-indis/){:target="_blank"},[2](https://iep.utm.edu/indimath/){:target="_blank"},[3](https://en.wikipedia.org/wiki/Quine%E2%80%93Putnam_indispensability_argument){:target="_blank"}) to go back and argue for the existence of the Mathematical Platonic realm, but I can't use that because I am using the existence of the Mathematical Platonic realm to explain the existence of the physical world.
 
 1. Assume ToE does not exist physically.
-1. "ToE" is defined as "the greatest entity in the Mathematical Platonic Realm". (<span style="color:green">definition</span>)
+1. "ToE" is defined as "the greatest entity in the Mathematical Platonic Realm" & the Mathematical Platonic Realm contains all possible mathematical entities. (<span style="color:green">definition</span>)
 1. "The greatest entity in the Mathematical Platonic Realm" must, therefore, not exist physically and exist only Platonically. (from 1 & 2).
 1. If "the greatest entity in the Mathematical Platonic Realm" were to exist in physical reality as well as in Platonic Mathematics, it would be even "greater". (<span style="color:red">assumption</span> or <span style="color:red">premise</span>)
-1. But that would mean "the greatest entity in the Mathematical Platonic Realm" is not actually the "greatest" entity in the Mathematical Platonic Realm since it could be even "greater". (from 3 & 4).
+1. But that would mean "the greatest entity in the Mathematical Platonic Realm" is not actually the "greatest" possible entity in the Mathematical Platonic Realm since it could be even "greater". (from 3 & 4).
 1. "The greatest entity in the Mathematical Platonic Realm" must exist in both Platonic Mathematics and also in physical reality for it to be the "greatest" entity in the Mathematical Platonic Realm.
 1. Therefore 1 & 2 are inconsistent.
 1. Premise 1 cannot be true since 2 is just a definition (reductio ad absurdum).
@@ -139,7 +139,11 @@ The only assumption is 4. To me, it seems very obvious that an equation would be
 
 Traditionally, when theists use the ontological argument for the existence of their fictional god, they generally do not properly define what they mean by "greatness". In our context, we can say much more about it.
 
+The "greatness" here is a [partial ordering relation](https://en.wikipedia.org/wiki/Partially_ordered_set){:target="_blank"}, but the single greatest can be compared to any other thing & the ordering relation will be defined. But among lower things, one can be greater among some aspects of greatness & the other can be greater among some other aspects of greatness, so overall it is not defined which is the greater.
+
 ### Simplicity
+
+See the epilogue on the last page of David Tong's [string theory notes](https://www.damtp.cam.ac.uk/user/tong/string/string.pdf){:target="_blank"}, where he explains in a very poetic way how the extremely simple demand for a "quantum relativistic string" gives us everything we can ever ask for. String theory is the most generous theory compared to the greedy Standard Model of particle physics, which needs as input 25 fundamental dimensionless constants from empirical observations.
 
 The ToE will be an equation that can probably fit into a SINGLE paper. That means it can be COMPLETELY specified with very little information. Simplicity is an expected property of the ToE. General Relativity can explain everything about classical gravity without the need for [Horndeski's theory](https://en.wikipedia.org/wiki/Horndeski%27s_theory){:target="_blank"}, which is the most general classical gravity theory. General Relativity is, therefore, greater than Horndeski's theory. In Horndeski's theory, G2 to G5 are arbitrary functions. So, it is definitely not simple.
 
