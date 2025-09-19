@@ -22,7 +22,7 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 <!-- omit in toc -->
 ##### List of projects and reports
 
-- [String dual of 2D QCD (Jan 2025-Present)](#string-dual-of-2d-qcd-jan-2025-present)
+- [2D QCD String (Jan 2025-Present)](#2d-qcd-string-jan-2025-present)
 - [Quantum covariant bit threads (Oct 2023-Present)](#quantum-covariant-bit-threads-oct-2023-present)
 - [Sparse Double-Scaled SYK (Oct 2023-Feb 2024)](#sparse-double-scaled-syk-oct-2023-feb-2024)
 - [Holographic description of M-theory (Nov-Dec 2023)](#holographic-description-of-m-theory-nov-dec-2023)
@@ -30,10 +30,10 @@ You can also see this list on my <a class="waves-effect waves-light btn" href='/
 - [Black hole information paradox (June-November 2021)](#black-hole-information-paradox-june-november-2021)
 - [Category theory applications in physics (October-November 2020)](#category-theory-applications-in-physics-october-november-2020)
 
-##### String dual of 2D QCD (Jan 2025-Present)
+##### 2D QCD String (Jan 2025-Present)
 
 *Advisor: Prof. Ofer Aharony, Weizmann Institute of Science*
-- Finding and understanding the precise worldsheet theory that is dual to 2D QCD with massive quarks
+- Finding and understanding the precise worldsheet non-critical string theory whose target space theory is 2D QCD with massive quarks
 
 ##### Quantum covariant bit threads (Oct 2023-Present)
 

@@ -30,6 +30,8 @@ List of my slides.
 - Quantum covariant bit threads
 
 <a href="https://ksr.onl/files/QCBT.pdf" class="button" target="_blank">View PDF</a><br>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/phyPR4KKwho?si=e9zeABAkCYRh1LhP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 This talk is based on my work with Matthew Headrick and Andrew Rolph
 
 ##### Master's
