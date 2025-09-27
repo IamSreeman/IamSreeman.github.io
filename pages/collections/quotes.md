@@ -155,6 +155,10 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“A man who is convinced of the truth of his religion is **indeed never tolerant**. At the least, he is to feel pity for the adherent of another religion but usually it does not stop there. The faithful adherent of a religion will try first of all to convince those that believe in another religion and usually he goes on to hatred if he is not successful. However, hatred then leads to persecution when the might of the majority is behind it.”
 
+>“If one conceives of religion and science according to these definitions, then a conflict between them appears impossible. For science can only ascertain what is, but not what should be, and outside of its domain value judgments of all kinds remain necessary. Religion, on the other hand, deals only with evaluations of human thought and action—it cannot justifiably speak of facts and relationships between facts. According to this interpretation, the well-known conflicts between religion and science in the past must all be ascribed to a misapprehension of the situation which has been described.
+>
+>For example, a conflict arises when a religious community insists on the absolute truthfulness of all statements recorded in the Bible. This means an intervention on the part of religion into the sphere of science; this is where the struggle of the Church against the doctrines of Galileo and Darwin belongs.” 
+
 >“I have the greatest admiration for Gandhi and for the Indian tradition in general.”
 
 >“I would have transferred even more money to you, but I have no more myself to be able to manage at all without help..... **I myself lead the simplest, almost meager existence imaginable**. In this way we can lay quite a lot aside for the children..... I have duly noted your threat “to seek the assistance of other persons”; I know very well anyway from your previous behavior what I have to expect from you. Nothing will surprise me, no matter what you do. You have taken my children away from me and are ensuring that their attitude toward their father is vitiated. You will also take away from me other people who are close to me and will try to spoil in every way whatever has remained of my joy of living. This is the proper punishment for my weakness in allowing myself to shackle my life to yours. But I repeat: You will not surprise me, no matter what you do.” [15 September 1914 to Mileva Marić]
@@ -777,6 +781,10 @@ Mathematical physicists tend not to like this joke, but other physicists seem to
 >“Bizarrely, he found that a universe without any matter - completely empty - was perfectly compatible with Einstein's equations. This featureless universe was, perplexingly, somehow also in motion. If two intrepid astronauts ventured into de Sitter's cosmos, they would still have mass and would be driven apart. The nothingness was expanding. De Sitter pointed out that if general relativity allowed an empty universe in which individual objects can still have mass, then Mach's principle could not be part of the theory-there were no distant masses to provide inertia. De Sitter did not really understand what this meant, and he was content with that: "I do not concern myself with explanations." This was probably the end of Einstein's infatuation with Mach's principle, and general relativity went forward without it.”
 
 ― <a href="https://gallatin.nyu.edu/people/faculty/ms5100.html" target="_blank">Matthew Stanley</a>
+
+>“I know that I am mortal by nature and ephemeral, but when I trace at my pleasure the windings to and fro of the heavenly bodies, I no longer touch earth with my feet. I stand in the presence of [Zeus](https://en.wikipedia.org/wiki/Zeus){:target="_blank"} himself and take my fill of ambrosia.”
+
+― <a href="https://en.wikipedia.org/wiki/Ptolemy" target="_blank">Claudius Ptolemy</a>
 
 >“Cosmology is peculiar among the sciences for it is both the oldest and the youngest. From the dawn of civilization man has speculated about the nature of the starry heavens and the origin of the world, but only in the present century has physical cosmology split away from general philosophy to become an independent discipline.”
 
@@ -1485,15 +1493,19 @@ And share your pleasures with beggars.”
 
 >“Reason is immortal; all else mortal.”
 
->“As long as Man continues to be the ruthless destroyer of lower living beings, he will never know health or peace. For as long as men massacre animals, they will kill each other. Indeed, he who sows the seed of murder and pain cannot reap joy and love.”
-
 >“Number is the ruler of forms and ideas, and the cause of gods and daemons.”
 
 >“Do not even think of doing what ought not to be done.”
 
 >“Anger begins in folly, and ends in repentance.”
 
+>“As long as Man continues to be the ruthless destroyer of lower living beings, he will never know health or peace. For as long as men massacre animals, they will kill each other. Indeed, he who sows the seed of murder and pain cannot reap joy and love.”
+
 ― <a href="https://en.wikipedia.org/wiki/Pythagoras" target="_blank">Pythagoras</a>
+
+>“Until he extends the circle of his compassion to all living things, man will not himself find peace.”
+
+― <a href="en.wikipedia.org/wiki/Albert_Schweitzer" target="_blank">Albert Schweitzer</a>
 
 >“What altar of refuge can a man find for himself when he commits treason against the majesty of reason?”
 
@@ -1647,6 +1659,20 @@ And share your pleasures with beggars.”
 
 >“No civilization of the past was great. They were all primitive and persecutory, founded on mass subjugation and mass murder.”
 
+>“The quandary of many liberals in America and elsewhere is that they have largely outgrown patriotism but are afraid to face this fact. They are afraid to be called unpatriotic. They are even more afraid to come out openly and say "I am not a nationalist, I don't give a damn about my country. For me, there are no countries, no sides - only the side of humankind.”
+
+>“If it is natural to die then the hell with nature. Why submit to its tyranny? We must rise above nature. We must refuse to die.”
+
+>“If you’re around fifty years from now, I’d say it’s an absolute guarantee that you’ll be around five hundred years from now, a thousand years from now, a million years from now, forever! To be sure… not in these gawky, clumsy, fragile, finite bodies, nor necessarily on this biosphere, on this planet. But we will be around. There are, in fact, many of us who are dying to attain immortality.”
+
+>“Coin a name. A new name that best defines my ideals. My perceptions of who I am. Who I should like to be… I am infinitely ahead of where I was. I am gaining momentum. I am accelerating into the Future… I am a Futurist. Why not a name that is Futurist? I do not believe in the family. Why then a family name? I have no nationality. Why then a national name?”
+
+>“People will belong to no specific families or factions, classes or sects, races or nationalities. We will free flow across the planet and beyond. Highly universal, yet individual.”
+
+>“Conventional names define a person's past: ancestry, ethnicity, nationality, religion. I am not who I was ten years ago and certainly not who I will be in twenty years. [...] The name 2030 reflects my conviction that the years around 2030 will be a magical time. In 2030 we will be ageless and everyone will have an excellent chance to live forever. 2030 is a dream and a goal.”
+
+>“So long as we are confined to these biological makeups, there will always be inequality, human tragedy, and human suffering.”
+
 ― <a href="https://en.wikipedia.org/wiki/FM-2030" target="_blank">FM-2030</a>
 
 >“You can’t help people that don’t want to be helped.”
@@ -1691,7 +1717,9 @@ And share your pleasures with beggars.”
 
 >“Beloved-of-the-Gods (I) thinks that even those who do wrong should be forgiven where forgiveness is possible.”
 
->“Whoever praises his own religion, due to excessive devotion, and condemns others with the thought "Let me glorify my own religion," only harms his own religion.”
+>“Whoever praises his own religion, due to excessive devotion, and condemns others with the thought "Let me glorify my own religion," only harms his own religion.
+
+>“The greatest progress of righteousness among men comes from exhortation in favor of non-injury to life and abstention from killing living beings.”
 
 ― <a href="https://en.wikipedia.org/wiki/Ashoka" target="_blank">Aśoka</a> (304 BCE-232 BCE, ruled most of the Indian subcontinent and popularized Buddhism, also known as "Ashoka the Great", he is an example of Plato's <a href="https://en.wikipedia.org/wiki/Philosopher_king" target="_blank">Philosopher King</a>)
 
@@ -1702,6 +1730,8 @@ And share your pleasures with beggars.”
 >“The fact that a believer [of a religion] is happier than a skeptic is no more to the point than the fact that a drunken man is happier than a sober one. The happiness of credulity is a cheap and dangerous quality of happiness, and by no means a necessity of life.”
 
 >“Einstein denies Newton infallible.”
+
+>“Animals are my friends...and I don't eat my friends.”
 
 ― <a href="https://en.wikipedia.org/wiki/George_Bernard_Shaw" target="_blank">George Bernard Shaw</a>
 
@@ -1835,9 +1865,9 @@ These are empirical claims, and although some may be hard to test, they must, li
 
 >“Disinterested love for all living creatures, the most noble attribute of man.”
 
->“Man in his **arrogance** thinks himself a great work worthy the interposition of a deity. More humble, and I believe truer, to consider him created from animals.”
-
 >“The highest stage in moral culture at which we can arrive, is when we recognise that we ought to control our thoughts.”
+
+>“My object in this chapter is to shew that there is no fundamental difference between man and the higher mammals in their mental faculties.”
 
 >“As man advances in civilisation, and small tribes are united into larger communities, the simplest reason would tell each individual that he ought to extend his social instincts and sympathies to all the members of the same nation, though personally unknown to him. This point being once reached, there is only an artificial barrier to prevent his **sympathies extending to the men of all nations and races**. If, indeed, such men are separated from him by great differences in appearance or habits, experience unfortunately shews us how long it is before we look at them as our fellow-creatures. **Sympathy beyond the confines of man, that is humanity to the lower animals, seems to be one of the latest moral acquisitions. It is apparently unfelt by savages, except towards their pets.** How little the old Romans knew of it is shewn by their abhorrent gladiatorial exhibitions. The very idea of humanity, as far as I could observe, was new to most of the Gauchos of the Pampas. This virtue, one of the noblest with which man is endowed, seems to arise incidentally from our sympathies becoming more tender and more widely diffused, until they are extended to all sentient beings. As soon as this virtue is honoured and practised by some few men, it spreads through instruction and example to the young, and eventually through public opinion.”
 
@@ -1922,6 +1952,8 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 ― <a href="https://en.wikipedia.org/wiki/Gerald_Weinberg" target="_blank">Gerald M. Weinberg</a>
 
 >“When about 16 years of age, I happen'd to meet with a book written by one <a href="https://en.wikipedia.org/wiki/Thomas_Tryon" target="_blank">Tryon</a>, recommending a vegetable diet. I determined to go into it ... [By not eating meat] I presently found that I could save half what [my brother] paid me. This was an additional fund for buying books: but I had another advantage in it ... I made the greater progress from that greater clearness of head and quicker apprehension which usually attend temperance in eating and drinking.”
+
+>“My refusing to eat flesh occasioned an inconveniency, and I was frequently chided for my singularity, but, with this lighter repast, I made the greater progress, for greater clearness of head and quicker comprehension. Flesh eating is unprovoked murder.”
 
 >“Slavery is such an atrocious debasement of human nature, that its very extirpation, if not performed with solicitous care, may sometimes open a source of serious evils.”
 
@@ -2131,7 +2163,25 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 ― <a href="https://en.wikipedia.org/wiki/Periyar" target="_blank">Periyar</a>
 
+>“Victory attained by violence is tantamount to a defeat, for it is momentary.”
+
+>“Truth alone will endure, all the rest will be swept away before the tide of time. I must continue to bear testimony to truth even if I am forsaken by all. Mine may today be a voice in the wilderness, but it will be heard when all other voices are silenced, if it is the voice of Truth.”
+
+>“The English have taught us that we were not one nation before and that it will require centuries before we become one nation. This is without foundation. We were one nation before they came to India. One thought inspired us. Our mode of life was the same. It was because we were one nation that they were able to establish one kingdom. Subsequently they divided us.”
+
+>“The weak can never forgive. Forgiveness is the attribute of the strong.”
+
+>“The ideally non-violent state will be an ordered anarchy. That State is the best governed which is governed the least.”
+
+>“Religions are different roads converging to the same point. What does it matter that we take different road, so long as we reach the same goal. Wherein is the cause for quarrelling?”
+
+>“I would tell the Hindus to face death cheerfully if the Muslims are out to kill them. I would be a real sinner if after being stabbed I wished in my last moment that my son should seek revenge. I must die without rancour. … You may turn round and ask whether all Hindus and all Sikhs should die. Yes, I would say. Such martyrdom will not be in vain.”
+
 >“I saw that the writers on vegetarianism had examined the question very minutely, attacking it in its religious, scientific, practical and medical aspects. Ethically they had arrived at the conclusion that man's supremacy over the lower animals meant not that the former should prey upon the latter, but that **the higher should protect the lower**, and that there should be mutual aid between the two as between man and man.”
+
+>“Vegetarians should have that moral basis—that a man was not born a carnivorous animal, but born to live on the fruits and herbs that the earth grows.” 
+
+>“The greatness of a nation and its moral progress can be judged by the way its animals are treated. [Disputed but not clear if it is misattributed]”
 
 ― <a href="https://en.wikipedia.org/wiki/Mahatma_Gandhi" target="_blank">Mohandas Karamchand Gandhi</a>
 
@@ -2427,6 +2477,13 @@ These are some quotes related to veganism. Veganism is an ethical philosophy tha
 
 ― <a href="https://en.wikipedia.org/wiki/T._Colin_Campbell" target="_blank">T. Colin Campbell</a><span style="color:Chartreuse">(biochemist who specializes in the effect of nutrition on long-term health)</span>
 
+>“I credit my plant-based diet with giving me the energy and stamina to help carry my teams to four NBA championship wins. … Veganism has become a transformative part of my life and I have made it my mission to share the power of plant-based eating with the world. … Vegan eating is not just a slam dunk for human health; it’s also the most effective way to combat climate change, according to a 2010 report by the United Nations. … going vegan is one of the best things a person can do **for their health, for animals, and for the environment**.”
+
+― <a href="https://en.wikipedia.org/wiki/John_Salley" target="_blank">John Salley</a> <span style="color:Chartreuse">(1st player in the NBA history to win a championship in three different decades and 1st player in NBA history to win championships with three franchises)</span>
+
+>“In fact, my best year of track competition was the first year I ate a vegan diet. Moreover, by continuing to eat a vegan diet, my weight is under control, I like the way I look. (I know that sounds vain, but all of us want to like the way we look.) I enjoy eating more, and I feel great. … I remember vividly making the decision in July of 1990 to become a vegan. … And I had my best year as an athlete ever! … Your body is your temple. If you nourish it properly, it will be good to you and you will increase its longevity.”
+
+― <a href="https://en.wikipedia.org/wiki/Carl_Lewis" target="_blank">Carl Lewis</a><span style="color:Chartreuse">(Olympic athlete who won nine Olympic gold medals, one Olympic silver medal, and 10 World Championships medals, including eight gold. He also  won a gold medal in the same individual event in four consecutive Olympic Games)</span>
 
 >“The day has been, I am sad to say in many places it is not yet past, in which the greater part of the species, under the denomination of slaves, have been treated by the law exactly upon the same footing, as, in England for example, the inferior races of animals are still. **The day may come when the rest of the animal creation may acquire those rights which never could have been witholden from them but by the hand of tyranny**. The French have already discovered that the blackness of the skin is no reason a human being should be abandoned without redress to the caprice of a tormentor. It may one day come to be recognised that the number of the legs, the villosity of the skin, or the termination of the os sacrum are reasons equally insufficient for abandoning a sensitive being to the same fate. What else is it that should trace the insuperable line? Is it the faculty of reason or perhaps the faculty of discourse? But a full-grown horse or dog, is beyond comparison a more rational, as well as a more conversable animal, than an infant of a day or a week or even a month, old. But suppose the case were otherwise, what would it avail? **The question is not, Can they reason? nor, Can they talk? but, Can they suffer?**” [1780]
 
@@ -2646,13 +2703,11 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 ― <a href="https://en.wikipedia.org/wiki/J._Howard_Moore" target="_blank">J. Howard Moore</a><span style="color:Chartreuse">(1862 – 1916, American zoologist, philosopher, and social reformer. Known for being the 1st person who comitted suicide due to Vystopia)</span>
 
->“I credit my plant-based diet with giving me the energy and stamina to help carry my teams to four NBA championship wins. … Veganism has become a transformative part of my life and I have made it my mission to share the power of plant-based eating with the world. … Vegan eating is not just a slam dunk for human health; it’s also the most effective way to combat climate change, according to a 2010 report by the United Nations. … going vegan is one of the best things a person can do **for their health, for animals, and for the environment**.”
+>“Refrain at all times such Foods as can­not be procured without violence and op­pression. For know, that all the inferior Crea­tures when hurt do cry and send forth their Complaints to their Maker or grand Foun­tain whence they proceeded. Be not insensible that every Creature doth bear the Image of the great Creator ac­cording to the Nature of each, and that he is the Vital Power in all things. Therefore let none take pleasure to of­fer violence to that Life, lest he awaken the fierce wrath, and bring danger to his own Soul.”
 
-― <a href="https://en.wikipedia.org/wiki/John_Salley" target="_blank">John Salley</a> <span style="color:Chartreuse">(1st player in the NBA history to win a championship in three different decades and 1st player in NBA history to win championships with three franchises)</span>
+>“… far greater Advantages would come to pass amongst Christians, if they would cease from Contention, Oppression, and (what tends and disposes them thereunto,) the killing of Beasts, and eating their Flesh and Blood; and in a short time humane murthers, and devilish feuds and cruelties among each other, would abate, and perhaps scarce have a being amongst them.”
 
->“In fact, my best year of track competition was the first year I ate a vegan diet. Moreover, by continuing to eat a vegan diet, my weight is under control, I like the way I look. (I know that sounds vain, but all of us want to like the way we look.) I enjoy eating more, and I feel great. … I remember vividly making the decision in July of 1990 to become a vegan. … And I had my best year as an athlete ever! … Your body is your temple. If you nourish it properly, it will be good to you and you will increase its longevity.”
-
-― <a href="https://en.wikipedia.org/wiki/Carl_Lewis" target="_blank">Carl Lewis</a><span style="color:Chartreuse">(Olympic athlete who won nine Olympic gold medals, one Olympic silver medal, and 10 World Championships medals, including eight gold. He also  won a gold medal in the same individual event in four consecutive Olympic Games)</span>
+― <a href="https://en.wikipedia.org/wiki/Thomas_Tryon" target="_blank">Thomas Tryon</a><span style="color:Chartreuse">(1634 – 1703, early advocate of animal rights, vegetarianism)</span>
 
 >“A global transition to a cruelty-free vegan diet won't just help non-human animals. **The transition will also help malnourished humans who could benefit from the grain currently fed to factory-farmed animals**. For **factory-farming** is **not just cruel**; it's **energy-inefficient**. Let’s take just one example. Over the past few decades, millions of Ethiopians have died of "food shortages" while Ethiopia grew grain to sell to the West to feed cattle. Western meat-eating habits **prop up the price of grain so that poor people in the developing world can’t afford to buy it**. In consequence, they starve by the millions. In my work, I explore futuristic, hi-tech solutions to the problem of suffering. But anybody who seriously wants to reduce human and non-human suffering alike should adopt a cruelty-free vegan lifestyle today.”
 
@@ -2692,7 +2747,7 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 >“What do they know-all these scholars, all these philosophers, all the leaders of the world - about such as you? They have convinced themselves that man, the worst transgressor of all the species, is the crown of creation. All other creatures were created merely to provide him with food, pelts, to be tormented, exterminated. **In relation to them, all people are Nazis; for the animals it is an eternal Treblinka.**”
 
-― <a href="https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer" target="_blank">Isaac Bashevis Singer</a><span style="color:Chartreuse">(Jewish-American writer)</span>
+― <a href="https://en.wikipedia.org/wiki/Isaac_Bashevis_Singer" target="_blank">Isaac Bashevis Singer</a><span style="color:Chartreuse">(Jewish-American writer & vegetarian)</span>
 
 >“I have suffered so much myself that I can feel other creatures' suffering by virtue of my own.”
 
@@ -2716,7 +2771,17 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 >“As long as there are slaughterhouses there will be battlefields.”
 
+>“Flesh eating is simply immoral, as it involves the performance of an act which is contrary to moral feeling: killing. By killing, man suppresses in himself, unnecessarily, the highest spiritual capacity, that of sympathy and pity towards living creatures like himself and by violating his own feelings becomes cruel.
+
 >“My health not only has not suffered; it has in fact improved significantly since I have given up milk, butter and eggs, as well as sugar, tea, and coffee.”
+
+>“'Thou shalt not kill' does not apply to murder of one's own kind only, but to all living beings: and this Commandment was inscribed in the human breast long before it was proclaimed from Sinai.”
+
+>“Vegetarianism serves as a criterion by which we know that the pursuit of moral perfection on the part of humanity is genuine and sincere.”
+
+>“If a man earnestly seeks a righteous life, his first act of abstinence is from animal food...”
+
+>“What I think about vivisection is that if people admit that they have the right to take or endanger the life of living beings for the benefit of many, there will be no limit for their cruelty.”
 
 >“A man can live and be healthy without killing animals for food; therefore, if he eats meat, **he participates in taking animal life merely for the sake of his appetite**. And to act so is **immoral**.”
 
@@ -2728,7 +2793,11 @@ Z: I do not see why the whole species of one animal is more important than an eq
 
 >“As soon as men live entirely in accord with the law of love natural to their hearts and now revealed to them, which excludes all resistance by violence, and therefore hold aloof from all participation in violence — as soon as this happens, **not only will hundreds be unable to enslave millions, but not even millions will be able to enslave a single individual**.”
 
-― <a href="https://en.wikipedia.org/wiki/Leo_Tolstoy" target="_blank">Leo Tolstoy</a><span style="color:Chartreuse">(Russian writer who is regarded as one of the greatest authors of all time and pioneer of **Nonviolent resistance movement** that inspired **M.K. Gandhi**, **Martin Luther King Jr.**, **Nelson Mandela** and **Ludwig Wittgenstein**)</span>
+― <a href="https://en.wikipedia.org/wiki/Leo_Tolstoy" target="_blank">Leo Tolstoy</a><span style="color:Chartreuse">(One of earliest vegans. Russian writer who is regarded as one of the greatest authors of all time and pioneer of **Nonviolent resistance movement** that inspired **M.K. Gandhi**, **Martin Luther King Jr.**, **Nelson Mandela** and **Ludwig Wittgenstein**)</span>
+
+>“As long as Man continues to be the ruthless destroyer of lower living beings, he will never know health or peace. For as long as men massacre animals, they will kill each other. Indeed, he who sows the seed of murder and pain cannot reap joy and love.”
+
+― <a href="https://en.wikipedia.org/wiki/Pythagoras" target="_blank">Pythagoras</a> (vegetarian philosopher & religious founder)
 
 >“I don't hold animals superior or even equal to humans. The whole case for behaving decently to animals rests on the fact that we are the superior species. We are the species uniquely capable of imagination, rationality and moral choice – and that is precisely why we are under the **obligation** to recognise and respect the rights of animals.”
 
@@ -2737,6 +2806,18 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >“Our society views non human animals as so inferior that people actually get offended when someone stands up for them.”
 
 ― <a href="https://www.instagram.com/soul_eubanks/" target="_blank">Soul Eubanks</a><span style="color:Chartreuse">(Vegan Activist)</span>
+
+>“Because I am a civil-rights activist, I am also an animal- rights activist.
+>
+>Animals and humans suffer and die alike. Violence causes the same pain, the same spilling of blood, the same stench of death, the same arrogant, cruel, and vicious taking of life. We shouldn't be a part of it.”
+
+― <a href="https://en.wikipedia.org/wiki/Dick_Gregory" target="_blank">Dick Gregory</a><span style="color:Chartreuse">(Comedian and activist)</span>
+
+>“Most people don't think about the fact that they're eating animals.
+>
+>When they're eating a steak or eating chicken, most people don't think about the tremendous suffering that those animals endure simply to become food products to be consumed by human beings.”
+
+― <a href="https://en.wikipedia.org/wiki/Angela_Davis" target="_blank">Angela Davis</a><span style="color:Chartreuse">(Feminist activist)</span>
 
 >“It’s troubling when people get upset with vegans for pointing out the suffering, rather than getting upset with themselves for causing it.”
 
@@ -2849,6 +2930,10 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >“I coined the term **feminized protein** for eggs and dairy products: plant protein **produced through the abuse of the reproductive cycle of female animals**. Feminized protein is taken from living female animals, whose reproductive capacity is manipulated for human needs. The unique situation of domesticated female animals required its own term: a sexual slavery with chickens in battery cages and dairy cows hooked up to milking machines. … The radical truth is that people can be perfectly happy as vegans, but the dominant culture can’t or won’t acknowledge this. … Being vegan is an exciting, wonderful culinary experience and we probably don’t even know what’s possible because it’s still so new. … The process of objectification/fragmentation/consumption can be interrupted by the process of attention/nowness/compassion.”
 
 ― <a href="https://en.wikipedia.org/wiki/Carol_J._Adams" target="_blank">Carol J. Adams</a><span style="color:Chartreuse">(feminist and animal rights advocate)</span>
+
+>“'Animal' is a category that we shove certain bodies into when we want to justify violence against them, which is why animal liberation should concern all who are minoritized. As long as animals are oppressed, as long as 'animal' means something degrading, we will never be set free.”
+
+― <a href="https://en.wikipedia.org/wiki/Aph_Ko" target="_blank">Aph Ko and Syl Ko</a><span style="color:Chartreuse">(vegan activists)</span>
 
 >“When a woman responds to mistreatment by protesting "I'm a human being!" or "I want to be treated with respect, not like some animal," what is she suggesting about the acceptable ways of treating other animals? Perhaps because comparisons between women and nonhuman animals so often entail sexism, many women are anxious to distance themselves from other animals. Feminists, especially, recognize that negative "animal" imagery has advanced women's oppression. However, if our treatment and view of other animals became caring, respectful, and just, nonhuman-animal metaphors would quickly lose all power to demean. Few women have confronted how closely they mirror patriarchal oppressors when they too participate in other species' denigration. Women who avoid acknowledging that they are animals closely resemble men who prefer to ignore that women are human.”
 

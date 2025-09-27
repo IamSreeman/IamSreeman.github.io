@@ -12,7 +12,7 @@ script:
 In this post, I will argue that no parent has the right to brainwash/indoctrinate their children into a religion, and it is the duty of the government to do everything to make sure that no child is brainwashed. When they become adult, then they can read all religions and believe in whatever nonsense they want, as everyone has the right to freedom of religion. But children must be protected as they are easy to brainwash.
 <!--more-->
 
-Brainwashing children into religion should be constitutionally declared a crime that carries a month or a week of arrest. If this right is adopted worldwide, all religions will disappear in a few generations. Religion is nothing but a cycle of stupidity due to hereditary brainwashing.
+Brainwashing children into religion should be constitutionally declared a crime that carries a week of arrest. If this right is adopted worldwide, all religions will disappear in a few generations. Religion is nothing but a cycle of stupidity due to hereditary brainwashing.
 
 If you are silent while billions of children are brainwashed, then you are complicit in the brainwashing, even if you are an atheist, unless you were silent due to draconian apostasy or blasphemy laws such as the death penalties in the Middle East, in which case your silence is justified.
 
