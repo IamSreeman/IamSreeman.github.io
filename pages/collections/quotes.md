@@ -171,7 +171,11 @@ These are some interesting quotes. I removed the quotes which are given as misat
 >
 >I think of you again with unmixed geniality and ask you to try to do the same with me. Objectively it is a **shame when two real fellows who have extricated themselves somewhat from this shabby world do not afford each other mutual pleasure**.” [20 December 1915 to Hilbert] [^Hilbert]
 
->“Generations to come, it may well be, will scarce believe that such a man as this one [Gandhi] ever in flesh and blood walked upon this Earth.”[^Gandhi]
+>“Generations to come, it may well be, will scarce believe that such a man as this one [Gandhi] ever in flesh and blood walked upon this Earth.” [^Gandhi]
+
+>“Taken on the whole, I would believe that Gandhi's views were the most enlightened of all the political men of our time. We should strive to do things in his spirit: not to use violence for fighting for our cause, but by non-participation of anything you believe is evil.”
+
+>“Everyone concerned in the better future of mankind must be deeply moved by the tragic death of Mahatma Gandhi. He died as the victim of his own principles, the principle of nonviolence. He died because in time of disorder and general irritation in his country, he refused armed protection for himself. It was his unshakable belief that the use of force is an evil in itself, that therefore it must be avoided by those who are striving for supreme justice to his belief. With his belief in his heart and mind, he has led a great nation on to its liberation. He has demonstrated that a powerful human following can be assembled not only through the cunning game of the usual political manoeuvres and trickeries but through the cogent example of morally superior conduct of life.”
 
 >Dear Mr Nehru,<br>
 I have read with extreme interest your marvelous book The Discovery of India. The first half of it is not easy reading for a Westerner. But it gives an understanding of the glorious intellectual and spiri- tual tradition of your great country. The analysis you have given in the second part of the book of the tragic influence and forced economic, moral and intellectual decline by the British rule and the vicious exploitation of the Indian people has deeply impressed me. My admiration for Gandhi's and your work for liberation through non-violence and non-cooperation has become even greater than it was already before. The inner struggle to conserve objective understanding despite the pres- sure of tyranny from the outside and the struggle against becoming inwardly a victim of resentment and hatred may well be unique in world history. I feel deeply grateful to you for having given to me your admirable work.
@@ -1138,11 +1142,26 @@ in this paper is one of those human achievements that make the planet worth savi
 
 >“**Desires** are the root cause of **suffering**.”[^suffering]
 
->“I say that there are three instances in which meat should not be consumed: when it is seen, heard, or suspected [that the animal was killed for one’s sake]. These are the three instances in which I say that meat should not be consumed.”[^demand]
+>“You shouldn’t eat meat when you know the animal was killed for your sake. If you do, you commit an offense of wrong conduct. I allow you to eat meat and fish that’s pure in three respects: you haven’t seen, heard, or suspected that the animal was killed for your sake.”[[Khandhaka 6.19](https://thebuddhaswords.net/vi/kd6.html#content)][^demand]
 
->“How then can it be compassionate to gorge on other beings’ blood and flesh? Monks who will not wear silks from the East, whether coarse or fine; who will not wear shoes or boots of leather, nor furs, nor birds’ down from our own country; and who will not consume milk, curds, or ghee, have truly freed themselves from the world.”
+>Five, beggars/monks, are the trades[1] that should not be undertaken by a lay follower.<br>
+What five?<br>
+Trade in swords/weapons,<br>
+trade in living beings[^commodity],<br>
+trade in limbs,<br>
+trade in maddening drugs,<br>
+trade in poisons.<br>
+These are the five trades, beggars, that should not be undertaken by a lay follower.” [[Aṅguttara Nikāya 5.177](https://buddhadust.net/dhamma-vinaya/bd/an/05_fives/an05.177.olds.bd.htm){:target="_blank"}]
 
->“These five trades, O monks, should not be taken up by a lay follower: trading with weapons, trading in living beings, trading in meat, trading in intoxicants, trading in poison.”
+[^commodity]: This verse, [Aṅguttara Nikāya 5.177](https://buddhadust.net/dhamma-vinaya/bd/an/05_fives/an05.177.olds.bd.htm){:target="_blank"}, is a very remarkable statement by Siddhārtha Gautama that is not just for monks of his religion but all "lay follower"s, i.e., all Buddhists. He says trade with living beings is evil. This includes not just human slavery but also animal slavery. Even considering animals as property is wrong, according to him. <a href="https://en.wikipedia.org/wiki/Tom_Regan" target="_blank">Tom Regan</a> and <a href="https://en.wikipedia.org/wiki/Gary_L._Francione" target="_blank">Gary L. Francione</a> developed this approach of abolishing the commodity status of animals 2500 years after Siddhārtha Gautama, more properly using Kantian deontology, etc. 
+
+>“~~How then can it be compassionate to gorge on other beings’ blood and flesh? Monks who will not wear silks from the East, whether coarse or fine; who will not wear shoes or boots of leather, nor furs, nor birds’ down from our own country; and who will not consume milk, curds, or ghee, have truly freed themselves from the world.~~”[[Śūraṅgama Sūtra](https://en.wikipedia.org/wiki/Śūraṅgama_Sūtra){:target="_blank"}][^fake]
+
+[^fake]: I scratched it off because this is a fake Buddha quote from 700 AD, unlike all the others from authentic original Theravāda scripture. This scripture was a fake Chinese scripture supposedly translated from an original Indian Pali scripture, but historians agree that this was made up in China. This is perhaps the first idea of Veganism, but we don't know which Chinese monk wrote this & this predates even the first recorded vegan, <a href="https://en.wikipedia.org/wiki/Al-Ma%CA%BFarri" target="_blank">Al-Ma'arri</a>.
+
+    In fact, we know that Buddha only considered meat as immoral but not dairy products from [Khandhaka 6.22](https://thebuddhaswords.net/vi/kd6.html#content) titled "22. The allowance for the five products of a cow, etc." that clearly says
+
+    >“I allow five products from cows: milk, curd, buttermilk, butter, and ghee.”
 
 >“Death carries off a man who is gathering flowers and whose mind is distracted, as a flood carries off a sleeping village.”
 
@@ -1967,6 +1986,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 ― <a href="https://en.wikipedia.org/wiki/Jane_Austen" target="_blank">Jane Austen</a>
 
+>“Any mingling of knowledge with values is unlawful, forbidden.”
+
+― <a href="https://en.wikipedia.org/wiki/Jacques_Monod" target="_blank">Jacques Monod</a>
+
 >“However statistically improbable the entity you seek to explain by invoking a designer, the designer himself has got to be at least as improbable. God is the <a href="https://en.wikipedia.org/wiki/Ultimate_Boeing_747_gambit" target="_blank">Ultimate Boeing 747</a>.”
 
 >“The God of the Old Testament is arguably the most unpleasant character in all fiction: jealous and proud of it; a petty, unjust, unforgiving control-freak; a vindictive, bloodthirsty ethnic cleanser; a misogynistic, homophobic, racist, infanticidal, genocidal, filicidal, pestilential, megalomaniacal, sadomasochistic, capriciously malevolent bully.”
@@ -2175,13 +2198,29 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 >“Religions are different roads converging to the same point. What does it matter that we take different road, so long as we reach the same goal. Wherein is the cause for quarrelling?”
 
+>“Hindus and Muslims were sons of the same soil of India; they were brothers who therefore must strive to keep India free and united.”
+
+>“"Hate the sin and not the sinner" is a precept which, though easy enough to understand, is rarely practiced, and that is why the poison of hatred spreads in the world.”
+
+>“I find no parallel in history for a body of converts and their descendants claiming to be a nation apart from the parent stock.”
+
 >“I would tell the Hindus to face death cheerfully if the Muslims are out to kill them. I would be a real sinner if after being stabbed I wished in my last moment that my son should seek revenge. I must die without rancour. … You may turn round and ask whether all Hindus and all Sikhs should die. Yes, I would say. Such martyrdom will not be in vain.”
+
+>“The greatness of a nation and its moral progress can be judged by the way its animals are treated. [Disputed but not clear if it is misattributed]”
 
 >“I saw that the writers on vegetarianism had examined the question very minutely, attacking it in its religious, scientific, practical and medical aspects. Ethically they had arrived at the conclusion that man's supremacy over the lower animals meant not that the former should prey upon the latter, but that **the higher should protect the lower**, and that there should be mutual aid between the two as between man and man.”
 
 >“Vegetarians should have that moral basis—that a man was not born a carnivorous animal, but born to live on the fruits and herbs that the earth grows.” 
 
->“The greatness of a nation and its moral progress can be judged by the way its animals are treated. [Disputed but not clear if it is misattributed]”
+>“I will not take milk, milk-products or meat. If not taking these things should mean my death, I feel I'd rather face it.”[^Vow]
+
+>“I had before me a picture of the wicked processes like [Phooka](https://en.wikipedia.org/wiki/Cow_blowing){:target="_blank"}, the govals in Calcutta adopted to extract the last drop of milk from their cows and buffaloes. I also had the feeling that, just as meat was not man's food, even animal's milk could not be man's food.”
+
+>“Since I had come to know that the cow and the buffalo were subjected to the process of [Phooka](https://en.wikipedia.org/wiki/Cow_blowing){:target="_blank"}, I had conceived a strong disgust for milk.” [[The Story of My Experiments with Truth](https://en.wikipedia.org/wiki/The_Story_of_My_Experiments_with_Truth){:target="_blank"}]
+
+>“You can give me the injections, but milk is a different question; I have a vow against it.”
+
+>“I was fully conscious when I started taking mother goat's milk, that the spirit of my vow was destroyed. Consequently one of the greatest experiments in my life came to a stop.”
 
 ― <a href="https://en.wikipedia.org/wiki/Mahatma_Gandhi" target="_blank">Mohandas Karamchand Gandhi</a>
 
@@ -3329,6 +3368,8 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 [^Character]: Many Indians still haven't understood this famous MLK quote about character. Indians often judge people based on their caste. My varna was shudra, which supposedly means I should be an idiot, but I am not, and my jati was Reddy, which means I am supposedly violent, but I'm not. Anyway, I no longer identify with these stupid categories.
 
 [^Based]: Periyar destroyed the idols by first starting with the God, who is generally first worshipped before other Gods. The funniest atheist activism in history.
+
+[^Vow]: He later was forced to abandon this vow as the doctors were saying Gandhi's "veganism" (he was doing it before the term was coined) was jeopardizing both his health & the Indian Independence Movement. If he had actually followed this fully, then I would have accepted what Einstein said about him, "Generations to come ...".
 
 <script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
 
