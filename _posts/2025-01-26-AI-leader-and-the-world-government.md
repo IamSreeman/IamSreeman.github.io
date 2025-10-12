@@ -469,13 +469,16 @@ Currently, there are [eight divisions](https://en.wikipedia.org/wiki/Divisions_o
 
 Nepal, Sri Lanka, and Bhutan should all be joined as single states of India.
 
-Another option to make joining India more acceptable is to have Deputy PMs for different regions (might be called megaregions of India) of India. There should be a 1) Deputy PM of Pakistan (includes Kashmir & Afghanistan) 2) Deputy PM of South India (includes Sri Lanka) 3) Deputy PM of East India (current Eastern zonal division + North Eastern zonal division + Bangladesh but removing Bihar & Jharkhand) 4) Deputy PM of Central India (current Central zonal division + Nepal + Bihar & Jharkhand) 5) Deputy PM of North West India (current Northern zonal division + Western zonal division). It is not needed to have [Punjab](https://en.wikipedia.org/wiki/Punjab_Province_(British_India)){:target="_blank"} in a single megaregion because most ethnic Punjabis have stopped speaking Punjabi & moved to speaking Hindi instead.
+Another option to make joining India more acceptable is to have Deputy PMs for different regions (might be called megaregions of India) of India. There should be a 1) Deputy PM of Pakistan (includes Kashmir & Afghanistan) 2) Deputy PM of South India (includes Sri Lanka) 3) Deputy PM of East India (current Eastern zonal division + North Eastern zonal division + Bangladesh + Bhutan but removing Bihar & Jharkhand) 4) Deputy PM of Central India (current Central zonal division + Nepal + Bihar & Jharkhand) 5) Deputy PM of North West India (current Northern zonal division + Western zonal division). It is not needed to have [Punjab](https://en.wikipedia.org/wiki/Punjab_Province_(British_India)){:target="_blank"} in a single megaregion because most ethnic Punjabis near Delhi have stopped speaking Punjabi & moved to speaking Hindi instead.
+
+<img src="{{site.baseurl}}/images/posts/Proposal.png" width="500"/><br>
 
 <img src="{{site.baseurl}}/images/posts/IndianEthnicGroups1.png" width="500"/><br>
 
 <img src="{{site.baseurl}}/images/posts/IndianEthnicGroups2.png" width="500"/><br>
 
 Each state of the Indian civilization will have [Chief Ministers](https://en.wikipedia.org/wiki/Chief_minister_(India)){:target="_blank"} & MLAs in the state-level parliament in each state's capital, just like India currently has. The central/union level politics is controlled by MPs, just like the current Indian system. In the central parliament, on alternate days, the discussion should be subdivided into the megaregions & deputy PM of each megaregion will be the main leader of their regional politics. If the minorities (for example, in Central India, non-Hindi people like Nepalis, in East India, non-Bengalis like the tribes in [seven sisters](https://en.wikipedia.org/wiki/Northeast_India#Seven_Sister_States){:target="_blank"} etc are minorities) of any megaregion think their Deputy PM is unfair in alloting budget to their people, they can always complain to the Prime Minister in the next day when all the megaregions have a unified session. If Nehru agreed to decentralize the power like this, Jinnah was willing to stop his demand for the partition of India.
+
 ___
 
 Reorganising the countries of the world in the early years of the world government might be similar to reorganising India after independence.
