@@ -94,7 +94,7 @@ See the below important pamphlet.
 <img src="{{site.baseurl}}/images/other/AbolitionistApproach.jpg" width="500"/>
 <br>
 
-The moral argument is the most important and compelling argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their corpses without causing pollution, cancer, heart diseases etc. **But even then** it is not morally OK to not be a vegan because of the ethical issues since it is totally unnecessary.
+The moral argument is the most important and compelling argument for veganism. Maybe after some centuries we will be advanced enough to kill animals and eat their corpses without causing pollution, cancer, heart diseases etc. **But even then** it is not morally OK to not be a vegan because of the ethical issues since it is senseless violence & murder.
 
 People think civilisation started with the birth of Animal Agriculture & religions, but true civilisation will start after the extinction of Animal Agriculture & religions. Animal Agriculture is the [Chapter Black](https://yuyuhakusho.fandom.com/wiki/Chapter_Black){:target="_blank"} of Human History.
 
