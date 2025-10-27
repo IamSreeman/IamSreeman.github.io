@@ -30,6 +30,8 @@ This page contains reasons why I made this decision and also some resources if y
 
 ― <a href="https://en.wikipedia.org/wiki/Albert_Einstein" target="_blank">Albert Einstein</a>
 
+<span style="color:red">Note: If you recently became vegan, DO NOT forget to take a B12 supplement or a multivitamin supplement that includes B12. Also consume foods like Tofu or Soy Chunks that contain high calcium & protein.</span>
+
 >#### Contents
 >
 >1. [Reasons](#reasons)
@@ -98,7 +100,7 @@ People think civilisation started with the birth of Animal Agriculture & religio
 
 Note that there are various levels of veganism.
 
-1) **Welfarist vegans**: They usually support welfare reforms such as more "humane" slaughter of animals, but they don't ask for the end of slaughterhouses. These are the vast majority of vegans. They generally think of veganism as an extra good thing one can do, & they don't expect everyone to do this. Like most carnists, they generally think of non-human animals[^Anymal] as so Incomparably Infinitely Inferior that they get offended if other vegans compare Animal Agriculture with human victims of slavery, holocaust, etc.
+1) **Welfarist vegans**: They usually support welfare reforms such as more "humane" slaughter of animals, but they don't ask for the end of slaughterhouses. These are the vast majority of vegans. They generally think of veganism as an extra good thing one can do, & they don't expect everyone to do this. Like most carnists, they generally think of non-human animals[^Anymal] as so Inherently  Incomparably Infinitely Inferior that they get offended if other vegans compare Animal Agriculture with human victims of slavery, holocaust, etc.
 
 2) **Abolitionist vegans**: These want Animal Agriculture to be abolished & not merely regulated via welfare reforms. They are a small fraction compared to before. They generally argue that a sentient animal must never be considered as an [object](https://en.wikipedia.org/wiki/Objectification){:target="_blank"}/[commodity](https://en.wikipedia.org/wiki/Commodity_status_of_animals){:target="_blank"}/property/slave; see the above pamphlet. They also generally think that welfarist reforms don't do much for the animals & their only purpose is to make humans/consumers guilt-free by keeping making new terms every year, like cage-free, free-range, locally-harvested, just so the companies can make more money. For example, welfarist vegans think they can donate "humane" shrimp-killing machines to companies that murder shrimps (this is like donating "humane" whips to confederates of the US Civil War) & that gives "painless" deaths to many shrimps but they are needlessly putting blood on their hands. Unlike many abolitionist vegans, I believe that animals have 2 more rights other than this one. They also have the [right to life](https://en.wikipedia.org/wiki/Right_to_life){:target="_blank"} which implies their murder is wrong; for example, unlike all forms of Animal Agriculture, hunting doesn't involve the commodification (at least while the animal is alive) & therefore doesn't violate their right not to be treated as property, but the murder still violates the right to life. This right is also violated in meat industry as they take away this right once the baby animals get big enough which happens before they become adults due to genetic modifications but this right to life is not violated in Indian Dairy Industry as they don't murder. They also have the right to [bodily integrity](https://en.wikipedia.org/wiki/Bodily_integrity){:target="_blank"} (which is violated in the Dairy Industry during the aritificial insemination of cows which is an abuse of female reprodcutive organs). **Note**: Believing in Animal Rights is not being an "animal lover" just like believing in human rights is not being a "human lover". It's not like only a "human lover" who finds humans cute thinks murder/slavery of humans is wrong.
 
@@ -329,6 +331,28 @@ For women, the consumption of dairy products causes early puberty. The first men
 
 <img src="{{site.baseurl}}/images/other/MilkHormones.png" width="500"/>
 <img src="{{site.baseurl}}/images/other/memes/v/40.png" width="500"/><br>
+
+##### Cousinbalism
+
+I am coining Cousinbalism as a generalization of Cannibalism, which includes all nth cousins irrespective of whether they belong to our species.
+
+If we go back to ~100 million years ago, our ancestor is the same as the ancestor of most mammals like cows, pigs, rats, rabbits, etc. If we go back ~300 million years ago, the same thing happens with the Chickens. If we go back ~400 million years ago, the same thing happens with the fishes. If we go back to ~550 million years ago, the same thing happens with the crustaceans, like shrimps.
+
+I am only talking about our sentient cousins. Of course, all life descended from LUCA, but that doesn't mean we should care about non-sentient life forms like bacteria, trees, sponges, corals, etc. Also, I am not implying that if we find sentient aliens in the future, we can eat them since they are not our cousins.
+
+>“The ideal conception of social obligation is bigger than family and friends, bigger than the city and State in which one happens to be born and raised, bigger than species, bigger even than the particular world of which one is a tenant. ***There are no aliens anywhere, not even in hell, to the being who is as big morally as he ought to be—only brothers. The universal heart goes out in tenderness beyond all boundaries of form and colour and architecture and accident of birth—into every place where quivers a living soul.*** The Great Law is for the healing and consolation of all. Moral obligation is as extensive as the power to feel.”
+
+>“The thesis of the New Ethics is the ethical corollary of the doctrine of evolution. It is simply the expansion of ethics to suit the biological revelations of Charles Darwin. The present ethical conception is based on the pre-Darwinian belief that all other species of animals and all worlds were produced for the exclusive benefit of the human species. It is anthropocentric. It originated among primitive peoples. It has come all the way down through the centuries, not because of its beauty or its fitness for immortality among ideas, but because of the excellent opportunities each generation has had of inoculating each succeeding generation with anything it has had a mind to.”
+
+>“Oh this killing, killing, killing—this awful, never-stopping, never-ending, world-wide butchery! What a world! 'Ideal'?—and 'perfect'?—and 'all-wise'? Certainly—to tigers, and highwaymen, and people who are sound asleep; but to everybody else it is simply monstrous.”
+
+>“It is simply monstrous, this horrible savagery and somnambulism in which we grope. It is the climax of mundane infamy—the "paragon of the universe" dozing on the pedestal of his imagination and contemplating himself as an interstellar pet and all other beings as commodities. Let us startle ourselves, those of us who can, to a realization of the ***holocaust we are perpetrating on our feathered and fur-covered friends***. For remember the same sentiment of sympathy and fraternity that broke the black man's manacles and is to-day melting the white woman's chains will to-morrow emancipate the sorrel horse and the heifer; and as the ages bloom and the great wheels of the centuries grind on, all the races of the earth shall become kind, and this age of ours, so bigoted and raw, shall be remembered in history as an age of insanity, somnambulism, and blood.” [1897 from [The Unconscious Holocaust](https://archive.org/details/theunconsciousholocaust-jhowardmoore){:target="_blank"}]
+
+>“The Universal Kinship means the kinship of all the inhabitants of the planet Earth. Whether they came into existence among the waters or among desert sands, in a hole in the earth, in the hollow of a tree, or in a palace; whether they build nests or empires; whether they swim, fly, crawl, or ambulate; and whether they realise it or not, they are all related, physically, mentally, morally—this is the thesis of this book. But since man is the most gifted and influential of animals, and since his relationship with other animals is more important and more reluctantly recognised than any other, the chief purpose of these pages is to prove and interpret the kinship, of the human species with the other species of animals.”
+
+>“A central truth of the Darwinian philosophy is the unity and consanguinity of all organic life. And during the next century or two the ethical corollary of this truth is going to receive unprecedented recognition in all departments of human thought.”
+
+― <a href="https://en.wikipedia.org/wiki/J._Howard_Moore" target="_blank">J. Howard Moore</a><span style="color:Chartreuse">(1862 – 1916, American zoologist, philosopher, and social reformer. Known for being the 1st person who comitted suicide due to Vystopia)</span>
 
 #### Resources
 - [3minutes.wtf](https://3minutes.wtf/){:target="_blank"}
