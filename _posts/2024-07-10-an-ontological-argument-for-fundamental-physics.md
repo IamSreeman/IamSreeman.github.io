@@ -102,17 +102,33 @@ The below argument from 1. to 9. argues there is an entity whose ***physical*** 
 
 Note that even before we know the existence of any physical entity, we know that mathematics exists in the Platonic sense. This is called Mathematical Platonism ([1](https://iep.utm.edu/mathplat/){:target="_blank"},[2](https://plato.stanford.edu/entries/platonism-mathematics/){:target="_blank"},[3](https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism){:target="_blank"}). There are critics of Mathematical Platonism who think mathematics only exists inside the imaginations of humans, but I think when you look into a [zoom video](https://www.youtube.com/watch?v=VNnXuQimWgc){:target="_blank"} of the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set){:target="_blank"} it should convince you that mathematics is not man-made. Furthermore, once the existence of the physical world is known, we can use the Quine–Putnam indispensability argument ([1](https://plato.stanford.edu/entries/mathphil-indis/){:target="_blank"},[2](https://iep.utm.edu/indimath/){:target="_blank"},[3](https://en.wikipedia.org/wiki/Quine%E2%80%93Putnam_indispensability_argument){:target="_blank"}) to go back and argue for the existence of the Mathematical Platonic realm, but I can't use that because I am using the existence of the Mathematical Platonic realm to explain the existence of the physical world.
 
+1. "ToE" is defined as "the greatest entity in the Mathematical Platonic Realm" & the Mathematical Platonic Realm contains all possible (i.e. logically consistent) mathematical entities. (<span style="color:green">definition</span>)
 1. Assume ToE does not exist physically.
-1. "ToE" is defined as "the greatest entity in the Mathematical Platonic Realm" & the Mathematical Platonic Realm contains all possible mathematical entities. (<span style="color:green">definition</span>)
 1. "The greatest entity in the Mathematical Platonic Realm" must, therefore, not exist physically and exist only Platonically. (from 1 & 2).
 1. If "the greatest entity in the Mathematical Platonic Realm" were to also exist in physical reality, it would be even "greater", as all the other great aspects still remain intact. (<span style="color:red">assumption</span> or <span style="color:red">premise</span>)
 1. But that would mean "the greatest entity in the Mathematical Platonic Realm" is not actually the "greatest" possible entity in the Mathematical Platonic Realm since it could be even "greater". (from 3 & 4).
 1. "The greatest entity in the Mathematical Platonic Realm" must exist in both Platonic Mathematics and also in physical reality for it to be the "greatest" entity in the Mathematical Platonic Realm.
 1. Therefore 1 & 2 are inconsistent.
-1. Premise 1 cannot be true since 2 is just a definition (reductio ad absurdum).
+1. Premise 2 cannot be true since 1 is just a definition (reductio ad absurdum).
 1. Therefore, the ToE exists in physical reality.
 
-So, our conclusion is that the Theory of Everything (ToE) must exist in physical reality for purely logical reasons without any physical reason. I think this conclusion is the only [synthetic a priori](https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction){:target="_blank"} statment. Its synthetic as its talking about physical reality.
+So, we conclude that the Theory of Everything (ToE) must exist in physical reality for purely logical reasons without any physical reason. I think this conclusion is the only [synthetic a priori](https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction){:target="_blank"} statement. It's synthetic as it's talking about physical reality & is empirically falsifiable. But it is also an analytic a priori statement as the definition of the theory implies it's the greatest & has this property of physical existence. Here, I used the updated definitions of Analytic/Synthetic by logical positivists, not Kant's original. A statement like "Water is made up of H2O" will have a [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensionalism){:target="_blank"} interpretation (analytic/secondary one saying that it merely follows from the definition of water, which is a certain configuration of fundamental physical particles & synthetic/primary one obtained by empirical spectroscopy) where both are true but are saying different things due to the analytic water being an idealised version while the empirical one will be impure (if you zoom you see dirt particles in the water). But our conclusion "ToE exists in physical reality" is true in both interpretations with the exact same meaning because it is an exact empirical truth. A strong argument against the theological ontological argument by Kant was that having existence as a predicate/property/attribute of an imaginary concept is impossible, as non-existent things cannot have attributes. But this problem is resolved in the physical ontological argument by demarcating two types of existence (mathematical vs physical). Physical existence as an attribute naively has two logical possibilities: either "none" or only "one" of the mathematical entities has a physical existence attribute, as more than 1 theory logically can't govern the physical reality. This post is essentially saying that the "none" case is also logically not possible.
+
+The theological ontological argument basically says
+
+1. Define God as a being that is maximally great.
+1. Existence is a great-making (greatness-increasing) attribute.
+1. Therefore, God has the property of existence.
+1. Therefore, God exists.
+
+One issue is that even if existence is a predicate/attribute, 3 doesn't imply 4 because 3 is actually merely saying "If something with this definition of God (a maximally great being) exists, then it necessarily exists".
+
+Even this issue is nicely solved by our demarcation of mathematical vs physical existence because 3 is now saying "If something with this definition of ToE (a maximally great mathematical entity) exists mathematically (all it needs for mathematical existence is logical consistency), then it necessarily exists physically".
+
+1. Define ToE as a mathematical entity that is maximally great.
+1. Physical Existence is a great-making (greatness-increasing) attribute.
+1. Therefore, if ToE exists in the Mathematical Platonic Realm (i.e, ToE is logically consistent), then ToE has the property of Physical Existence.
+1. Therefore, ToE exists in physical reality.
 
 <img src="{{site.baseurl}}/images/posts/Penrose.png" width="300"/><br>
 
@@ -140,7 +156,7 @@ The only assumption is 4. To me, it seems very obvious that an equation would be
 
 Traditionally, when theists use the ontological argument for the existence of their fictional god, they generally do not properly define what they mean by "greatness". In our context, we can say much more about it.
 
-The "greatness" here is a [partial ordering relation](https://en.wikipedia.org/wiki/Partially_ordered_set){:target="_blank"}, but the single greatest can be compared to any other thing & the ordering relation will be defined. But among lower things, one can be greater among some aspects of greatness & the other can be greater among some other aspects of greatness, so overall it is not defined which is the greater.
+The "greatness" here is a [partial ordering relation](https://en.wikipedia.org/wiki/Partially_ordered_set){:target="_blank"}, but the single greatest can be compared to any other thing & the ordering relation will be defined as the greatest will be the best in all aspects of greatness. But among lower things, one can be greater among some aspects of greatness & the other can be greater among some other aspects of greatness, so overall it is not defined which is the greater. So there was an implicit 2nd assumption that [the greatest element](https://en.wikipedia.org/wiki/Greatest_element_and_least_element){:target="_blank"} exists.
 
 ### Simplicity
 
