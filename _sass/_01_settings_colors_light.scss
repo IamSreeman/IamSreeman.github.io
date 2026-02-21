@@ -1,4 +1,4 @@
-/* TOC – Color Variables
+/* TOC - Color Variables
 
 - Basics
 - Corporate Identity Colorpalette
@@ -15,26 +15,26 @@
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1: #334D5C;		// dark turquoise
-$ci-2: #45B29D;		// turquoise
-$ci-3: #EFC94C;		// yellow
-$ci-4: #E27A3F;		// orange
-$ci-5: #DF4949;		// red
-$ci-6: #A1D044;     // green
-$ci-9: #FFA500;
+$ci-1: #334D5C; // dark turquoise
+$ci-2: #45B29D; // turquoise
+$ci-3: #EFC94C; // yellow
+$ci-4: #E27A3F; // orange
+$ci-5: #DF4949; // red
+$ci-6: #228B22; // thick green (was #A1D044)
+$ci-9: #D35400; // thick orange (was #FFA500)
 
 
 /* Foundation Color Variables
 ------------------------------------------------------------------- */
 
-$primary-color      : $ci-9;
-$secondary-color    : $ci-6;
+$primary-color: $ci-9;
+$secondary-color: $ci-6;
 
 $alert-opacity: 0.2;
-$alert-color        : $ci-5;
-$success-color      : $ci-6;
-$warning-color      : $ci-4;
-$info-color         : $ci-1;
+$alert-color: $ci-5;
+$success-color: $ci-6;
+$warning-color: $ci-4;
+$info-color: $ci-1;
 $terminal-color: rgba(#ffffff, $alert-opacity);
 $todo-color: #000000;
 
@@ -66,21 +66,21 @@ $grey-16: #0B0B0B;
 /* Basics
 ------------------------------------------------------------------- */
 
-$text-color         : #111;
-$body-font-color    : $text-color;
-$body-bg            : #fdfdfd;
+$text-color: #111;
+$body-font-color: $text-color;
+$body-bg: $grey-1;
 
 
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg          : $grey-8;
-$footer-color       : #fff;
+$footer-bg: $grey-8;
+$footer-color: #fff;
 $footer-header-color: $secondary-color;
 
 
-$subfooter-bg       : $grey-13;
-$subfooter-color    : $grey-8;
+$subfooter-bg: $grey-13;
+$subfooter-color: $grey-8;
 $subfooter-link-color: $grey-8;
 
 

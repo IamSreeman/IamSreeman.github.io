@@ -107,8 +107,6 @@ These are some interesting quotes. I removed the quotes which are given as misat
 
 >“Nothing will benefit human health and increase chances for survival of life on Earth as much as the evolution to a vegetarian diet. Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of nature and its beauty.”
 
->“If a man aspires towards a righteous life, his first act of abstinence is from injury to animals.”
-
 >“I have always eaten animal flesh with a somewhat guilty conscience.”[1953 letter to Max Kariel]
 
 >“So I am living without fats, without meat, without fish, but am feeling quite well this way. It always seems to me that man was not born to be a carnivore.”[1954]
@@ -2046,6 +2044,8 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 >“How easy it is to make people believe a lie, and hard it is to undo that work again!” (Often paraphrased as “It's easier to fool people than to convince them that they have been fooled.”)
 
+>“Man is a Religious Animal. He is the only Religious Animal. He is the only animal that has the True Religion--several of them. He is the only animal that loves his neighbor as himself and cuts his throat if his theology isn't straight. He has made a graveyard of the globe in trying his honest best to smooth his brother's path to happiness and heaven....The higher animals have no religion. And we are told that they are going to be left out in the Hereafter. I wonder why? It seems questionable taste.”
+
 >“The easy confidence with which I know another man's religion is folly teaches me to suspect that my own is also.”
 
 >“Lincoln's <a href="https://en.wikipedia.org/wiki/Emancipation_Proclamation" target="_blank">Proclamation</a> ... not only set the black slaves free, but set the white man free also.”
@@ -2314,6 +2314,10 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 
 — A phrase that was carved on the walls of <a href="https://en.wikipedia.org/wiki/Mauthausen_concentration_camp" target="_blank">Mauthausen Nazi concentration camp</a> cell during WWII by a prisoner.
 
+>“It was not Hitler or Himmler who abducted me, beat me and shot my family. It was the shoemaker, the milkman, the neighbor, who received a uniform and then believed they were the master race.”
+
+― <a href="https://www.auschwitz.at/karl-stojka-en" target="_blank">Karl Stojka</a>
+
 >“Creationism lost its best argument when the Catholic church stopped burning people at the stake.”
 
 — Unknown
@@ -2509,6 +2513,19 @@ matters which I neither saw nor suffered, nor heard by report from others, which
 >“Yet from the viewpoint of the herd, rather than that of the shepherd, it’s hard to avoid the impression that **for the vast majority of domesticated animals, the Agricultural Revolution was a terrible catastrophe**. Their evolutionary ‘success’ is meaningless. A rare wild rhinoceros on the brink of extinction is probably more satisfied than a calf who spends its short life inside a tiny box, fattened to produce juicy steaks. The contented rhinoceros is no less content for being among the last of its kind. **The numerical success of the calf’s species is little consolation for the suffering the individual endures**.”
 
 ― <a href="https://en.wikipedia.org/wiki/Yuval_Noah_Harari" target="_blank">Yuval Noah Harari</a>
+
+>“The Negro enslaved by his inferiority, the white man enslaved by his superiority alike behave in accordance with a neurotic orientation.”
+
+>“In no way should my color be regarded as a flaw.”
+
+>“To speak a language is to take on a world, a culture.”
+
+>“All forms of exploitation resemble one another.”
+
+>“Sometimes people hold a core belief that is very strong. When they are presented with evidence that works against that belief, the new evidence cannot be accepted. It would create a feeling that is
+extremely uncomfortable, called cognitive dissonance. And because it is so important to protect the core belief, they will rationalize, ignore and even deny anything that doesn't fit in with the core belief.”[^CoreBelief]
+
+― <a href="https://en.wikipedia.org/wiki/Frantz_Fanon" target="_blank">Frantz Fanon</a>
 
 #### Veganism
 
@@ -2839,6 +2856,10 @@ Z: I do not see why the whole species of one animal is more important than an eq
 >“As long as Man continues to be the ruthless destroyer of lower living beings, he will never know health or peace. For as long as men massacre animals, they will kill each other. Indeed, he who sows the seed of murder and pain cannot reap joy and love.”
 
 ― <a href="https://en.wikipedia.org/wiki/Pythagoras" target="_blank">Pythagoras</a> (vegetarian philosopher & religious founder)
+
+>“An animal owns nothing apart from its life and we still manage to steal it from them.”
+
+― <a href="https://en.wikipedia.org/wiki/Marguerite_Yourcenar" target="_blank">Marguerite Yourcenar</a> (novelist and essayist)
 
 >“I don't hold animals superior or even equal to humans. The whole case for behaving decently to animals rests on the fact that we are the superior species. We are the species uniquely capable of imagination, rationality and moral choice – and that is precisely why we are under the **obligation** to recognise and respect the rights of animals.”
 
@@ -3371,7 +3392,9 @@ I hope that heaven is just as pleasant as you envisioned it in your manga, sense
 
 [^Based]: Periyar destroyed the idols by first starting with the God, who is generally first worshipped before other Gods. The funniest atheist activism in history.
 
-[^Vow]: He later was forced to abandon this vow as the doctors were saying Gandhi's "veganism" (he was doing it before the term was coined) was jeopardizing both his health & the Indian Independence Movement. If he had actually followed this fully, then I would have accepted what Einstein said about him, "Generations to come ...".
+[^Vow]: He later was forced to abandon this vow as the doctors were saying Gandhi's "veganism" (he was doing it before the term was coined) was jeopardizing both his health & the Indian Independence Movement. If he had actually followed this fully, then I would have accepted what Einstein said about him, "Generations to come ...".\
+
+[^CoreBelief]: Speciesism/Carnism is by far the best and the most common example for such a "core belief".
 
 <script type="text/javascript" src="https://unpkg.com/wikipedia-preview@latest/dist/wikipedia-preview.production.js"></script>
 

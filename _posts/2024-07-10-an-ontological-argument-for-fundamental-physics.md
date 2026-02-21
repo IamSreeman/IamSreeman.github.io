@@ -21,7 +21,7 @@ script:
 <script type="text/javascript"
         src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-In this post, I will argue that the ontological argument explains the existence of the fundamental law of physics, i.e., a Theory of Everything. So, this will be a reasonably satisfying solution to the fundamental question of metaphysics: [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F){:target="_blank"} I will argue that the fundamental law of physics is a ***logically necessary entity***, and after its existence is justified, all things physical will follow from it. The Theory of Everything is the only mathematical entity whose existence is uplifted into the physical reality.
+In this post, I will argue that the ontological argument explains the existence of the fundamental law of physics, i.e., a Theory of Everything. So, this will be a reasonably satisfying solution to the fundamental question of metaphysics: [Why is there anything at all?](https://en.wikipedia.org/wiki/Why_is_there_anything_at_all%3F){:target="_blank"} I will argue that the fundamental law of physics is a ***logically necessary entity***, and after its existence is justified, all things physical will follow from it. The Theory of Everything is the only mathematical entity whose mere mathematical existence is uplifted so that it becomes the physical reality.
 <!--more-->
 
 - [Introduction](#introduction)
@@ -110,7 +110,7 @@ Note that even before we know the existence of any physical entity, we know that
 1. "The greatest entity in the Mathematical Platonic Realm" must exist in both Platonic Mathematics and also in physical reality for it to be the "greatest" entity in the Mathematical Platonic Realm.
 1. Therefore 1 & 2 are inconsistent.
 1. Premise 2 cannot be true since 1 is just a definition (reductio ad absurdum).
-1. Therefore, the ToE exists in physical reality.
+1. Therefore, the ToE exists as physical reality.
 
 So, we conclude that the Theory of Everything (ToE) must exist in physical reality for purely logical reasons without any physical reason. I think this conclusion is the only [synthetic a priori](https://en.wikipedia.org/wiki/Analytic%E2%80%93synthetic_distinction){:target="_blank"} statement. It's synthetic as it's talking about physical reality & is empirically falsifiable. But it is also an analytic a priori statement as the definition of the theory implies it's the greatest & has this property of physical existence. Here, I used the updated definitions of Analytic/Synthetic by logical positivists, not Kant's original. A statement like "Water is made up of H2O" will have a [two-dimensional](https://en.wikipedia.org/wiki/Two-dimensionalism){:target="_blank"} interpretation (analytic/secondary one saying that it merely follows from the definition of water, which is a certain configuration of fundamental physical particles & synthetic/primary one obtained by empirical spectroscopy) where both are true but are saying different things due to the analytic water being an idealised version while the empirical one will be impure (if you zoom you see dirt particles in the water). But our conclusion "ToE exists in physical reality" is true in both interpretations with the exact same meaning because it is an exact empirical truth. A strong argument against the theological ontological argument by Kant was that having existence as a predicate/property/attribute of an imaginary concept is impossible, as non-existent things cannot have attributes. But this problem is resolved in the physical ontological argument by demarcating two types of existence (mathematical vs physical). Physical existence as an attribute naively has two logical possibilities: either "none" or only "one" of the mathematical entities has a physical existence attribute, as more than 1 theory logically can't govern the physical reality. This post is essentially saying that the "none" case is also logically not possible.
 
@@ -128,7 +128,7 @@ Even this issue is nicely solved by our demarcation of mathematical vs physical 
 1. Define ToE as a mathematical entity that is maximally great.
 1. Physical Existence is a great-making (greatness-increasing) attribute.
 1. Therefore, if ToE exists in the Mathematical Platonic Realm (i.e, ToE is logically consistent), then ToE has the property of Physical Existence.
-1. Therefore, ToE exists in physical reality.
+1. Therefore, ToE exists as physical reality.
 
 <img src="{{site.baseurl}}/images/posts/Penrose.png" width="300"/><br>
 

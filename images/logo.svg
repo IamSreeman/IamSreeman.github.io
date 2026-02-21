@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <!-- 
+      True 3D Cylinder Shading Filter 
+      This dynamically applies inner shadows and highlights based on the shape's geometry,
+      creating a perfect top-down cylindrical look across the entire middle propagator and legs.
+      It gracefully fades out when morphing into the 1D QFT lines.
+    -->
+    <filter id="tube3D" x="-30%" y="-30%" width="160%" height="160%" color-interpolation-filters="sRGB">
+      
+      <!-- 1. Bottom Dark Inner Shadow -->
+      <!-- Offset upwards so the out-composite leaves the bottom inside edge -->
+      <feOffset dx="0" dy="-8" in="SourceAlpha" result="offDark" />
+      <feGaussianBlur stdDeviation="7" in="offDark" result="blurDark" />
+      <feComposite operator="out" in="SourceAlpha" in2="blurDark" result="edgeDark" />
+      <feFlood flood-color="#18400a" result="colorDark">
+        <!-- Fades out to 0 opacity during the QFT particle phase (keyTimes 0.4 to 0.6) -->
+        <animate attributeName="flood-opacity" dur="2.5s" repeatCount="indefinite" 
+                 keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" 
+                 values="0.85; 0.85; 0; 0; 0.85; 0.85" />
+      </feFlood>
+      <feComposite operator="in" in="colorDark" in2="edgeDark" result="shadow1" />
+
+      <!-- 2. Top Bright Diffuse Highlight -->
+      <!-- Offset downwards so the out-composite leaves the top inside edge -->
+      <feOffset dx="0" dy="8" in="SourceAlpha" result="offLight" />
+      <feGaussianBlur stdDeviation="7" in="offLight" result="blurLight" />
+      <feComposite operator="out" in="SourceAlpha" in2="blurLight" result="edgeLight" />
+      <feFlood flood-color="#c5fcae" result="colorLight">
+        <animate attributeName="flood-opacity" dur="2.5s" repeatCount="indefinite" 
+                 keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" 
+                 values="1; 1; 0; 0; 1; 1" />
+      </feFlood>
+      <feComposite operator="in" in="colorLight" in2="edgeLight" result="highlight1" />
+
+      <!-- 3. Top Sharp Specular Ridge (extra shiny 3D tube effect) -->
+      <feOffset dx="0" dy="3" in="SourceAlpha" result="offSpec" />
+      <feGaussianBlur stdDeviation="2" in="offSpec" result="blurSpec" />
+      <feComposite operator="out" in="SourceAlpha" in2="blurSpec" result="edgeSpec" />
+      <feFlood flood-color="#ffffff" result="colorSpec">
+        <animate attributeName="flood-opacity" dur="2.5s" repeatCount="indefinite" 
+                 keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" 
+                 values="0.5; 0.5; 0; 0; 0.5; 0.5" />
+      </feFlood>
+      <feComposite operator="in" in="colorSpec" in2="edgeSpec" result="highlight2" />
+
+      <!-- 4. Merge base shape with accurate 3D lighting overlays -->
+      <feMerge>
+        <feMergeNode in="SourceGraphic" />
+        <feMergeNode in="shadow1" />
+        <feMergeNode in="highlight1" />
+        <feMergeNode in="highlight2" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background strictly matching the requested hex and shaped as an exact square -->
+  <rect width="500" height="500" fill="#fbf4c9" />
+
+  <!-- Shifting everything right by 50px to perfectly center the 400px wide art inside the new 500x500 box -->
+  <g transform="translate(50, 0)">
+    
+    <!-- Main Animation Group -->
+    <g id="scattering-process">
+      
+      <!-- 
+        The animated central surface.
+        The 3D filter gives the horizontal segment and legs a true cylinder appearance.
+        As the animation approaches the QFT state, the fill fades,
+        and only the skeleton path stroke (the particle worldlines) remains visible.
+      -->
+      <path fill="#75cf4e" filter="url(#tube3D)" stroke-linejoin="round" stroke-linecap="round">
+        <animate attributeName="d" dur="2.5s" repeatCount="indefinite"
+                 keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1"
+                 values="
+                   M 95,65 C 130,100 150,180 170,180 L 230,180 C 250,180 270,100 305,65 L 335,95 C 300,130 270,180 260,200 C 270,220 300,270 335,305 L 305,335 C 270,300 250,220 230,220 L 170,220 C 150,220 130,300 95,335 L 65,305 C 100,270 130,220 140,200 C 130,180 100,130 65,95 Z;
+                   M 95,65 C 130,100 150,180 170,180 L 230,180 C 250,180 270,100 305,65 L 335,95 C 300,130 270,180 260,200 C 270,220 300,270 335,305 L 305,335 C 270,300 250,220 230,220 L 170,220 C 150,220 130,300 95,335 L 65,305 C 100,270 130,220 140,200 C 130,180 100,130 65,95 Z;
+                   M 80,80 C 110,120 140,160 170,200 L 230,200 C 260,160 290,120 320,80 L 320,80 C 290,120 260,160 230,200 C 260,240 290,280 320,320 L 320,320 C 290,280 260,240 230,200 L 170,200 C 140,240 110,280 80,320 L 80,320 C 110,280 140,240 170,200 C 140,160 110,120 80,80 Z;
+                   M 80,80 C 110,120 140,160 170,200 L 230,200 C 260,160 290,120 320,80 L 320,80 C 290,120 260,160 230,200 C 260,240 290,280 320,320 L 320,320 C 290,280 260,240 230,200 L 170,200 C 140,240 110,280 80,320 L 80,320 C 110,280 140,240 170,200 C 140,160 110,120 80,80 Z;
+                   M 95,65 C 130,100 150,180 170,180 L 230,180 C 250,180 270,100 305,65 L 335,95 C 300,130 270,180 260,200 C 270,220 300,270 335,305 L 305,335 C 270,300 250,220 230,220 L 170,220 C 150,220 130,300 95,335 L 65,305 C 100,270 130,220 140,200 C 130,180 100,130 65,95 Z;
+                   M 95,65 C 130,100 150,180 170,180 L 230,180 C 250,180 270,100 305,65 L 335,95 C 300,130 270,180 260,200 C 270,220 300,270 335,305 L 305,335 C 270,300 250,220 230,220 L 170,220 C 150,220 130,300 95,335 L 65,305 C 100,270 130,220 140,200 C 130,180 100,130 65,95 Z" />
+        
+        <animate attributeName="fill-opacity" dur="2.5s" repeatCount="indefinite"
+                 keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1"
+                 values="1; 1; 0; 0; 1; 1" />
+                 
+        <animate attributeName="stroke-width" dur="2.5s" repeatCount="indefinite"
+                 keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1"
+                 values="1.5; 1.5; 3.5; 3.5; 1.5; 1.5" />
+                 
+        <animate attributeName="stroke" dur="2.5s" repeatCount="indefinite"
+                 keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1"
+                 values="#4ea12b; #4ea12b; #75cf4e; #75cf4e; #4ea12b; #4ea12b" />
+      </path>
+
+      <!-- 
+        Hollow End Caps for the open strings. 
+        These scale perfectly to zero when becoming a particle limit.
+      -->
+      <!-- Top-Left String End -->
+      <ellipse cx="80" cy="80" rx="21.2" ry="8" transform="rotate(-45 80 80)" fill="#1a450b" stroke="#4ea12b" stroke-width="1.5">
+        <animate attributeName="rx" dur="2.5s" repeatCount="indefinite" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="21.2; 21.2; 0; 0; 21.2; 21.2" />
+        <animate attributeName="ry" dur="2.5s" repeatCount="indefinite" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="8; 8; 0; 0; 8; 8" />
+        <animate attributeName="stroke-width" dur="2.5s" repeatCount="indefinite" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="1.5; 1.5; 0; 0; 1.5; 1.5" />
+      </ellipse>
+
+      <!-- Top-Right String End -->
+      <ellipse cx="320" cy="80" rx="21.2" ry="8" transform="rotate(45 320 80)" fill="#1a450b" stroke="#4ea12b" stroke-width="1.5">
+        <animate attributeName="rx" dur="2.5s" repeatCount="indefinite" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="21.2; 21.2; 0; 0; 21.2; 21.2" />
+        <animate attributeName="ry" dur="2.5s" repeatCount="indefinite" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="8; 8; 0; 0; 8; 8" />
+        <animate attributeName="stroke-width" dur="2.5s" repeatCount="indefinite" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="1.5; 1.5; 0; 0; 1.5; 1.5" />
+      </ellipse>
+
+      <!-- Bottom-Right String End -->
+      <ellipse cx="320" cy="320" rx="21.2" ry="8" transform="rotate(-45 320 320)" fill="#1a450b" stroke="#4ea12b" stroke-width="1.5">
+        <animate attributeName="rx" dur="2.5s" repeatCount="indefinite" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="21.2; 21.2; 0; 0; 21.2; 21.2" />
+        <animate attributeName="ry" dur="2.5s" repeatCount="indefinite" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="8; 8; 0; 0; 8; 8" />
+        <animate attributeName="stroke-width" dur="2.5s" repeatCount="indefinite" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="1.5; 1.5; 0; 0; 1.5; 1.5" />
+      </ellipse>
+
+      <!-- Bottom-Left String End -->
+      <ellipse cx="80" cy="320" rx="21.2" ry="8" transform="rotate(45 80 320)" fill="#1a450b" stroke="#4ea12b" stroke-width="1.5">
+        <animate attributeName="rx" dur="2.5s" repeatCount="indefinite" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="21.2; 21.2; 0; 0; 21.2; 21.2" />
+        <animate attributeName="ry" dur="2.5s" repeatCount="indefinite" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="8; 8; 0; 0; 8; 8" />
+        <animate attributeName="stroke-width" dur="2.5s" repeatCount="indefinite" keyTimes="0; 0.2; 0.4; 0.6; 0.8; 1" values="1.5; 1.5; 0; 0; 1.5; 1.5" />
+      </ellipse>
+    </g>
+
+    <!-- KSR Brand Text -->
+    <text x="200" y="440" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="115" fill="#75cf4e" text-anchor="middle" letter-spacing="8">KSR</text>
+
+  </g>
+</svg>

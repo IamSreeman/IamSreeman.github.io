@@ -19,7 +19,6 @@ title: "K. Sreeman Reddy"
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: "A physics student"
 
-
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: "The main purpose of this site is to maintain some academic and non academic things related to me."
 
@@ -44,7 +43,7 @@ improve_content: https://github.com/iamsreeman/iamsreeman.github.io/issues
 urlimg: '/images/'
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "logo.svg"
 
 # !github-pages! mandatory › https://github.com/github/pages-gem/blob/jekyll-v3-4-2/lib/github-pages/plugins.rb#L19-L37
 # Also see https://github.com/github/pages-gem/issues/208
@@ -344,18 +343,8 @@ og_type:                            "website"
 #                      /____/                               
 #
 # Used › _includes/comments.html
-disqus_shortname: 
-# Giscus
-#giscus:
-#  repo:                "iamsreeman/iamsreeman.github.io"
-#  repo-id:             "MDEwOlJlcG9zaXRvcnkzNzQ2MTYxOTU="
-#  category:            "Comments"
-#  category-id:         "DIC_kwDOFlQwg84B-TtD"
-#  mapping:             "pathname"
-#  reaction-enabled:    "1"
-#  emit-metadata:       "0"
-#  theme:               "dark_dimmed"
-#  crossorigin:         "anonymous"
+disqus_shortname:
+
 # More › https://www.google.com/analytics/
 # Used › _includes/footer_scripts.html
 # google_analytics_tracking_id: UA-167407489-2
@@ -375,3 +364,15 @@ gist:
 # See local override for testing data
 github:
   - stuff
+
+# Giscus
+giscus:
+  repo:                "iamsreeman/iamsreeman.github.io"
+  repo-id:             "MDEwOlJlcG9zaXRvcnkzNzQ2MTYxOTU="
+  category:            "Comments"
+  category-id:         "DIC_kwDOFlQwg84B-TtD"
+  mapping:             "pathname"
+  reaction-enabled:    "1"
+  emit-metadata:       "0"
+  theme:               "dark_dimmed"
+  crossorigin:         "anonymous"

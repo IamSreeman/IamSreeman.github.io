@@ -22,9 +22,11 @@ Even in my PhD I am not donating as much as I would have wanted to because of my
 
 | Date       | Amount | Organization | Image | Details |
 |------------|--------|------|-------|------------------|
+| 2025-11-08 | ₹1,329.59=$15.00 | UNHCR Sudan fund | [2025-11-08-UNHCR]({{site.baseurl}}/images/other/charity/2025-11-08-AAA.pdf){:target="_blank"} | Sudanese civil war |
+| 2025-11-08 | ₹886.40=$10.00 | Arvind Animal Activist | [2025-11-08-AAA]({{site.baseurl}}/images/other/charity/2025-11-08-AAA.pdf){:target="_blank"} |  2nd month. |
 | 2025-10-08 | ₹1331.14=$15.00 | Allied Scholars | [2025-10-08-AS]({{site.baseurl}}/images/other/charity/2025-10-08-AS.pdf){:target="_blank"} | Almost all movements like women's rights, black rights, LGBT rights were 1st accepted by university students before the public. So, the 1st goal should be to persuade universities that animals have rights. |
 | 2025-10-08 | ₹887.43=$10.00 | Gaza Water | [2025-10-08-GW]({{site.baseurl}}/images/other/charity/2025-10-08-GW.pdf){:target="_blank"} | Maia Project: Bringing Clean Water to the Children of Palestine. Clean water became harder to obtain due to the disproportionate war. |
-| 2025-10-08 | ₹887.43=$10.00 | Arvind Animal Activist | [2025-10-08-AAA]({{site.baseurl}}/images/other/charity/2025-10-08-AAA.pdf){:target="_blank"} | Arvind's videos are how I heard the word "vegan" for the 1st time. He is the biggest contributor to veganism in the country with the most humans. The Animal Holocaust is murdering 80 billion land animals, 2 trillion fishes & 25 trillion crustaceans yearly. |
+| 2025-10-08 | ₹887.43=$10.00 | Arvind Animal Activist | [2025-10-08-AAA]({{site.baseurl}}/images/other/charity/2025-10-08-AAA.pdf){:target="_blank"} | Arvind's videos are how I heard the word "vegan" for the 1st time. He is the biggest vegan activist in the country with the most humans. The Animal Holocaust is murdering 80 billion land animals, 2 trillion fishes & 25 trillion crustaceans yearly due to human supremacist speciesism. |
 | 2025-10-08 | ₹1191.29=£10.00 | Khartoum Aid Kitchen | [2025-10-08-KAK]({{site.baseurl}}/images/other/charity/2025-10-08-KAK.pdf){:target="_blank"} | By [2025-01-18](https://web.archive.org/web/20250118191727/https://sudantribune.net/article296185/){:target="_blank"}, 522,000 children died from starvation alone caused by the Sudanese Civil War. But it got very little attention compared to Gaza/Ukraine/Syria, maybe due to [colourism](https://en.wikipedia.org/wiki/Discrimination_based_on_skin_tone){:target="_blank"}. |
 
 ##### Masters

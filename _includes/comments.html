@@ -1,16 +1,24 @@
 <h3 id="comments">{{ site.data.language.comments_headline }}</h3>
-<script src="https://giscus.app/client.js"
-        data-repo="iamsreeman/iamsreeman.github.io"
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzNzQ2MTYxOTU="
-        data-category="Comments"
-        data-category-id="DIC_kwDOFlQwg84B-TtD"
-        data-mapping="pathname"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="bottom"
-        data-theme="dark_dimmed"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
+<div id="giscus-container"></div>
+<script>
+        (function () {
+                var giscusTheme = localStorage.getItem('theme-toggled') ? 'light' : 'dark_dimmed';
+                var giscusScript = document.createElement('script');
+                giscusScript.src = "https://giscus.app/client.js";
+                giscusScript.setAttribute("data-repo", "iamsreeman/iamsreeman.github.io");
+                giscusScript.setAttribute("data-repo-id", "MDEwOlJlcG9zaXRvcnkzNzQ2MTYxOTU=");
+                giscusScript.setAttribute("data-category", "Comments");
+                giscusScript.setAttribute("data-category-id", "DIC_kwDOFlQwg84B-TtD");
+                giscusScript.setAttribute("data-mapping", "pathname");
+                giscusScript.setAttribute("data-reactions-enabled", "1");
+                giscusScript.setAttribute("data-emit-metadata", "1");
+                giscusScript.setAttribute("data-input-position", "bottom");
+                giscusScript.setAttribute("data-theme", giscusTheme);
+                giscusScript.setAttribute("data-lang", "en");
+                giscusScript.setAttribute("crossorigin", "anonymous");
+                giscusScript.async = true;
+                document.getElementById("giscus-container").appendChild(giscusScript);
+        })();
 </script>
-Please read my <a href="{{ site.baseurl }}/blog/comments#policy">comments policy</a>. There are also some <a href="{{ site.baseurl }}/blog/comments#tips">tips</a> given.
+Please read my <a href="{{ site.baseurl }}/blog/comments#policy">comments policy</a>. There are also some <a
+        href="{{ site.baseurl }}/blog/comments#tips">tips</a> given.

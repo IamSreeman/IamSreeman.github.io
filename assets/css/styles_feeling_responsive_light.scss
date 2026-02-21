@@ -55,3 +55,10 @@ $environment: '{{ jekyll.environment }}';
 @import "timeline.scss";
 {% include site-data_colors.scss %}
 
+// Override for post metadata to be a significantly thicker grey in the light theme
+#page-meta, #page-meta a {
+    color: $grey-11;
+}
+#page-meta a:hover {
+    color: $primary-color;
+}

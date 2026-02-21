@@ -9,12 +9,14 @@ image:
 script:
   foot: bookmarklet.js
 ---
-In this post, I will argue that no parent has the right to brainwash/indoctrinate their children into a religion, and it is the duty of the government to do everything to make sure that no child is brainwashed. When they become adult, then they can read all religions and believe in whatever nonsense they want, as everyone has the right to freedom of religion. But children must be protected as they are easy to brainwash. No parent has the right to damage the brains of children by impairing parts of their rational capacity.
+In this post, I will argue that no parent has the right to brainwash/indoctrinate their children into a religion, and it is the duty of the government & schools to do everything to make sure that no child is brainwashed. When they become adult, then they can read all religions and believe in whatever nonsense they want, as everyone has the right to freedom of religion. But children must be protected as they are easy to brainwash. No parent has the right to damage the brains of children by impairing parts of their rational capacity.
 <!--more-->
 
 Brainwashing children into religion should be constitutionally declared a crime that carries a week of arrest. If this right is adopted worldwide, all religions will disappear in a few generations. Religion is nothing but a cycle of stupidity due to hereditary brainwashing.
 
 If you are silent while billions of children are brainwashed, then you are complicit in the brainwashing, even if you are an atheist, unless you were silent due to draconian apostasy or blasphemy laws such as the death penalties in the Middle East, in which case your silence is justified.
+
+Childhood indoctrination (brainwashing) is like injecting viruses into the minds of children & parents must never do that.
 
 - [Introduction](#introduction)
 - [Responsibility of family](#responsibility-of-family)
@@ -67,6 +69,8 @@ Some parts of religious brainwashing seem to be permanent. For example, I am an 
 Government should be careful when it is creating textbooks for children. They should not add religious or mythological things which not only don't have evidence for but also have large evidence against their credibility. Government should also add a chapter in children's curriculum which explains to them that they should not blindly believe everything they hear from their parents and others and instead they should question everything logically. If instead they are forced by the government to learn by heart some dogmatic things to get marks in exams they might unknowingly believe them as true.
 
 Government should consider the **Right to be not brainwashed** as a basic human right and it should change the education system such that even the people who were brainwashed by their family will become normal.
+
+Secularism thinks parents have the right to brainwash their children as long as they are keeping religion private matters inside their house, which is why Secularism is evil & must be replaced with State Atheism.
 
 ### Example of government's failure in my childhood
 
