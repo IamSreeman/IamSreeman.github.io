@@ -21,6 +21,6 @@ function theme_toggle() {
   giscus_theme_set(isToggled);
 }
 
-var currentToggle = localStorage.getItem('theme-toggled');
+var currentToggle = localStorage.getItem('theme-toggled') === '1';
 theme_set(currentToggle);
 giscus_theme_set(currentToggle);
